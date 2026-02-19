@@ -248,8 +248,8 @@ GEO (≥2):
 • MEM–ROME–GEO–MEDITERRANEAN–SEA — sea control Constantinople retained
 
 Cross-civilizational:
-• MEM–GERMANIA–HOLY–ROMAN–EMPIRE — HRE as Carolingian successor fragment
-• MEM–FRANCIA–CHARLEMAGNE — Frankish perspective on same events
+• MEM–GERMANY–HOLY–ROMAN–EMPIRE — HRE as Carolingian successor fragment
+• MEM–FRANCE–CHARLEMAGNE — Frankish perspective on same events
 
 ────────────────────────────────────────────────────────────
 X. SCHOLAR CONSTRAINTS (RLLs)

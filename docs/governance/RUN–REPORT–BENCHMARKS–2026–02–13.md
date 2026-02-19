@@ -53,7 +53,7 @@ IV. RETRIEVAL & COVERAGE
 
 | Benchmark | Result | Target | Status |
 |-----------|--------|--------|--------|
-| RELEVANCE_INDEX_EXISTS | 3 civs have MEM–RELEVANCE: AMERICA, GERMANIA (MEM–RELEVANCE–GERMANY), RUSSIA | 100% active civs | PARTIAL (3 have it; not all civs with MEMs have index) |
+| RELEVANCE_INDEX_EXISTS | 3 civs have MEM–RELEVANCE: AMERICA, GERMANY (MEM–RELEVANCE–GERMANY), RUSSIA | 100% active civs | PARTIAL (3 have it; not all civs with MEMs have index) |
 | MEM_IN_RELEVANCE (AMERICA) | MEM–RELEVANCE–AMERICA lists MEM–AMERICA–* 158 times across dimensions; 91 MEMs total | ≥95% MEMs listed | Likely PASS (158 refs for 91 MEMs ⇒ full or near-full) |
 
 ────────────────────────────────────────────────────────────
@@ -79,7 +79,7 @@ VI. SUMMARY
 | Retrieval | 2 | 1 | 1 (relevance index not all civs) | 0 |
 
 **Recommendations:**
-1. Add MEM–RELEVANCE for remaining STATE-active or MEM-heavy civilizations (e.g. FRANCIA, ANGLIA, ROME) to improve RELEVANCE_INDEX_EXISTS.
+1. Add MEM–RELEVANCE for remaining STATE-active or MEM-heavy civilizations (e.g. FRANCE, ANGLIA, ROME) to improve RELEVANCE_INDEX_EXISTS.
 2. Continue typing MEM CONNECTIONS in new MEMs and in upgrades; track % of MEMs with typed connections over time.
 3. Run verbatim % and section-count checks in a future pass (script or batch audit).
 4. Run a live-session audit (or parse saved logs) for options menu, voice markers, and MEM SCAN compliance.

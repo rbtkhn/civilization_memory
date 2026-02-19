@@ -310,7 +310,7 @@ When a source appears in multiple civilization ARCs:
 Mercouris transcripts cited in:
 ├── CIV–ARC–RUSSIA (34 citations)
 ├── CIV–ARC–ANGLIA (12 citations)
-└── CIV–ARC–GERMANIA (8 citations)
+└── CIV–ARC–GERMANY (8 citations)
 
 → Flag as CROSS-CIVILIZATIONAL source
 → Consider elevation to system-wide ANALYST–CANON

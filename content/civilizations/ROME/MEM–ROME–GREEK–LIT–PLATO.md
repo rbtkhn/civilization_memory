@@ -330,8 +330,8 @@ GEO (≥2):
 • MEM–ROME–EGYPT — Alexandria as Platonic center
 
 Cross-civilizational (≥2):
-• MEM–GERMANIA–KANT — moral law abstracted from politics
-• MEM–FRANCIA–REVOLUTION — virtue weaponized; Platonic echoes
+• MEM–GERMANY–KANT — moral law abstracted from politics
+• MEM–FRANCE–REVOLUTION — virtue weaponized; Platonic echoes
 
 ────────────────────────────────────────────────────────────
 XII. SCHOLAR CONSTRAINTS (RLLs)
@@ -382,7 +382,7 @@ D) Mearsheimer sharpening — structural dangers of idealism
 E) Absorption through distance (ethics without politics)
 F) Plato and later Roman thought (Neoplatonism, Augustine)
 G) Compare to MEM–ROME–GREEK–LIT–SOCRATES (teacher/student)
-H) Compare to MEM–FRANCIA–REVOLUTION (virtue weaponized)
+H) Compare to MEM–FRANCE–REVOLUTION (virtue weaponized)
 I) Compliance & integrity audit (v2.0)
 
 User selects ONE option only.

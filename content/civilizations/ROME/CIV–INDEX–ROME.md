@@ -416,7 +416,7 @@ No parity enforcement is performed at the index level.
 Structural Parity Status:
 • CIV–INDEX–RUSSIA v2.x: ALIGNED (category structure matched)
 • CIV–INDEX–ANGLIA: PENDING ALIGNMENT
-• CIV–INDEX–FRANCIA: PENDING ALIGNMENT
+• CIV–INDEX–FRANCE: PENDING ALIGNMENT
 
 ────────────────────────────────────────────────────────────
 VII. CANONICAL LOCK NOTICE

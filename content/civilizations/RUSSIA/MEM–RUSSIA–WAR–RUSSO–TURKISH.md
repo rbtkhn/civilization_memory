@@ -180,7 +180,7 @@ GEO–MEM (REQUIRED) — ≥2 required:
 Cross-Civilizational:
 • MEM–OTTOMAN–WAR–RUSSO–TURKISH — opposing perspective
 • MEM–ANGLIA–EASTERN–QUESTION — diplomatic intervention context
-• MEM–FRANCIA–CRIMEAN–WAR — coalition opposition
+• MEM–FRANCE–CRIMEAN–WAR — coalition opposition
 
 ────────────────────────────────────────────────────────────
 CONCEPTS (SEMANTIC INDEX)

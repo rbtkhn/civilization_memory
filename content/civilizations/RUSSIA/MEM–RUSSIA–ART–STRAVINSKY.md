@@ -225,7 +225,7 @@ GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–STEPPE — imagined landscape of primitivism
 
 Cross-civilizational:
-• MEM–FRANCIA–PARIS — Ballets Russes base, premiere venue
+• MEM–FRANCE–PARIS — Ballets Russes base, premiere venue
 • MEM–AMERICA–MUSIC — final home, American absorption
 
 ────────────────────────────────────────────────────────────

@@ -199,7 +199,7 @@ Belief Status:
 
 ENTRY 0004
 Source:
-• Research: Will Durant (1885–1981) — Our Oriental Heritage (1935), The Case for India (1930); Wikiquote; VERSION–MANIFEST (Durant in ARC–ANGLIA, ARC–ISLAM, ARC–FRANCIA, ARC–GERMANIA)
+• Research: Will Durant (1885–1981) — Our Oriental Heritage (1935), The Case for India (1930); Wikiquote; VERSION–MANIFEST (Durant in ARC–ANGLIA, ARC–ISLAM, ARC–FRANCE, ARC–GERMANY)
 Ingest Type:
 • Research — Verbatim references for India MEM enhancement
 Primary Belief Extracted:
@@ -332,7 +332,7 @@ Note: MEM–INDIA–REPUBLIC–NEHRU enhanced with verbatim Mearsheimer "nation-
 ────────────────────────────────────────────────────────────
 ENTRY 0014
 ────────────────────────────────────────────────────────────
-Source: SCHOLAR LEARN session (structural opposition vs structural ambivalence; legitimacy stories; liability when story fails; 10th–15th c. examples; India focus Delhi Sultanate–Chagatai; Persia contrast; modern India/China and liberal order). MEMs: MEM–INDIA–DELHI–SULTANATE, MEM–INDIA–MONGOL–CHAGATAI, MEM–PERSIA–MONGOL–EMPIRE, MEM–INDIA–REPUBLIC–MODI, MEM–GERMANIA–HUNGARY, MEM–ISLAM–WAR–AYN–JALUT, MEM–RUSSIA–ALEXANDER–NEVSKY.
+Source: SCHOLAR LEARN session (structural opposition vs structural ambivalence; legitimacy stories; liability when story fails; 10th–15th c. examples; India focus Delhi Sultanate–Chagatai; Persia contrast; modern India/China and liberal order). MEMs: MEM–INDIA–DELHI–SULTANATE, MEM–INDIA–MONGOL–CHAGATAI, MEM–PERSIA–MONGOL–EMPIRE, MEM–INDIA–REPUBLIC–MODI, MEM–GERMANY–HUNGARY, MEM–ISLAM–WAR–AYN–JALUT, MEM–RUSSIA–ALEXANDER–NEVSKY.
 Ingest Type: Learned pattern — structural ambivalence and deflection as India-relevant; cross-period (medieval and modern)
 Primary Belief Extracted:
 • **Structural opposition** = incentive to replace or halt the order; **structural ambivalence** = use when useful, resist when pressed; no stake in preserving the order. Legitimacy stories express/reinforce; liability when story fails splits by regime type (institutional vs personal/elite).

@@ -189,8 +189,8 @@ ROME:
 
 OTHER CIVILIZATIONS:
 • MEM–GREEK–TRAGEDY–AESCHYLUS — fate and moral cost
-• MEM–FRANCIA–NAPOLEON — glory overwhelming restraint
-• MEM–GERMANIA–NIBELUNGENLIED — heroic excess and collapse
+• MEM–FRANCE–NAPOLEON — glory overwhelming restraint
+• MEM–GERMANY–NIBELUNGENLIED — heroic excess and collapse
 
 ────────────────────────────────────────────────────────────
 XI. CONTINUITY INSIGHTS (RAW)

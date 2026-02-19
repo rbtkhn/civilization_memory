@@ -77,7 +77,7 @@ Based on the repository structure and the system prompt requirements, files appe
 - Jan 16, 2026: Deletion of MEM–ROME–HIST–MOMMSEN.md
 - Jan 14, 2026: Update to CIV–MEM–CORE.md
 - Jan 10, 2026: Update to CIV–CORE–ANGLIA.md
-- Jan 9, 2026: Updates to FRANCIA, GERMANIA files
+- Jan 9, 2026: Updates to FRANCE, GERMANY files
 
 ---
 

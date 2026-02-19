@@ -223,8 +223,8 @@ GEO (required):
 • MEM–RUSSIA–GEO–OKA — military–logistical axis
 
 Cross-civilizational:
-• MEM–FRANCIA–ADMIN–REFORM — rationalization under monarchy
-• MEM–GERMANIA–PRUSSIAN–SERVICE — service state comparison
+• MEM–FRANCE–ADMIN–REFORM — rationalization under monarchy
+• MEM–GERMANY–PRUSSIAN–SERVICE — service state comparison
 • MEM–CHINA–LATE–MING–REFORM — reform-before-collapse case
 
 ────────────────────────────────────────────────────────────

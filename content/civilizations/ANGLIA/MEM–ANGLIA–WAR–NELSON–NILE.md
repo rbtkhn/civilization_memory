@@ -135,9 +135,9 @@ ANGLIA:
 • MEM–ANGLIA–GEO–MEDITERRANEAN–SEA — Theater of engagement
 
 Cross-Civilizational:
-• MEM–FRANCIA–NAPOLEON — French expedition, trapped army
-• MEM–FRANCIA–WAR–NAVY — French fleet destroyed
-• MEM–FRANCIA–WAR–TRAFALGAR — Villeneuve escapes Nile; commands at Trafalgar
+• MEM–FRANCE–NAPOLEON — French expedition, trapped army
+• MEM–FRANCE–WAR–NAVY — French fleet destroyed
+• MEM–FRANCE–WAR–TRAFALGAR — Villeneuve escapes Nile; commands at Trafalgar
 
 ────────────────────────────────────────────────────────────
 IX. CONTINUITY INSIGHTS (RAW)

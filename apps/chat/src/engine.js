@@ -95,8 +95,23 @@ async function run(platform, userId, message) {
   let entity = sess.entity;
   let mode = sess.mode || 'STATE';
 
-  // Greeting: "hi", "hello", etc. — ask which mode (multiple choice), no LLM
-  if (typeof message === 'string' && isGreeting(message)) {
+  // Help and /start: fixed message, no LLM; one button to start
+  if (typeof message === 'string') {
+    const t = message.trim().toLowerCase();
+    if (t === '/start' || t === 'help') {
+      const helpOptions = [{ letter: 'A', id: '__start', label: 'Start — choose mode and entity' }];
+      return {
+        text: 'This is the CIV–MEM bot. Send "hi" to choose mode (STATE or SCHOLAR) and entity, then e.g. "Russia update" or "Learn about Russia". Tap the buttons for options.',
+        options: helpOptions,
+        entity,
+        mode,
+      };
+    }
+  }
+
+  // Greeting: "hi", "hello", or tap Start — ask which mode (multiple choice), no LLM
+  if (typeof message === 'string' && (isGreeting(message) || message.trim() === '__start')) {
+    session.set(platform, userId, { awaitingModeChoice: true });
     return {
       text: 'Which mode do you want to use?',
       options: MODE_CHOICE_OPTIONS,
@@ -106,10 +121,26 @@ async function run(platform, userId, message) {
     };
   }
 
+  // After "Which mode?": treat single letter A/B as mode choice (fixes typing "b" for SCHOLAR)
+  if (sess.awaitingModeChoice && typeof message === 'string') {
+    const t = message.trim().toLowerCase();
+    if (t === 'a' || t === 'b') {
+      const newMode = t === 'a' ? 'STATE' : 'SCHOLAR';
+      session.set(platform, userId, { awaitingModeChoice: false, mode: newMode });
+      return {
+        text: 'Which entity do you want to focus on?',
+        options: getEntityChoiceOptions(),
+        entityChoice: true,
+        entity,
+        mode: newMode,
+      };
+    }
+  }
+
   // Internal: user chose mode from buttons — ask which entity (multiple choice)
   if (typeof message === 'string' && (message === '__mode:STATE' || message === '__mode:SCHOLAR')) {
     mode = message === '__mode:STATE' ? 'STATE' : 'SCHOLAR';
-    session.set(platform, userId, { mode });
+    session.set(platform, userId, { awaitingModeChoice: false, mode });
     return {
       text: 'Which entity do you want to focus on?',
       options: getEntityChoiceOptions(),
@@ -187,6 +218,23 @@ async function run(platform, userId, message) {
       entity: sess.entity,
       mode,
     };
+  }
+
+  // Chat mode: option C "Switch entity / New topic" → show entity picker (no LLM)
+  if (isChatMode() && typeof message === 'string') {
+    const trimmed = message.trim().toLowerCase();
+    if (trimmed === 'c' && sess.lastOptions && sess.lastOptions[2]) {
+      const labelC = (sess.lastOptions[2].label || '').toLowerCase();
+      if (/switch entity|new topic/.test(labelC)) {
+        return {
+          text: 'Which entity do you want to switch to?',
+          options: getEntityChoiceOptions(),
+          entityChoice: true,
+          entity,
+          mode,
+        };
+      }
+    }
   }
 
   const inferredEntity = session.inferEntityFromMessage(message);

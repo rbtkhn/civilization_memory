@@ -215,9 +215,9 @@ GEO MEMs (≥2):
 • MEM–RUSSIA–GEO–BLACK–SEA — Byzantine projection and trade routes
 
 Cross-civilization connections:
-• MEM–GERMANIA–CHARLEMAGNE — coercive unification
+• MEM–GERMANY–CHARLEMAGNE — coercive unification
 • MEM–CHINA–QIN–SHI–HUANG — expansion before doctrine
-• MEM–FRANCIA–EARLY–CAPETIAN — weak institutions, dynastic glue
+• MEM–FRANCE–EARLY–CAPETIAN — weak institutions, dynastic glue
 
 These connections illustrate convergent patterns of coercive formation
 under institutional scarcity.

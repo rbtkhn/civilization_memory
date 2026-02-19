@@ -198,7 +198,7 @@ GEO–MEM:
 • MEM–ANGLIA–GEO–MEDITERRANEAN–SEA — crusade theatre; Richard’s fame from Acre to the sea.
 
 Cross-Civilizational:
-6) MEM–FRANCIA–CRUSADES  
+6) MEM–FRANCE–CRUSADES  
    — shared chivalric culture without institutional convergence.
 7) MEM–ROMAN–IMPERIAL–HERO–GENERALS  
    — contrast between personal glory and administrative endurance.

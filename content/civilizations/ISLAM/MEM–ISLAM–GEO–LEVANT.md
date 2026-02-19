@@ -206,7 +206,7 @@ Breaks if removed:
 • CIV–CORE–ISLAM § IV (Jerusalem, Gaza, Levantine corridor) — This MEM grounds those references.
 
 Cross-civilization (connector pair): MEM–ROME–GEO–LEVANT — Rome's encoding: corridor paradox, connection without consolidation, transmission without absorption; same region, different valence (Islam = sacred-zone corridor, legitimacy fulcrum, Jerusalem/Al-Aqsa). Connector pair per CONCEPT–ROME–ISLAM–DOUBLE–HELIX IV-A.
-• MEM–FRANCIA–* / MEM–GERMANIA–* — Crusades encoding from Christian perspective
+• MEM–FRANCE–* / MEM–GERMANY–* — Crusades encoding from Christian perspective
 
 ────────────────────────────────────────────────────────────
 X. CONTINUITY INSIGHTS (RAW)

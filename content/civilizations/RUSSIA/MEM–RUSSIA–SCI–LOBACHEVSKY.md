@@ -149,9 +149,9 @@ GEO MEMs (≥2):
 • MEM–RUSSIA–GEO–CRIMEA — contemporary war; Nicholas I
 
 Cross-civilizational:
-• MEM–GERMANIA–SCI–PLANCK — reluctant revolutionary; discovery while conserving
-• MEM–GERMANIA–SCI–EINSTEIN — margins (patent clerk); rupture from outside centre
-• MEM–GERMANIA–SCI–GAUSS — correspondent; had similar ideas; did not endorse publicly
+• MEM–GERMANY–SCI–PLANCK — reluctant revolutionary; discovery while conserving
+• MEM–GERMANY–SCI–EINSTEIN — margins (patent clerk); rupture from outside centre
+• MEM–GERMANY–SCI–GAUSS — correspondent; had similar ideas; did not endorse publicly
 
 ────────────────────────────────────────────────────────────
 VIII. CONCEPTS (SEMANTIC INDEX)

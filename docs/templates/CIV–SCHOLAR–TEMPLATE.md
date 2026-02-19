@@ -640,7 +640,7 @@ QUANTIFICATION FORMAT:
 
 EXAMPLE:
   Rhine-sector defensive density: 4 div/100km (sustainable baseline)
-  Evidence: MEM–GERMANIA–GEO–RHINE, Franco-Prussian War, 1914 deployment
+  Evidence: MEM–GERMANY–GEO–RHINE, Franco-Prussian War, 1914 deployment
   Uncertainty: MEDIUM (terrain-dependent variation)
   Frame: MEARSHEIMER
 

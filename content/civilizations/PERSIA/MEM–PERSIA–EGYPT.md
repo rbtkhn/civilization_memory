@@ -163,7 +163,7 @@ GEO (≥2):
 
 Cross-civilization:
 • MEM–ROME–SYRIA — Levant corridor to Egypt
-• MEM–FRANCIA–EGYPT — Napoleon's Egypt (different civilizational encounter)
+• MEM–FRANCE–EGYPT — Napoleon's Egypt (different civilizational encounter)
 
 Breaks if removed: MEM–PERSIA–ACHAEMENID–CYRUS–II (Cambyses); MEM–PERSIA–ACHAEMENID–DYNASTY (satrapy context).
 

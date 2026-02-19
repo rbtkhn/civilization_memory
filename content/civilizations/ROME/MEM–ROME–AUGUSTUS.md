@@ -199,9 +199,9 @@ ROME:
   and the transition from personal to institutional principate.
 
 NON-ROME:
-• MEM–FRANCIA–NAPOLEON
+• MEM–FRANCE–NAPOLEON
 • MEM–ANGLIA–GLORIOUS–REVOLUTION
-• MEM–GERMANIA–BISMARCK
+• MEM–GERMANY–BISMARCK
 
 ────────────────────────────────────────────────────────────
 X. CONTINUITY INSIGHTS (RAW)

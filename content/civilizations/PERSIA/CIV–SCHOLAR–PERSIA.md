@@ -152,7 +152,7 @@ XVI. INGESTED LEARNING EVENTS (CHRONOLOGICAL)
 
 ENTRY 0001
 Source:
-• Repository-wide grep; MEM–ANGLIA–*, MEM–FRANCIA–*, MEM–GERMANIA–*, MEM–ROME–*, CIV–SCHOLAR–ISLAM (ENTRY 0011)
+• Repository-wide grep; MEM–ANGLIA–*, MEM–FRANCE–*, MEM–GERMANY–*, MEM–ROME–*, CIV–SCHOLAR–ISLAM (ENTRY 0011)
 Ingest Type:
 • Cross-Repository Corpus — John Keegan Verbatim Quotes
 Primary Belief Extracted:

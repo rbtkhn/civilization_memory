@@ -230,7 +230,7 @@ ROME:
 
 NON-ROME:
 • MEM–LOMBARD–KINGDOM — conquerors who ended the Exarchate
-• MEM–FRANCIA–CHARLEMAGNE — beneficiary of Ravenna's fall
+• MEM–FRANCE–CHARLEMAGNE — beneficiary of Ravenna's fall
 
 ────────────────────────────────────────────────────────────
 XII. CONTINUITY INSIGHTS (RAW)

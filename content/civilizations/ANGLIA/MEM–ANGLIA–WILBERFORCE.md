@@ -181,7 +181,7 @@ ANGLIA:
 • MEM–ANGLIA–PITT–YOUNGER — Political ally; Pitt supports abolition (eventually).
 
 Cross-Civilizational:
-• MEM–FRANCIA– (as applicable)—Francia abolishes slavery 1794 (Revolution), reinstates 1802 (Napoleon), abolishes again 1848. Contrast procedural vs. revolutionary abolition.
+• MEM–FRANCE– (as applicable)—Francia abolishes slavery 1794 (Revolution), reinstates 1802 (Napoleon), abolishes again 1848. Contrast procedural vs. revolutionary abolition.
 
 ────────────────────────────────────────────────────────────
 XI. BIBLIOGRAPHY

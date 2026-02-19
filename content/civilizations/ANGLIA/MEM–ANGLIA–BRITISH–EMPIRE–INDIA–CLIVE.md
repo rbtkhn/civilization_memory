@@ -98,7 +98,7 @@ ANGLIA:
 • MEM–ANGLIA–DYNASTY–HANOVER — Empire under Hanover; Company and Parliament
 
 Cross-Civilizational:
-• MEM–FRANCIA–WAR–SEVEN–YEARS — French defeat in India; Dupleix eclipsed by Clive
+• MEM–FRANCE–WAR–SEVEN–YEARS — French defeat in India; Dupleix eclipsed by Clive
 
 ────────────────────────────────────────────────────────────
 VII. CONTINUITY INSIGHTS (RAW)

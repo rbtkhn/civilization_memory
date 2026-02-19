@@ -369,7 +369,7 @@ GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–CAUCASUS — mountain campaign experience
 
 Cross-civilizational:
-• MEM–FRANCIA–REVOLUTION — campaigns against Revolutionary France
+• MEM–FRANCE–REVOLUTION — campaigns against Revolutionary France
 • MEM–OTTOMAN–EMPIRE — primary strategic adversary
 • MEM–PRUSSIA–MILITARY — contrast with Prussian parade-ground doctrine
 

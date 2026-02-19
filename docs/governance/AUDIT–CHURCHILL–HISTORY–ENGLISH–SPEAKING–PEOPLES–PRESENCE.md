@@ -13,7 +13,7 @@
 | **ARC registration** | ANGLIA ✓ (Churchill listed with *A History of the English-Speaking Peoples*) |
 | **Explicit title citations** | 2 MEMs cite the title; 1 attribution error (Roberts wrongly cited as author of this book) |
 | **Churchill (any work) in Anglia MEMs** | 15+ MEMs reference Churchill; most do not cite *History of the English-Speaking Peoples* by title |
-| **Other civilizations** | Churchill cited in FRANCIA, GERMANIA, RUSSIA — *The Second World War*, *The World Crisis*, speeches; not *History of the English-Speaking Peoples* |
+| **Other civilizations** | Churchill cited in FRANCE, GERMANY, RUSSIA — *The Second World War*, *The World Crisis*, speeches; not *History of the English-Speaking Peoples* |
 
 **Summary:** Churchill is correctly registered in CIV–ARC–ANGLIA with *A History of the English-Speaking Peoples*. The work is **explicitly cited by title** in MEM–ANGLIA–BRITISH–EMPIRE (once correctly, once with an **attribution error**) and MEM–ANGLIA–VICTORIA (correctly, with verbatim quote). **Error:** MEM–ANGLIA–BRITISH–EMPIRE line 175 attributes a quote to "(*Roberts,* *The History of the English-Speaking Peoples*)"; *A History of the English-Speaking Peoples* is Churchill’s work, not Andrew Roberts’s. Roberts’s relevant titles are *Churchill: Walking with Destiny*, *The Storm of War*, etc. **Recommendation:** Correct the Roberts citation in MEM–ANGLIA–BRITISH–EMPIRE to the appropriate Roberts title. **DONE:** Citation changed to *Andrew Roberts, Churchill: Walking with Destiny* (2026-01-30).
 
@@ -25,7 +25,7 @@
 |--------------|----------|------------------------------------------------------|
 | ANGLIA | CIV–ARC–ANGLIA | ✓ Winston Churchill (1874) — The Second World War; **A History of the English-Speaking Peoples**; The World Crisis |
 
-No other civilization’s ARC lists *History of the English-Speaking Peoples*; Churchill appears in FRANCIA/GERMANIA/RUSSIA MEMs via *The Second World War*, *The World Crisis*, or speeches.
+No other civilization’s ARC lists *History of the English-Speaking Peoples*; Churchill appears in FRANCE/GERMANY/RUSSIA MEMs via *The Second World War*, *The World Crisis*, or speeches.
 
 ---
 
@@ -66,11 +66,11 @@ These MEMs refer to Churchill in a way that could be drawing on *History of the 
 
 | Civilization | MEMs | Churchill work(s) cited |
 |--------------|------|--------------------------|
-| FRANCIA | MEM–FRANCIA–GEO–MEUSE–RIVER | *The Second World War* |
-| GERMANIA | MEM–GERMANIA–ENGLAND, MEM–GERMANIA–WAR–TIRPITZ, MEM–GERMANIA–GEO–NORTH–SEA, MEM–GERMANIA–GEO–ATLANTIC–OCEAN, MEM–GERMANIA–GEO–ODER–RIVER, MEM–GERMANIA–SLAVS, MEM–GERMANIA–AACHEN | *The World Crisis*, House of Commons speeches, *The Second World War* (1940) |
+| FRANCE | MEM–FRANCE–GEO–MEUSE–RIVER | *The Second World War* |
+| GERMANY | MEM–GERMANY–ENGLAND, MEM–GERMANY–WAR–TIRPITZ, MEM–GERMANY–GEO–NORTH–SEA, MEM–GERMANY–GEO–ATLANTIC–OCEAN, MEM–GERMANY–GEO–ODER–RIVER, MEM–GERMANY–SLAVS, MEM–GERMANY–AACHEN | *The World Crisis*, House of Commons speeches, *The Second World War* (1940) |
 | RUSSIA | MEM–RUSSIA–WAR–GREAT–PATRIOTIC–YALTA, MEM–RUSSIA–WAR–GREAT–PATRIOTIC–TEHRAN | Churchill as actor; Feis *Churchill, Roosevelt, Stalin*; Miner *Between Churchill and Stalin* |
 
-No false positives: “English People” in GERMANIA MEMs refers to Bede’s *Ecclesiastical History of the English People* (731), not Churchill.
+No false positives: “English People” in GERMANY MEMs refers to Bede’s *Ecclesiastical History of the English People* (731), not Churchill.
 
 ---
 
@@ -104,7 +104,7 @@ Some MEMs use “*History of the English-Speaking Peoples*” or “*A History o
 | MEM–ANGLIA–BRITISH–EMPIRE (second citation) | Was Roberts + wrong title; fixed to Roberts *Churchill: Walking with Destiny* | ✓ Fixed |
 | MEM–ANGLIA–VICTORIA | Verbatim quote, Churchill, correct title | ✓ |
 | Other Anglia MEMs | Churchill referenced, title not cited | Optional hardening |
-| FRANCIA / GERMANIA / RUSSIA | Churchill cited; other works, not this title | N/A |
+| FRANCE / GERMANY / RUSSIA | Churchill cited; other works, not this title | N/A |
 
 ---
 

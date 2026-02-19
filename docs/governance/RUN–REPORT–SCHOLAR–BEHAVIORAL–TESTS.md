@@ -2,7 +2,7 @@
 
 **Date:** January 2026  
 **Tests run:** T2, T4, T7, T12  
-**Source:** TEST–DESIGN–SCHOLAR–FRANCE–GERMANIA–BEHAVIORAL–PROBES.md  
+**Source:** TEST–DESIGN–SCHOLAR–FRANCE–GERMANY–BEHAVIORAL–PROBES.md  
 **Mode:** LEARN (simulated per-Scholar response using CIV–SCHOLAR–FRANCE v2.0 and CIV–SCHOLAR–GERMANY v2.12)
 
 ---
@@ -15,7 +15,7 @@
 
 **Response (Francia LEARN, Mercouris primary):**
 
-SCHOLAR–FRANCE encodes the outcome of the Seven Years’ War (1763) for Francia as a **failure of demonstration**: the Crown could no longer demonstrate that it could back its universal claim with material and fiscal capacity. The war produced fiscal exhaustion, prestige collapse, and elite disillusionment (ENTRY 0006, SYNTHESIS 0003). Crucially, **1763 marks an interval**—demonstration had already failed, but the successor’s performative declaration (“the state is preserved”) was not yet possible (SYNTHESIS 0008, RLL–FRANCIA–0013 candidate). The civilizational grammar (declarative legitimacy, Reset-as-Renewal) did not supply an Anglia-style “replace rulers before systems” path; when demonstration failed, the grammar inclined toward **rupture and successor-declaration**. So for Francia, 1763 is the diagnostic that makes **1789 thinkable**—same war, opposite structural outcome from Prussia, which passed the endurance stress test (cross-civ SYNTHESIS 0008).
+SCHOLAR–FRANCE encodes the outcome of the Seven Years’ War (1763) for Francia as a **failure of demonstration**: the Crown could no longer demonstrate that it could back its universal claim with material and fiscal capacity. The war produced fiscal exhaustion, prestige collapse, and elite disillusionment (ENTRY 0006, SYNTHESIS 0003). Crucially, **1763 marks an interval**—demonstration had already failed, but the successor’s performative declaration (“the state is preserved”) was not yet possible (SYNTHESIS 0008, RLL–FRANCE–0013 candidate). The civilizational grammar (declarative legitimacy, Reset-as-Renewal) did not supply an Anglia-style “replace rulers before systems” path; when demonstration failed, the grammar inclined toward **rupture and successor-declaration**. So for Francia, 1763 is the diagnostic that makes **1789 thinkable**—same war, opposite structural outcome from Prussia, which passed the endurance stress test (cross-civ SYNTHESIS 0008).
 
 **Pass assessment:** PASS. “Interval,” “demonstration failed,” “rupture thinkable,” “1789” present. SYNTHESIS 0008, ENTRY 0006, candidate RLLs cited. No bound RLL.
 
@@ -25,9 +25,9 @@ SCHOLAR–FRANCE encodes the outcome of the Seven Years’ War (1763) for Franci
 
 **Response (Germania LEARN, Mercouris primary):**
 
-SCHOLAR–GERMANY encodes the outcome of the Seven Years’ War (1763) for Germania/Prussia as **survival under encirclement** that **validates replacement capacity, discipline, and logistics-first governance** over prestige (ENTRY 0006, Ingest Type: Endurance Stress Test). Prussia passed the stress test: endurance was proven before any turn toward precision. That sequence is now binding as **RLL–GERMANIA–0003** (Precision Requires Closure Law)—precision is safe only after endurance is proven and only if followed by immediate political closure. The Seven Years’ War is the historical validation of that constraint: Prussia did not seek open-ended expansion; it survived, and the eventual peace (1763) constituted closure. So for Germania, 1763 encodes **endurance validated**, not interval or failure. No “interval” or “demonstration failed” applies to the Prussian case; the structural outcome is success within the constraint grammar.
+SCHOLAR–GERMANY encodes the outcome of the Seven Years’ War (1763) for Germania/Prussia as **survival under encirclement** that **validates replacement capacity, discipline, and logistics-first governance** over prestige (ENTRY 0006, Ingest Type: Endurance Stress Test). Prussia passed the stress test: endurance was proven before any turn toward precision. That sequence is now binding as **RLL–GERMANY–0003** (Precision Requires Closure Law)—precision is safe only after endurance is proven and only if followed by immediate political closure. The Seven Years’ War is the historical validation of that constraint: Prussia did not seek open-ended expansion; it survived, and the eventual peace (1763) constituted closure. So for Germania, 1763 encodes **endurance validated**, not interval or failure. No “interval” or “demonstration failed” applies to the Prussian case; the structural outcome is success within the constraint grammar.
 
-**Pass assessment:** PASS. “Endurance,” “survival,” “validates,” “RLL–GERMANIA–0003” present. No “interval” or “failure” for Prussia. Differentiation from Francia clear.
+**Pass assessment:** PASS. “Endurance,” “survival,” “validates,” “RLL–GERMANY–0003” present. No “interval” or “failure” for Prussia. Differentiation from Francia clear.
 
 ---
 
@@ -39,7 +39,7 @@ SCHOLAR–GERMANY encodes the outcome of the Seven Years’ War (1763) for Germa
 
 **Response (Francia LEARN):**
 
-NCZ-001 (Colonial Legitimacy Transfer) is CONTESTED: we do not know with confidence whether colonial empire strengthened or weakened metropolitan legitimacy; MEM evidence is insufficient and scholarship is divided. Resolution is **epistemic**. The resolution path is explicit in the Scholar file: **ingest MEM–FRANCIA–EMPIRE–ALGERIA** and **MEM–FRANCIA–EMPIRE–INDOCHINA** (and, by extension, other empire MEMs as appropriate). Only once those MEMs have been ingested and synthesized can we reduce the uncertainty. We are not asserting that colonial legitimacy transfer is structurally impossible—we are asserting that we lack sufficient ingested evidence to close the gap. So the answer is: **ingestion of the specified MEMs**, followed by belief extraction and optional synthesis, would resolve the uncertainty.
+NCZ-001 (Colonial Legitimacy Transfer) is CONTESTED: we do not know with confidence whether colonial empire strengthened or weakened metropolitan legitimacy; MEM evidence is insufficient and scholarship is divided. Resolution is **epistemic**. The resolution path is explicit in the Scholar file: **ingest MEM–FRANCE–EMPIRE–ALGERIA** and **MEM–FRANCE–EMPIRE–INDOCHINA** (and, by extension, other empire MEMs as appropriate). Only once those MEMs have been ingested and synthesized can we reduce the uncertainty. We are not asserting that colonial legitimacy transfer is structurally impossible—we are asserting that we lack sufficient ingested evidence to close the gap. So the answer is: **ingestion of the specified MEMs**, followed by belief extraction and optional synthesis, would resolve the uncertainty.
 
 **Pass assessment:** PASS. Resolution path = ingest MEMs (EMPIRE–ALGERIA, EMPIRE–INDOCHINA). Epistemic framing (“we need more evidence”) explicit.
 
@@ -75,7 +75,7 @@ CIV–SCHOLAR–FRANCE is in **Phase I (Accumulation)**. That means new learning
 
 **Response:**
 
-CIV–SCHOLAR–GERMANY is in **Phase II (Constraint Grammar)**. That means new learning is **evaluated against existing constraints**: bound RLLs (RLL–GERMANIA–0001 through 0011, plus proposed 0009.a, 0006.a/b, 0012, 0013) and the Negative Capability Zone (what Germania cannot stably do). Novel claims are stress-tested for compatibility; apparent exceptions are treated as **anomaly candidates**, not refutations—and we have an Anomaly Flag Protocol (Section II.C) for conflicts between MEM assertions and established patterns. So we do not simply append; we constrain what may be asserted as compatible with Germanic civilizational grammar.
+CIV–SCHOLAR–GERMANY is in **Phase II (Constraint Grammar)**. That means new learning is **evaluated against existing constraints**: bound RLLs (RLL–GERMANY–0001 through 0011, plus proposed 0009.a, 0006.a/b, 0012, 0013) and the Negative Capability Zone (what Germania cannot stably do). Novel claims are stress-tested for compatibility; apparent exceptions are treated as **anomaly candidates**, not refutations—and we have an Anomaly Flag Protocol (Section II.C) for conflicts between MEM assertions and established patterns. So we do not simply append; we constrain what may be asserted as compatible with Germanic civilizational grammar.
 
 **Pass assessment:** PASS. “Phase II,” “constraint,” “evaluated against,” “anomaly” present.
 

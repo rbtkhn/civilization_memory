@@ -248,7 +248,7 @@ ROME:
 
 NON-ROME:
 • MEM–RUSSIA–TIME–OF–TROUBLES — restoration after fragmentation
-• MEM–FRANCIA–HUNDRED–YEARS–WAR — recovery from occupation
+• MEM–FRANCE–HUNDRED–YEARS–WAR — recovery from occupation
 • MEM–CHINA–MING — restoration after foreign conquest
 
 ────────────────────────────────────────────────────────────

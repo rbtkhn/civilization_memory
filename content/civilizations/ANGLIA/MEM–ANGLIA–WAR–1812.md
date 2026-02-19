@@ -198,7 +198,7 @@ ANGLIA (system continuity and peripheral absorption):
    — later memory compression of empire obscures earlier peripheral conflicts.
 
 Cross-Civilizational:
-7) MEM–FRANCIA–NAPOLEONIC–WARS
+7) MEM–FRANCE–NAPOLEONIC–WARS
    — existential continental pressure driving Anglia’s priority hierarchy.
 8) MEM–AMERICA–WAR–1812
    — contrast in civilizational memory: formative war vs peripheral test.

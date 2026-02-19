@@ -405,7 +405,7 @@ GEO–MEM (≥2):
 Cross-civilizational:
 • MEM–SCANDINAVIA–SWEDEN — predecessor administrator
 • MEM–NATO–EXPANSION — 2022 accession context
-• MEM–GERMANIA–WWII — Continuation War co-belligerent
+• MEM–GERMANY–WWII — Continuation War co-belligerent
 
 ────────────────────────────────────────────────────────────
 XII. MEM BIBLIOGRAPHY (v2.8)

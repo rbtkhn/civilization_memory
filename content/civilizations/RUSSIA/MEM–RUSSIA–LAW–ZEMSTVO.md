@@ -321,7 +321,7 @@ GEO Connections — ≥2 Required:
 
 Cross-Civilizational:
 • MEM–ANGLIA–LOCAL–GOVERNMENT — comparative decentralization
-• MEM–GERMANIA–PRUSSIA — comparative local administration
+• MEM–GERMANY–PRUSSIA — comparative local administration
 
 Each connection is structurally required.
 

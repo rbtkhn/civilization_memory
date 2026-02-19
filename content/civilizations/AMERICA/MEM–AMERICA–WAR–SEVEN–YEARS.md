@@ -143,7 +143,7 @@ AMERICA:
 Cross-Civilizational:
 • MEM–ANGLIA–WAR–SEVEN–YEARS — British perspective; global war;
   imperial confirmation; victory and North American primacy.
-• MEM–FRANCIA–WAR–SEVEN–YEARS — French defeat; loss of Canada;
+• MEM–FRANCE–WAR–SEVEN–YEARS — French defeat; loss of Canada;
   same war, opposite outcome.
 
 Cross-references denote lineage, not equivalence.

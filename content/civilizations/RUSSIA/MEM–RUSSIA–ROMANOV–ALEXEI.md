@@ -275,9 +275,9 @@ GEO MEMs (≥2):
 • MEM–RUSSIA–UKRAINE — expansion, incorporation, strain
 
 Cross-civilizational:
-• MEM–FRANCIA–ABSOLUTISM–LAW
+• MEM–FRANCE–ABSOLUTISM–LAW
 • MEM–CHINA–QING–CODIFICATION
-• MEM–GERMANIA–CONFESSIONAL–STATE
+• MEM–GERMANY–CONFESSIONAL–STATE
 
 ────────────────────────────────────────────────────────────
 XIV. MEM INGEST BOOTSTRAP (MANDATORY)

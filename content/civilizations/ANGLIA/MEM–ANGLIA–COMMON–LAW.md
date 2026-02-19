@@ -192,9 +192,9 @@ Internal (ANGLIA):
 • MEM–ANGLIA–LAW–FEDERALIST–PAPERS — export of procedural logic
 
 Cross-Civilizational:
-• MEM–FRANCIA–DYNASTY–CAPET — codified centralization contrast
+• MEM–FRANCE–DYNASTY–CAPET — codified centralization contrast
 • MEM–ROME–LAW–JUSTINIAN — codification vs precedent
-• MEM–GERMANIA–HOLY–ROMAN–LAW — fragmentation without memory spine
+• MEM–GERMANY–HOLY–ROMAN–LAW — fragmentation without memory spine
 
 Each comparison highlights Common Law as **memory-first legality**.
 

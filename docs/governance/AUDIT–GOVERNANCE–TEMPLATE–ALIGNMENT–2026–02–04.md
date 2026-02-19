@@ -113,16 +113,16 @@
 - **CIV–SCHOLAR–ROME:** Lines 1607–1627, 1992: Embedded CIV–MEM–TEMPLATE v2.5/v2.7 mirror → replace with pointer to v3.0
 - **CIV–ARC–ROME:** Line 295: "Governed by CIV–MEM–TEMPLATE v2.8" → update to v3.0
 
-### VI.D GERMANIA — GAPS
-- **CIV–CORE–GERMANIA:** Template Version Used: CIV–CORE–TEMPLATE v2.0 → update to v3.0
-- **CIV–INDEX–GERMANIA:** Line 44: "CIV–MEM–TEMPLATE v2.8" (historical); Line 99: "CIV–SCHOLAR–TEMPLATE v2.10" → update to v3.0 where active
+### VI.D GERMANY — GAPS
+- **CIV–CORE–GERMANY:** Template Version Used: CIV–CORE–TEMPLATE v2.0 → update to v3.0
+- **CIV–INDEX–GERMANY:** Line 44: "CIV–MEM–TEMPLATE v2.8" (historical); Line 99: "CIV–SCHOLAR–TEMPLATE v2.10" → update to v3.0 where active
 - **CIV–SCHOLAR–GERMANY:** Line 2565: CIV–MEM–TEMPLATE v2.8 → update to v3.0
-- **CIV–ARC–GERMANIA–LEDGER:** Line 6: "CIV–ARC–TEMPLATE v2.7 · CIV–MEM–TEMPLATE v2.8" → update to v3.0
+- **CIV–ARC–GERMANY–LEDGER:** Line 6: "CIV–ARC–TEMPLATE v2.7 · CIV–MEM–TEMPLATE v2.8" → update to v3.0
 
-### VI.E FRANCIA — GAPS
-- **CIV–CORE–FRANCIA:** Template Version Used: CIV–CORE–TEMPLATE v2.0 → update to v3.0
-- **CIV–ARC–FRANCIA–LEDGER:** Line 6: "CIV–ARC–TEMPLATE v2.7 · CIV–MEM–TEMPLATE v2.8" → update to v3.0
-- **CIV–ARC–FRANCIA–LEDGER:** Line 323: "CIV–MEM–TEMPLATE v2.9" → update to v3.0
+### VI.E FRANCE — GAPS
+- **CIV–CORE–FRANCE:** Template Version Used: CIV–CORE–TEMPLATE v2.0 → update to v3.0
+- **CIV–ARC–FRANCE–LEDGER:** Line 6: "CIV–ARC–TEMPLATE v2.7 · CIV–MEM–TEMPLATE v2.8" → update to v3.0
+- **CIV–ARC–FRANCE–LEDGER:** Line 323: "CIV–MEM–TEMPLATE v2.9" → update to v3.0
 
 ### VI.F ANGLIA — GAPS
 - **CIV–CORE–ANGLIA:** Template Version Used: CIV–CORE–TEMPLATE v2.0 → update to v3.0
@@ -154,8 +154,8 @@ Historical upgrade notes (e.g., "Supersedes v2.7", "UPGRADE NOTE (v2.8)", "v2.6 
 | Templates (body refs) | — | 9 | Stale v2.x in active declarations (BARNES, MIND, ARC, INDEX, CORE) |
 | .cursor/rules | 7/9 | 2 | cmc-scholar-mode, cmc-oge-enforcement reference CMC–BOOTSTRAP v2.14 |
 | Civilization CORE | 2/9 | 7 | RUSSIA, CHINA aligned; others have Template Version v2.0 |
-| Civilization SCHOLAR | 6/9 | 3 | ROME (embedded mirror), GERMANIA, PERSIA |
-| Civilization ARC/LEDGER | 4/7 | 3 | ROME, GERMANIA–LEDGER, FRANCIA–LEDGER |
+| Civilization SCHOLAR | 6/9 | 3 | ROME (embedded mirror), GERMANY, PERSIA |
+| Civilization ARC/LEDGER | 4/7 | 3 | ROME, GERMANY–LEDGER, FRANCE–LEDGER |
 
 **Total actionable gaps:** 24 (templates: 9; rules: 2; civilization files: 13)
 
@@ -166,8 +166,8 @@ Historical upgrade notes (e.g., "Supersedes v2.7", "UPGRADE NOTE (v2.8)", "v2.6 
 1. **High:** Templates — CIV–MIND–BARNES, CIV–MIND–TEMPLATE, CIV–MIND–MEARSHEIMER (Governed by / canonical binding)
 2. **High:** .cursor/rules — cmc-scholar-mode, cmc-oge-enforcement (CMC–BOOTSTRAP v2.14 → v3.0)
 3. **Medium:** Templates — CIV–ARC–TEMPLATE, CIV–ARC–LEDGER–TEMPLATE, CIV–SCHOLAR–TEMPLATE, CIV–INDEX–TEMPLATE, CIV–CORE–TEMPLATE (body refs)
-4. **Medium:** Civilization CORE files — Template Version Used v2.0 → v3.0 (ROME, GERMANIA, FRANCIA, ANGLIA, INDIA, ISLAM, PERSIA)
-5. **Low:** Civilization ARC/LEDGER — FRANCIA–LEDGER, GERMANIA–LEDGER, ROME (CIV–MEM–TEMPLATE v2.8 → v3.0)
+4. **Medium:** Civilization CORE files — Template Version Used v2.0 → v3.0 (ROME, GERMANY, FRANCE, ANGLIA, INDIA, ISLAM, PERSIA)
+5. **Low:** Civilization ARC/LEDGER — FRANCE–LEDGER, GERMANY–LEDGER, ROME (CIV–MEM–TEMPLATE v2.8 → v3.0)
 6. **Low:** CIV–SCHOLAR–ROME — Remove or replace embedded CIV–MEM–TEMPLATE mirror with pointer to v3.0
 
 ---
@@ -190,8 +190,8 @@ Historical upgrade notes (e.g., "Supersedes v2.7", "UPGRADE NOTE (v2.8)", "v2.6 
 
 **Civilization CORE/SCHOLAR/ARC/LEDGER:**
 - ROME: CIV–CORE (Template v3.0, CIV–MEM–TEMPLATE v3.0), CIV–ARC (v3.0)
-- GERMANIA: CIV–CORE (Template v3.0), CIV–INDEX (v3.0), CIV–SCHOLAR (v3.0), CIV–ARC–LEDGER (v3.0)
-- FRANCIA: CIV–CORE (Template v3.0), CIV–ARC–FRANCIA (v3.0), CIV–ARC–FRANCIA–LEDGER (v3.0)
+- GERMANY: CIV–CORE (Template v3.0), CIV–INDEX (v3.0), CIV–SCHOLAR (v3.0), CIV–ARC–LEDGER (v3.0)
+- FRANCE: CIV–CORE (Template v3.0), CIV–ARC–FRANCE (v3.0), CIV–ARC–FRANCE–LEDGER (v3.0)
 - ANGLIA: CIV–CORE (Template v3.0), CIV–ARC–ANGLIA (v3.0)
 - INDIA: CIV–CORE (Template v3.0)
 - ISLAM: CIV–CORE (Template v3.0)

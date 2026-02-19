@@ -277,7 +277,7 @@ GEO Connections — ≥2 Required:
 • MEM–RUSSIA–KIEV — code's origin city
 
 Cross-Civilizational:
-• MEM–GERMANIA–LAW–GERMANIC — comparative wergild systems
+• MEM–GERMANY–LAW–GERMANIC — comparative wergild systems
 • MEM–ROME–LAW–BYZANTINE — Christian legal influence
 
 Each connection is structurally required.

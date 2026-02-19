@@ -147,7 +147,7 @@ GEO MEMs (≥2):
 • MEM–RUSSIA–GEO–NEVA–RIVER — Leningrad; design centres
 
 Cross-civilizational:
-• MEM–GERMANIA–SCI–PLANCK — contrast: public figure vs hidden architect
+• MEM–GERMANY–SCI–PLANCK — contrast: public figure vs hidden architect
 
 ────────────────────────────────────────────────────────────
 VIII. CONCEPTS (SEMANTIC INDEX)

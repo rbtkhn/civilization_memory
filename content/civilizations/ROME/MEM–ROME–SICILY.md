@@ -327,7 +327,7 @@ GEO–MEMs (≥2 Required):
 
 CROSS-CIVILIZATIONAL:
 • MEM–ISLAM–AGHLABID — Arab conquest
-• MEM–GERMANIA–NORMANS — Norman conquest
+• MEM–GERMANY–NORMANS — Norman conquest
 • MEM–ISLAM–SICILY — Connector pair; Islam's encoding: western laboratory, influence without permanence, transmission node; same island, different valence (Rome = first imperial classroom, grain pivot; Islam = maritime entry then Norman loss, cultural residue). Connector pair per CONCEPT–ROME–ISLAM–DOUBLE–HELIX IV-A.
 
 ────────────────────────────────────────────────────────────

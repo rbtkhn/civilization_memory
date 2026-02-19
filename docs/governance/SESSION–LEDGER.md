@@ -25,8 +25,8 @@ II. CURRENT SESSION STATE
 ────────────────────────────────────────────────────────────
 
 Session Date: 2026-01-27 (Tuesday)
-Session Focus: Activate CIV–MEM–CORE and CIV–CORE–GERMANIA
-Primary Civilization: GERMANIA
+Session Focus: Activate CIV–MEM–CORE and CIV–CORE–GERMANY
+Primary Civilization: GERMANY
 Current Mode: WRITE
 
 Active Constraints:
@@ -66,10 +66,10 @@ Files Modified:
 ────────────────────────────────────────────────────────────
 
 SESSION: 2026-01-27
-Focus: CIV–MEM–CORE + CIV–CORE–GERMANIA activation
+Focus: CIV–MEM–CORE + CIV–CORE–GERMANY activation
 Topics:
 • Activated CIV–MEM–CORE v2.5
-• Activated CIV–CORE–GERMANIA v1.8
+• Activated CIV–CORE–GERMANY v1.8
 
 SESSION: 2026-01-25
 Focus: MIND profile polyphonic interaction refinement

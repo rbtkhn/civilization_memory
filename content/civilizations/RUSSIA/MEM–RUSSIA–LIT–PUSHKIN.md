@@ -335,7 +335,7 @@ GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–PETERSBURG — Bronze Horseman urban memory
 
 Cross-civilizational:
-• MEM–FRANCIA–LITERATURE — French literary influence on Russian forms
+• MEM–FRANCE–LITERATURE — French literary influence on Russian forms
 • MEM–EUROPA–ROMANTICISM — European Romantic movement context
 
 SCHOLAR Constraints:

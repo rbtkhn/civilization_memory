@@ -91,7 +91,7 @@ Patterns:
 Endurance favors the insurgent.
 
 ────────────────────────────────────────────────────────────
-VI. FRANCIA’S INTERVENTION AS SYSTEMIC SHIFT
+VI. FRANCE’S INTERVENTION AS SYSTEMIC SHIFT
 ────────────────────────────────────────────────────────────
 French entry alters war physics.
 
@@ -138,7 +138,7 @@ ANGLIA:
 • MEM–ANGLIA–BRITISH–EMPIRE — managed defeat; empire continues elsewhere.
 
 Cross-Civilizational:
-• MEM–FRANCIA–WAR–AMERICAN–INDEPENDENCE (as applicable) — French entry as systemic shift; alliance-as-strategy.
+• MEM–FRANCE–WAR–AMERICAN–INDEPENDENCE (as applicable) — French entry as systemic shift; alliance-as-strategy.
 
 ────────────────────────────────────────────────────────────
 X. CONTINUITY INSIGHTS (RAW)

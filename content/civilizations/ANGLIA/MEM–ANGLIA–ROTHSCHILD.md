@@ -151,8 +151,8 @@ GEO–MEM:
 • MEM–ANGLIA–GEO–ATLANTIC — Trans-Atlantic capital; specie and bond flows.
 
 Cross-civilization:
-• MEM–GERMANIA–ROTHSCHILD — Frankfurt origins, five arrows, trans-sovereign network; London as one node.
-• MEM–FRANCIA–PARIS — James Rothschild's house; Franco-British financial coordination during and after Napoleonic Wars.
+• MEM–GERMANY–ROTHSCHILD — Frankfurt origins, five arrows, trans-sovereign network; London as one node.
+• MEM–FRANCE–PARIS — James Rothschild's house; Franco-British financial coordination during and after Napoleonic Wars.
 
 ────────────────────────────────────────────────────────────
 IX. PRIMARY SOURCES & REFERENCES

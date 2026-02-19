@@ -216,7 +216,7 @@ ROME:
 • MEM–ROME–JUSTINIAN — restoration exhaustion vs continuity translation
 
 NON-ROME:
-• MEM–GERMANIA–MIGRATION–PERIOD
+• MEM–GERMANY–MIGRATION–PERIOD
 • MEM–CHINA–XIONGNU (comparative extraction empires)
 
 ────────────────────────────────────────────────────────────

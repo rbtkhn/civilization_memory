@@ -301,8 +301,8 @@ GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–MOSCOW — Bolshoi performances and later career
 
 Cross-civilizational:
-• MEM–GERMANIA–MUSIC–BEETHOVEN — symphonic tradition inherited
-• MEM–FRANCIA–BALLET — choreographic tradition (Petipa collaboration)
+• MEM–GERMANY–MUSIC–BEETHOVEN — symphonic tradition inherited
+• MEM–FRANCE–BALLET — choreographic tradition (Petipa collaboration)
 • MEM–AMERICA–MUSIC — 1891 tour and Carnegie Hall opening
 
 ────────────────────────────────────────────────────────────

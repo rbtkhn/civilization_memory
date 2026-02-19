@@ -161,7 +161,7 @@ GEO–MEM:
 • MEM–ANGLIA–GEO–PACIFIC–OCEAN — Pacific and Galápagos; natural selection observation context.
 
 Cross-Civilizational:
-• MEM–GERMANIA–KANT — Darwin challenges Kantian moral teleology without replacing ethical law.
+• MEM–GERMANY–KANT — Darwin challenges Kantian moral teleology without replacing ethical law.
 
 ────────────────────────────────────────────────────────────
 IX. CIVILIZATIONAL MEMORY FUNCTION

@@ -303,8 +303,8 @@ GEO Connections — ≥2 Required:
 • MEM–RUSSIA–GEO–BALTIC–SEA — Petrine European orientation
 
 Cross-Civilizational:
-• MEM–GERMANIA–PRUSSIA — comparable bureaucratic systems
-• MEM–FRANCIA–LAW–NAPOLEONIC–CODE — comparative administrative modernization
+• MEM–GERMANY–PRUSSIA — comparable bureaucratic systems
+• MEM–FRANCE–LAW–NAPOLEONIC–CODE — comparative administrative modernization
 
 Each connection is structurally required.
 

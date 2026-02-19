@@ -14,7 +14,7 @@ There are **three** SCHOLAR sub-modes (WRITE, LEARN, IMAGINE) and **two** peer t
 - "Run signal check" / "Signal check for Pattern [N]" / "[Event] signal check" (e.g. Geneva signal check) → STATE; entity from context; activity = Signal Check (X-J).
 - "30-day forecast" / "Probability assessment for Pattern [N]" → STATE; entity from context; activity = Probability Assessment (X-K).
 - "STATE [entity]" / "Switch to [entity]" → STATE; re-anchor to entity; present options + activity menu.
-Entity name mapping: Iran/Persia → PERSIA; Russia → RUSSIA; etc. Treat equivalent phrasings as matches ("Update on Iran", "What's the latest on Iran?"). If entity is ambiguous, use session context or ask once.
+Entity name mapping: Iran/Persia → PERSIA; Russia → RUSSIA; France → FRANCE; Germany → GERMANY; etc. Treat equivalent phrasings as matches ("Update on Iran", "What's the latest on Iran?"). If entity is ambiguous, use session context or ask once.
 
 **2. Task → mode (when no phrase matches).** When the user does **not** explicitly name a mode and no invocation phrase matches, infer mode from the **request**:
 

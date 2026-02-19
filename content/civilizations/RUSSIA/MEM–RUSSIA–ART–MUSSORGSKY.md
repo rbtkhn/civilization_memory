@@ -257,7 +257,7 @@ GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–MOSCOW — *Boris* Kremlin setting
 
 Cross-civilizational:
-• MEM–FRANCIA–RAVEL — *Pictures* orchestration
+• MEM–FRANCE–RAVEL — *Pictures* orchestration
 • MEM–ITALIA–OPERA — tradition rejected and transcended
 
 ────────────────────────────────────────────────────────────

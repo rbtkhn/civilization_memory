@@ -209,8 +209,8 @@ ROME:
 • MEM–ROME–CONSTANTINOPLE — continuity through relocation
 
 NON-ROME:
-• MEM–FRANCIA–CHARLEMAGNE — sacral kingship revival
-• MEM–GERMANIA–HOLY–ROMAN–EMPIRE — theological sovereignty inheritance
+• MEM–FRANCE–CHARLEMAGNE — sacral kingship revival
+• MEM–GERMANY–HOLY–ROMAN–EMPIRE — theological sovereignty inheritance
 • MEM–RUSSIA–THIRD–ROME — continuity claim via Orthodoxy
 
 ────────────────────────────────────────────────────────────

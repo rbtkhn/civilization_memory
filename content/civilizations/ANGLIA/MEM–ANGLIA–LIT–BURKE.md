@@ -104,7 +104,7 @@ Positions:
 Empire must be governed by law or it corrodes the center.
 
 ────────────────────────────────────────────────────────────
-VII. BURKE VS. FRANCIA
+VII. BURKE VS. FRANCE
 ────────────────────────────────────────────────────────────
 Burke functions as Anglia's anti-Jacobin.
 

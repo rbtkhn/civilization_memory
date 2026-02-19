@@ -750,7 +750,7 @@ Session 2026-02-16 (LEARN · Romanov cluster, Richelieu–Peter, Catherine stabi
   RLL links: RLL–0005 (Succession Failure vs Sacral Endurance); RLL–0033 (Sovereign Restraint vs Expansion Option); RLL–0009 (Peace Rejection as Endurance Strategy). Related: RLL–0007 (Rurikid→Petrine), RLL–0010 (Elite Overproduction), RLL–0034 (Legitimacy Sequencing).
   Confidence: TIER 2 (70–85%). Validation: Holdout MEMs Michael, Nicholas II, Alexander I, Alexei—4/4 SUPPORT; Nicholas II as negative case (collapse when consolidation absent). Status: DRAFT (VALIDATED).
 
-• Source MEMs: MEM–RUSSIA–ROMANOV–CATHERINE–II, MEM–RUSSIA–ROMANOV–PETER–I, MEM–RUSSIA–LAW–TABLE–RANKS, MEM–RUSSIA–ROMANOV–DYNASTY, MEM–FRANCIA–RICHELIEU, MEM–FRANCIA–LOUIS–XIV.
+• Source MEMs: MEM–RUSSIA–ROMANOV–CATHERINE–II, MEM–RUSSIA–ROMANOV–PETER–I, MEM–RUSSIA–LAW–TABLE–RANKS, MEM–RUSSIA–ROMANOV–DYNASTY, MEM–FRANCE–RICHELIEU, MEM–FRANCE–LOUIS–XIV.
 
 • Session recap: Romanov legitimacy arc; Louis–Catherine parallel (elite co-optation); Richelieu–Peter contrast (restraint vs rupture); Mearsheimer structural explanation (usable vs replaceable elite); Catherine's stabilisation (Charter 1785, territorial expansion, quartet). Validation test run against holdout MEMs; confidence raised TIER 3 → TIER 2.
 
@@ -1168,9 +1168,9 @@ Session 2026-02-16 (LEARN · lit cluster enhancement; authority models; Ivan IV 
 
 Session 2026-02-16 (LEARN · Tolstoy verbatim cluster; legitimacy encoding; historiography):
 • Ingested 8 Russia MEMs with Tolstoy as verbatim source: LIT–TOLSTOY, KUTUZOV, WAR–NAPOLEON, WAR–NAPOLEON–BORODINO, WAR–NAPOLEON–AUSTERLITZ, ROMANOV–ALEXANDER–I, LAW–SERFDOM, LAW–EMANCIPATION.
-• SYNTHESIS (DRAFT): Legitimacy-through-historiographic-encoding. Historiography supplies legitimacy grammar (princes, states, people, collapse); dominant encoding reflects regime structural needs. Russia: Primary Chronicle/Nikon (princes as agents) → Karamzin (dynasty, Moscow destiny) → Tolstoy (people's force, determinism). Karamzin bridges chronicle and modern; Tolstoy inverts agency from princes to people. Germania parallel: MEM–GERMANIA–HIST–RANKE (state-centered, archival objectivity). Gibbon (Decline and Fall): legitimacy-through-collapse-diagnosis as alternative to consolidation narratives. Cross-civ: Ranke–Karamzin parallel (state/dynasty legitimacy production); Gibbon contrast (collapse as legitimacy lens).
-• Cross-reference: MEM–GERMANIA–HIST–RANKE added to MEM–RUSSIA–LIT–TOLSTOY cross-civilizational connections (parallel legitimacy-encoding historiography).
-• Source MEMs: LIT–TOLSTOY, KUTUZOV, WAR–NAPOLEON, LAW–SERFDOM, LAW–EMANCIPATION; HIST–PRIMARY–CHRONICLE, HIST–NIKON–CHRONICLE; MEM–GERMANIA–HIST–RANKE.
+• SYNTHESIS (DRAFT): Legitimacy-through-historiographic-encoding. Historiography supplies legitimacy grammar (princes, states, people, collapse); dominant encoding reflects regime structural needs. Russia: Primary Chronicle/Nikon (princes as agents) → Karamzin (dynasty, Moscow destiny) → Tolstoy (people's force, determinism). Karamzin bridges chronicle and modern; Tolstoy inverts agency from princes to people. Germania parallel: MEM–GERMANY–HIST–RANKE (state-centered, archival objectivity). Gibbon (Decline and Fall): legitimacy-through-collapse-diagnosis as alternative to consolidation narratives. Cross-civ: Ranke–Karamzin parallel (state/dynasty legitimacy production); Gibbon contrast (collapse as legitimacy lens).
+• Cross-reference: MEM–GERMANY–HIST–RANKE added to MEM–RUSSIA–LIT–TOLSTOY cross-civilizational connections (parallel legitimacy-encoding historiography).
+• Source MEMs: LIT–TOLSTOY, KUTUZOV, WAR–NAPOLEON, LAW–SERFDOM, LAW–EMANCIPATION; HIST–PRIMARY–CHRONICLE, HIST–NIKON–CHRONICLE; MEM–GERMANY–HIST–RANKE.
 • Session recap: Tolstoy cluster; legitimacy encoding; chronicle→Karamzin→Tolstoy; Ranke parallel; Gibbon contrast.
 
 Session 2026-02-16 (STATE relay · strategic analysis, Geneva round, decision points):

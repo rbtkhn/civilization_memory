@@ -13,9 +13,9 @@
 |----------|--------|-------|
 | **Core governance (CIV–MEM–CORE, CMC–BOOTSTRAP)** | ALIGNED | 2 |
 | **Templates (docs/templates)** | ALIGNED | All refs v2.8+ satisfied by v2.9 |
-| **Civilization CORE refs to CIV–MEM–CORE** | UPGRADE | 3 civs (ANGLIA v2.8; FRANCIA v2.7; GERMANIA v2.5/v2.6) |
+| **Civilization CORE refs to CIV–MEM–CORE** | UPGRADE | 3 civs (ANGLIA v2.8; FRANCE v2.7; GERMANY v2.5/v2.6) |
 | **Index/Scholar footer & internal version refs** | SYNC | 6 files |
-| **VERSION–MANIFEST civilization tables** | STALE | FRANCIA, ANGLIA, INDIA, GERMANIA, PERSIA |
+| **VERSION–MANIFEST civilization tables** | STALE | FRANCE, ANGLIA, INDIA, GERMANY, PERSIA |
 | **Typo (governance only)** | FIX | CIV–INDEX–INDIA § I GOVERNANAD |
 
 **Recommendation:** Apply upgrades below; then all governance and template files are aligned. Optional: bump CIV–SCHOLAR–TEMPLATE / CIV–MEM–TEMPLATE body refs from v2.8 to v2.9 for consistency (non-blocking).
@@ -49,11 +49,11 @@ CIV–MEM–CORE v2.9 is the system preload. All civilization CORE, SCHOLAR, IND
 | Civilization | File | Declared CORE | Should be | Action |
 |--------------|------|---------------|-----------|--------|
 | ANGLIA | CIV–CORE–ANGLIA | v2.8 | v2.9 | Upgrade |
-| FRANCIA | CIV–CORE–FRANCIA | v2.7 | v2.9 | Upgrade |
-| FRANCIA | CIV–SCHOLAR–FRANCE | v2.7 | v2.9 | Upgrade |
-| FRANCIA | CIV–INDEX–FRANCIA | v1.5 (or higher) | v2.9 | Upgrade |
-| GERMANIA | CIV–CORE–GERMANIA | v2.5 (Source Authority) | v2.9 | Upgrade |
-| GERMANIA | CIV–SCHOLAR–GERMANY | v2.6 | v2.9 | Upgrade |
+| FRANCE | CIV–CORE–FRANCE | v2.7 | v2.9 | Upgrade |
+| FRANCE | CIV–SCHOLAR–FRANCE | v2.7 | v2.9 | Upgrade |
+| FRANCE | CIV–INDEX–FRANCE | v1.5 (or higher) | v2.9 | Upgrade |
+| GERMANY | CIV–CORE–GERMANY | v2.5 (Source Authority) | v2.9 | Upgrade |
+| GERMANY | CIV–SCHOLAR–GERMANY | v2.6 | v2.9 | Upgrade |
 | CHINA, INDIA, ISLAM, PERSIA | CORE/SCHOLAR/INDEX/ARC | v2.9 | — | OK |
 
 ---
@@ -73,10 +73,10 @@ CIV–MEM–CORE v2.9 is the system preload. All civilization CORE, SCHOLAR, IND
 
 | File | Location | Current | Should be |
 |------|----------|---------|-----------|
-| CIV–CORE–FRANCIA | § XXI MEM scope | CIV–INDEX–FRANCIA v1.7 (115 MEMs) | CIV–INDEX–FRANCIA v2.0 (139 files) |
+| CIV–CORE–FRANCE | § XXI MEM scope | CIV–INDEX–FRANCE v1.7 (115 MEMs) | CIV–INDEX–FRANCE v2.0 (139 files) |
 | CIV–SCHOLAR–ISLAM | Source MEMs available | CIV–INDEX–ISLAM v2.5 | CIV–INDEX–ISLAM v3.0 |
 | CIV–SCHOLAR–INDIA | Source MEMs available | CIV–INDEX–INDIA v1.1 | CIV–INDEX–INDIA v1.6 |
-| CIV–INDEX–GERMANIA | Derived from / Template refs | CIV–INDEX–TEMPLATE v2.0; SCHOLAR v2.5 | v2.1; v2.10 |
+| CIV–INDEX–GERMANY | Derived from / Template refs | CIV–INDEX–TEMPLATE v2.0; SCHOLAR v2.5 | v2.1; v2.10 |
 
 ---
 
@@ -84,13 +84,13 @@ CIV–MEM–CORE v2.9 is the system preload. All civilization CORE, SCHOLAR, IND
 
 | Civilization | Document | Manifest | Actual | Action |
 |--------------|----------|----------|--------|--------|
-| FRANCIA | CIV–INDEX–FRANCIA | v1.7 | v2.0 | Update to v2.0 |
+| FRANCE | CIV–INDEX–FRANCE | v1.7 | v2.0 | Update to v2.0 |
 | ANGLIA | CIV–INDEX–ANGLIA | v2.8 | v2.17 | Update to v2.17 |
 | ANGLIA | CIV–ARC–ANGLIA | v1.5 | v1.11 | Update to v1.11 |
 | INDIA | CIV–INDEX–INDIA | v1.1 | v1.6 | Update to v1.6 |
 | INDIA | CIV–CORE–INDIA | — | v2.0 | Add row |
 | INDIA | CIV–SCHOLAR–INDIA | — | v2.0 | Add row |
-| GERMANIA | CIV–INDEX–GERMANIA | v2.1 | v2.2 | Update to v2.2 |
+| GERMANY | CIV–INDEX–GERMANY | v2.1 | v2.2 | Update to v2.2 |
 | PERSIA | CIV–ARC–PERSIA | v1.1 | v1.3 | Update to v1.3 |
 
 ---
@@ -111,10 +111,10 @@ CIV–SCHOLAR–TEMPLATE and CIV–MEM–TEMPLATE reference "CIV–MEM–CORE v2
 
 ## X. FIXES APPLIED (2026-02-01 — THIS SESSION)
 
-1. **CIV–MEM–CORE refs:** ANGLIA CORE, FRANCIA CORE, FRANCIA SCHOLAR, FRANCIA INDEX, GERMANIA CORE, GERMANIA SCHOLAR → v2.9
+1. **CIV–MEM–CORE refs:** ANGLIA CORE, FRANCE CORE, FRANCE SCHOLAR, FRANCE INDEX, GERMANY CORE, GERMANY SCHOLAR → v2.9
 2. **Footers:** CIV–INDEX–ISLAM → v3.0; CIV–INDEX–PERSIA → v1.2; CIV–INDEX–ANGLIA → v2.17; CIV–ARC–PERSIA → v1.3
-3. **Internal refs:** FRANCIA CORE § XXI; CIV–SCHOLAR–ISLAM Source MEMs; CIV–SCHOLAR–INDIA Source MEMs; CIV–INDEX–GERMANIA template refs
-4. **VERSION–MANIFEST:** FRANCIA, ANGLIA, INDIA (add CORE/SCHOLAR), GERMANIA, PERSIA tables updated
+3. **Internal refs:** FRANCE CORE § XXI; CIV–SCHOLAR–ISLAM Source MEMs; CIV–SCHOLAR–INDIA Source MEMs; CIV–INDEX–GERMANY template refs
+4. **VERSION–MANIFEST:** FRANCE, ANGLIA, INDIA (add CORE/SCHOLAR), GERMANY, PERSIA tables updated
 5. **CIV–INDEX–INDIA:** GOVERNANAD → GOVERNANCE (§ I)
 
 ---

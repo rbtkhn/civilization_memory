@@ -74,7 +74,7 @@
 |-------|------|--------|
 | Version mismatch | Internal | Title and footer: **v1.6**; metadata block: Version **1.7**, Supersedes v1.6. Footer should read v1.7 or metadata downgraded to 1.6. |
 | Typo in MEM CONNECTIONS | Filename/label | Item 4: **MEM–ANGLIA–WAR–AMERICAN–INDEPENDENAD** → should be **MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE**. |
-| Typo in MEM CONNECTIONS | Filename/label | Item 8: **MEM–FRANCIA–WAR–AMERICAN–INDEPENDENAD** → should be **MEM–FRANCIA–WAR–AMERICAN–INDEPENDENCE** (or correct Francia MEM filename if different). |
+| Typo in MEM CONNECTIONS | Filename/label | Item 8: **MEM–FRANCE–WAR–AMERICAN–INDEPENDENAD** → should be **MEM–FRANCE–WAR–AMERICAN–INDEPENDENCE** (or correct Francia MEM filename if different). |
 | Missing connection | Optional | DECLARATION–INDEPENDENCE is discussed in Section V but not listed in MEM CONNECTIONS. Consider adding for symmetry with ADAMS, FEDERALIST–PAPERS. |
 
 ### 2. MEM–ANGLIA–BRITISH–EMPIRE–NORTH–AMERICA
@@ -94,7 +94,7 @@
 | Issue | Type | Detail |
 |-------|------|--------|
 | Title/footer vs metadata | Internal | Header: **v1.1**; Version 1.2 in metadata; footer: **v1.2**. Minor: header could read v1.2 for consistency. |
-| Template gap | Structure | No MEM CONNECTIONS section. CIV–MEM–TEMPLATE v2.9 requires MEM CONNECTIONS. Suggest adding connections to AMERICAN–REVOLUTION, YORKTOWN, DECLARATION–INDEPENDENCE, ADAMS, WAR–SEVEN–YEARS, PITT–ELDER, FRANCIA (as applicable). |
+| Template gap | Structure | No MEM CONNECTIONS section. CIV–MEM–TEMPLATE v2.9 requires MEM CONNECTIONS. Suggest adding connections to AMERICAN–REVOLUTION, YORKTOWN, DECLARATION–INDEPENDENCE, ADAMS, WAR–SEVEN–YEARS, PITT–ELDER, FRANCE (as applicable). |
 
 ### 5. MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE–YORKTOWN
 

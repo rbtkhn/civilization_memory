@@ -196,11 +196,11 @@ Internal (ANGLIA):
 5) MEM–ANGLIA–WAR–REFORMATION
 
 Cross-Civilizational:
-6) MEM–FRANCIA–RELIGION–WARS
+6) MEM–FRANCE–RELIGION–WARS
    — Doctrinal rupture without procedural containment.
 7) MEM–ROME–PAPACY–SCHISM
    — Authority fracture without national consolidation.
-8) MEM–GERMANIA–REFORMATION–LUTHER
+8) MEM–GERMANY–REFORMATION–LUTHER
    — Theology-first rupture versus jurisdiction-first rupture.
 
 ────────────────────────────────────────────────────────────

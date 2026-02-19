@@ -209,7 +209,7 @@ GEO–MEM (≥2):
 
 Cross-civilizational:
 • MEM–AMERICA–MUSIC — exile career, Chicago opera
-• MEM–FRANCIA–PARIS — Diaghilev commissions, exile base
+• MEM–FRANCE–PARIS — Diaghilev commissions, exile base
 
 ────────────────────────────────────────────────────────────
 X. MEM BIBLIOGRAPHY (MANDATORY)

@@ -234,7 +234,7 @@ GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–SAINT–PETERSBURG — career and musical life
 
 Cross-civilizational:
-• MEM–GERMANIA–CHEMISTRY — scientific training and methods
+• MEM–GERMANY–CHEMISTRY — scientific training and methods
 • MEM–CENTRAL–ASIA — Oriental exoticism in Russian music
 
 ────────────────────────────────────────────────────────────

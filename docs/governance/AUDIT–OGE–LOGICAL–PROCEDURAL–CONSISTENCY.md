@@ -129,9 +129,9 @@ LEARN and IMAGINE list "one line each" but not "6–10 words." Cross-reference o
 
 ---
 
-### 4.6 FRANCIA Scholar F slot: incomplete specification
+### 4.6 FRANCE Scholar F slot: incomplete specification
 
-**Location:** `content/civilizations/FRANCIA/CIV–SCHOLAR–FRANCE.md` (line 140)
+**Location:** `content/civilizations/FRANCE/CIV–SCHOLAR–FRANCE.md` (line 140)
 
 States: `**OPTION F** — [Synthesize and return; close the loop]`  
 Does not specify that F is a 6–10 word session recap. Other sources state F = 6–10 word summary.
@@ -163,7 +163,7 @@ WRITE allows adding connections; LEARN/IMAGINE emphasize tracing. This is mode-a
 | P2 | 4.3 POST-BARNES in prompts | Add POST-BARNES line to IMAGINE, LEARN, WRITE OGE blocks |
 | P3 | 4.4 cmc-scholar-mode | Add "6–10 words each" to OGE requirements |
 | P3 | 4.5 cmc-mode-contracts | Add "6–10 words each" to OGE descriptions |
-| P3 | 4.6 FRANCIA H slot | Clarify H as 6–10 word recap + synthesis |
+| P3 | 4.6 FRANCE H slot | Clarify H as 6–10 word recap + synthesis |
 
 ---
 

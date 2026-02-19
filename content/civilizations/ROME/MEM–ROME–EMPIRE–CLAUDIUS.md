@@ -233,8 +233,8 @@ ROME:
 • MEM–ROME–LATIN — administrative language standardization  
 
 NON-ROME:
-• MEM–FRANCIA–STATE–ADMINISTRATION — bureaucratic inheritance parallels  
-• MEM–GERMANIA–LEGAL–RATIONALITY — office-based authority comparison  
+• MEM–FRANCE–STATE–ADMINISTRATION — bureaucratic inheritance parallels  
+• MEM–GERMANY–LEGAL–RATIONALITY — office-based authority comparison  
 • MEM–CHINA–IMPERIAL–BUREAUCRACY — clerical durability as civilizational glue  
 
 ────────────────────────────────────────────────────────────

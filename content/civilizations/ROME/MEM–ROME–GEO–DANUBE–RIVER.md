@@ -350,7 +350,7 @@ GEO–MEMs (≥2 Required):
 
 CROSS-CIVILIZATIONAL:
 • MEM–RUSSIA–DANUBE — Russian strategic interest
-• MEM–GERMANIA–MIGRATIONS — Germanic pressure source
+• MEM–GERMANY–MIGRATIONS — Germanic pressure source
 
 ────────────────────────────────────────────────────────────
 X. CONTINUITY INSIGHTS (RAW)

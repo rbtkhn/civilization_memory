@@ -389,7 +389,7 @@ Source:
 • SCHOLAR–AMERICA LEARN session (February 2026) — follow-on to ENTRY
   0010; multi-mind (D), backward traversal (E: Yorktown, Hundred Years'
   War), Mercouris (A: Nixon/Paris, Doctrine 01), Barnes (C: Truman),
-  forward (F), cross-civ (G: MEM–FRANCIA–WAR–TRAFALGAR, MEM–FRANCIA–
+  forward (F), cross-civ (G: MEM–FRANCE–WAR–TRAFALGAR, MEM–FRANCE–
   WAR–SIXTH–COALITION, Napoleon; MEM–RUSSIA–KUTUZOV, MEM–RUSSIA–WAR–
   RUSSO–JAPANESE, Kutuzov/Borodino, Tsushima/Portsmouth). Synthesis (H).
 Ingest Type:
@@ -439,8 +439,8 @@ ENTRY 0013
 Source:
 • SCHOLAR–AMERICA LEARN (Continental Congress thread); MEM–AMERICA–
   REVOLUTION–CONTINENTAL–CONGRESS, MEM–AMERICA–WAR–SEVEN–YEARS,
-  MEM–FRANCIA–FRENCH–REVOLUTION, MEM–RUSSIA–ROMANOV–NICHOLAS–II, MEM–RUSSIA–
-  LAW–ZEMSTVO, MEM–GERMANIA–FRANKFURT (February 2026). Traversals: A
+  MEM–FRANCE–FRENCH–REVOLUTION, MEM–RUSSIA–ROMANOV–NICHOLAS–II, MEM–RUSSIA–
+  LAW–ZEMSTVO, MEM–GERMANY–FRANKFURT (February 2026). Traversals: A
   (Mercouris), E (backward Albany/1763), G (Francia, Russia, Germania),
   D (multi-mind), H (synthesis).
 Ingest Type:
@@ -726,8 +726,8 @@ SYNTHESIS 0006 (candidate — from LEARN session assembly-under-pressure)
 
   Source: SCHOLAR–AMERICA LEARN session (Continental Congress thread;
   options A, E, G×3, D, H; MEM–AMERICA–REVOLUTION–CONTINENTAL–CONGRESS,
-  MEM–FRANCIA–FRENCH–REVOLUTION, MEM–RUSSIA–ROMANOV–NICHOLAS–II, MEM–RUSSIA–
-  LAW–ZEMSTVO, MEM–GERMANIA–FRANKFURT; ENTRY 0013). Do not treat as
+  MEM–FRANCE–FRENCH–REVOLUTION, MEM–RUSSIA–ROMANOV–NICHOLAS–II, MEM–RUSSIA–
+  LAW–ZEMSTVO, MEM–GERMANY–FRANKFURT; ENTRY 0013). Do not treat as
   doctrine unless explicitly accepted as doctrine per Template.
 
 SYNTHESIS 0007 (FROZEN · PROMOTED TO DOCTRINE 08 — from LEARN session president–emperor, first succession, empire of laws)

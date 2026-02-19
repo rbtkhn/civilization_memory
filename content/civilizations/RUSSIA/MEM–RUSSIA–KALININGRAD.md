@@ -291,8 +291,8 @@ GEO–MEM (REQUIRED ≥2):
 • MEM–RUSSIA–GEO–VISTULA–LAGOON — port geography
 
 Cross-civilizational:
-• MEM–GERMANIA–KONIGSBERG — Prussian heritage
-• MEM–GERMANIA–TEUTONIC–ORDER — crusader foundation
+• MEM–GERMANY–KONIGSBERG — Prussian heritage
+• MEM–GERMANY–TEUTONIC–ORDER — crusader foundation
 
 ────────────────────────────────────────────────────────────
 XIII. MEM BIBLIOGRAPHY (MANDATORY)

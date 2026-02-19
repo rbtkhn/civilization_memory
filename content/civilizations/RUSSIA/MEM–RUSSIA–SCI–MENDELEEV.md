@@ -147,8 +147,8 @@ GEO MEMs (≥2):
 • MEM–RUSSIA–GEO–VOLGA–RIVER — interior; Tobolsk (Ob basin)
 
 Cross-civilizational:
-• MEM–GERMANIA–SCI–GAUSS — parallel: order, system, completeness
-• MEM–GERMANIA–SCI–PLANCK — system before rupture
+• MEM–GERMANY–SCI–GAUSS — parallel: order, system, completeness
+• MEM–GERMANY–SCI–PLANCK — system before rupture
 
 ────────────────────────────────────────────────────────────
 VIII. CONCEPTS (SEMANTIC INDEX)

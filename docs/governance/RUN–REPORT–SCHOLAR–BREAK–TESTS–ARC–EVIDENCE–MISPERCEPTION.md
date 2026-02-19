@@ -17,11 +17,11 @@ B4 exposed **narrative inconsistency**: Francia’s explanation of *why* Germani
 
 ## 1. Franco–Prussian (1870): France Misread Prussia
 
-**Source:** MEM–FRANCIA–WAR–FRANCO–PRUSSIAN (ARC–FRANCIA: Kissinger, Ferguson, Chandler, Wilson, Durant, Fried)
+**Source:** MEM–FRANCE–WAR–FRANCO–PRUSSIAN (ARC–FRANCE: Kissinger, Ferguson, Chandler, Wilson, Durant, Fried)
 
 Francia’s own MEM records **French misperception** of Prussia—not “why Germany encodes closure,” but “how France saw Prussia before 1870”:
 
-**Verbatim (MEM–FRANCIA–WAR–FRANCO–PRUSSIAN § II):**
+**Verbatim (MEM–FRANCE–WAR–FRANCO–PRUSSIAN § II):**
 
 > **II. PRE-WAR MISREADING & STRATEGIC ILLUSION**  
 > Francia entered the war under conditions of deep strategic self-deception.  
@@ -92,9 +92,9 @@ Francia’s own MEM records **French misperception** of Prussia—not “why Ger
 
 ## 4. Germany–England: Mutual Self-Perception vs Discovery of Enmity
 
-**Source:** MEM–GERMANIA–ENGLAND (Peter H. Wilson, *Heart of Europe*; Christopher Clark, *Iron Kingdom*)
+**Source:** MEM–GERMANY–ENGLAND (Peter H. Wilson, *Heart of Europe*; Christopher Clark, *Iron Kingdom*)
 
-**Verbatim (MEM–GERMANIA–ENGLAND):**
+**Verbatim (MEM–GERMANY–ENGLAND):**
 
 > "**Germans and English long saw themselves as kindred peoples—**  
 > Protestant, industrious, orderly. **The discovery in 1914 that  
@@ -113,7 +113,7 @@ Francia’s own MEM records **French misperception** of Prussia—not “why Ger
 
 ## 5. Congress of Vienna: Attribution (Napoleon vs France)
 
-**Source:** MEM–GERMANIA–CONGRESS–VIENNA (SYNTHESIS 0021, closure paths)
+**Source:** MEM–GERMANY–CONGRESS–VIENNA (SYNTHESIS 0021, closure paths)
 
 **Verbatim (from CIV–SCHOLAR–GERMANY / SYNTHESIS 0021):**
 
@@ -124,7 +124,7 @@ Francia’s own MEM records **French misperception** of Prussia—not “why Ger
 > **Required conditions: (2) Regime crimes attributable to leadership,  
 > not institutional structure**  
 
-**From MEM–GERMANIA–CONGRESS–VIENNA (cross-ref):**
+**From MEM–GERMANY–CONGRESS–VIENNA (cross-ref):**
 
 > **attribution (Napoleon was aberration, not France)**; restoration path  
 
@@ -136,11 +136,11 @@ Francia’s own MEM records **French misperception** of Prussia—not “why Ger
 
 | Evidence | MEM / ARC | Pattern | Link to B4 |
 |----------|-----------|--------|------------|
-| France misread Prussia (status vs power, mistook symbolic for operational) | MEM–FRANCIA–WAR–FRANCO–PRUSSIAN; Kissinger | One side **misreads** the other (assumed, mistook, underestimated) | Francia’s MEM records French **misperception** of Prussia; B4 is Francia’s **misperception** of Germania’s *reasons* for closure |
+| France misread Prussia (status vs power, mistook symbolic for operational) | MEM–FRANCE–WAR–FRANCO–PRUSSIAN; Kissinger | One side **misreads** the other (assumed, mistook, underestimated) | Francia’s MEM records French **misperception** of Prussia; B4 is Francia’s **misperception** of Germania’s *reasons* for closure |
 | Russia underestimated Japan (“saw” Asian feudalism, “failed to recognize”) | MEM–RUSSIA–JAPAN; Schimmelpenninck | One side **sees** the other in terms the other rejects | Asymmetric: Russia “saw” incapacity; Japan did not underestimate. B4: Francia “sees” Germania as lacking; Germania sees self as exercising restraint |
 | Russia–Korea: Russia treated as peripheral, Japan as existential | MEM–RUSSIA–KOREA; Paine, Mercouris frame | **Priority mismatch** = misperception of the other’s stakes | Each side misreads the other’s **reasons** (peripheral vs existential). B4: each misreads the other’s **reasons** for encoding (lack vs restraint) |
 | Potemkin myth: outsider misunderstanding of imperial presentation | MEM–RUSSIA–POTEMKIN; Massie | **Outsider** attributes deception; **insider** attributes real transformation | Outsider (Francia) attributes to Germania “lack”; insider (Germania) attributes “exercise of restraint”—same structure |
-| Germany–England: “saw themselves as kindred”; “discovery that they were enemies” | MEM–GERMANIA–ENGLAND; Wilson, Clark | **Mutual self-perception** (we are kindred) **wrong** until events forced revision | Cross-civilizational **self-perception** and **perception of the other** are often wrong; B4 is a case (Francia’s explanation of Germania wrong by Germania’s lights) |
+| Germany–England: “saw themselves as kindred”; “discovery that they were enemies” | MEM–GERMANY–ENGLAND; Wilson, Clark | **Mutual self-perception** (we are kindred) **wrong** until events forced revision | Cross-civilizational **self-perception** and **perception of the other** are often wrong; B4 is a case (Francia’s explanation of Germania wrong by Germania’s lights) |
 
 ---
 

@@ -195,7 +195,7 @@ MEM–ROME–CICERO, where rhetoric fails against force.
 MEM–ROME–SPARTACUS, where systemic brutality breeds revolt.
 
 • Comparative cases:
-MEM–FRANCIA–NAPOLEON, MEM–GERMANIA–WAR–TEUTOBURG–FOREST,
+MEM–FRANCE–NAPOLEON, MEM–GERMANY–WAR–TEUTOBURG–FOREST,
 MEM–RUSSIA–STALIN.
 
 ────────────────────────────────────────────────────────────

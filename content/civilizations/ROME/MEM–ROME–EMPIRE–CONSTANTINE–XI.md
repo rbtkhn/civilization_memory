@@ -221,7 +221,7 @@ ROME:
 NON-ROME:
 • MEM–RUSSIA–THIRD–ROME — succession claim after 1453
 • MEM–OTTOMAN–MEHMED–II — the conqueror
-• MEM–GERMANIA–HOLY–ROMAN–EMPIRE — Western succession claim
+• MEM–GERMANY–HOLY–ROMAN–EMPIRE — Western succession claim
 
 ────────────────────────────────────────────────────────────
 XI. CONTINUITY INSIGHTS (RAW)

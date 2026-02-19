@@ -289,9 +289,9 @@ GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–DONBAS — industrial significance
 
 Cross-civilizational:
-• MEM–GERMANIA–MANSTEIN — counteroffensive commander
-• MEM–GERMANIA–SS–PANZER — Third Kharkov forces
-• MEM–GERMANIA–CASE–BLUE — strategic context
+• MEM–GERMANY–MANSTEIN — counteroffensive commander
+• MEM–GERMANY–SS–PANZER — Third Kharkov forces
+• MEM–GERMANY–CASE–BLUE — strategic context
 
 ────────────────────────────────────────────────────────────
 XIII. MEM BIBLIOGRAPHY

@@ -56,7 +56,7 @@ II. AUDIT RESULTS BY FILE
 | IX. VERSIONING | MISSING | No Section IX; file ends at VIII then END OF FILE |
 | **Verdict** | UPGRADE | Add IX. VERSIONING (brief); update header to v3.0. |
 
-**FRANCIA — CIV–ARC–FRANCIA.md (v2.0)**
+**FRANCE — CIV–ARC–FRANCE.md (v2.0)**
 
 | Check | Status | Note |
 |-------|--------|------|
@@ -65,7 +65,7 @@ II. AUDIT RESULTS BY FILE
 | I–IX + V-A | OK | Full template structure (I, II, III, IV, V, V-A, VI, VII, VIII, IX) |
 | **Verdict** | ALIGN | Update Compatibility line; add CORE and ARC–TEMPLATE refs. |
 
-**GERMANIA — CIV–ARC–GERMANIA.md (v2.5)**
+**GERMANY — CIV–ARC–GERMANY.md (v2.5)**
 
 | Check | Status | Note |
 |-------|--------|------|
@@ -126,8 +126,8 @@ III. SUMMARY
 |------|-------------|----------|-----|-----|---------|
 | ANGLIA | Upgrade | Variant (III/IV offset) | OK | OK | ALIGN (header only) |
 | CHINA | Upgrade | OK | OK | Missing | UPGRADE (header + IX) |
-| FRANCIA | Upgrade | OK | OK | OK | ALIGN (header only) |
-| GERMANIA | Upgrade | OK | OK | OK | ALIGN (header only) |
+| FRANCE | Upgrade | OK | OK | OK | ALIGN (header only) |
+| GERMANY | Upgrade | OK | OK | OK | ALIGN (header only) |
 | INDIA | Upgrade | OK | OK | OK | ALIGN (header only) |
 | ISLAM | Upgrade | OK | OK | Missing | UPGRADE (header + IX) |
 | PERSIA | Upgrade | OK | OK | Missing | UPGRADE (header + IX) |

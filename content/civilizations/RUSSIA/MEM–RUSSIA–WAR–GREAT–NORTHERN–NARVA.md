@@ -250,7 +250,7 @@ GEO–MEM (REQUIRED ≥2):
 • MEM–RUSSIA–GEO–NEVA–RIVER — St. Petersburg foundation and Baltic gateway
 
 Cross-civilizational:
-• MEM–GERMANIA–WAR–JENA — catastrophic defeat as reform catalyst
+• MEM–GERMANY–WAR–JENA — catastrophic defeat as reform catalyst
 • MEM–CHINA–OPIUM–WARS — early defeat exposing systemic weakness
 
 ────────────────────────────────────────────────────────────

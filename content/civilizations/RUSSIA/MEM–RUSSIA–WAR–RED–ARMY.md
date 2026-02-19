@@ -282,9 +282,9 @@ GEO Connections — ≥2 Required:
 • MEM–RUSSIA–GEO–URAL–MOUNTAINS — industrial relocation
 
 Cross-Civilizational:
-• MEM–GERMANIA–NAZI–WEHRMACHT — primary adversary
+• MEM–GERMANY–NAZI–WEHRMACHT — primary adversary
 • MEM–ANGLIA–WWII — Allied partner
-• MEM–FRANCIA–VICHY — Western Front context
+• MEM–FRANCE–VICHY — Western Front context
 
 Each connection is structurally required.
 

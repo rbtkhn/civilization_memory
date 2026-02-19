@@ -166,7 +166,7 @@ Where Locke limits power, Smith explains prosperity within those limits.
 • MEM–ANGLIA–WAR–NELSON–TRAFALGAR  
 Maritime supremacy enables the commercial order Smith describes.
 
-• MEM–GERMANIA–KANT  
+• MEM–GERMANY–KANT  
 Kant moralizes duty; Smith socializes virtue through interaction.
 
 ────────────────────────────────────────────────────────────

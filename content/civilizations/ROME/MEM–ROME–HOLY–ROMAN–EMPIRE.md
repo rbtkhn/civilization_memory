@@ -260,7 +260,7 @@ GEO (≥2):
 • MEM–ROME–GEO–DANUBE–RIVER — eastern frontier
 
 Cross-civilizational:
-• MEM–GERMANIA–HOLY–ROMAN–EMPIRE — Germanic perspective on same entity
+• MEM–GERMANY–HOLY–ROMAN–EMPIRE — Germanic perspective on same entity
 • MEM–RUSSIA–THIRD–ROME — rival fragment claimant (Eastern)
 
 ────────────────────────────────────────────────────────────

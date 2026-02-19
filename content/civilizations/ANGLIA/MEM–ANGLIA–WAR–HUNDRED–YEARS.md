@@ -193,8 +193,8 @@ GEO–MEM:
 • MEM–ANGLIA–GEO–ATLANTIC — naval investment; indirect power projection.
 
 Cross-Civilizational:
-• MEM–FRANCIA–DYNASTY–CAPET — absorption through patience; Francien resistance to elite replacement.
-• MEM–GERMANIA–OTTONIAN — kingship-centered consolidation.
+• MEM–FRANCE–DYNASTY–CAPET — absorption through patience; Francien resistance to elite replacement.
+• MEM–GERMANY–OTTONIAN — kingship-centered consolidation.
 • MEM–ROME–REPUBLIC — expansion without durable constraint.
 
 ────────────────────────────────────────────────────────────

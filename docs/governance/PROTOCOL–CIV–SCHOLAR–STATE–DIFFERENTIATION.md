@@ -24,7 +24,7 @@ This protocol defines **dimensions to observe**, **how to compare**, and **how t
 - **STATE:** CIV–STATE–[CIV] files (material options, stability indicators, decision-relevant history, cross-entity links).
 - **Cross-file:** Optional joint run (e.g. “SCHOLAR vs STATE encoding of the same entity”).
 
-**Exemplars:** REPORT–SCHOLAR–FRANCIA–GERMANIA–COGNITIVE–DIFFERENTIATION.md, REPORT–SCHOLAR–FRANCIA–ANGLIA–COGNITIVE–DIFFERENTIATION.md.
+**Exemplars:** REPORT–SCHOLAR–FRANCE–GERMANY–COGNITIVE–DIFFERENTIATION.md, REPORT–SCHOLAR–FRANCE–ANGLIA–COGNITIVE–DIFFERENTIATION.md.
 
 ---
 
@@ -119,7 +119,7 @@ Choose one (or combine) according to goal:
    - Preserve tension; do not resolve contradictions between civilizational encodings.
 
 6. **Report**
-   - Use the output format below (or the structure of REPORT–SCHOLAR–FRANCIA–GERMANIA as template).
+   - Use the output format below (or the structure of REPORT–SCHOLAR–FRANCE–GERMANY as template).
    - Store in docs/governance with name e.g. REPORT–SCHOLAR–[CIV1]–[CIV2]–DIFFERENTIATION–[YYYY-MM-DD].md or REPORT–STATE–[CIV1]–[CIV2]–DIFFERENTIATION–[YYYY-MM-DD].md.
 
 ---
@@ -154,8 +154,8 @@ Choose one (or combine) according to goal:
 
 **Differentiation report exemplars:**
 
-- REPORT–SCHOLAR–FRANCIA–GERMANIA–COGNITIVE–DIFFERENTIATION.md (SCHOLAR pairwise; cognitive-spiritual)
-- REPORT–SCHOLAR–FRANCIA–ANGLIA–COGNITIVE–DIFFERENTIATION.md (SCHOLAR pairwise; phase and lock)
+- REPORT–SCHOLAR–FRANCE–GERMANY–COGNITIVE–DIFFERENTIATION.md (SCHOLAR pairwise; cognitive-spiritual)
+- REPORT–SCHOLAR–FRANCE–ANGLIA–COGNITIVE–DIFFERENTIATION.md (SCHOLAR pairwise; phase and lock)
 
 ---
 
@@ -174,6 +174,6 @@ Choose one (or combine) according to goal:
 
 - CIV–SCHOLAR–TEMPLATE v3.3 (section structure, phase model, RLL/NCZ)
 - CIV–STATE–TEMPLATE v3.3 (section structure, material options, stability indicators)
-- REPORT–SCHOLAR–FRANCIA–GERMANIA–COGNITIVE–DIFFERENTIATION.md
-- REPORT–SCHOLAR–FRANCIA–ANGLIA–COGNITIVE–DIFFERENTIATION.md
+- REPORT–SCHOLAR–FRANCE–GERMANY–COGNITIVE–DIFFERENTIATION.md
+- REPORT–SCHOLAR–FRANCE–ANGLIA–COGNITIVE–DIFFERENTIATION.md
 - cmc-mode-contracts.mdc (SCHOLAR vs STATE mode roles)

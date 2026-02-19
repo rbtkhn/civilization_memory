@@ -322,7 +322,7 @@ ROME:
   human cost of the Justinianic era.
 
 NON-ROME:
-• MEM–FRANCIA–CHARLEMAGNE — parallel attempt at Western imperial restoration
+• MEM–FRANCE–CHARLEMAGNE — parallel attempt at Western imperial restoration
   using Roman legal and sacral motifs.
 
 ────────────────────────────────────────────────────────────

@@ -408,7 +408,7 @@ GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–GULF–RIGA — port location
 
 Cross-civilizational:
-• MEM–GERMANIA–HANSEATIC–LEAGUE — commercial origins
+• MEM–GERMANY–HANSEATIC–LEAGUE — commercial origins
 • MEM–SCANDINAVIA–SWEDEN — Swedish Livonia period
 • MEM–NATO–EXPANSION — 2004 accession (Latvia)
 

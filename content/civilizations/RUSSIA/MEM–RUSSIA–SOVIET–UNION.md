@@ -379,7 +379,7 @@ GEO Connections — ≥2 Required:
 • MEM–RUSSIA–GEO–EASTERN–EUROPE — empire zone
 
 Cross-Civilizational:
-• MEM–GERMANIA–NAZI — existential enemy
+• MEM–GERMANY–NAZI — existential enemy
 • MEM–ANGLIA–COLD–WAR — superpower rival
 • MEM–CHINA–COMMUNIST — ideological ally/rival
 

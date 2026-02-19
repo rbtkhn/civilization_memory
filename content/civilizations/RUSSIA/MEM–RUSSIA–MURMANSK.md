@@ -311,7 +311,7 @@ GEO Connections — ≥2 Required:
 Cross-Civilizational:
 • MEM–ANGLIA–ARCTIC–CONVOYS — Allied supply partnership
 • MEM–ANGLIA–INTERVENTION–1918 — occupation and withdrawal
-• MEM–GERMANIA–NAZI — Luftwaffe bombardment
+• MEM–GERMANY–NAZI — Luftwaffe bombardment
 
 Each connection is structurally required.
 

@@ -140,7 +140,7 @@ Enduring effects:
 Anglia’s earliest memory of empire is **encounter without absorption**.
 
 ────────────────────────────────────────────────────────────
-VIII. STRUCTURAL PARALLEL WITH GERMANIA
+VIII. STRUCTURAL PARALLEL WITH GERMANY
 ────────────────────────────────────────────────────────────
 Britain and Germania occupy similar early-Roman categories.
 
@@ -166,9 +166,9 @@ Internal (ANGLIA):
 • MEM–ANGLIA–NORMAN–CONQUEST — later successful absorption model
 
 Cross-Civilizational:
-• MEM–GERMANIA–WAR–CAESAR — parallel non-incorporation logic
+• MEM–GERMANY–WAR–CAESAR — parallel non-incorporation logic
 • MEM–ROME–AUGUSTUS — consolidation vs expansion tension
-• MEM–FRANCIA–GAUL — successful Roman absorption contrast
+• MEM–FRANCE–GAUL — successful Roman absorption contrast
 • MEM–ROME–BRITANNIA — provincialization under different conditions
 
 ────────────────────────────────────────────────────────────

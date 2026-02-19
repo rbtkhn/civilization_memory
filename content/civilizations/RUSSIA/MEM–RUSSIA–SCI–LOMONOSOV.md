@@ -35,7 +35,7 @@ that outlast the sovereign**—state-sponsored science and higher
 education as the legacy of rupture rather than its repudiation. Cross-
 civilizational contrast: Germania's Planck discovers rupture while
 attempting conservation; Lomonosov builds institutions after rupture
-has already been imposed (MEM–GERMANIA–SCI–PLANCK).
+has already been imposed (MEM–GERMANY–SCI–PLANCK).
 
 Contradictions are preserved without synthesis.
 
@@ -139,7 +139,7 @@ GEO MEMs (≥2):
 • MEM–RUSSIA–GEO–BALTIC–SEA — Petersburg; Academy axis
 
 Cross-civilizational:
-• MEM–GERMANIA–SCI–PLANCK — contrast: conservator at threshold vs builder after rupture
+• MEM–GERMANY–SCI–PLANCK — contrast: conservator at threshold vs builder after rupture
 
 ────────────────────────────────────────────────────────────
 VIII. CONCEPTS (SEMANTIC INDEX)

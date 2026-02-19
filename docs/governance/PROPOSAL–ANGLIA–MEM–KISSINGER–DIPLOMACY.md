@@ -10,7 +10,7 @@
 ────────────────────────────────────────────────────────────
 I. PURPOSE
 ────────────────────────────────────────────────────────────
-This document maps Henry Kissinger's diplomatic and international-relations work to existing Anglia MEMs and proposes **systematic SOURCE block integration** as civilizational evidence (ARC-T-MODERN, ERC-SECONDARY). Kissinger is already registered in CIV–ARC–FRANCIA and cited in 11 Anglia MEMs, but **only one MEM has a verbatim SOURCE block**; the rest use paraphrases or analytical frames without formal attribution or title citation.
+This document maps Henry Kissinger's diplomatic and international-relations work to existing Anglia MEMs and proposes **systematic SOURCE block integration** as civilizational evidence (ARC-T-MODERN, ERC-SECONDARY). Kissinger is already registered in CIV–ARC–FRANCE and cited in 11 Anglia MEMs, but **only one MEM has a verbatim SOURCE block**; the rest use paraphrases or analytical frames without formal attribution or title citation.
 
 Kissinger's work on British foreign policy, balance of power, offshore balancing, and legitimacy in international relations is directly relevant to Anglia's civilizational narrative. Systematic integration would align Anglia with Francia's level of Kissinger citation and provide a coherent diplomatic-strategic layer alongside Churchill (narrative) and Ferguson (financial-imperial).
 
@@ -115,7 +115,7 @@ VI. SOURCE RULES
 - Attribution: "Henry Kissinger, *Diplomacy* (New York: Simon & Schuster, 1994), [chapter/page]." OR "Henry Kissinger, *A World Restored: Metternich, Castlereagh and the Problems of Peace, 1812–1822* (Boston: Houghton Mifflin, 1957), [chapter/page]." OR "Henry Kissinger, *World Order* (New York: Penguin, 2014), [chapter/page]."
 - ERC: **ERC-SECONDARY**. ARC: Kissinger to be added to CIV–ARC–ANGLIA (ARC-T-MODERN) if not already present.
 - Proportional Blend: Kissinger counts as **Mercouris-layer** (diplomatic/legitimacy narrative); complements Churchill (narrative), Ferguson (financial-imperial), Anderson (war).
-- Cross-reference: Kissinger is already in CIV–ARC–FRANCIA v1.6+ (*Diplomacy*, *A World Restored*, *World Order* — French diplomatic tradition, Richelieu, Talleyrand, Vienna settlement). Anglia should mirror this for British diplomatic tradition (Castlereagh, Palmerston, offshore balancing).
+- Cross-reference: Kissinger is already in CIV–ARC–FRANCE v1.6+ (*Diplomacy*, *A World Restored*, *World Order* — French diplomatic tradition, Richelieu, Talleyrand, Vienna settlement). Anglia should mirror this for British diplomatic tradition (Castlereagh, Palmerston, offshore balancing).
 
 ────────────────────────────────────────────────────────────
 VII. KISSINGER IN REPOSITORY (CURRENT STATE — AUDIT JAN 2026)
@@ -136,8 +136,8 @@ VII. KISSINGER IN REPOSITORY (CURRENT STATE — AUDIT JAN 2026)
 | MEM–ANGLIA–LAW–LAW–FEDERALIST–PAPERS | Analytical frame + bibliography | No title cited |
 | MEM–ANGLIA–ATHELSTAN | Analytical frame + OGE option | No title cited |
 
-**FRANCIA:**
-- CIV–ARC–FRANCIA v1.6+: Kissinger added to ARC-T-MODERN (*Diplomacy*, *A World Restored*, *World Order* — French diplomatic tradition, Richelieu, Talleyrand, Vienna settlement).
+**FRANCE:**
+- CIV–ARC–FRANCE v1.6+: Kissinger added to ARC-T-MODERN (*Diplomacy*, *A World Restored*, *World Order* — French diplomatic tradition, Richelieu, Talleyrand, Vienna settlement).
 - Kissinger cited in Francia MEMs for French diplomatic history (Richelieu, Talleyrand, Napoleon).
 
 **Summary:** Kissinger is **registered in Francia ARC** and **paraphrased in 11 Anglia MEMs**, but **only one Anglia MEM has a verbatim quote** and **none have formal SOURCE blocks** with ARC-T-MODERN, ERC-SECONDARY. Anglia should upgrade existing citations and add SOURCE blocks to align with governance standards and Francia's level of integration.
@@ -175,7 +175,7 @@ X. RELATED PROPOSALS
 |----------|--------|------------------------|
 | PROPOSAL–ANGLIA–MEM–FERGUSON–EMPIRE | ✓ Partially implemented | Ferguson = financial-imperial; Kissinger = diplomatic-strategic; complementary. |
 | PROPOSAL–ANGLIA–MEM–CHURCHILL–VOL4–GREAT–DEMOCRACIES | ✓ Implemented | Churchill = narrative; Kissinger = analytical frame; complementary. |
-| (Francia) Kissinger in CIV–ARC–FRANCIA | ✓ Implemented (v1.6) | Anglia should mirror for British diplomatic tradition. |
+| (Francia) Kissinger in CIV–ARC–FRANCE | ✓ Implemented (v1.6) | Anglia should mirror for British diplomatic tradition. |
 
 **Kissinger complements Churchill and Ferguson:** Churchill provides civilizational narrative; Ferguson provides financial-imperial analysis; Kissinger provides diplomatic-strategic and legitimacy analysis. All three are Mercouris-layer (ARC-T-MODERN, ERC-SECONDARY).
 

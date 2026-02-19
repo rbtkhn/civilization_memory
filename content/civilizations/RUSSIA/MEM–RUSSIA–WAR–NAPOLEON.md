@@ -245,7 +245,7 @@ GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–FOREST–ZONE — defensive terrain and logistics
 
 Cross-civilizational:
-• MEM–FRANCIA–NAPOLEON — systemic threat and operational contrast
+• MEM–FRANCE–NAPOLEON — systemic threat and operational contrast
 
 ────────────────────────────────────────────────────────────
 XI. ACADEMIC REFERENCES (ENGAGED)

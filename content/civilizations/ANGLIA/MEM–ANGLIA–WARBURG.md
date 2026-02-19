@@ -110,7 +110,7 @@ Same-civilization (Anglia):
 • MEM–ANGLIA–UNITED–STATES–AMERICA — Warburg and Fed as key American monetary institution-building
 
 Cross-civilization:
-• MEM–GERMANIA–ROTHSCHILD — Comparative: Frankfurt/Hamburg Jewish banking; Germania as Warburg origin (Hamburg)
+• MEM–GERMANY–ROTHSCHILD — Comparative: Frankfurt/Hamburg Jewish banking; Germania as Warburg origin (Hamburg)
 
 ────────────────────────────────────────────────────────────
 VIII. PRIMARY SOURCES & REFERENCES

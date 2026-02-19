@@ -312,7 +312,7 @@ GEO MEMs (≥2):
 • MEM–RUSSIA–GEO–URALS — dynastic termination site (Ekaterinburg)
 
 Cross-civilizational:
-• MEM–FRANCIA–LOUIS–XVI — comparative monarchical collapse
+• MEM–FRANCE–LOUIS–XVI — comparative monarchical collapse
 • MEM–HABSBURG–FRANZ–JOSEPH — imperial dissolution parallel
 • MEM–OTTOMAN–COLLAPSE — multi-front imperial failure
 

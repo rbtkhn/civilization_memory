@@ -223,7 +223,7 @@ GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–LAKE–LADOGA — Road of Life (if exists); else reference in prose
 
 Cross-civilizational:
-• MEM–GERMANIA–ARMY–GROUP–NORTH — besieging force (if exists)
+• MEM–GERMANY–ARMY–GROUP–NORTH — besieging force (if exists)
 
 ────────────────────────────────────────────────────────────
 X. MEM BIBLIOGRAPHY (MANDATORY)

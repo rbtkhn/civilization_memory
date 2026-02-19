@@ -102,7 +102,7 @@ CONTRADICTS:
 
 PARALLELS:
 • MEM–ROME–AUGUSTUS — Concentration of power while preserving formal institutions
-• MEM–FRANCIA–LOUIS–XIV — Coercive state-building and elite subordination
+• MEM–FRANCE–LOUIS–XIV — Coercive state-building and elite subordination
 
 GEOGRAPHIC:
 • MEM–RUSSIA–GEO–NEVA–RIVER — Site of Petersburg; corridor to Baltic

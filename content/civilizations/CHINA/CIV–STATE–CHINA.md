@@ -643,7 +643,7 @@ PERSIA (IRAN):
   Dimension: Sanctions-exit ally; axis diversification.
   Key distinction: Relevant to Option B (Axis Optionality, EPV).
 
-EUROPE / GERMANIA:
+EUROPE / GERMANY:
   Dimension: Industrial complement; regulatory and trade friction.
   Key distinction: Affects compute, trade, and narrative alignment;
   secondary to US for Strait and containment.

@@ -548,7 +548,7 @@ Belief Status:
 
 ENTRY 0010
 Source:
-• MEM–FRANCIA–DYNASTY–CAPET — v1.0
+• MEM–FRANCE–DYNASTY–CAPET — v1.0
 Ingest Type:
 • Absorption-Based Consolidation Memory
 Primary Belief Extracted:
@@ -686,7 +686,7 @@ ASSUMPTION 1: Absorption and exit are distinct civilizational strategies
 | Field | Content |
 |-------|---------|
 | STATEMENT | Absorption (incremental incorporation, continuity through incorporation) and exit (procedural withdrawal, optionality preservation) are structurally distinct paths to durability. |
-| BASIS | MEM–FRANCIA–DYNASTY–CAPET (absorption); MEM–ANGLIA–WAR–HUNDRED–YEARS, MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE–YORKTOWN, MEM–ANGLIA–CANADA (exit); SDI Anglia ↔ Francia. |
+| BASIS | MEM–FRANCE–DYNASTY–CAPET (absorption); MEM–ANGLIA–WAR–HUNDRED–YEARS, MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE–YORKTOWN, MEM–ANGLIA–CANADA (exit); SDI Anglia ↔ Francia. |
 | IF_WRONG | If absorption and exit were not distinguishable at civilizational level, synthesis would collapse into a single "survival strategy" claim. |
 | LINCHPIN_STATUS | High |
 

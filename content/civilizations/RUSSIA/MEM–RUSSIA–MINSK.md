@@ -310,8 +310,8 @@ GEO–MEM (REQUIRED ≥2):
 
 Cross-civilizational:
 • MEM–POLAND–LITHUANIA–COMMONWEALTH — prior sovereign
-• MEM–FRANCIA–NAPOLEON — 1812 invasion
-• MEM–GERMANIA–THIRD–REICH — 1941 invasion
+• MEM–FRANCE–NAPOLEON — 1812 invasion
+• MEM–GERMANY–THIRD–REICH — 1941 invasion
 
 ────────────────────────────────────────────────────────────
 XII. MEM BIBLIOGRAPHY (MANDATORY · v2.6+)

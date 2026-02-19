@@ -311,7 +311,7 @@ GEO Connections — ≥2 Required:
 • MEM–RUSSIA–GEO–MONGOLIA — Khalkhin Gol location
 
 Cross-Civilizational:
-• MEM–GERMANIA–NAZI–WEHRMACHT — primary adversary
+• MEM–GERMANY–NAZI–WEHRMACHT — primary adversary
 • MEM–JAPAN–KWANTUNG–ARMY — Khalkhin Gol opponent
 • MEM–ANGLIA–EISENHOWER — Allied counterpart
 

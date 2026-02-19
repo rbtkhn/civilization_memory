@@ -1,0 +1,45 @@
+{
+  "version": "v1.0",
+  "generated_at": "2026-02-19T16:17:42.406319+00:00",
+  "source_repo": "CIV–MEM",
+  "files": [
+    "CIV–MEM–CORE.md",
+    "CIV–MEM–TEMPLATE.md",
+    "content-composition.md"
+  ],
+  "content_composition": {
+    "file_types": [
+      "GEO–MEM",
+      "Subject MEM"
+    ],
+    "geo_primary": "Mearsheimer",
+    "geo_secondary": "Mercouris",
+    "subject_primary": "Mercouris",
+    "subject_secondary": "Mearsheimer",
+    "barnes_required": true,
+    "section_role_note": "See content-composition.md for full table."
+  },
+  "template_sections_sample": [
+    "I. PURPOSE & AUTHORITY",
+    "II. FILE IDENTITY & METADATA (MANDATORY)",
+    "III. MEMORY PURPOSE & SCOPE (REQUIRED)",
+    "IV. STRUCTURAL CONTENT RULES (HARD)",
+    "V. ERC — EVIDENCE ROLE CATEGORIES",
+    "VI. EVIDENCE QUALITY STANDARDS (EQS)",
+    "VII. ARC-TEMPORAL SUBSTITUTION PROTOCOL",
+    "VIII. MANDATORY 20% VERBATIM QUOTE STANDARD",
+    "IX. SECONDARY SOURCE ENTANGLEMENT",
+    "X. MEM CONNECTIONS — TYPED DIRECTIONAL EDGES (CMC 3.1)",
+    "XI. CONTINUITY INSIGHTS (RAW)",
+    "XII. PEDAGOGICAL AFFORDANCE LAYER",
+    "XIII. MEM INGEST BOOTSTRAP",
+    "XIV. ARC VERSION PINNING",
+    "XV. COMPLIANCE TIERS",
+    "XVI. FAILURE MODE ENFORCEMENT",
+    "XVII. LANGUAGE CONSTRAINTS",
+    "XVIII. MEM BIBLIOGRAPHY (MANDATORY)",
+    "XIX. STORAGE & MIRRORING RULE",
+    "XX. CEV → MEM PROMOTION PROVENANCE (NEW · v2.7)"
+  ],
+  "connection_requirements": "MEM CONNECTIONS section mandatory; connector pairs per CONCEPT–ROME–ISLAM–DOUBLE–HELIX IV-A when applicable."
+}

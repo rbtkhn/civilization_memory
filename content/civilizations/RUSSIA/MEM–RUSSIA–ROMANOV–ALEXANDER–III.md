@@ -192,8 +192,8 @@ GEO MEMs (≥2):
 • MEM–RUSSIA–VLADIVOSTOK — Trans-Siberian ceremonial start 1891
 
 Cross-civilizational:
-• MEM–FRANCIA–RUSSO–ALLIANCE — Franco-Russian alignment 1891–1894
-• MEM–GERMANIA–BISMARCK — European balance, Russian positioning
+• MEM–FRANCE–RUSSO–ALLIANCE — Franco-Russian alignment 1891–1894
+• MEM–GERMANY–BISMARCK — European balance, Russian positioning
 
 ────────────────────────────────────────────────────────────
 X. MEM BIBLIOGRAPHY

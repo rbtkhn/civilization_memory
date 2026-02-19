@@ -187,7 +187,7 @@ GEO–MEM (required ≥2):
 • MEM–ANGLIA–GEO–MISSISSIPPI–RIVER — Frontier and expansion in Tocqueville's America; mobility, equality of conditions
 
 Cross-civilizational:
-• MEM–FRANCIA–HIST–TOCQUEVILLE — Same figure, Francia's encoding; Tocqueville as diagnostician of French revolution and centralization. Anglia MEM = observer of us; Francia MEM = observer of them.
+• MEM–FRANCE–HIST–TOCQUEVILLE — Same figure, Francia's encoding; Tocqueville as diagnostician of French revolution and centralization. Anglia MEM = observer of us; Francia MEM = observer of them.
 
 ────────────────────────────────────────────────────────────
 XI. PRIMARY SOURCES & REFERENCES

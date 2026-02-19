@@ -152,7 +152,7 @@ IX. INDEX STATUS & GOVERNANCE
 • This index must be updated whenever a new MEM–ISLAM file is added.
 • Filenames listed here are canonical.
 • Ordering reflects civilizational logic, not chronology.
-• Cross-civilization mirrors (ROME / FRANCIA / GERMANIA) are indexed separately.
+• Cross-civilization mirrors (ROME / FRANCE / GERMANY) are indexed separately.
 
 ────────────────────────────────────────────────────────────
 X. CANONICAL LOCK NOTICE

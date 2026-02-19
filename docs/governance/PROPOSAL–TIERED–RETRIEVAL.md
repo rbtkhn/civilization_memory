@@ -85,7 +85,7 @@ Starting: MEM–RUSSIA–ROMANOV–PETER–I
 
 DEPENDS_ON → MEM–RUSSIA–MUSCOVY–IVAN–IV (coercive apparatus)
 ENABLES → MEM–RUSSIA–ROMANOV–CATHERINE–II (consolidation)
-PARALLELS → MEM–FRANCIA–LOUIS–XIV (state-building)
+PARALLELS → MEM–FRANCE–LOUIS–XIV (state-building)
 
 Result: Related MEMs via typed edges
 ```

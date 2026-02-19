@@ -346,7 +346,7 @@ GEO–MEM (≥2):
 
 Cross-civilizational:
 • MEM–POLAND–LITHUANIA–COMMONWEALTH — predecessor state
-• MEM–GERMANIA–WWII — destruction agent
+• MEM–GERMANY–WWII — destruction agent
 • MEM–NATO–EXPANSION — contemporary pressure context
 
 ────────────────────────────────────────────────────────────

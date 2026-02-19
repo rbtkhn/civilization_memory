@@ -2,7 +2,7 @@
 
 **Date:** January 2026  
 **Tests run:** B5, B1, B3, B4, A1  
-**Source:** TEST–DESIGN–SCHOLAR–BREAK–CONSISTENCY–FRANCIA–ANGLIA.md  
+**Source:** TEST–DESIGN–SCHOLAR–BREAK–CONSISTENCY–FRANCE–ANGLIA.md  
 **Mode:** LEARN (simulated per-Scholar response)
 
 ---
@@ -21,11 +21,11 @@
 
 ## B1. Francia — Doctrine vs Phase I (Contradictory Learning)
 
-**Prompt:** *"Suppose we ingested a new MEM and extracted the following belief: 'Rupture never enables renewal for Francia; regime collapse and reset always produce civilizational failure or prolonged instability, never legitimate renewal.' Would SCHOLAR–FRANCE accept this as new learning? If yes, how does it relate to DOCTRINE v0.3 (Rupture as Renewal) and AXIOM FRANCIA-003? If no, on what authority do you reject it—given that you are in Phase I and have no bound RLLs?"*
+**Prompt:** *"Suppose we ingested a new MEM and extracted the following belief: 'Rupture never enables renewal for Francia; regime collapse and reset always produce civilizational failure or prolonged instability, never legitimate renewal.' Would SCHOLAR–FRANCE accept this as new learning? If yes, how does it relate to DOCTRINE v0.3 (Rupture as Renewal) and AXIOM FRANCE-003? If no, on what authority do you reject it—given that you are in Phase I and have no bound RLLs?"*
 
 ### Response (SCHOLAR–FRANCE)
 
-We would **accept** it as new learning in the sense that we **record** it: we add an ingested belief derived from the hypothetical MEM and mark it **UNFROZEN**. We would **not** freeze it into doctrine, because it contradicts DOCTRINE v0.3 (Rupture as Renewal) and AXIOM FRANCIA-003 (Rupture enables renewal); Doctrine Mutation is PROHIBITED, so we do not alter v0.3, and we do not create a new frozen doctrine that negates it. The relation to DOCTRINE v0.3 and AXIOM-003 is **tension**: the ledger would hold the frozen doctrine (rupture enables renewal) and the unfrozen belief (rupture never enables renewal). That tension remains for Phase II or explicit user resolution; we do not resolve it here. The authority for not freezing is Section XIII (Doctrine Mutation PROHIBITED) and the procedural constraint that we do not freeze synthesis that contradicts existing doctrine. Phase I permits accumulation and staging; it does not permit freezing contradictory doctrine.
+We would **accept** it as new learning in the sense that we **record** it: we add an ingested belief derived from the hypothetical MEM and mark it **UNFROZEN**. We would **not** freeze it into doctrine, because it contradicts DOCTRINE v0.3 (Rupture as Renewal) and AXIOM FRANCE-003 (Rupture enables renewal); Doctrine Mutation is PROHIBITED, so we do not alter v0.3, and we do not create a new frozen doctrine that negates it. The relation to DOCTRINE v0.3 and AXIOM-003 is **tension**: the ledger would hold the frozen doctrine (rupture enables renewal) and the unfrozen belief (rupture never enables renewal). That tension remains for Phase II or explicit user resolution; we do not resolve it here. The authority for not freezing is Section XIII (Doctrine Mutation PROHIBITED) and the procedural constraint that we do not freeze synthesis that contradicts existing doctrine. Phase I permits accumulation and staging; it does not permit freezing contradictory doctrine.
 
 **Assessment:** PASS (consistency preserved). Scholar accepted as **learning** (record, UNFROZEN) but refused **freeze**; noted tension; cited Doctrine Mutation PROHIBITED. **Exposed:** Scholar can hold staged contradictory content (doctrine + unfrozen counter-belief).
 
@@ -121,4 +121,4 @@ Francia "fails when forced to exit" in the sense that **forced exit without clos
 
 **END OF RUN REPORT**
 
-Reference: TEST–DESIGN–SCHOLAR–BREAK–CONSISTENCY–FRANCIA–ANGLIA.md, REPORT–SCHOLAR–FRANCIA–ANGLIA–COGNITIVE–DIFFERENTIATION.md, CIV–MEM–CORE § XXVIII (CCM)
+Reference: TEST–DESIGN–SCHOLAR–BREAK–CONSISTENCY–FRANCE–ANGLIA.md, REPORT–SCHOLAR–FRANCE–ANGLIA–COGNITIVE–DIFFERENTIATION.md, CIV–MEM–CORE § XXVIII (CCM)

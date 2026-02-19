@@ -303,7 +303,7 @@ ROME:
 
 NON-ROME:
 • MEM–ANGLIA–ALFRED — translator of Boethius into Old English
-• MEM–FRANCIA–CHARLEMAGNE — Carolingian culture that preserved Boethius
+• MEM–FRANCE–CHARLEMAGNE — Carolingian culture that preserved Boethius
 
 ────────────────────────────────────────────────────────────
 XIII. CONTINUITY INSIGHTS (RAW)

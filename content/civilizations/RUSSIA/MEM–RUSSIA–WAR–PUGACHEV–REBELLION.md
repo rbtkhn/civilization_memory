@@ -218,7 +218,7 @@ Russian:
 
 Cross-civilizational:
 • MEM–CHINA–TAIPING — massive peasant rebellion with false legitimacy
-• MEM–FRANCIA–JACQUERIE — peasant uprising against seigneurial order
+• MEM–FRANCE–JACQUERIE — peasant uprising against seigneurial order
 
 ────────────────────────────────────────────────────────────
 XII. MEM BIBLIOGRAPHY (MANDATORY)

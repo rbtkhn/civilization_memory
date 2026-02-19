@@ -416,7 +416,7 @@ GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–SUWALKI–GAP — Baltic vulnerability
 
 Cross-civilizational:
-• MEM–GERMANIA–TEUTONIC–ORDER — crusader origins
+• MEM–GERMANY–TEUTONIC–ORDER — crusader origins
 • MEM–SCANDINAVIA–SWEDEN — Swedish Livonia period
 • MEM–NATO–EXPANSION — 2004 accession
 

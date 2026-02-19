@@ -81,8 +81,8 @@ CIV–MEM–CORE v3.0 is the system preload. All civilization CORE, SCHOLAR, IND
 |--------------|------|---------|-----|
 | CHINA | CIV–CORE–CHINA | v3.0 | — OK |
 | ANGLIA | CIV–CORE–ANGLIA | v2.9 | v3.0 |
-| FRANCIA | CIV–CORE–FRANCIA | v2.9 | v3.0 |
-| GERMANIA | CIV–CORE–GERMANIA | v2.9 | v3.0 |
+| FRANCE | CIV–CORE–FRANCE | v2.9 | v3.0 |
+| GERMANY | CIV–CORE–GERMANY | v2.9 | v3.0 |
 | INDIA | CIV–CORE–INDIA | v2.9 | v3.0 |
 | ISLAM | CIV–CORE–ISLAM | v2.9 | v3.0 |
 | PERSIA | CIV–CORE–PERSIA | v2.9 | v3.0 |
@@ -98,8 +98,8 @@ CIV–MEM–CORE v3.0 is the system preload. All civilization CORE, SCHOLAR, IND
 | ANGLIA | CIV–SCHOLAR–ANGLIA | Template v2.10, Protocol v2.6 | v3.0 |
 | ISLAM | CIV–SCHOLAR–ISLAM | Template v2.10, Protocol v2.6 | v3.0 |
 | INDIA | CIV–SCHOLAR–INDIA | Template v2.10, Protocol v2.6 | v3.0 |
-| FRANCIA | CIV–SCHOLAR–FRANCE | CMC v2.7+, CIV–MEM–CORE v2.9 | v3.0 |
-| GERMANIA | CIV–SCHOLAR–GERMANY | CMC v2.2+, CIV–MEM–CORE v2.9 | v3.0 |
+| FRANCE | CIV–SCHOLAR–FRANCE | CMC v2.7+, CIV–MEM–CORE v2.9 | v3.0 |
+| GERMANY | CIV–SCHOLAR–GERMANY | CMC v2.2+, CIV–MEM–CORE v2.9 | v3.0 |
 | RUSSIA | CIV–SCHOLAR–RUSSIA | CIV–MEM–CORE v2.0+ | v3.0 |
 | ROME | CIV–SCHOLAR–ROME | CIV–MEM–CORE v2.0+ / v2.5 | v3.0 |
 
@@ -109,13 +109,13 @@ CIV–MEM–CORE v3.0 is the system preload. All civilization CORE, SCHOLAR, IND
 |--------------|------|---------|-----|
 | CHINA | CIV–ARC–CHINA | Line 130 CIV–MEM–TEMPLATE v2.9 | v3.0 |
 | ANGLIA | CIV–ARC–ANGLIA | Governed by CIV–MEM–TEMPLATE v2.9 | v3.0 |
-| GERMANIA | CIV–ARC–GERMANIA | Line 16 Compatibility v2.9 | v3.0 |
+| GERMANY | CIV–ARC–GERMANY | Line 16 Compatibility v2.9 | v3.0 |
 
-### V.D INDEX — Template Version Used (GERMANIA only)
+### V.D INDEX — Template Version Used (GERMANY only)
 
 | File | Location | Current | Fix |
 |------|----------|---------|-----|
-| CIV–INDEX–GERMANIA | § II Canonical Governance | CORE v2.0, SCHOLAR v2.10, DOCTRINE v2.1 | v3.0 for template refs |
+| CIV–INDEX–GERMANY | § II Canonical Governance | CORE v2.0, SCHOLAR v2.10, DOCTRINE v2.1 | v3.0 for template refs |
 
 ### V.E OTHER
 
@@ -139,10 +139,10 @@ No mandatory rule changes.
 
 1. **Templates — END OF FILE:** CIV–MEM–TEMPLATE, CIV–SCHOLAR–TEMPLATE, CIV–INDEX–TEMPLATE, CIV–DOCTRINE–TEMPLATE, CIV–SCHOLAR–PROTOCOL, CIV–CORE–TEMPLATE, CIV–MIND–TEMPLATE, CIV–ARC–LEDGER–TEMPLATE → v3.0
 2. **Templates — body refs:** CIV–ARC–TEMPLATE CIV–MEM–TEMPLATE v2.9 → v3.0; CIV–SCHOLAR–PROTOCOL CMC–BOOTSTRAP v2.14 → v3.0
-3. **Civilization CORE:** ANGLIA, FRANCIA, GERMANIA, INDIA, ISLAM, PERSIA Governed by v2.9 → v3.0; RUSSIA, ROME added Governed by CIV–MEM–CORE v3.0 and Compatibility → v3.0
-4. **Civilization SCHOLAR:** CHINA, PERSIA, ANGLIA, ISLAM, INDIA Template v2.10 / Protocol v2.6 → v3.0; FRANCIA, GERMANIA CORE v2.9 / Compatibility → v3.0; RUSSIA, ROME Governed by block → v3.0
-5. **Civilization ARC:** CHINA, ANGLIA CIV–MEM–TEMPLATE v2.9 → v3.0; GERMANIA Compatibility v2.9 → v3.0
-6. **Civilization INDEX:** GERMANIA § II template refs → v3.0
+3. **Civilization CORE:** ANGLIA, FRANCE, GERMANY, INDIA, ISLAM, PERSIA Governed by v2.9 → v3.0; RUSSIA, ROME added Governed by CIV–MEM–CORE v3.0 and Compatibility → v3.0
+4. **Civilization SCHOLAR:** CHINA, PERSIA, ANGLIA, ISLAM, INDIA Template v2.10 / Protocol v2.6 → v3.0; FRANCE, GERMANY CORE v2.9 / Compatibility → v3.0; RUSSIA, ROME Governed by block → v3.0
+5. **Civilization ARC:** CHINA, ANGLIA CIV–MEM–TEMPLATE v2.9 → v3.0; GERMANY Compatibility v2.9 → v3.0
+6. **Civilization INDEX:** GERMANY § II template refs → v3.0
 7. **Civilization DOCTRINE:** RUSSIA governance authority note v2.0 → v3.0
 
 ---

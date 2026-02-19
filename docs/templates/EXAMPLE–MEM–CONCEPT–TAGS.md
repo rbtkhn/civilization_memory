@@ -66,7 +66,7 @@ A: → MEM–RUSSIA–ROMANOV–PETER–I, MEM–RUSSIA–WAR–GREAT–PATRIOTI
      MEM–RUSSIA–WAR–NAPOLEON–1812, MEM–ANGLIA–BLITZ...
 
 Q: "Find cross-civ parallels for coercive enforcement"
-A: → MEM–RUSSIA–ROMANOV–PETER–I (primary), MEM–FRANCIA–LOUIS–XIV (primary),
+A: → MEM–RUSSIA–ROMANOV–PETER–I (primary), MEM–FRANCE–LOUIS–XIV (primary),
      MEM–CHINA–QIN–SHI–HUANG (primary)...
 
 Q: "What Mearsheimer-frame concepts apply to Peter the Great?"
@@ -84,7 +84,7 @@ D — Compare with Louis XIV (cross-civ)
 
 WITH CONCEPTS:
 ```
-D — Explore "coercive_enforcement" pattern in Francia (MEM–FRANCIA–LOUIS–XIV shares this concept)
+D — Explore "coercive_enforcement" pattern in Francia (MEM–FRANCE–LOUIS–XIV shares this concept)
 E — Find other MEMs tagged with "legitimacy_through_suffering" (3 cross-civ parallels available)
 ```
 

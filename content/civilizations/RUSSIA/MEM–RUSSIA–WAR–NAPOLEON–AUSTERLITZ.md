@@ -361,8 +361,8 @@ GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–FOREST–ZONE — defensive terrain (not available at Austerlitz)
 
 Cross-civilizational:
-• MEM–FRANCIA–NAPOLEON — operational brilliance and tactical mastery
-• MEM–GERMANIA–WAR–JENA — similar catastrophic defeat as strategic education
+• MEM–FRANCE–NAPOLEON — operational brilliance and tactical mastery
+• MEM–GERMANY–WAR–JENA — similar catastrophic defeat as strategic education
 • MEM–AUSTRIA–WAR–AUSTERLITZ — shared defeat, different lessons
 
 ────────────────────────────────────────────────────────────

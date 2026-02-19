@@ -1585,8 +1585,8 @@ consult CIV–DOCTRINE–ROME v3.0 directly.
 ────────────────────────────────────────────────────────────
 VI. SCHOLAR DIVERGENCE INDEX
 ────────────────────────────────────────────────────────────
-ROME ↔ GERMANIA — Frontier Legibility
-ROME ↔ FRANCIA — Mediterranean Memory
+ROME ↔ GERMANY — Frontier Legibility
+ROME ↔ FRANCE — Mediterranean Memory
 
 ────────────────────────────────────────────────────────────
 VII. GOVERNANCE & LOCK STATE

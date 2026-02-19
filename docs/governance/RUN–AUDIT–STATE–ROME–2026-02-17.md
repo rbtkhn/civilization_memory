@@ -31,7 +31,7 @@ I. FINDINGS
   - **Or** a distinct **civilization-state** or **standard-state** entity if the scope were "transcontinental Latin civilization" (CORE–ROME) as a present-day analytical subject — in which case the entity name and scope would need explicit definition (e.g. EU/institutions, Latin America, Francophonie, or a chosen subset).
 
 **1.4 Comparison with other civilizations**
-- STATE files present: RUSSIA, PERSIA, AMERICA, INDIA, CHINA, GERMANIA (CIV–STATE–GERMANY), FRANCIA (CIV–STATE–FRANCE).
+- STATE files present: RUSSIA, PERSIA, AMERICA, INDIA, CHINA, GERMANY (CIV–STATE–GERMANY), FRANCE (CIV–STATE–FRANCE).
 - Rome is the only Phase II civilization (per BOOTSTRAP) with CORE + SCHOLAR + DOCTRINE and a large MEM corpus but no STATE file.
 
 ────────────────────────────────────────────────────────────

@@ -192,7 +192,7 @@ Concept index enables smarter OGE options:
 
 CONCEPT-AWARE OGE EXAMPLE:
 ```
-C — Explore "coercive_enforcement" pattern in Francia (MEM–FRANCIA–LOUIS–XIV shares this concept)
+C — Explore "coercive_enforcement" pattern in Francia (MEM–FRANCE–LOUIS–XIV shares this concept)
 D — Find other MEMs tagged with "legitimacy_through_suffering" (3 cross-civ parallels)
 ```
 

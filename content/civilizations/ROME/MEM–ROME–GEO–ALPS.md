@@ -357,8 +357,8 @@ GEO–MEMs (≥2 Required):
 • MEM–ROME–GEO–PYRENEES — Comparable mountain logic
 
 CROSS-CIVILIZATIONAL:
-• MEM–GERMANIA–ALPS — Germanic perspective
-• MEM–FRANCIA–CAROLINGIAN — Frankish crossing
+• MEM–GERMANY–ALPS — Germanic perspective
+• MEM–FRANCE–CAROLINGIAN — Frankish crossing
 
 ────────────────────────────────────────────────────────────
 XI. CONTINUITY INSIGHTS (RAW)

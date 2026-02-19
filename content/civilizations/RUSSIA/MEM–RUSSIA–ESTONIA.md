@@ -439,7 +439,7 @@ GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–SUWALKI–GAP — Baltic states' vulnerability
 
 Cross-civilizational:
-• MEM–GERMANIA–TEUTONIC–ORDER — crusader conquest
+• MEM–GERMANY–TEUTONIC–ORDER — crusader conquest
 • MEM–SCANDINAVIA–SWEDEN — Swedish Estonia period
 • MEM–NATO–EXPANSION — 2004 accession
 

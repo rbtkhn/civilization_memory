@@ -218,8 +218,8 @@ ROME:
   relations, and the management of military charisma.
 
 NON-ROME:
-• MEM–FRANCIA–NAPOLEON — peak expansion followed by contraction.
-• MEM–GERMANIA–BISMARCK — unification with deliberate ceilings.
+• MEM–FRANCE–NAPOLEON — peak expansion followed by contraction.
+• MEM–GERMANY–BISMARCK — unification with deliberate ceilings.
 
 ────────────────────────────────────────────────────────────
 IX. CONTINUITY INSIGHTS (RAW)

@@ -93,7 +93,7 @@ ANGLIA:
 • MEM–ANGLIA–GLADSTONE, MEM–ANGLIA–DISRAELI — Later Victorian rivals; contrast Palmerston’s liberal intervention with Gladstone’s moralism and Disraeli’s empire.
 
 Cross-Civilizational:
-• MEM–FRANCIA– (as applicable)—Alliance in Crimea; liberal intervention in Italy and elsewhere.
+• MEM–FRANCE– (as applicable)—Alliance in Crimea; liberal intervention in Italy and elsewhere.
 
 ────────────────────────────────────────────────────────────
 VII. BIBLIOGRAPHY

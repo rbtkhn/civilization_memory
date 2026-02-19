@@ -120,7 +120,7 @@ ANGLIA:
 • MEM–ANGLIA–DYNASTY–HANOVER — Empire under Hanover; minimal royal direction
 
 Cross-Civilizational:
-• MEM–FRANCIA–WAR–SEVEN–YEARS — French defeat in India; Dupleix eclipsed
+• MEM–FRANCE–WAR–SEVEN–YEARS — French defeat in India; Dupleix eclipsed
 • (India civilization MEMs as applicable when present)
 
 ────────────────────────────────────────────────────────────

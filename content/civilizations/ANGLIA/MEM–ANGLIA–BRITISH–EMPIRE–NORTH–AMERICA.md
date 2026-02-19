@@ -117,7 +117,7 @@ ANGLIA:
 • MEM–ANGLIA–LAW–FEDERALIST–PAPERS — Post-revolution procedural containment (U.S.)
 
 Cross-Civilizational:
-• MEM–FRANCIA–WAR–SEVEN–YEARS — French defeat in North America; Quebec ceded
+• MEM–FRANCE–WAR–SEVEN–YEARS — French defeat in North America; Quebec ceded
 • (United States, Canada civilization MEMs as applicable when present)
 
 ────────────────────────────────────────────────────────────

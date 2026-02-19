@@ -160,8 +160,8 @@ GEO (≥2):
 • MEM–RUSSIA–PETERSBURG — court region; Gatchina retreat nearby
 
 Cross-civilizational:
-• MEM–FRANCIA–THERMIDOR — elite correction via violence
-• MEM–GERMANIA–PRUSSIA–DISCIPLINE — order vs legitimacy
+• MEM–FRANCE–THERMIDOR — elite correction via violence
+• MEM–GERMANY–PRUSSIA–DISCIPLINE — order vs legitimacy
 • MEM–CHINA–QING–COURT — personalism and coup risk
 
 ────────────────────────────────────────────────────────────

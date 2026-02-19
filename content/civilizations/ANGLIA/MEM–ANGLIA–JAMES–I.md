@@ -94,7 +94,7 @@ Internal (ANGLIA):
    — Parliament and privilege under James; strain over taxation and authority.
 
 Cross-Civilizational (structural parallel):
-6) MEM–GERMANIA–HOLY–ROMAN–EMPIRE
+6) MEM–GERMANY–HOLY–ROMAN–EMPIRE
    — Contrast: personal union and multiple kingdoms (James) vs imperial structure (HRE).
 
 ────────────────────────────────────────────────────────────

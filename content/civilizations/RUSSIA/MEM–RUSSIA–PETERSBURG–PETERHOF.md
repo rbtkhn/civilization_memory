@@ -270,8 +270,8 @@ GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–GULF–OF–FINLAND — physical location
 
 Cross-civilizational:
-• MEM–FRANCIA–VERSAILLES — explicit model and rival
-• MEM–GERMANIA–WWII — destroyer during occupation
+• MEM–FRANCE–VERSAILLES — explicit model and rival
+• MEM–GERMANY–WWII — destroyer during occupation
 
 ────────────────────────────────────────────────────────────
 XI. MEM BIBLIOGRAPHY (MANDATORY)

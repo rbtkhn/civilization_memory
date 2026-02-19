@@ -220,8 +220,8 @@ GEO MEMs (≥2):
 • MEM–RUSSIA–GEO–BLACK–SEA — strategic vulnerability
 
 Cross-civilizational:
-• MEM–FRANCIA–1848 — reform triggering radicalization
-• MEM–GERMANIA–BISMARCK — reform as containment
+• MEM–FRANCE–1848 — reform triggering radicalization
+• MEM–GERMANY–BISMARCK — reform as containment
 • MEM–CHINA–QING–SELF-STRENGTHENING — reform limits
 
 ────────────────────────────────────────────────────────────

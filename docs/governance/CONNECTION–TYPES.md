@@ -147,7 +147,7 @@ USAGE:
 EXAMPLE:
 MEM–RUSSIA–ROMANOV–PETER–I PARALLELS:
 • MEM–ROME–AUGUSTUS — Concentration of power while preserving forms
-• MEM–FRANCIA–LOUIS–XIV — Coercive state-building and elite subordination
+• MEM–FRANCE–LOUIS–XIV — Coercive state-building and elite subordination
 
 TRAVERSAL:
 "What parallels exist in other civilizations?" → Follow PARALLELS

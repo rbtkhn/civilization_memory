@@ -212,7 +212,7 @@ GEO (≥2):
 
 Cross-civilizational:
 • MEM–RUSSIA–LAW–AUTOCRACY — contrasting model (subjects, not citizens)
-• MEM–FRANCIA–CITIZENSHIP — later citizenship concepts in French Revolution
+• MEM–FRANCE–CITIZENSHIP — later citizenship concepts in French Revolution
 
 ────────────────────────────────────────────────────────────
 IX. SCHOLAR CONSTRAINTS (RLLs)

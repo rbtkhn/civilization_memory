@@ -188,8 +188,8 @@ GEO–MEM:
 
 Cross-Civilizational:
 • MEM–ROME–AURELIAN — survival sovereign parallel; restoration under pressure.
-• MEM–FRANCIA–CAPETIANS — dynastic consolidation via law; contrast with Anglo-Saxon survival.
-• MEM–GERMANIA–OTTONIAN — kingship-centered structure; comparative survival logic.
+• MEM–FRANCE–CAPETIANS — dynastic consolidation via law; contrast with Anglo-Saxon survival.
+• MEM–GERMANY–OTTONIAN — kingship-centered structure; comparative survival logic.
 
 ────────────────────────────────────────────────────────────
 IX. CONTINUITY INSIGHTS (RAW)

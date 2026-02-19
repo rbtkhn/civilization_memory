@@ -148,7 +148,7 @@ ROME:
 
 OTHER CIVILIZATIONS:
 • MEM–GREEK–THUCYDIDES — analysis of democratic failure
-• MEM–FRANCIA–REVOLUTION — mass legitimacy volatility
+• MEM–FRANCE–REVOLUTION — mass legitimacy volatility
 • MEM–ANGLIA–MARITIME–EMPIRE — sea-based imperial logic
 
 ────────────────────────────────────────────────────────────

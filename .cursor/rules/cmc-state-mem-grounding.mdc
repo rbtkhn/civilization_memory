@@ -39,7 +39,7 @@ When loading CIV–STATE–[CIV], check for a subsection **"Influence from concl
 When the entity declares influence from **both** CIV–STATE–ROME and CIV–STATE–ISLAM and the topic touches **Mediterranean structure**, **"no single actor on the axis"**, or the named intervals **c. 650–1050** or **c. 1099–1291**, apply the paired-encoding rule so no single-perspective MEM carries the structural claim:
 
 1. **Structural ground (primary):** Cite MEM–ISLAM–GEO–MEDITERRANEAN–SEA **control sequence** (e.g. "Early Islam | Byzantine (N) / Umayyad (S) | Contested" for 7th–10th c.; "Medieval | Byzantine, Latin, Islamic | Multi-polar" for 10th–15th c.). Use this as the anchor for "no single actor controls the axis."
-2. **Paired MEMs for 1099–1291:** Cite **both** MEM–ISLAM–CRUSADES (Islamic perspective) and MEM–ROME–CRUSADES (Roman/papal–Byzantine perspective) when invoking the Crusader interval. Attribute explicitly (e.g. "per MEM–ISLAM–CRUSADES …"; "per MEM–ROME–CRUSADES …"). When the entity is France (or another Latin polity), add MEM–FRANCIA–WAR–CRUSADES as a third encoding.
+2. **Paired MEMs for 1099–1291:** Cite **both** MEM–ISLAM–CRUSADES (Islamic perspective) and MEM–ROME–CRUSADES (Roman/papal–Byzantine perspective) when invoking the Crusader interval. Attribute explicitly (e.g. "per MEM–ISLAM–CRUSADES …"; "per MEM–ROME–CRUSADES …"). When the entity is France (or another Latin polity), add MEM–FRANCE–WAR–CRUSADES as a third encoding.
 3. **650–1050:** Ground in the control sequence + MEM–ROME–ISLAM (partition, frontier); no need for a second Islam-only MEM as sole anchor.
 
 Do not ground the interval solely in one civilization's MEM when both strands influence the entity. Full procedure, intervals, and MEM list: CONCEPT–ROME–ISLAM–DOUBLE–HELIX Section IX.

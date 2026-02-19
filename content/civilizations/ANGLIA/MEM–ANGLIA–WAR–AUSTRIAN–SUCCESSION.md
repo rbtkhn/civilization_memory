@@ -198,8 +198,8 @@ GEO–MEM:
 • MEM–ANGLIA–GEO–ATLANTIC — Trade networks; maritime system central.
 
 Cross-Civilizational:
-• MEM–FRANCIA–WAR–AUSTRIAN–SUCCESSION — Contrasting Francien memory encodes frustration and humiliation.
-• MEM–FRANCIA–SEVEN–YEARS–WAR — Unresolved tension carries forward differently.
+• MEM–FRANCE–WAR–AUSTRIAN–SUCCESSION — Contrasting Francien memory encodes frustration and humiliation.
+• MEM–FRANCE–SEVEN–YEARS–WAR — Unresolved tension carries forward differently.
 
 ────────────────────────────────────────────────────────────
 X. CIVILIZATIONAL MEMORY FUNCTION

@@ -158,8 +158,8 @@ GEO–MEM:
 • MEM–ANGLIA–GEO–ATLANTIC — North Sea and Channel; Norman and Anglo-Saxon theatre.
 
 Cross-Civilizational:
-• MEM–FRANCIA–CAPETIANS — dynastic consolidation via law; contrast with conquest-based replacement.
-• MEM–GERMANIA–OTTONIAN — kingship-centered imperial structure.
+• MEM–FRANCE–CAPETIANS — dynastic consolidation via law; contrast with conquest-based replacement.
+• MEM–GERMANY–OTTONIAN — kingship-centered imperial structure.
 • MEM–ROME–AUGUSTUS — unity prior to bureaucratic abstraction.
 
 ────────────────────────────────────────────────────────────

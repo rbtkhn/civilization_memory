@@ -218,8 +218,8 @@ ROME:
 • MEM–ROME–GREEK–LIT–SOCRATES — Plato's teacher
 
 OTHER CIVILIZATIONS:
-• MEM–GERMANIA–KANT — moral law without political realism
-• MEM–FRANCIA–REVOLUTION — abstraction overrunning institutions
+• MEM–GERMANY–KANT — moral law without political realism
+• MEM–FRANCE–REVOLUTION — abstraction overrunning institutions
 • MEM–CHINA–CONFUCIUS — virtue disciplined by ritual
 
 ────────────────────────────────────────────────────────────

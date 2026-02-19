@@ -126,7 +126,7 @@ ANGLIA:
 • MEM–ANGLIA–LAW–FEDERALIST–PAPERS — Constitutional ratification; Adams as Federalist-era president.
 
 Cross-Civilizational:
-• MEM–FRANCIA– (as applicable)—Francia's alliance and recognition in the American Revolution; Adams's diplomacy.
+• MEM–FRANCE– (as applicable)—Francia's alliance and recognition in the American Revolution; Adams's diplomacy.
 
 ────────────────────────────────────────────────────────────
 VII. BIBLIOGRAPHY

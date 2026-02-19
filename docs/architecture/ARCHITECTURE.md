@@ -914,7 +914,7 @@ interface CurriculumMapping {
 
 - **World History**: Cross-civilizational comparisons using multiple CIV–CORE files
 - **AP World History**: CIV–CORE structural analysis, MEM primary sources, periodization
-- **European History**: ROME, ANGLIA, FRANCIA, GERMANIA CIV–CORE and MEM files
+- **European History**: ROME, ANGLIA, FRANCE, GERMANY CIV–CORE and MEM files
 - **Asian History**: CHINA, INDIA, PERSIA CIV–CORE and MEM files
 - **Comparative Government**: CIV–CORE Governance Architecture sections across civilizations
 

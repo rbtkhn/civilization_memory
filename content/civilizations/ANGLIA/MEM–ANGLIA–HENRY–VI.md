@@ -99,7 +99,7 @@ Internal (ANGLIA):
    — Loss of France under Henry VI; end of English continental possession.
 
 Cross-Civilizational (structural parallel):
-6) MEM–FRANCIA–LOUIS–XVI
+6) MEM–FRANCE–LOUIS–XVI
    — Weak king, loss of authority, revolution/civil conflict (contrast: Henry VI deposed and killed; Louis executed).
 
 ────────────────────────────────────────────────────────────

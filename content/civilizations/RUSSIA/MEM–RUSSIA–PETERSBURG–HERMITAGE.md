@@ -292,7 +292,7 @@ GEO–MEM (≥2):
 Cross-civilizational:
 • MEM–EUROPA–ENLIGHTENMENT — philosophical framework for collecting
 • MEM–ITALIA–RENAISSANCE — primary source of acquired masterworks
-• MEM–FRANCIA–PARIS–LOUVRE — structural peer and comparison
+• MEM–FRANCE–PARIS–LOUVRE — structural peer and comparison
 
 ────────────────────────────────────────────────────────────
 XI. MEM BIBLIOGRAPHY

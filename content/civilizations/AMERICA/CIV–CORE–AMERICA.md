@@ -220,8 +220,8 @@ XIII. CROSS-CIVILIZATIONAL SYNCHRONIZATION
 ────────────────────────────────────────────────────────────
 
 • ANGLIA — procedural and alliance continuity; shared language and law roots
-• FRANCIA — declarative contrast; different legitimacy grammar
-• GERMANIA — industrial and procedural complement
+• FRANCE — declarative contrast; different legitimacy grammar
+• GERMANY — industrial and procedural complement
 • CHINA / RUSSIA — strategic competitors; different constraint surfaces
 
 America’s constitutional–electoral continuity contrasts with

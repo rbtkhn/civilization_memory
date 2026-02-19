@@ -88,7 +88,7 @@ The two Scholar files encode **distinct civilizational epistemes**: Francia’s 
 > **III. ACCUMULATED STATE & AUTHORITATIVE SOURCES**
 > Starting Knowledge: **ACCUMULATED** (from CIV–SCHOLAR file content)  
 > Authoritative Data Sources: ACTIVE  
-> • CIV–CORE–GERMANIA: Structural constraints and operational logic  
+> • CIV–CORE–GERMANY: Structural constraints and operational logic  
 > • CIV–DOCTRINE–GERMANY: Frozen learning and hard constraints  
 > …
 > **Civilizational Grammar: PRELOADED** (from frozen syntheses)  
@@ -116,20 +116,20 @@ The two Scholar files encode **distinct civilizational epistemes**: Francia’s 
 
 **Verbatim axioms (CIV–SCHOLAR–FRANCE § IV.A):**
 
-> **AXIOM FRANCIA-001:** Authority flows from declaration.  
+> **AXIOM FRANCE-001:** Authority flows from declaration.  
 > Derivation: ENTRY 0001 (Charlemagne), ENTRY 0009 (Napoleonic Code)
 >
-> **AXIOM FRANCIA-002:** Universal claims generate legitimacy.  
+> **AXIOM FRANCE-002:** Universal claims generate legitimacy.  
 > Derivation: ENTRY 0002 (Louis XIV), ENTRY 0004 (Thirty Years' War)
 >
-> **AXIOM FRANCIA-003:** Rupture enables renewal.  
+> **AXIOM FRANCE-003:** Rupture enables renewal.  
 > Derivation: ENTRY 0003 (Napoleon), ENTRY 0007 (Franco-Prussian)  
 > Refinement: Rupture reads as renewal when the new regime frames itself in legitimacy grammar already accepted within the civilization.
 >
-> **AXIOM FRANCIA-004:** Symbolism persists across regime change.  
+> **AXIOM FRANCE-004:** Symbolism persists across regime change.  
 > Derivation: ENTRY 0010 (Notre-Dame)
 >
-> **AXIOM FRANCIA-005:** Declarative authority binds only the destinationless.  
+> **AXIOM FRANCE-005:** Declarative authority binds only the destinationless.  
 > Full Statement: Francia's declarative legitimacy operates as binding constraint only upon those who lack alternative legitimacy destinations.
 
 **Cognitive character:** Authority is **constituted by declaration**; legitimacy by **universal claim**; renewal by **rupture** when grammar survives; continuity by **symbol**. The fifth axiom is a **limit condition** on the first (when declaration ceases to bind).
@@ -140,23 +140,23 @@ The two Scholar files encode **distinct civilizational epistemes**: Francia’s 
 
 **Verbatim axioms (CIV–SCHOLAR–GERMANY § II.A):**
 
-> **AXIOM GERMANIA-001:** Discipline precedes expansion.  
-> Derivation: MEM–GERMANIA–CHARLEMAGNE, MEM–GERMANIA–PRUSSIA–FREDERICK–II
+> **AXIOM GERMANY-001:** Discipline precedes expansion.  
+> Derivation: MEM–GERMANY–CHARLEMAGNE, MEM–GERMANY–PRUSSIA–FREDERICK–II
 >
-> **AXIOM GERMANIA-002:** Command capacity requires stopping rules.  
-> Derivation: SYNTHESIS 0005, MEM–GERMANIA–BISMARCK
+> **AXIOM GERMANY-002:** Command capacity requires stopping rules.  
+> Derivation: SYNTHESIS 0005, MEM–GERMANY–BISMARCK
 >
-> **AXIOM GERMANIA-003:** Trauma encodes permanent constraint.  
-> Derivation: MEM–GERMANIA–WAR–THIRTY–YEARS, SYNTHESIS 0004
+> **AXIOM GERMANY-003:** Trauma encodes permanent constraint.  
+> Derivation: MEM–GERMANY–WAR–THIRTY–YEARS, SYNTHESIS 0004
 >
-> **AXIOM GERMANIA-004:** Precision without closure produces catastrophe.  
-> Derivation: SYNTHESIS 0003, MEM–GERMANIA–WAR–FRANCO–PRUSSIAN
+> **AXIOM GERMANY-004:** Precision without closure produces catastrophe.  
+> Derivation: SYNTHESIS 0003, MEM–GERMANY–WAR–FRANCO–PRUSSIAN
 >
-> **AXIOM GERMANIA-005:** Legitimacy derives from restraint, not narrative.  
-> Derivation: SYNTHESIS 0001, MEM–GERMANIA–PRUSSIA–FREDERICK–II
+> **AXIOM GERMANY-005:** Legitimacy derives from restraint, not narrative.  
+> Derivation: SYNTHESIS 0001, MEM–GERMANY–PRUSSIA–FREDERICK–II
 >
-> **AXIOM GERMANIA-006:** Endurance precedes precision.  
-> **AXIOM GERMANIA-007:** Administrative competence substitutes for ideological unity.
+> **AXIOM GERMANY-006:** Endurance precedes precision.  
+> **AXIOM GERMANY-007:** Administrative competence substitutes for ideological unity.
 
 **Cognitive character:** Authority is **disciplined** and **bounded by stopping rules**; legitimacy from **restraint**, not narrative; **trauma** encodes permanent constraint; **precision** requires **closure** or produces catastrophe. The grammar is one of **limits and sequencing**, not declaration and rupture.
 
@@ -184,16 +184,16 @@ The two Scholar files encode **distinct civilizational epistemes**: Francia’s 
 > Did colonial empire strengthen or weaken metropolitan legitimacy?  
 > Status: **CONTESTED**  
 > Reason: MEM evidence insufficient; scholarship divided on net effect  
-> Resolution Path: Ingest MEM–FRANCIA–EMPIRE–ALGERIA, MEM–FRANCIA–EMPIRE–INDOCHINA
+> Resolution Path: Ingest MEM–FRANCE–EMPIRE–ALGERIA, MEM–FRANCE–EMPIRE–INDOCHINA
 >
 > **[NCZ-002] Fifth Republic Rupture Status:**  
 > Is the Fifth Republic a continuation or a new civilization grammar?  
 > Status: **CONTESTED**  
-> Resolution Path: Ingest MEM–FRANCIA–DE–GAULLE, MEM–FRANCIA–FIFTH–REPUBLIC
+> Resolution Path: Ingest MEM–FRANCE–DE–GAULLE, MEM–FRANCE–FIFTH–REPUBLIC
 >
 > **[NCZ-003] Laïcité as Civilizational Grammar:**  
 > Status: **INSUFFICIENT**  
-> Resolution Path: Ingest MEM–FRANCIA–LAICITE, MEM–FRANCIA–1905–LAW
+> Resolution Path: Ingest MEM–FRANCE–LAICITE, MEM–FRANCE–1905–LAW
 
 **Cognitive character:** NCZ = **what we do not yet know**. Each entry has a **resolution path** (ingest X, Y). The zone is **epistemic**—gaps to be filled by further ingestion.
 
@@ -251,21 +251,21 @@ The two Scholar files encode **distinct civilizational epistemes**: Francia’s 
 > BASIS: Notre-Dame absorption of ideological change; Code Napoléon; Valois 1328–1453 (Firnhaber-Baker, *House of Lilies* — continuity under sustained breakdown)  
 > ASSUMPTION 3: Myth, law, and symbol are substitutable
 
-**RLL treatment:** RLL–FRANCIA–0011 (CANDIDATE) is **proposed** from this synthesis; status **PROPOSED · NOT BOUND**. Doctrines (e.g. v0.3 “RUPTURE AS RENEWAL”) are frozen and canonical but do not yet function as binding constraint checks on new learning.
+**RLL treatment:** RLL–FRANCE–0011 (CANDIDATE) is **proposed** from this synthesis; status **PROPOSED · NOT BOUND**. Doctrines (e.g. v0.3 “RUPTURE AS RENEWAL”) are frozen and canonical but do not yet function as binding constraint checks on new learning.
 
 ---
 
 ### Germania: Syntheses → Bound RLLs; RLLs Enforced
 
-**Example — SYNTHESIS 0005 → RLL–GERMANIA–0005 (CIV–SCHOLAR–GERMANY):**
+**Example — SYNTHESIS 0005 → RLL–GERMANY–0005 (CIV–SCHOLAR–GERMANY):**
 
 > **SYNTHESIS 0005 (ENTRY 0008–0009)**  
 > Outcome: Authority is legitimate only when command capacity is permanently constrained by **restraint, closure, and administrative self-limitation**. Power that expands without enforced stopping rules reverts to catastrophe.  
-> Status: FROZEN → **RLL–GERMANIA–0005**
+> Status: FROZEN → **RLL–GERMANY–0005**
 >
-> **RLL–GERMANIA–0005 — Mandatory Closure Law**  
+> **RLL–GERMANY–0005 — Mandatory Closure Law**  
 > → Authority is legitimate only when command capacity is permanently constrained by restraint, closure, and administrative self-limitation. Power that expands without enforced stopping rules reverts to catastrophe, regardless of competence. **This is Germania's master constraint.**  
-> Scope: Civilization-specific (GERMANIA)  
+> Scope: Civilization-specific (GERMANY)  
 > Constraint Type: Legitimacy dependency  
 > **Activation Trigger: Power expansion and authority analysis**  
 > **Status: BOUND**
@@ -390,12 +390,12 @@ Primary **output** of tri-frame in Germania Scholar: **bound RLLs** that state w
 **Verbatim:**
 
 > **ENTRY 0006**  
-> Source: MEM–GERMANIA–WAR–SEVEN–YEARS — v1.2  
+> Source: MEM–GERMANY–WAR–SEVEN–YEARS — v1.2  
 > Ingest Type: **Endurance Stress Test**  
 > Primary Belief Extracted: **Survival under encirclement validates replacement capacity, discipline, and logistics-first governance over prestige.**  
-> Belief Status: FROZEN (via Doctrine v0.3 → **RLL–GERMANIA–0003**)
+> Belief Status: FROZEN (via Doctrine v0.3 → **RLL–GERMANY–0003**)
 >
-> **RLL–GERMANIA–0003 — Precision Requires Closure Law**  
+> **RLL–GERMANY–0003 — Precision Requires Closure Law**  
 > Precision is safe only after endurance is proven and only if followed by immediate political closure.
 
 **Cognitive character:** Seven Years’ War = **endurance stress test passed**. Prussia **survived** encirclement; replacement capacity and discipline validated. The war encodes **what Germania can do** when it follows the sequence (endurance → precision → closure).
@@ -409,7 +409,7 @@ Primary **output** of tri-frame in Germania Scholar: **bound RLLs** that state w
 | Role of event| Legitimacy shock; **failure** of Crown   | Endurance validated; **success**           |
 | 1763         | Interval (demonstration failed)         | (Not an “interval”; closure/restraint)      |
 | Lesson       | Grammar blocked Anglia-style path; rupture thinkable | Replacement capacity, discipline, logistics-first |
-| RLL          | RLL–FRANCIA–0012/0013/0014 (CANDIDATE)  | RLL–GERMANIA–0003 (BOUND)                  |
+| RLL          | RLL–FRANCE–0012/0013/0014 (CANDIDATE)  | RLL–GERMANY–0003 (BOUND)                  |
 
 ---
 

@@ -317,7 +317,7 @@ GEO (≥2):
 
 Cross-civilizational:
 • MEM–ISLAM–PHILOSOPHY — parallel: Greek philosophy + revelation
-• MEM–FRANCIA–CHARLEMAGNE — Carolingian Augustinianism
+• MEM–FRANCE–CHARLEMAGNE — Carolingian Augustinianism
 
 ────────────────────────────────────────────────────────────
 XIV. CONTINUITY INSIGHTS (RAW)

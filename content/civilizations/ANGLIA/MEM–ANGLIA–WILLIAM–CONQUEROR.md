@@ -170,9 +170,9 @@ Internal (ANGLIA):
 • MEM–ANGLIA–WAR–HASTINGS — battle as trigger, not system
 
 Cross-Civilizational:
-• MEM–FRANCIA–CAPETIANS — dynastic consolidation
+• MEM–FRANCE–CAPETIANS — dynastic consolidation
 • MEM–ROME–AUGUSTUS — elite replacement under continuity
-• MEM–GERMANIA–OTTONIAN — kingship and institutional fusion
+• MEM–GERMANY–OTTONIAN — kingship and institutional fusion
 
 ────────────────────────────────────────────────────────────
 IX. CONTINUITY INSIGHTS (RAW)

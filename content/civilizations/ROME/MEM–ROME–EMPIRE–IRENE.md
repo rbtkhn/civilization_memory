@@ -282,7 +282,7 @@ GEO (≥2):
 • MEM–ROME–GEO–BALKANS — Bulgar pressure
 
 Cross-civilizational:
-• MEM–FRANCIA–CHARLEMAGNE — proposed marriage partner
+• MEM–FRANCE–CHARLEMAGNE — proposed marriage partner
 • MEM–CHINA–EMPRESS–WU — parallel: female ruler, killed heir
 
 ────────────────────────────────────────────────────────────

@@ -205,7 +205,7 @@ GEO–MEM (REQUIRED ≥2):
 • MEM–RUSSIA–GEO–DNEIPER–RIVER — Trade route under threat
 
 Cross-civilizational:
-• MEM–GERMANIA–TEUTONIC–ORDER — Crusading military order
+• MEM–GERMANY–TEUTONIC–ORDER — Crusading military order
 • MEM–EUROPE–NORTHERN–CRUSADES — Broader crusading context
 
 Each connection is structurally required.

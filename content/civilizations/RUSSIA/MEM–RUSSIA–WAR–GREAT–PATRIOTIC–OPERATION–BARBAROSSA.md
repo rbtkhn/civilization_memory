@@ -305,9 +305,9 @@ GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–UKRAINE — lost territory
 
 Cross-civilizational:
-• MEM–GERMANIA–THIRD–REICH — invading power
-• MEM–GERMANIA–WEHRMACHT — operational execution
-• MEM–GERMANIA–HITLER — strategic decisions
+• MEM–GERMANY–THIRD–REICH — invading power
+• MEM–GERMANY–WEHRMACHT — operational execution
+• MEM–GERMANY–HITLER — strategic decisions
 
 ────────────────────────────────────────────────────────────
 CONCEPTS (SEMANTIC INDEX)

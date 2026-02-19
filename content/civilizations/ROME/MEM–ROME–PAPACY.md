@@ -295,7 +295,7 @@ GEO (≥2):
 
 Cross-civilizational:
 • MEM–RUSSIA–THIRD–ROME — rival fragment claimant (Eastern)
-• MEM–GERMANIA–HOLY–ROMAN–EMPIRE — rival fragment claimant (Western political)
+• MEM–GERMANY–HOLY–ROMAN–EMPIRE — rival fragment claimant (Western political)
 
 ────────────────────────────────────────────────────────────
 X. SCHOLAR CONSTRAINTS (RLLs)

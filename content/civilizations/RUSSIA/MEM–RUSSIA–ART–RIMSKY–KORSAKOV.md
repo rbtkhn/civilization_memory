@@ -243,7 +243,7 @@ GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–VOLGA–RIVER — *Sadko* Novgorod setting
 
 Cross-civilizational:
-• MEM–GERMANIA–MUSIC–WAGNER — contrast: Russian vs German opera
+• MEM–GERMANY–MUSIC–WAGNER — contrast: Russian vs German opera
 • MEM–ITALIA–RESPIGHI — student, orchestral colorist
 
 ────────────────────────────────────────────────────────────

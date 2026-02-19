@@ -14,6 +14,10 @@ const ENTITY_MAP = {
   persian: 'PERSIA',
   china: 'CHINA',
   chinese: 'CHINA',
+  france: 'FRANCE',
+  french: 'FRANCE',
+  germany: 'GERMANY',
+  german: 'GERMANY',
 };
 
 function sessionKey(platform, userId) {

@@ -185,7 +185,7 @@ GEO–MEM (REQUIRED ≥2):
 
 Cross-civilizational:
 • MEM–SWEDEN–CRUSADES — Swedish perspective on northern expansion
-• MEM–GERMANIA–HANSEATIC — Trade network context
+• MEM–GERMANY–HANSEATIC — Trade network context
 
 ────────────────────────────────────────────────────────────
 MEM BIBLIOGRAPHY (MANDATORY · v2.6+)

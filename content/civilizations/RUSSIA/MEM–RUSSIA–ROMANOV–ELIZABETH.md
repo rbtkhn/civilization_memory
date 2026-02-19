@@ -279,8 +279,8 @@ GEO (≥2):
 • MEM–RUSSIA–GEO–BALTIC–SEA — Petrine inheritance zone
 
 Cross-civilizational:
-• MEM–FRANCIA–LOUIS–XV — court stability without reform
-• MEM–GERMANIA–HABSBURG–CONSOLIDATION — maintenance phases
+• MEM–FRANCE–LOUIS–XV — court stability without reform
+• MEM–GERMANY–HABSBURG–CONSOLIDATION — maintenance phases
 • MEM–CHINA–QING–KANGXI–LATE — consolidation after expansion
 
 ────────────────────────────────────────────────────────────

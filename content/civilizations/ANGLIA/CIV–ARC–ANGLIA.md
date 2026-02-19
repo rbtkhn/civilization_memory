@@ -102,7 +102,7 @@ CROSS-ARC CITATION RULES:
 5. Unlisted sources require standard discovery flag.
 
 TSP EXAMPLES (ANGLIA): MEM–ANGLIA–HAMILTON (RECONSTITUTION); MEM–ANGLIA–ROTHSCHILD
-(NETWORK — cross-ARC: GERMANIA, FRANCIA).
+(NETWORK — cross-ARC: GERMANY, FRANCE).
 
 ────────────────────────────────────────────────────────────
 VI. ORTHOGONALITY WITH ERC

@@ -111,7 +111,7 @@ Internal (ANGLIA):
    — Constraint precedent; deposition extends the logic that kings can be bounded.
 
 Cross-Civilizational (structural parallel):
-6) MEM–FRANCIA–LOUIS–XVI
+6) MEM–FRANCE–LOUIS–XVI
    — Deposition and execution; different outcome, same theme of legitimacy removal by domestic actors.
 
 ────────────────────────────────────────────────────────────

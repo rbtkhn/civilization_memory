@@ -312,8 +312,8 @@ GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–CAUCASUS — German oil objective
 
 Cross-civilizational:
-• MEM–GERMANIA–SIXTH–ARMY — destroyed force
-• MEM–GERMANIA–PAULUS — surrendered commander
+• MEM–GERMANY–SIXTH–ARMY — destroyed force
+• MEM–GERMANY–PAULUS — surrendered commander
 
 ────────────────────────────────────────────────────────────
 XII. MEM BIBLIOGRAPHY

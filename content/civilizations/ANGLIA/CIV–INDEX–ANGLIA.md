@@ -24,7 +24,7 @@ This file is the authoritative index of all MEM–ANGLIA files.
 
 INDEX ROLE:
 • Canonical registry for Anglia memory objects
-• Parity enforcement surface (ANGLIA ↔ FRANCIA ↔ GERMANIA)
+• Parity enforcement surface (ANGLIA ↔ FRANCE ↔ GERMANY)
 • Scholar-mode discovery spine
 • Naming, deprecation, and pairing authority
 

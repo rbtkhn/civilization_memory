@@ -240,7 +240,7 @@ GEO–MEM (≥2):
 • MEM–RUSSIA–MOSCOW — career center and Soviet institutions
 
 Cross-civilizational:
-• MEM–GERMANIA–HOLOCAUST — *Babi Yar* testimony
+• MEM–GERMANY–HOLOCAUST — *Babi Yar* testimony
 • MEM–AMERICA–COLD–WAR — international reception and propaganda value
 
 ────────────────────────────────────────────────────────────

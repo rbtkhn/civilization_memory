@@ -170,8 +170,8 @@ SUMMARY (MEM counts):
 |--------------|------|-------|--------|
 | RUSSIA | 194 | II | Active |
 | ROME | 204 | II | Active |
-| GERMANIA | 156 | II | Active |
-| FRANCIA | 138 | II | Active |
+| GERMANY | 156 | II | Active |
+| FRANCE | 138 | II | Active |
 | ANGLIA | 150 | I | Active |
 | CHINA | 69 | I | Active |
 | ISLAM | 53 | I | Active |

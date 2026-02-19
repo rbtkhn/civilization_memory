@@ -180,7 +180,7 @@ GEO–MEM (REQUIRED) — ≥2 required:
 
 Cross-Civilizational:
 • MEM–CHINA–OPIUM–WARS — premature system entry failure
-• MEM–GERMANIA–WAR–THIRTY–YEARS — multi-front exhaustion parallel
+• MEM–GERMANY–WAR–THIRTY–YEARS — multi-front exhaustion parallel
 • MEM–POLONIA–GOLDEN–AGE — rising power during Livonian conflict
 
 ────────────────────────────────────────────────────────────

@@ -182,7 +182,7 @@ GEO–MEM (REQUIRED ≥2):
 • MEM–RUSSIA–GEO–CARPATHIANS — Galicia-Volhynia frontier
 
 Cross-civilizational:
-• MEM–GERMANIA–TEUTONIC–ORDER — Crusading military order
+• MEM–GERMANY–TEUTONIC–ORDER — Crusading military order
 • MEM–POLAND–TEUTONIC–CONFLICT — Polish-Teutonic rivalry
 
 ────────────────────────────────────────────────────────────

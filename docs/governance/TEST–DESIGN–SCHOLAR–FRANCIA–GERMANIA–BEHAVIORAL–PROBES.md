@@ -1,18 +1,18 @@
 # Test Design: Analytical Probes — SCHOLAR–FRANCE vs SCHOLAR–GERMANY Behavioral Differentiation
 
 **Classification:** Governance · Test Design  
-**Dependencies:** CIV–SCHOLAR–FRANCE v2.0, CIV–SCHOLAR–GERMANY v2.12, REPORT–SCHOLAR–FRANCE–GERMANIA–COGNITIVE–DIFFERENTIATION  
+**Dependencies:** CIV–SCHOLAR–FRANCE v2.0, CIV–SCHOLAR–GERMANY v2.12, REPORT–SCHOLAR–FRANCE–GERMANY–COGNITIVE–DIFFERENTIATION  
 **Mode:** LEARN (each Scholar run separately; same prompts where applicable)  
 **Date:** January 2026  
 
-Purpose: Define a series of analytical tests that **probe different behavior** between the two Scholar engines. Each test has an objective, procedure, expected differentiation, and pass/fail criteria. Tests are run **per-Scholar** (one session SCHOLAR FRANCE LEARN, one session SCHOLAR GERMANIA LEARN); comparison is manual or scripted post-run.
+Purpose: Define a series of analytical tests that **probe different behavior** between the two Scholar engines. Each test has an objective, procedure, expected differentiation, and pass/fail criteria. Tests are run **per-Scholar** (one session SCHOLAR FRANCE LEARN, one session SCHOLAR GERMANY LEARN); comparison is manual or scripted post-run.
 
 ---
 
 ## Test Execution Conventions
 
-- **Francia run:** Context = CIV–SCHOLAR–FRANCE, CIV–INDEX–FRANCIA, relevant MEM–FRANCIA; mode = LEARN.  
-- **Germania run:** Context = CIV–SCHOLAR–GERMANY, CIV–INDEX–GERMANIA, relevant MEM–GERMANIA; mode = LEARN.  
+- **Francia run:** Context = CIV–SCHOLAR–FRANCE, CIV–INDEX–FRANCE, relevant MEM–FRANCE; mode = LEARN.  
+- **Germania run:** Context = CIV–SCHOLAR–GERMANY, CIV–INDEX–GERMANY, relevant MEM–GERMANY; mode = LEARN.  
 - **Same prompt:** Where the same prompt is used for both, it is given in **Procedure**.  
 - **Differentiation:** Expected behavioral difference is stated in **Expected differentiation**.  
 - **Pass:** Response is consistent with that Scholar’s phase, axioms, NCZ, RLL binding, and SDI.
@@ -27,7 +27,7 @@ Purpose: Define a series of analytical tests that **probe different behavior** b
 
 **Procedure:**
 
-1. Run under **SCHOLAR GERMANIA LEARN**.
+1. Run under **SCHOLAR GERMANY LEARN**.
 2. Prompt:  
    *"Evaluate the following claim for compatibility with SCHOLAR–GERMANY: 'A successful German ideological war lasting more than five years produced stable political gain and no civilizational catastrophe.' What does your constraint set say?"*
 3. Run under **SCHOLAR FRANCE LEARN**.
@@ -37,7 +37,7 @@ Purpose: Define a series of analytical tests that **probe different behavior** b
 **Expected differentiation:**
 
 - **Germania:** Should reference **NCZ-GER-001** (ideological war as sustainable policy → INSUFFICIENT) and/or **RLL–0004** (trauma cycle). Response should treat the claim as **anomaly candidate** or **contradiction** to existing constraints, not as neutral new belief. May suggest anomaly flag or resolution path (counter-case required).
-- **Francia:** NCZ-001 (Colonial Legitimacy Transfer) is **CONTESTED** with resolution path “ingest MEMs.” Response should **not** treat the claim as a constraint violation (no bound RLL). Should either note it as **belief to be tested by ingestion** or point to **resolution path** (ingest MEM–FRANCIA–EMPIRE–ALGERIA, etc.), not “this is forbidden.”
+- **Francia:** NCZ-001 (Colonial Legitimacy Transfer) is **CONTESTED** with resolution path “ingest MEMs.” Response should **not** treat the claim as a constraint violation (no bound RLL). Should either note it as **belief to be tested by ingestion** or point to **resolution path** (ingest MEM–FRANCE–EMPIRE–ALGERIA, etc.), not “this is forbidden.”
 
 **Pass criteria:**
 
@@ -61,8 +61,8 @@ Purpose: Define a series of analytical tests that **probe different behavior** b
 
 **Expected differentiation:**
 
-- **Francia:** Encoding should include **failure of demonstration**, **1763 as interval** (demonstration failed, declaration not yet possible), **grammar inclined toward rupture**, **1789 thinkable**. May cite SYNTHESIS 0008, ENTRY 0006, RLL–FRANCIA–0012/0013/0014 (candidates). No bound RLL.
-- **Germania:** Encoding should include **endurance under encirclement**, **survival validates replacement capacity and discipline**, **stress test passed**. Should cite **RLL–GERMANIA–0003** (Precision Requires Closure) and/or ENTRY 0006. No “interval” or “failure” framing for Prussia.
+- **Francia:** Encoding should include **failure of demonstration**, **1763 as interval** (demonstration failed, declaration not yet possible), **grammar inclined toward rupture**, **1789 thinkable**. May cite SYNTHESIS 0008, ENTRY 0006, RLL–FRANCE–0012/0013/0014 (candidates). No bound RLL.
+- **Germania:** Encoding should include **endurance under encirclement**, **survival validates replacement capacity and discipline**, **stress test passed**. Should cite **RLL–GERMANY–0003** (Precision Requires Closure) and/or ENTRY 0006. No “interval” or “failure” framing for Prussia.
 
 **Pass criteria:**
 
@@ -112,7 +112,7 @@ Purpose: Define a series of analytical tests that **probe different behavior** b
 
 **Expected differentiation:**
 
-- **Francia:** Resolution path = **ingest** specific MEMs (e.g. MEM–FRANCIA–EMPIRE–ALGERIA, MEM–FRANCIA–EMPIRE–INDOCHINA). Answer is **epistemic** (“we need more evidence”).
+- **Francia:** Resolution path = **ingest** specific MEMs (e.g. MEM–FRANCE–EMPIRE–ALGERIA, MEM–FRANCE–EMPIRE–INDOCHINA). Answer is **epistemic** (“we need more evidence”).
 - **Germania:** Resolution path = **counter-case**: e.g. “successful open-ended expansion with stable outcome.” Answer is **falsification-style** (“would require a case that has not occurred”), not “ingest more MEMs.”
 
 **Pass criteria:**
@@ -124,7 +124,7 @@ Purpose: Define a series of analytical tests that **probe different behavior** b
 
 ## T5. RLL Activation — Expansion Without Closure (Germania Only)
 
-**Objective:** Confirm Germania **activates a bound RLL** (RLL–GERMANIA–0005) when scenario triggers it; Francia has no equivalent binding.
+**Objective:** Confirm Germania **activates a bound RLL** (RLL–GERMANY–0005) when scenario triggers it; Francia has no equivalent binding.
 
 **Dimension probed:** Bound RLL vs no bound RLL; activation trigger.
 
@@ -137,7 +137,7 @@ Purpose: Define a series of analytical tests that **probe different behavior** b
 
 **Expected differentiation:**
 
-- **Germania:** Should explicitly invoke **RLL–GERMANIA–0005** (Mandatory Closure Law) and/or **NCZ-GER-002** (Imperial expansion without enforced stopping rules). Response should state that the scenario **violates** a bound constraint. May reference 1914, 1939 as validation.
+- **Germania:** Should explicitly invoke **RLL–GERMANY–0005** (Mandatory Closure Law) and/or **NCZ-GER-002** (Imperial expansion without enforced stopping rules). Response should state that the scenario **violates** a bound constraint. May reference 1914, 1939 as validation.
 - **Francia:** No bound RLL. May reference **doctrines** (e.g. rupture as renewal) or **proposed** RLLs (candidates). Should **not** cite a BOUND RLL or an activation trigger. May frame in terms of legitimacy/capacity or historical analogy, not “this is forbidden by RLL–0005.”
 
 **Pass criteria:**
@@ -149,7 +149,7 @@ Purpose: Define a series of analytical tests that **probe different behavior** b
 
 ## T6. Declarative Authority Limit (AXIOM-005) vs Closure (Germania)
 
-**Objective:** Probe **AXIOM FRANCIA-005** (declarative authority binds only the destinationless) vs Germania’s closure/stopping-rule grammar.
+**Objective:** Probe **AXIOM FRANCE-005** (declarative authority binds only the destinationless) vs Germania’s closure/stopping-rule grammar.
 
 **Dimension probed:** Axiom vs RLL; declaration vs closure.
 
@@ -355,4 +355,4 @@ Record: Date, Scholar, Test ID, prompt (or ref), pass/fail, and one-line note pe
 
 **END OF TEST DESIGN**
 
-Reference: REPORT–SCHOLAR–FRANCE–GERMANIA–COGNITIVE–DIFFERENTIATION.md
+Reference: REPORT–SCHOLAR–FRANCE–GERMANY–COGNITIVE–DIFFERENTIATION.md

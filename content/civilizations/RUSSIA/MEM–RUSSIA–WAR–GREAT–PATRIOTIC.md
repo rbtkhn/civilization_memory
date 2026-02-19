@@ -303,8 +303,8 @@ GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–VOLGA–RIVER — Stalingrad axis
 
 Cross-civilizational:
-• MEM–GERMANIA–THIRD–REICH — existential enemy
-• MEM–GERMANIA–WEHRMACHT — military adversary
+• MEM–GERMANY–THIRD–REICH — existential enemy
+• MEM–GERMANY–WEHRMACHT — military adversary
 • MEM–AMERICA–LEND–LEASE — material support
 
 ────────────────────────────────────────────────────────────

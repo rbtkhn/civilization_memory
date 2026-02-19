@@ -206,7 +206,7 @@ ROME:
 • MEM–ROME–AUGUSTUS — authority finally translated
 
 OTHER CIVILIZATIONS:
-• MEM–FRANCIA–NAPOLEON — decisiveness vs hesitation
+• MEM–FRANCE–NAPOLEON — decisiveness vs hesitation
 • MEM–ANGLIA–CROMWELL — power compelled to choose
 • MEM–RUSSIA–KERENSKY — legitimacy without control
 

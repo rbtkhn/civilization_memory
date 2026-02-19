@@ -243,7 +243,7 @@ GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–FOREST–ZONE — defensive terrain and logistics
 
 Cross-civilizational:
-• MEM–FRANCIA–NAPOLEON — operational contrast: brilliance vs endurance
+• MEM–FRANCE–NAPOLEON — operational contrast: brilliance vs endurance
 
 ────────────────────────────────────────────────────────────
 X. ACADEMIC REFERENCES (ENGAGED)

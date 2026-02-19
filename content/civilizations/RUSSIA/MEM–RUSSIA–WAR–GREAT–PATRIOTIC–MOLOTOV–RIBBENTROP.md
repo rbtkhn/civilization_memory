@@ -320,9 +320,9 @@ GEO Connections — ≥2 Required:
 • MEM–RUSSIA–GEO–BESSARABIA — acquired territory
 
 Cross-Civilizational:
-• MEM–GERMANIA–NAZI — pact partner
+• MEM–GERMANY–NAZI — pact partner
 • MEM–ANGLIA–APPEASEMENT — Munich context
-• MEM–FRANCIA–THIRD–REPUBLIC — failed alliance partner
+• MEM–FRANCE–THIRD–REPUBLIC — failed alliance partner
 
 Each connection is structurally required.
 

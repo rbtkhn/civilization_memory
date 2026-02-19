@@ -144,7 +144,7 @@ GEO MEMs (≥2):
 • MEM–RUSSIA–GEO–NEVA–RIVER — Leningrad; institute base
 
 Cross-civilizational:
-• MEM–GERMANIA–SCI–PLANCK — contrast: conservator at threshold vs executor under compression
+• MEM–GERMANY–SCI–PLANCK — contrast: conservator at threshold vs executor under compression
 
 ────────────────────────────────────────────────────────────
 VIII. CONCEPTS (SEMANTIC INDEX)

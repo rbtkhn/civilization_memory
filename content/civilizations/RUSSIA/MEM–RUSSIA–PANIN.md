@@ -352,8 +352,8 @@ GEO MEMs (≥2):
 • MEM–RUSSIA–GEO–BALTIC — northern system axis
 
 Cross-civilizational:
-• MEM–GERMANIA–PRUSSIA–SYSTEM — alliance anchoring
-• MEM–FRANCIA–BALANCE–POWER — coalition logic
+• MEM–GERMANY–PRUSSIA–SYSTEM — alliance anchoring
+• MEM–FRANCE–BALANCE–POWER — coalition logic
 • MEM–ANGLIA–DIPLOMACY–EUROPE — maritime system management
 
 ────────────────────────────────────────────────────────────

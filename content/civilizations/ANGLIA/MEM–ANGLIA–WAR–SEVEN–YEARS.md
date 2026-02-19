@@ -185,7 +185,7 @@ Europe is managed.
 The world is taken.
 
 ────────────────────────────────────────────────────────────
-VIII. SYSTEMIC ASYMMETRY WITH FRANCIA
+VIII. SYSTEMIC ASYMMETRY WITH FRANCE
 ────────────────────────────────────────────────────────────
 The war exposes civilizational divergence.
 

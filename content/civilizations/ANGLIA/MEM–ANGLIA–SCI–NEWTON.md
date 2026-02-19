@@ -138,11 +138,11 @@ ANGLIA:
 • MEM–ANGLIA–COMMON–LAW — Newtonian method as "Common Law of nature"
 
 Cross-Civilizational:
-• MEM–GERMANIA–SCI–LEIBNIZ — Calculus priority dispute
-• MEM–GERMANIA–SCI–GAUSS — Mathematical physics predecessor
-• MEM–GERMANIA–SCI–EINSTEIN — Classical physics displaced
-• MEM–GERMANIA–SCI–PLANCK — Classical physics displaced
-• MEM–FRANCIA–SCI–LAPLACE — Newtonian synthesis completed in France
+• MEM–GERMANY–SCI–LEIBNIZ — Calculus priority dispute
+• MEM–GERMANY–SCI–GAUSS — Mathematical physics predecessor
+• MEM–GERMANY–SCI–EINSTEIN — Classical physics displaced
+• MEM–GERMANY–SCI–PLANCK — Classical physics displaced
+• MEM–FRANCE–SCI–LAPLACE — Newtonian synthesis completed in France
 
 ────────────────────────────────────────────────────────────
 X. CONTINUITY INSIGHTS (RAW)

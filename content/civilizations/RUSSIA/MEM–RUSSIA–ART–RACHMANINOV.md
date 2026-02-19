@@ -233,7 +233,7 @@ GEO–MEM (≥2):
 
 Cross-civilizational:
 • MEM–AMERICA–MUSIC — exile career, recording legacy
-• MEM–GERMANIA–MUSIC–BRAHMS — late-Romantic inheritance
+• MEM–GERMANY–MUSIC–BRAHMS — late-Romantic inheritance
 
 ────────────────────────────────────────────────────────────
 X. MEM BIBLIOGRAPHY (MANDATORY)

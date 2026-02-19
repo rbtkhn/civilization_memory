@@ -138,8 +138,8 @@ function getEntityDisplayName(entityId) {
     AFRICA: 'Africa',
     AMERICA: 'America',
     ANGLIA: 'Anglia',
-    FRANCIA: 'Francia',
-    GERMANIA: 'Germania',
+    FRANCE: 'France',
+    GERMANY: 'Germany',
   };
   return map[entityId] || entityId.charAt(0) + entityId.slice(1).toLowerCase();
 }

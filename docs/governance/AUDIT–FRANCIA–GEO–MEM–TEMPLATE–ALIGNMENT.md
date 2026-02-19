@@ -1,7 +1,7 @@
 # AUDIT — Francia GEO MEM Files vs CIV–MEM–TEMPLATE
 
 **Date:** 2026-01-29  
-**Scope:** All 10 MEM–FRANCIA–GEO–* files  
+**Scope:** All 10 MEM–FRANCE–GEO–* files  
 **Reference:** CIV–MEM–TEMPLATE v2.9 (GEO–MEM requirements: Section XXII; Layer 2 GEO: Section XXIV.C)  
 **Mode:** LEARN (audit only; no file modification)
 
@@ -19,7 +19,7 @@
 | **With MEM BIBLIOGRAPHY** | 0 |
 | **With MEM INGEST BOOTSTRAP** | 0 |
 
-**Verdict:** All 10 Francia GEO MEMs fail CIV–MEM–TEMPLATE v2.9 GEO–MEM requirements (Section XXII) and universal Layer 1 requirements. None include the GEO cognitive declaration, the four ARC-T quote sections (ANCIENT, MEDIEVAL, EARLY-MOD, MODERN), or the full MEM CONNECTIONS / BIBLIOGRAPHY / INGEST BOOTSTRAP structure. One file (MEM–FRANCIA–GEO–ATLANTIC–OCEAN v1.1) has a "MEM CONNECTIONS" block and a "PRIMARY SOURCES & REFERENCES" block but neither meets current template format or count.
+**Verdict:** All 10 Francia GEO MEMs fail CIV–MEM–TEMPLATE v2.9 GEO–MEM requirements (Section XXII) and universal Layer 1 requirements. None include the GEO cognitive declaration, the four ARC-T quote sections (ANCIENT, MEDIEVAL, EARLY-MOD, MODERN), or the full MEM CONNECTIONS / BIBLIOGRAPHY / INGEST BOOTSTRAP structure. One file (MEM–FRANCE–GEO–ATLANTIC–OCEAN v1.1) has a "MEM CONNECTIONS" block and a "PRIMARY SOURCES & REFERENCES" block but neither meets current template format or count.
 
 ---
 
@@ -55,23 +55,23 @@ Per CIV–MEM–TEMPLATE v2.9 Section XXII (GEO–MEM FILE TYPE REQUIREMENTS):
 
 | File | Version | GEO decl. | 4 ARC-T | Strategic ≥6 | Verbatim | MEM conn. | Biblio. | Bootstrap | Typos |
 |------|---------|-----------|---------|--------------|----------|-----------|---------|-----------|-------|
-| MEM–FRANCIA–GEO–ALPS | v1.0 | ❌ | ❌ | ✅ 8 | ❌ none | ❌ | ❌ | ❌ | INHERITANAD |
-| MEM–FRANCIA–GEO–ATLANTIC–OCEAN | v1.1 | ❌ | ❌ | ✅ 8 | ✅ 2 blocks | ⚠️ partial | ⚠️ refs only | ❌ | — |
-| MEM–FRANCIA–GEO–ENGLISH–CHANNEL | v1.0 | ❌ | ❌ | ✅ 8 | ❌ | ❌ | ❌ | ❌ | — |
-| MEM–FRANCIA–GEO–IBERIA | v1.0 | ❌ | ❌ | ✅ 6 | ❌ | ❌ | ❌ | ❌ | — |
-| MEM–FRANCIA–GEO–LOIRE–RIVER | v1.0 | ❌ | ❌ | ✅ 8 | ✅ 1 block | ❌ | ❌ | ❌ | COHERENAD |
-| MEM–FRANCIA–GEO–MEDITERRANEAN–SEA | v1.1 | ❌ | ❌ | — | — | ❌ | ❌ | ❌ | — |
-| MEM–FRANCIA–GEO–MEUSE–RIVER | v1.0 | ❌ | ❌ | — | — | ❌ | ❌ | ❌ | — |
-| MEM–FRANCIA–GEO–PACIFIC–OCEAN | v1.1 | ❌ | ❌ | — | — | ❌ | ❌ | ❌ | — |
-| MEM–FRANCIA–GEO–RHONE–RIVER | v1.0 | ❌ | ❌ | ✅ 8 | ✅ 1 block | ❌ | ❌ | ❌ | — |
-| MEM–FRANCIA–GEO–SEINE–RIVER | v1.0 | ❌ | ❌ | ✅ 8 | ✅ 3 blocks | ❌ | ❌ | ❌ | DOMINANAD |
+| MEM–FRANCE–GEO–ALPS | v1.0 | ❌ | ❌ | ✅ 8 | ❌ none | ❌ | ❌ | ❌ | INHERITANAD |
+| MEM–FRANCE–GEO–ATLANTIC–OCEAN | v1.1 | ❌ | ❌ | ✅ 8 | ✅ 2 blocks | ⚠️ partial | ⚠️ refs only | ❌ | — |
+| MEM–FRANCE–GEO–ENGLISH–CHANNEL | v1.0 | ❌ | ❌ | ✅ 8 | ❌ | ❌ | ❌ | ❌ | — |
+| MEM–FRANCE–GEO–IBERIA | v1.0 | ❌ | ❌ | ✅ 6 | ❌ | ❌ | ❌ | ❌ | — |
+| MEM–FRANCE–GEO–LOIRE–RIVER | v1.0 | ❌ | ❌ | ✅ 8 | ✅ 1 block | ❌ | ❌ | ❌ | COHERENAD |
+| MEM–FRANCE–GEO–MEDITERRANEAN–SEA | v1.1 | ❌ | ❌ | — | — | ❌ | ❌ | ❌ | — |
+| MEM–FRANCE–GEO–MEUSE–RIVER | v1.0 | ❌ | ❌ | — | — | ❌ | ❌ | ❌ | — |
+| MEM–FRANCE–GEO–PACIFIC–OCEAN | v1.1 | ❌ | ❌ | — | — | ❌ | ❌ | ❌ | — |
+| MEM–FRANCE–GEO–RHONE–RIVER | v1.0 | ❌ | ❌ | ✅ 8 | ✅ 1 block | ❌ | ❌ | ❌ | — |
+| MEM–FRANCE–GEO–SEINE–RIVER | v1.0 | ❌ | ❌ | ✅ 8 | ✅ 3 blocks | ❌ | ❌ | ❌ | DOMINANAD |
 
 **Typos (correct in audit):**
-- **MEM–FRANCIA–GEO–SEINE–RIVER** §VI: "DOMINANAD" → DOMINANCE  
-- **MEM–FRANCIA–GEO–ALPS** §II: "INHERITANAD" → INHERITANCE  
-- **MEM–FRANCIA–GEO–LOIRE–RIVER** §III: "COHERENAD" → COHERENCE  
+- **MEM–FRANCE–GEO–SEINE–RIVER** §VI: "DOMINANAD" → DOMINANCE  
+- **MEM–FRANCE–GEO–ALPS** §II: "INHERITANAD" → INHERITANCE  
+- **MEM–FRANCE–GEO–LOIRE–RIVER** §III: "COHERENAD" → COHERENCE  
 
-**Note:** MEM–FRANCIA–GEO–PACIFIC–OCEAN header shows "PACFIC" (typo) in one grep result; confirm in file.
+**Note:** MEM–FRANCE–GEO–PACIFIC–OCEAN header shows "PACFIC" (typo) in one grep result; confirm in file.
 
 ---
 
@@ -111,11 +111,11 @@ Template XXII.B.3 requires four labeled ARC quote sections:
 
 **Template (Section X):** ≥10 same-civilization MEM connections, ≥2 GEO MEMs, each with justification ("breaks if removed" style).
 
-**MEM–FRANCIA–GEO–ATLANTIC–OCEAN v1.1** is the only file with a "MEM CONNECTIONS" section. It lists 8 connections with narrative justification but:
+**MEM–FRANCE–GEO–ATLANTIC–OCEAN v1.1** is the only file with a "MEM CONNECTIONS" section. It lists 8 connections with narrative justification but:
 - Does not meet ≥10 same-civ count
 - Does not explicitly list ≥2 GEO MEMs as such
 - Format differs from template (no binary rule / justification format)
-- References MEM–FRANCIA–POST–HEGEMONIC–ANXIETY (verify file exists)
+- References MEM–FRANCE–POST–HEGEMONIC–ANXIETY (verify file exists)
 
 **Other 9 GEO MEMs:** No MEM CONNECTIONS section.
 
@@ -147,30 +147,30 @@ For each Francia GEO MEM to reach template compliance:
 1. **Add GEO cognitive declaration** (verbatim per XXII.C) immediately after metadata / before Section I.
 2. **Restructure into blend-compliant layout:**
    - **Strategic analysis (≥6 sections):** Terrain geometry, power distribution, strategic constraints, defensibility, subject-specific (e.g. river as corridor, chokepoint, control sequence). Mearsheimer voice.
-   - **ARC quote sections (4):** Add four labeled sections ARC-T-ANCIENT, ARC-T-MEDIEVAL, ARC-T-EARLY-MOD, ARC-T-MODERN with verbatim quotes from CIV–ARC–FRANCIA v1.7 (≥25 words per era where feasible). Mercouris evidence.
+   - **ARC quote sections (4):** Add four labeled sections ARC-T-ANCIENT, ARC-T-MEDIEVAL, ARC-T-EARLY-MOD, ARC-T-MODERN with verbatim quotes from CIV–ARC–FRANCE v1.7 (≥25 words per era where feasible). Mercouris evidence.
 3. **Add MEM CONNECTIONS** in template format: ≥10 same-civilization MEMs, ≥2 GEO MEMs, each with short justification (e.g. "Breaks if removed: …").
 4. **Add MEM BIBLIOGRAPHY** with full citations for all sources used.
 5. **Add MEM INGEST BOOTSTRAP:** confirm ingest, declare ACTIVE, present exactly eight exploration options (including Mearsheimer/Barnes and traversal where applicable).
 6. **Fix typos:** DOMINANAD → DOMINANCE (Seine); INHERITANAD → INHERITANCE (Alps); COHERENAD → COHERENCE (Loire). Confirm PACFIC → PACIFIC in Pacific Ocean file.
 7. **Optional:** Add Layer 2 GEO structured data (Parameters, Strategic Significance, Control Sequence) for v2.0+.
-8. **Version:** Set to v2.0; Supersedes v1.0/v1.1; Governed by CIV–MEM–CORE v2.7, CIV–MEM–TEMPLATE v2.9, CIV–ARC–FRANCIA v1.7.
+8. **Version:** Set to v2.0; Supersedes v1.0/v1.1; Governed by CIV–MEM–CORE v2.7, CIV–MEM–TEMPLATE v2.9, CIV–ARC–FRANCE v1.7.
 
-**Pilot candidate:** MEM–FRANCIA–GEO–SEINE–RIVER (already has three quote blocks; add GEO declaration, four ARC-T sections, MEM CONNECTIONS, BIBLIOGRAPHY, BOOTSTRAP, typo fix) or MEM–FRANCIA–GEO–ATLANTIC–OCEAN (already has connections and references; bring to full format and add GEO declaration, 4 ARC-T, BOOTSTRAP).
+**Pilot candidate:** MEM–FRANCE–GEO–SEINE–RIVER (already has three quote blocks; add GEO declaration, four ARC-T sections, MEM CONNECTIONS, BIBLIOGRAPHY, BOOTSTRAP, typo fix) or MEM–FRANCE–GEO–ATLANTIC–OCEAN (already has connections and references; bring to full format and add GEO declaration, 4 ARC-T, BOOTSTRAP).
 
 ---
 
-## X. LIST OF FRANCIA GEO MEM FILES (10)
+## X. LIST OF FRANCE GEO MEM FILES (10)
 
-1. MEM–FRANCIA–GEO–ALPS  
-2. MEM–FRANCIA–GEO–ATLANTIC–OCEAN  
-3. MEM–FRANCIA–GEO–ENGLISH–CHANNEL  
-4. MEM–FRANCIA–GEO–IBERIA  
-5. MEM–FRANCIA–GEO–LOIRE–RIVER  
-6. MEM–FRANCIA–GEO–MEDITERRANEAN–SEA  
-7. MEM–FRANCIA–GEO–MEUSE–RIVER  
-8. MEM–FRANCIA–GEO–PACIFIC–OCEAN  
-9. MEM–FRANCIA–GEO–RHONE–RIVER  
-10. MEM–FRANCIA–GEO–SEINE–RIVER  
+1. MEM–FRANCE–GEO–ALPS  
+2. MEM–FRANCE–GEO–ATLANTIC–OCEAN  
+3. MEM–FRANCE–GEO–ENGLISH–CHANNEL  
+4. MEM–FRANCE–GEO–IBERIA  
+5. MEM–FRANCE–GEO–LOIRE–RIVER  
+6. MEM–FRANCE–GEO–MEDITERRANEAN–SEA  
+7. MEM–FRANCE–GEO–MEUSE–RIVER  
+8. MEM–FRANCE–GEO–PACIFIC–OCEAN  
+9. MEM–FRANCE–GEO–RHONE–RIVER  
+10. MEM–FRANCE–GEO–SEINE–RIVER  
 
 ---
 

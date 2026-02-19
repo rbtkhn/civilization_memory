@@ -156,7 +156,7 @@ GEO MEMs (≥2):
 • MEM–RUSSIA–PETERSBURG — Leningrad; scientific centres
 
 Cross-civilizational:
-• MEM–GERMANIA–SCI–PLANCK — contrast: quiet stewardship vs open dissent under sovereign override
+• MEM–GERMANY–SCI–PLANCK — contrast: quiet stewardship vs open dissent under sovereign override
 
 ────────────────────────────────────────────────────────────
 VIII. CONCEPTS (SEMANTIC INDEX)

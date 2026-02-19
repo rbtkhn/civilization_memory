@@ -253,8 +253,8 @@ ANGLIA:
 
 Cross-Civilizational:
 • MEM–ROMAN–REPUBLIC — elite constraint failure case
-• MEM–FRANCIA–REVOLUTION — reset without procedural inheritance
-• MEM–GERMANIA–WEIMAR — law without constraint durability
+• MEM–FRANCE–REVOLUTION — reset without procedural inheritance
+• MEM–GERMANY–WEIMAR — law without constraint durability
 
 ────────────────────────────────────────────────────────────
 XI. CIVILIZATIONAL MEMORY FUNCTION

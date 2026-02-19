@@ -3,15 +3,17 @@ Civilizational Memory Codex · Minimal Startup Payload
 Fast Coherence Without Full Governance Ingest
 
 Governed by: CMC 3.4
-Last Update: 17 February 2026
+Last Update: 18 February 2026
 
 ────────────────────────────────────────────────────────────
 SESSION PRIORITY OBJECTIVE (MUTABLE — UPDATE WHEN DONE OR SUPERSEDED)
 ────────────────────────────────────────────────────────────
+**EXPLORATION (next session):** Explore the idea of **forking the project** while keeping only (1) **file structure** (which MEMs exist, paths, INDEX) and (2) **MEM CONNECTIONS** (the connection graph); **clearing** all other content from MEM files; then **regenerating** content from an **entirely new curated corpus**. Goal: assess plausibility, identify what to preserve (CONNECTIONS, CONCEPT IV-A connector tables, template section layout), what to strip, and what a regeneration pipeline would need (corpus interface, connection-aware generation, governance alignment). See prior session discussion: skeleton = structure + CONNECTIONS; new corpus drives narrative; connector pairs and same-subject encodings stay invariant.
+
 **NEXT SESSION (user intent):** Continue refining the **linkage between Islam and Rome** (double-helix concept, connector MEMs, STATE/SCHOLAR/LEARN integration). Resume in a new conversation with this as the session priority.
 
 **Current state — Rome–Islam linkage (February 2026):**
-• **CONCEPT–ROME–ISLAM–DOUBLE–HELIX** (docs/governance/): Axis, base pairs, III-A structural conditions (prolonged parity → transmission; no single actor controls axis). **IV-A Connector MEMs:** paired same-subject files = main connectors between strands (Constantinople, Crusades, Jerusalem, Sicily, Mediterranean, Levant, Iberia). **Section IX:** STATE/LEARN citation rule — control sequence (MEM–ISLAM–GEO–MEDITERRANEAN–SEA) primary; paired MEMs for 1099–1291 (MEM–ROME–CRUSADES + MEM–ISLAM–CRUSADES; France → add MEM–FRANCIA–WAR–CRUSADES) and 650–1050.
+• **CONCEPT–ROME–ISLAM–DOUBLE–HELIX** (docs/governance/): Axis, base pairs, III-A structural conditions (prolonged parity → transmission; no single actor controls axis). **IV-A Connector MEMs:** paired same-subject files = main connectors between strands (Constantinople, Crusades, Jerusalem, Sicily, Mediterranean, Levant, Iberia). **Section IX:** STATE/LEARN citation rule — control sequence (MEM–ISLAM–GEO–MEDITERRANEAN–SEA) primary; paired MEMs for 1099–1291 (MEM–ROME–CRUSADES + MEM–ISLAM–CRUSADES; France → add MEM–FRANCE–WAR–CRUSADES) and 650–1050.
 • **CONCEPT–STATE–INFLUENCE–FROM–CONCLUDED–ENTITIES:** Only STATE–ROME and STATE–ISLAM in scope; weight HIGH/MEDIUM/LOW; STATE–ISLAM influences all living STATE files; design scope + double-helix reference.
 • **CIV–STATE–ISLAM** (content/civilizations/ISLAM/): Monument 622–1924; Section VIII = all seven living STATE files with type and weight; design scope and metaphor line.
 • **cmc-state-mem-grounding.mdc:** Subsection "Double-helix interval citation" + self-check when both Rome and Islam influence and topic touches Mediterranean or intervals 650–1050 / 1099–1291.

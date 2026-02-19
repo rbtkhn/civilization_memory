@@ -216,7 +216,7 @@ ROME:
 • MEM–ROME–CHRISTIANITY — the structure that resisted reversal
 
 NON-ROME:
-• MEM–FRANCIA–REVOLUTION — attempted civilizational grammar replacement
+• MEM–FRANCE–REVOLUTION — attempted civilizational grammar replacement
 • MEM–RUSSIA–BOLSHEVISM — successful (temporary) grammar replacement
 • MEM–CHINA–CULTURAL–REVOLUTION — forced grammar erasure attempt
 

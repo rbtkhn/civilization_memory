@@ -112,11 +112,11 @@ The two Scholar files encode **distinct civilizational epistemes**: Francia’s 
 
 **Verbatim axioms (CIV–SCHOLAR–FRANCE § IV.A):**
 
-> **AXIOM FRANCIA-001:** Authority flows from declaration.  
-> **AXIOM FRANCIA-002:** Universal claims generate legitimacy.  
-> **AXIOM FRANCIA-003:** Rupture enables renewal.  
-> **AXIOM FRANCIA-004:** Symbolism persists across regime change.  
-> **AXIOM FRANCIA-005:** Declarative authority binds only the destinationless.
+> **AXIOM FRANCE-001:** Authority flows from declaration.  
+> **AXIOM FRANCE-002:** Universal claims generate legitimacy.  
+> **AXIOM FRANCE-003:** Rupture enables renewal.  
+> **AXIOM FRANCE-004:** Symbolism persists across regime change.  
+> **AXIOM FRANCE-005:** Declarative authority binds only the destinationless.
 
 **Cognitive character:** Authority is **constituted by declaration**; legitimacy by **universal claim**; renewal by **rupture** when grammar survives; continuity by **symbol**.
 
@@ -156,9 +156,9 @@ The two Scholar files encode **distinct civilizational epistemes**: Francia’s 
 
 **Verbatim (CIV–SCHOLAR–FRANCE § IV.B):**
 
-> **[NCZ-001] Colonial Legitimacy Transfer** — Status: CONTESTED; Resolution Path: Ingest MEM–FRANCIA–EMPIRE–ALGERIA, MEM–FRANCIA–EMPIRE–INDOCHINA  
-> **[NCZ-002] Fifth Republic Rupture Status** — Status: CONTESTED; Resolution Path: Ingest MEM–FRANCIA–DE–GAULLE, MEM–FRANCIA–FIFTH–REPUBLIC  
-> **[NCZ-003] Laïcité as Civilizational Grammar** — Status: INSUFFICIENT; Resolution Path: Ingest MEM–FRANCIA–LAICITE, MEM–FRANCIA–1905–LAW
+> **[NCZ-001] Colonial Legitimacy Transfer** — Status: CONTESTED; Resolution Path: Ingest MEM–FRANCE–EMPIRE–ALGERIA, MEM–FRANCE–EMPIRE–INDOCHINA  
+> **[NCZ-002] Fifth Republic Rupture Status** — Status: CONTESTED; Resolution Path: Ingest MEM–FRANCE–DE–GAULLE, MEM–FRANCE–FIFTH–REPUBLIC  
+> **[NCZ-003] Laïcité as Civilizational Grammar** — Status: INSUFFICIENT; Resolution Path: Ingest MEM–FRANCE–LAICITE, MEM–FRANCE–1905–LAW
 
 **Cognitive character:** NCZ = **what we do not yet know**. Resolution = ingest MEMs. Epistemic gaps, not structural impossibilities.
 
@@ -184,7 +184,7 @@ Anglia (template v1.2) has **no Negative Capability Zone** section. The file doe
 
 ### Francia: Syntheses with Assumptions Boxes; RLLs Proposed
 
-Francia has 8 frozen syntheses (e.g. SYNTHESIS 0004: renewal through myth, law, symbol; SYNTHESIS 0008: 1763 as interval, demonstration failed). RLLs are **proposed** (e.g. RLL–FRANCIA–0011, 0012–0014); **none bound**. Assumptions Boxes are mandatory for frozen syntheses.
+Francia has 8 frozen syntheses (e.g. SYNTHESIS 0004: renewal through myth, law, symbol; SYNTHESIS 0008: 1763 as interval, demonstration failed). RLLs are **proposed** (e.g. RLL–FRANCE–0011, 0012–0014); **none bound**. Assumptions Boxes are mandatory for frozen syntheses.
 
 ---
 
@@ -265,7 +265,7 @@ Anglia’s Scholar (template v1.2) has **no MIND profile or tri-frame** section.
 
 ### Francia: Recovery Through Rupture and Symbol
 
-**Verbatim (CIV–SCHOLAR–FRANCE):** ENTRY 0013 (MEM–WAR–HUNDRED–YEARS, MEM–NOTRE–DAME); SYNTHESIS 0004 medieval extension; ENTRY 0014 (MEM–FRANCIA–AQUITAINE). Post-Reims (1431–1453): **recovery through rupture** (Hundred Years’ War); **symbolic reassertion** (Reims, Joan, fleur-de-lys) before procedural continuity; Aquitaine reabsorption completes the sequence.
+**Verbatim (CIV–SCHOLAR–FRANCE):** ENTRY 0013 (MEM–WAR–HUNDRED–YEARS, MEM–NOTRE–DAME); SYNTHESIS 0004 medieval extension; ENTRY 0014 (MEM–FRANCE–AQUITAINE). Post-Reims (1431–1453): **recovery through rupture** (Hundred Years’ War); **symbolic reassertion** (Reims, Joan, fleur-de-lys) before procedural continuity; Aquitaine reabsorption completes the sequence.
 
 **Cognitive character:** Hundred Years’ War = **rupture then symbolic renewal**; territorial recovery follows legitimacy reassertion. Francia **absorbs** the war into a narrative of renewal.
 

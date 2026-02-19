@@ -46,7 +46,7 @@ The objective is containment, not conquest.
 Crimea is peripheral geographically but central strategically.
 
 ────────────────────────────────────────────────────────────
-III. ALLIANCE WARFARE WITH FRANCIA
+III. ALLIANCE WARFARE WITH FRANCE
 ────────────────────────────────────────────────────────────
 Anglia fights alongside Francia.
 

@@ -196,11 +196,11 @@ ROME:
   through assassination.
 
 NON-ROME:
-• MEM–FRANCIA–NAPOLEON — mirrors Caesar as revolutionary legitimacy converted
+• MEM–FRANCE–NAPOLEON — mirrors Caesar as revolutionary legitimacy converted
   into personal sovereignty.
 • MEM–ANGLIA–CROMWELL — parallel rupture where republican forms fail under
   military authority.
-• MEM–GERMANIA–BISMARCK — contrasts Caesar by embedding power structurally
+• MEM–GERMANY–BISMARCK — contrasts Caesar by embedding power structurally
   rather than personally.
 
 ────────────────────────────────────────────────────────────

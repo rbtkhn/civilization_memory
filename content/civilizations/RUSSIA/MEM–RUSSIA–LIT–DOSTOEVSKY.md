@@ -274,8 +274,8 @@ GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–FOREST–ZONE — isolation and introspection
 
 Cross-civilizational:
-• MEM–GERMANIA–PHILOSOPHY — contrast: Western rationalism vs Russian faith
-• MEM–FRANCIA–REVOLUTION — Western revolutionary thought as nihilist threat
+• MEM–GERMANY–PHILOSOPHY — contrast: Western rationalism vs Russian faith
+• MEM–FRANCE–REVOLUTION — Western revolutionary thought as nihilist threat
 
 ────────────────────────────────────────────────────────────
 XIV. MEM BIBLIOGRAPHY

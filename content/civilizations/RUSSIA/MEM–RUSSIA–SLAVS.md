@@ -335,7 +335,7 @@ GEO–MEM (REQUIRED ≥2):
 • MEM–RUSSIA–GEO–PRIPYAT–MARSHES — Slavic homeland region
 
 Cross-civilizational:
-• MEM–GERMANIA–SLAVS — West Slavic interface
+• MEM–GERMANY–SLAVS — West Slavic interface
 • MEM–BYZANTIUM–SLAVS — South Slavic sphere
 • MEM–SCANDINAVIA–VARANGIANS — Rurikid origin
 

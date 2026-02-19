@@ -301,7 +301,7 @@ GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–VISTULA — advance limit
 
 Cross-civilizational:
-• MEM–GERMANIA–ARMY–GROUP–CENTER — destroyed force
+• MEM–GERMANY–ARMY–GROUP–CENTER — destroyed force
 • MEM–POLONIA–WARSAW–UPRISING — related event
 • MEM–AMERICA–D–DAY — simultaneous pressure
 

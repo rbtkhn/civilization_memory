@@ -278,8 +278,8 @@ GEO–MEM (≥2):
 • MEM–RUSSIA–MOSCOW — salient location (Central Russia)
 
 Cross-civilizational:
-• MEM–GERMANIA–WEHRMACHT — culminating force
-• MEM–GERMANIA–CITADEL — failed operation
+• MEM–GERMANY–WEHRMACHT — culminating force
+• MEM–GERMANY–CITADEL — failed operation
 • MEM–BRITANNIA–ULTRA — intelligence contribution
 
 ────────────────────────────────────────────────────────────

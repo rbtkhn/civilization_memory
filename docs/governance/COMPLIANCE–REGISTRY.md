@@ -85,7 +85,7 @@ Content is valid; headers use old governance declarations.
 Upgrade to simplified headers is optional and low priority.
 
 ────────────────────────────────────────────────────────────
-V. GERMANIA (156 MEMs)
+V. GERMANY (156 MEMs)
 ────────────────────────────────────────────────────────────
 Phase: II (Constraint Grammar)
 Last Validated: 2026-02-04
@@ -97,7 +97,7 @@ SUMMARY:
 • NEEDS_UPGRADE: 0
 
 ────────────────────────────────────────────────────────────
-VI. FRANCIA (138 MEMs)
+VI. FRANCE (138 MEMs)
 ────────────────────────────────────────────────────────────
 Phase: II (Development)
 Last Validated: 2026-02-04

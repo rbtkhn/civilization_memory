@@ -273,7 +273,7 @@ Belief Status:
 
 ENTRY 0011
 Source:
-• Repository-wide grep; MEM–ANGLIA–*, MEM–FRANCIA–*, MEM–GERMANIA–*, MEM–ROME–*
+• Repository-wide grep; MEM–ANGLIA–*, MEM–FRANCE–*, MEM–GERMANY–*, MEM–ROME–*
 Ingest Type:
 • Cross-Repository Corpus — John Keegan Verbatim Quotes
 Primary Belief Extracted:

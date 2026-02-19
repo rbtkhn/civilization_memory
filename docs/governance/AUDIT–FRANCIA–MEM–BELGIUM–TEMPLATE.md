@@ -1,8 +1,8 @@
-# AUDIT — MEM–FRANCIA–BELGIUM vs CIV–MEM–TEMPLATE v2.9
+# AUDIT — MEM–FRANCE–BELGIUM vs CIV–MEM–TEMPLATE v2.9
 
 **Date:** January 2026  
-**Scope:** MEM–FRANCIA–BELGIUM (v1.3)  
-**Reference:** [MEM–FRANCIA–BELGIUM](https://github.com/rbtkhn/civilization_memory/blob/main/content/civilizations/FRANCIA/MEM%E2%80%93FRANCIA%E2%80%93BELGIUM.md) · CIV–MEM–TEMPLATE v2.9  
+**Scope:** MEM–FRANCE–BELGIUM (v1.3)  
+**Reference:** [MEM–FRANCE–BELGIUM](https://github.com/rbtkhn/civilization_memory/blob/main/content/civilizations/FRANCE/MEM%E2%80%93FRANCE%E2%80%93BELGIUM.md) · CIV–MEM–TEMPLATE v2.9  
 **Mode:** LEARN (audit only; no file modification)
 
 ---
@@ -11,7 +11,7 @@
 
 | Metric | Result |
 |--------|--------|
-| **File** | MEM–FRANCIA–BELGIUM — v1.3 |
+| **File** | MEM–FRANCE–BELGIUM — v1.3 |
 | **Subject** | Belgium (Lost Extension, Buffer Denial, Constraint Zone) |
 | **Template (Layer 1)** | Partial compliance |
 | **Layer 2 (CITY/PLACE)** | Not present (optional for existing MEMs per v2.9 XXVII.B) |
@@ -22,7 +22,7 @@
 | **SUBJECT TYPE DECLARATION** | Absent |
 | **Mandatory clause** | Present: "Contradictions are preserved without synthesis." |
 
-**Verdict:** MEM–FRANCIA–BELGIUM meets core prose structure (8+ analytical sections, mandatory clause, verbatim quotes with attribution) but does not fully satisfy CIV–MEM–TEMPLATE v2.9 Layer 1 requirements for MEM CONNECTIONS count, MEM BIBLIOGRAPHY, ERC classification of quotations, or SUBJECT TYPE DECLARATION. Layer 2 structured data is optional for this existing MEM.
+**Verdict:** MEM–FRANCE–BELGIUM meets core prose structure (8+ analytical sections, mandatory clause, verbatim quotes with attribution) but does not fully satisfy CIV–MEM–TEMPLATE v2.9 Layer 1 requirements for MEM CONNECTIONS count, MEM BIBLIOGRAPHY, ERC classification of quotations, or SUBJECT TYPE DECLARATION. Layer 2 structured data is optional for this existing MEM.
 
 ---
 
@@ -51,9 +51,9 @@ Per CIV–MEM–TEMPLATE v2.9:
 
 ## III. LAYER 2 (CITY/PLACE) — OPTIONAL FOR EXISTING MEM
 
-MEM–FRANCIA–BELGIUM is a **place/region** MEM (Belgium as buffer), not a city MEM. Template XXIV.F (CITY STRUCTURED DATA) would apply if treating Belgium as a "place":
+MEM–FRANCE–BELGIUM is a **place/region** MEM (Belgium as buffer), not a city MEM. Template XXIV.F (CITY STRUCTURED DATA) would apply if treating Belgium as a "place":
 
-| Layer 2 element | Required for new MEM | Status in MEM–FRANCIA–BELGIUM |
+| Layer 2 element | Required for new MEM | Status in MEM–FRANCE–BELGIUM |
 |-----------------|------------------------|-------------------------------|
 | SECTION: CITY STRUCTURED DATA (LAYER 2) | Yes (new MEMs) | ❌ Not present |
 | SUBSECTION: GEOGRAPHIC (COORDINATES, TERRAIN, CLIMATE, KEY_FEATURES) | Yes | ❌ Not present |
@@ -84,9 +84,9 @@ Template X requires:
 - **≥2 GEO MEM files** among connections
 - Each with justification (X.B)
 
-MEM–FRANCIA–BELGIUM Section XII lists:
-- **Francia (3):** MEM–FRANCIA–NETHERLANDS, MEM–FRANCIA–DENMARK, MEM–FRANCIA–SWEDEN
-- **Germania (3):** MEM–GERMANIA–AUSTRIA–HUNGARY, MEM–GERMANIA–POLAND–LITHUANIA–COMMONWEALTH, MEM–GERMANIA–NETHERLANDS
+MEM–FRANCE–BELGIUM Section XII lists:
+- **Francia (3):** MEM–FRANCE–NETHERLANDS, MEM–FRANCE–DENMARK, MEM–FRANCE–SWEDEN
+- **Germania (3):** MEM–GERMANY–AUSTRIA–HUNGARY, MEM–GERMANY–POLAND–LITHUANIA–COMMONWEALTH, MEM–GERMANY–NETHERLANDS
 - **Anglia (2, planned):** MEM–ANGLIA–NETHERLANDS, MEM–ANGLIA–BELGIUM
 
 **Gap:** Same-civilization count is 3 (need ≥10). GEO MEMs explicitly listed: 0 (need ≥2). Justifications are present and substantive.
@@ -97,9 +97,9 @@ MEM–FRANCIA–BELGIUM Section XII lists:
 
 1. **ERC:** Add [ERC-PRIMARY] or [ERC-CONTEXTUAL] to each verbatim quote per template V.
 2. **MEM BIBLIOGRAPHY:** Add a section listing all sources (primary and secondary) used or cited.
-3. **MEM CONNECTIONS:** Expand same-civilization connections (e.g. MEM–FRANCIA–WAR–NAPOLEON–WATERLOO, MEM–FRANCIA–NAPOLEON, MEM–FRANCIA–GEO–ENGLISH–CHANNEL, MEM–FRANCIA–GEO–RHINE–RIVER, MEM–FRANCIA–PARIS, MEM–FRANCIA–FRENCH–REVOLUTION, MEM–FRANCIA–RICHELIEU, MEM–FRANCIA–BELGIUM–ANTWERP, etc.) to ≥10 and include ≥2 GEO MEMs with justification.
+3. **MEM CONNECTIONS:** Expand same-civilization connections (e.g. MEM–FRANCE–WAR–NAPOLEON–WATERLOO, MEM–FRANCE–NAPOLEON, MEM–FRANCE–GEO–ENGLISH–CHANNEL, MEM–FRANCE–GEO–RHINE–RIVER, MEM–FRANCE–PARIS, MEM–FRANCE–FRENCH–REVOLUTION, MEM–FRANCE–RICHELIEU, MEM–FRANCE–BELGIUM–ANTWERP, etc.) to ≥10 and include ≥2 GEO MEMs with justification.
 4. **SUBJECT TYPE DECLARATION:** Add VIII.C declaration (e.g. well-documented subject; PRIMARY ≥2, CONTEXTUAL ≥2, SECONDARY ≥2).
-5. **ARC version pinning:** Add "ARC version pinned: CIV–ARC–FRANCIA vX.X" (or equivalent).
+5. **ARC version pinning:** Add "ARC version pinned: CIV–ARC–FRANCE vX.X" (or equivalent).
 6. **Layer 2 (optional):** Add CITY/PLACE structured data (geographic parameters, economic function, control history table) for template alignment and queryability.
 
 ---
@@ -109,5 +109,5 @@ MEM–FRANCIA–BELGIUM Section XII lists:
 The file declares **ACTIVE · CANONICAL · 20% COMPLIANT**. Per template XV, CANONICAL requires ≥20% quotes, 70% analytical content, and EQS compliance. This audit does not revoke canonical status; it records template gaps for voluntary upgrade.
 
 ────────────────────────────────────────────────────────────
-END OF AUDIT — MEM–FRANCIA–BELGIUM — TEMPLATE v2.9
+END OF AUDIT — MEM–FRANCE–BELGIUM — TEMPLATE v2.9
 ────────────────────────────────────────────────────────────

@@ -255,7 +255,7 @@ CROSS-ARC CITATION RULES:
 
    Examples:
    • Ferguson, *House of Rothschild* (ARC–ANGLIA-T-MODERN) [ERC-SECONDARY]
-   • Ferguson, *House of Rothschild* (ARC–GERMANIA-T-MODERN) [ERC-SECONDARY]
+   • Ferguson, *House of Rothschild* (ARC–GERMANY-T-MODERN) [ERC-SECONDARY]
 
 4. TEMPORAL PRECEDENCE WITHIN ARC:
    Temporal precedence applies within each ARC independently.
@@ -273,8 +273,8 @@ MEM–ANGLIA–HAMILTON (TSP:RECONSTITUTION):
 
 MEM–ANGLIA–ROTHSCHILD (TSP:NETWORK):
 • Primary ARC: ARC–ANGLIA
-• Cross-ARC: ARC–GERMANIA sources on Frankfurt origins
-• Cross-ARC: ARC–FRANCIA sources on Paris operations
+• Cross-ARC: ARC–GERMANY sources on Frankfurt origins
+• Cross-ARC: ARC–FRANCE sources on Paris operations
 
 MEM–ROME–RUSSIA (TSP:TRANSMISSION):
 • Primary ARC: ARC–ROME (if filed under ROME)

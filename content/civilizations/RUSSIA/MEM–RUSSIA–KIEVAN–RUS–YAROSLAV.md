@@ -217,8 +217,8 @@ GEO (≥2):
 • MEM–RUSSIA–GEO–DNEIPER–RIVER — territorial axis
 
 COMPARATIVE:
-• MEM–GERMANIA–CHARLEMAGNE — law-code parallels
-• MEM–FRANCIA–EARLY–CAPETIAN — fragmentation comparison
+• MEM–GERMANY–CHARLEMAGNE — law-code parallels
+• MEM–FRANCE–EARLY–CAPETIAN — fragmentation comparison
 
 These links establish Yaroslav as a structural hinge.
 

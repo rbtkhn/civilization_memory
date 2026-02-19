@@ -158,7 +158,7 @@ recurrence through bounded consent.
 • MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE–YORKTOWN
 Lockean consent enables separation without civilizational collapse.
 
-• MEM–GERMANIA–KANT
+• MEM–GERMANY–KANT
 Where Kant disciplines reason internally, Locke disciplines power
 externally through institutional limits.
 

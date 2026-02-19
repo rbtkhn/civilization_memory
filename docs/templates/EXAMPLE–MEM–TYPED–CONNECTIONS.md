@@ -67,7 +67,7 @@ CONTRADICTS:
 
 PARALLELS:
 • MEM–ROME–AUGUSTUS — Concentration of power while preserving formal institutions
-• MEM–FRANCIA–LOUIS–XIV — Coercive state-building and elite subordination
+• MEM–FRANCE–LOUIS–XIV — Coercive state-building and elite subordination
 • MEM–CHINA–QIN–SHI–HUANG — Centralization and bureaucratic rationalization
 
 GEOGRAPHIC:

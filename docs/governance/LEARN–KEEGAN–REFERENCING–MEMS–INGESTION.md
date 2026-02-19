@@ -29,18 +29,18 @@ II. MEMs THAT REFERENCE KEEGAN (BY CIVILIZATION)
 • MEM–ANGLIA–WAR–HASTINGS — Keegan *The Face of Battle* (ARC-T-MODERN): late Anglo-Saxon warfare defensive-infantry-centric; "appalling confusion, noise, incoherence of armies fighting at close quarters." SOURCE block + Secondary list.  
 • Additional MEM–ANGLIA–* (multiple): Keegan cited across Hastings, Agincourt, American Civil War, Wellington, Nelson, etc. — Keegan in ARC–ANGLIA; used for battle/soldier experience and command framing.
 
-**FRANCIA (ARC–FRANCIA)**  
-• MEM–FRANCIA–* (multiple): Keegan in CIV–ARC–FRANCIA; *The Face of Battle*, *Six Armies in Normandy*; *Fields of Battle* for colonial/Seven Years' War. MEMs (Waterloo, Trafalgar, Yorktown, Napoleonic, WWI, etc.) reference Keegan per ARC–FRANCIA.
+**FRANCE (ARC–FRANCE)**  
+• MEM–FRANCE–* (multiple): Keegan in CIV–ARC–FRANCE; *The Face of Battle*, *Six Armies in Normandy*; *Fields of Battle* for colonial/Seven Years' War. MEMs (Waterloo, Trafalgar, Yorktown, Napoleonic, WWI, etc.) reference Keegan per ARC–FRANCE.
 
-**GERMANIA, ROME, RUSSIA**  
-• MEM–GERMANIA–*, MEM–ROME–*, MEM–RUSSIA–*: Keegan appears where battle/command/warfare historiography is cited; pattern consistent with ARC or cross-civilization citation where applicable.
+**GERMANY, ROME, RUSSIA**  
+• MEM–GERMANY–*, MEM–ROME–*, MEM–RUSSIA–*: Keegan appears where battle/command/warfare historiography is cited; pattern consistent with ARC or cross-civilization citation where applicable.
 
 ────────────────────────────────────────────────────────────
 III. PATTERN EXTRACTED
 ────────────────────────────────────────────────────────────
 
 **1. Two modes of use**  
-• **ARC‑authorized:** Keegan listed in CIV–ARC–[CIV]; MEMs cite him as SOURCE or Secondary with ARC tier (e.g. ARC-T-MODERN). Civilizations: ANGLIA, FRANCIA, PERSIA (ARC–PERSIA v1.2+).  
+• **ARC‑authorized:** Keegan listed in CIV–ARC–[CIV]; MEMs cite him as SOURCE or Secondary with ARC tier (e.g. ARC-T-MODERN). Civilizations: ANGLIA, FRANCE, PERSIA (ARC–PERSIA v1.2+).  
 • **Civilization‑contrast (not in ARC):** Keegan used for contrast without being in that civilization's ARC. Explicit SOURCE block labeled "CIVILIZATION-CONTRAST" and governed by Scholar RLL/synthesis. Civilizations: ISLAM (RLL–ISLAM–0003, SYNTHESIS 0005; Keegan "repository corpus, not ARC–ISLAM"). INDIA: Keegan documented for methodological/contrast use in CIV–SCHOLAR–INDIA; not added to ARC–INDIA (RESEARCH–KEEGAN–ALEXANDER–INDIA–COMMAND–FRAMING).
 
 **2. Recurring Keegan themes in MEMs**  
@@ -71,7 +71,7 @@ V. FILES INGESTED (TRACEABILITY)
 | PERSIA | MEM–PERSIA–ACHAEMENID–DARIUS–III | Applied insight (belief collapse) |
 | PERSIA | CIV–SCHOLAR–PERSIA (MEM–PERSIA–WAR–CARRHAE) | Scholar citation, Keegan in ARC–PERSIA |
 | ANGLIA | MEM–ANGLIA–WAR–HASTINGS (+ many MEM–ANGLIA–*) | SOURCE/Secondary, ARC–ANGLIA |
-| FRANCIA | MEM–FRANCIA–* (multiple) | Per CIV–ARC–FRANCIA |
+| FRANCE | MEM–FRANCE–* (multiple) | Per CIV–ARC–FRANCE |
 | INDIA | CIV–SCHOLAR–INDIA, RESEARCH–KEEGAN–ALEXANDER–INDIA | Methodological/contrast; not in ARC–INDIA |
 | CHINA | — | No Keegan reference |
 

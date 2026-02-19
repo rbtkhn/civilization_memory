@@ -125,7 +125,7 @@ Same-civilization (Anglia):
 • MEM–ANGLIA–ROCKEFELLER — Morgan/Rockefeller relationship; U.S. Steel; Chernow *Titan* and *House of Morgan*
 
 Cross-civilization:
-• MEM–GERMANIA–ROTHSCHILD — Comparative: Frankfurt/London Rothschild vs New York Morgan; trans-sovereign finance
+• MEM–GERMANY–ROTHSCHILD — Comparative: Frankfurt/London Rothschild vs New York Morgan; trans-sovereign finance
 
 ────────────────────────────────────────────────────────────
 IX. PRIMARY SOURCES & REFERENCES

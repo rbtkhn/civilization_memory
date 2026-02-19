@@ -435,8 +435,8 @@ GEO (≥2):
 • MEM–RUSSIA–GEO–BLACK–SEA — southern expansion vector
 
 Cross-civilizational:
-• MEM–FRANCIA–ABSOLUTISM–ENLIGHTENMENT — rhetoric vs authority
-• MEM–GERMANIA–PRUSSIA–FREDERICK — enlightened autocracy parallel
+• MEM–FRANCE–ABSOLUTISM–ENLIGHTENMENT — rhetoric vs authority
+• MEM–GERMANY–PRUSSIA–FREDERICK — enlightened autocracy parallel
 • MEM–OTTOMAN–DECLINE — southern expansion pressure
 
 ────────────────────────────────────────────────────────────

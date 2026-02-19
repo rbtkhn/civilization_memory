@@ -61,6 +61,8 @@ When the user's message **matches or is clearly equivalent** to one of the phras
 | Iran, Persia | PERSIA |
 | Russia | RUSSIA |
 | China | CHINA |
+| France | FRANCE |
+| Germany | GERMANY |
 | (Other) | CIV–STATE–[CIV] if present |
 
 ### Equivalence

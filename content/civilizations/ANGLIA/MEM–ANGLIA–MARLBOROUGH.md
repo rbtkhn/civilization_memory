@@ -126,8 +126,8 @@ ANGLIA:
 • MEM–ANGLIA–GLORIOUS–REVOLUTION — Post-1688 settlement enables Marlborough’s war under William III and Anne.
 
 Cross-Civilizational:
-• MEM–FRANCIA–WAR–SPANISH–SUCCESSION — Contrasting memory; Louis XIV’s overextension confronted by coalition.
-• MEM–FRANCIA–LOUIS–XIV — Absolutist overextension confronted by Marlborough and Grand Alliance.
+• MEM–FRANCE–WAR–SPANISH–SUCCESSION — Contrasting memory; Louis XIV’s overextension confronted by coalition.
+• MEM–FRANCE–LOUIS–XIV — Absolutist overextension confronted by Marlborough and Grand Alliance.
 
 ────────────────────────────────────────────────────────────
 VII. BIBLIOGRAPHY

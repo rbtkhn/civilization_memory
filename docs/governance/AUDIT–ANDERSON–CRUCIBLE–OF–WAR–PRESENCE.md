@@ -10,12 +10,12 @@
 
 | Category | Status |
 |----------|--------|
-| **ARC registration** | FRANCIA ✓ · GERMANIA ✓ · **ANGLIA ✗ (gap)** |
+| **ARC registration** | FRANCE ✓ · GERMANY ✓ · **ANGLIA ✗ (gap)** |
 | **MEM usage** | 14 MEM files cite Anderson; 1 typo (CONSEQUENAD) |
-| **CORE / Scholar / Ledger** | CORE–FRANCIA, SCHOLAR–FRANCE, ARC–FRANCIA–LEDGER, ARC–GERMANIA–LEDGER reference Anderson |
+| **CORE / Scholar / Ledger** | CORE–FRANCE, SCHOLAR–FRANCE, ARC–FRANCE–LEDGER, ARC–GERMANY–LEDGER reference Anderson |
 | **Other “Anderson” / “Crucible”** | 4 false positives (M.S. Anderson, Emily Anderson, Herrin *Crucible of Europe*, Grimm) |
 
-**Summary:** Anderson / *Crucible of War* is present in **FRANCIA** and **GERMANIA** (ARC + MEM + Ledger) and is used heavily in MEMs for Seven Years' War, imperial fate, and Prussian/French contrast. **ANGLIA** uses Anderson in MEM–ANGLIA–WAR–SEVEN–YEARS (verbatim quotes, bibliography) but **Fred Anderson is not listed in CIV–ARC–ANGLIA** — an ARC compliance gap. Fix: add Fred Anderson to CIV–ARC–ANGLIA, or add an ARC–DISCOVERY flag to MEM–ANGLIA–WAR–SEVEN–YEARS. One typo: MEM–ANGLIA–WAR–SEVEN–YEARS line 93 "CONSEQUENAD" → CONSEQUENCE.
+**Summary:** Anderson / *Crucible of War* is present in **FRANCE** and **GERMANY** (ARC + MEM + Ledger) and is used heavily in MEMs for Seven Years' War, imperial fate, and Prussian/French contrast. **ANGLIA** uses Anderson in MEM–ANGLIA–WAR–SEVEN–YEARS (verbatim quotes, bibliography) but **Fred Anderson is not listed in CIV–ARC–ANGLIA** — an ARC compliance gap. Fix: add Fred Anderson to CIV–ARC–ANGLIA, or add an ARC–DISCOVERY flag to MEM–ANGLIA–WAR–SEVEN–YEARS. One typo: MEM–ANGLIA–WAR–SEVEN–YEARS line 93 "CONSEQUENAD" → CONSEQUENCE.
 
 ---
 
@@ -23,8 +23,8 @@
 
 | Civilization | ARC file | Anderson listed? | Title / note |
 |--------------|----------|------------------|--------------|
-| FRANCIA | CIV–ARC–FRANCIA | ✓ | Fred Anderson (b. 1949) — Crucible of War: The Seven Years' War and the Fate of Empire in British North America, 1754–1766 |
-| GERMANIA | CIV–ARC–GERMANIA | ✓ | Fred Anderson (b. 1949) — Crucible of War: The Seven Years' War and the Fate of Empire… |
+| FRANCE | CIV–ARC–FRANCE | ✓ | Fred Anderson (b. 1949) — Crucible of War: The Seven Years' War and the Fate of Empire in British North America, 1754–1766 |
+| GERMANY | CIV–ARC–GERMANY | ✓ | Fred Anderson (b. 1949) — Crucible of War: The Seven Years' War and the Fate of Empire… |
 | **ANGLIA** | **CIV–ARC–ANGLIA** | **✗** | **Not listed.** MEM–ANGLIA–WAR–SEVEN–YEARS cites Anderson with verbatim quotes — ARC gap. |
 
 **Recommendation:** ~~Add Fred Anderson to CIV–ARC–ANGLIA~~ **DONE (v1.2).** Anderson added to CIV–ARC–ANGLIA ARC-T-MODERN 2026-01-30.
@@ -33,29 +33,29 @@
 
 ## III. MEM FILES — PRESENCE BY CIVILIZATION
 
-### FRANCIA (4 MEMs)
+### FRANCE (4 MEMs)
 
 | File | Role | Quotes / notes |
 |------|------|----------------|
-| MEM–FRANCIA–WAR–SEVEN–YEARS | Primary synthesis | 3 verbatim quotes; Anderson on global war, maritime/coordination, structural consequence; bibliography |
-| MEM–FRANCIA–EMPIRE–HAITI | Secondary | 1 quote (war’s verdict); bibliography |
-| MEM–FRANCIA–EMPIRE–LOUISIANA–PURCHASE | Secondary | 1 quote (1763, French North America); bibliography |
-| MEM–FRANCIA–WAR–SEVEN–YEARS–QUEBEC | Secondary | 1 quote (global character); bibliography |
+| MEM–FRANCE–WAR–SEVEN–YEARS | Primary synthesis | 3 verbatim quotes; Anderson on global war, maritime/coordination, structural consequence; bibliography |
+| MEM–FRANCE–EMPIRE–HAITI | Secondary | 1 quote (war’s verdict); bibliography |
+| MEM–FRANCE–EMPIRE–LOUISIANA–PURCHASE | Secondary | 1 quote (1763, French North America); bibliography |
+| MEM–FRANCE–WAR–SEVEN–YEARS–QUEBEC | Secondary | 1 quote (global character); bibliography |
 
-### GERMANIA (10 MEMs)
+### GERMANY (10 MEMs)
 
 | File | Role | Quotes / notes |
 |------|------|----------------|
-| MEM–GERMANIA–WAR–SEVEN–YEARS | Primary | 2 verbatim quotes; bibliography |
-| MEM–GERMANIA–WAR–AUSTRIAN–SUCCESSION | Secondary | 1 paraphrase (Frederick, coalition); bibliography |
-| MEM–GERMANIA–WAR–SILESIAN | Secondary | 2 quotes; bibliography |
-| MEM–GERMANIA–WAR–FRANCO–PRUSSIAN | Secondary | 1 quote (Prussian survival); bibliography |
-| MEM–GERMANIA–PRUSSIA–FREDERICK–II | Secondary | 1 paraphrase; bibliography |
-| MEM–GERMANIA–BISMARCK | Secondary | 1 paraphrase (Frederick, Seven Years' War); bibliography |
-| MEM–GERMANIA–PRUSSIA | Secondary | 1 paraphrase; bibliography |
-| MEM–GERMANIA–AUSTRIA–KAUNITZ | Secondary | 2 quotes; bibliography |
-| MEM–GERMANIA–SILESIA | Secondary | 2 quotes; bibliography |
-| MEM–GERMANIA–DYNASTY–HOHENZOLLERN | Secondary | 1 paraphrase; bibliography |
+| MEM–GERMANY–WAR–SEVEN–YEARS | Primary | 2 verbatim quotes; bibliography |
+| MEM–GERMANY–WAR–AUSTRIAN–SUCCESSION | Secondary | 1 paraphrase (Frederick, coalition); bibliography |
+| MEM–GERMANY–WAR–SILESIAN | Secondary | 2 quotes; bibliography |
+| MEM–GERMANY–WAR–FRANCO–PRUSSIAN | Secondary | 1 quote (Prussian survival); bibliography |
+| MEM–GERMANY–PRUSSIA–FREDERICK–II | Secondary | 1 paraphrase; bibliography |
+| MEM–GERMANY–BISMARCK | Secondary | 1 paraphrase (Frederick, Seven Years' War); bibliography |
+| MEM–GERMANY–PRUSSIA | Secondary | 1 paraphrase; bibliography |
+| MEM–GERMANY–AUSTRIA–KAUNITZ | Secondary | 2 quotes; bibliography |
+| MEM–GERMANY–SILESIA | Secondary | 2 quotes; bibliography |
+| MEM–GERMANY–DYNASTY–HOHENZOLLERN | Secondary | 1 paraphrase; bibliography |
 
 ### ANGLIA (1 MEM)
 
@@ -71,10 +71,10 @@
 
 | File | Presence |
 |------|----------|
-| CIV–CORE–FRANCIA | Author list: "9. Fred Anderson" |
-| CIV–SCHOLAR–FRANCE | Synthesis/doctrine basis: MEM–FRANCIA–WAR–SEVEN–YEARS; Anderson "the Seven Years' War taught different lessons to different states" |
-| CIV–ARC–FRANCIA–LEDGER | Anderson (b. 1949), *Crucible of War* (2000); ARC–DISCOVERY note in one MEM; topical scope Seven Years' War, Quebec |
-| CIV–ARC–GERMANIA–LEDGER | Anderson, Fred (b. 1949), *Crucible of War: The Seven Years' War* (2000); listed with other modern sources |
+| CIV–CORE–FRANCE | Author list: "9. Fred Anderson" |
+| CIV–SCHOLAR–FRANCE | Synthesis/doctrine basis: MEM–FRANCE–WAR–SEVEN–YEARS; Anderson "the Seven Years' War taught different lessons to different states" |
+| CIV–ARC–FRANCE–LEDGER | Anderson (b. 1949), *Crucible of War* (2000); ARC–DISCOVERY note in one MEM; topical scope Seven Years' War, Quebec |
+| CIV–ARC–GERMANY–LEDGER | Anderson, Fred (b. 1949), *Crucible of War: The Seven Years' War* (2000); listed with other modern sources |
 
 ---
 
@@ -82,11 +82,11 @@
 
 | Location | Match | Note |
 |----------|--------|------|
-| MEM–GERMANIA–ART–MOZART | "Emily Anderson" | Different person (*Letters of Mozart*) |
+| MEM–GERMANY–ART–MOZART | "Emily Anderson" | Different person (*Letters of Mozart*) |
 | MEM–ROME–RAVENNA | "Crucible of Europe" | Herrin, *Ravenna: Capital of Empire, Crucible of Europe* (2020) — different book |
 | MEM–RUSSIA–WAR–AUSTRIAN–SUCCESSION | "M.S. Anderson" | M.S. Anderson, *The War of the Austrian Succession* — different author |
 | MEM–RUSSIA–OTTOMAN–EMPIRE | "Anderson, M.S." | M.S. Anderson, *The Eastern Question* — different author |
-| MEM–GERMANIA–LIT–GRIMM | "Anderson/Perrault" | Folk tale collections — not Fred Anderson |
+| MEM–GERMANY–LIT–GRIMM | "Anderson/Perrault" | Folk tale collections — not Fred Anderson |
 
 ---
 

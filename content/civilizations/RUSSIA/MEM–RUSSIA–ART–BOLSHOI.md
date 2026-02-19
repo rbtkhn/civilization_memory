@@ -277,7 +277,7 @@ GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–SAINT–PETERSBURG — Mariinsky rivalry/complement
 
 Cross-civilizational:
-• MEM–FRANCIA–BALLET — origins and influence
+• MEM–FRANCE–BALLET — origins and influence
 • MEM–AMERICA–COLD–WAR — 1959 tour and cultural diplomacy
 
 ────────────────────────────────────────────────────────────

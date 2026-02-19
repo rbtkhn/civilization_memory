@@ -79,7 +79,7 @@ Patterns:
 Crusades do not become Anglia’s identity grammar.
 
 ────────────────────────────────────────────────────────────
-VI. CIVILIZATIONAL DIFFERENCE FROM FRANCIA
+VI. CIVILIZATIONAL DIFFERENCE FROM FRANCE
 ────────────────────────────────────────────────────────────
 Divergence emerges clearly.
 

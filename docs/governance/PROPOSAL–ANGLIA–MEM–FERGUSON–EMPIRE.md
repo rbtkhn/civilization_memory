@@ -134,7 +134,7 @@ VI. SOURCE RULES
 - Attribution: "Niall Ferguson, *Empire: How Britain Made the Modern World* (London: Allen Lane, 2003), [chapter/page]." OR "(New York: Basic Books, 2004)" depending on edition.
 - ERC: **ERC-SECONDARY**. ARC: Ferguson to be added to CIV–ARC–ANGLIA (ARC-T-MODERN) if not already present.
 - Proportional Blend: Ferguson counts as **Mercouris-layer** (civilizational/legitimacy narrative with financial-structural analysis); complements Churchill (narrative), Anderson (war), Roberts (biography).
-- Cross-reference: Ferguson is already in CIV–ARC–FRANCIA v1.1+ (*Empire*, Louisiana Purchase, comparative empire). Anglia should mirror this.
+- Cross-reference: Ferguson is already in CIV–ARC–FRANCE v1.1+ (*Empire*, Louisiana Purchase, comparative empire). Anglia should mirror this.
 
 ────────────────────────────────────────────────────────────
 VII. FERGUSON IN REPOSITORY (CURRENT STATE)
@@ -147,19 +147,19 @@ VII. FERGUSON IN REPOSITORY (CURRENT STATE)
 - MEM–ANGLIA–WAR–1812: paraphrase ("Ferguson's imperial analysis...")
 - MEM–ANGLIA–PITT–YOUNGER: citation in bibliography (Ferguson *The Cash Nexus*)
 
-**FRANCIA:**
-- MEM–FRANCIA–WAR–SEVEN–YEARS: verbatim SOURCE block
-- MEM–FRANCIA–WAR–AMERICAN–INDEPENDENCE: verbatim SOURCE block
-- MEM–FRANCIA–EMPIRE–HAITI: verbatim SOURCE block
-- MEM–FRANCIA–EMPIRE–AFRICA: verbatim SOURCE block
-- MEM–FRANCIA–EMPIRE: verbatim SOURCE block
-- MEM–FRANCIA–EMPIRE–LOUISIANA–PURCHASE: verbatim SOURCE block
-- MEM–FRANCIA–EMPIRE–NORTH–AMERICA: verbatim SOURCE block
-- CIV–ARC–FRANCIA v1.1+: Ferguson added to ARC-T-MODERN (*Empire*, *The Pity of War*, *The House of Rothschild*)
+**FRANCE:**
+- MEM–FRANCE–WAR–SEVEN–YEARS: verbatim SOURCE block
+- MEM–FRANCE–WAR–AMERICAN–INDEPENDENCE: verbatim SOURCE block
+- MEM–FRANCE–EMPIRE–HAITI: verbatim SOURCE block
+- MEM–FRANCE–EMPIRE–AFRICA: verbatim SOURCE block
+- MEM–FRANCE–EMPIRE: verbatim SOURCE block
+- MEM–FRANCE–EMPIRE–LOUISIANA–PURCHASE: verbatim SOURCE block
+- MEM–FRANCE–EMPIRE–NORTH–AMERICA: verbatim SOURCE block
+- CIV–ARC–FRANCE v1.1+: Ferguson added to ARC-T-MODERN (*Empire*, *The Pity of War*, *The House of Rothschild*)
 
-**GERMANIA:**
+**GERMANY:**
 - Ferguson cited in multiple MEMs (*The Pity of War*, *The War of the World*, speeches, WWI/WWII)
-- CIV–ARC–GERMANIA: Ferguson in ARC-T-MODERN
+- CIV–ARC–GERMANY: Ferguson in ARC-T-MODERN
 
 **Summary:** Ferguson is **systematically integrated** in Francia and Germania, but **only minimally cited** in Anglia (2 quotes + paraphrases). Anglia should match Francia/Germania level of integration for Ferguson's *Empire*, as the book is **about the British Empire**.
 

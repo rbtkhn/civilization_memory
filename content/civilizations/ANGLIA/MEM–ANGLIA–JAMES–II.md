@@ -97,7 +97,7 @@ Internal (ANGLIA):
    — Constitutional settlement; legitimacy by consent.
 
 Cross-Civilizational (structural parallel):
-6) MEM–FRANCIA–LOUIS–XVI
+6) MEM–FRANCE–LOUIS–XVI
    — Contrast: flight and capture (Louis) vs flight and replacement (James); different outcomes.
 
 ────────────────────────────────────────────────────────────

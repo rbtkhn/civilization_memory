@@ -159,7 +159,7 @@ IV. CROSS-CIVILISATION SCALABILITY
 The architecture is designed to scale. Once Russia is fully
 activated:
 
-1. Tag MEMs for next civilisation (e.g. ANGLIA, FRANCIA, INDIA)
+1. Tag MEMs for next civilisation (e.g. ANGLIA, FRANCE, INDIA)
    using the same taxonomy.
 2. Create MEM–RELEVANCE–[CIV].md for each (or skip if Phase 5
    is operational — automated retrieval replaces manual index).

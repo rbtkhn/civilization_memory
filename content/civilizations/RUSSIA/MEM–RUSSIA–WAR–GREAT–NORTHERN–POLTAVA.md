@@ -253,7 +253,7 @@ GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–UKRAINE — Poltava campaign terrain
 
 Cross-civilizational:
-• MEM–GERMANIA–WAR–JENA — catastrophic defeat as reform catalyst
+• MEM–GERMANY–WAR–JENA — catastrophic defeat as reform catalyst
 • MEM–CHINA–OPIUM–WARS — early defeat exposing systemic weakness
 
 ────────────────────────────────────────────────────────────

@@ -178,7 +178,7 @@ Germanic encoding:
 • Denial victory
 • Autonomy preserved
 • Proof of non-absorption
-(See MEM–GERMANIA–WAR–TEUTOBURG–FOREST)
+(See MEM–GERMANY–WAR–TEUTOBURG–FOREST)
 
 The same event teaches opposite grammars.
 

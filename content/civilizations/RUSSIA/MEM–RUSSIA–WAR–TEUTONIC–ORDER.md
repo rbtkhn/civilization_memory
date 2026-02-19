@@ -159,7 +159,7 @@ GEO–MEM (REQUIRED ≥2):
 • MEM–RUSSIA–GEO–FOREST–ZONE — Defensive terrain advantage
 
 Cross-civilizational:
-• MEM–GERMANIA–TEUTONIC–ORDER — Crusading military order
+• MEM–GERMANY–TEUTONIC–ORDER — Crusading military order
 • MEM–POLAND–NORTHERN–CRUSADES — Regional crusading context
 
 ────────────────────────────────────────────────────────────

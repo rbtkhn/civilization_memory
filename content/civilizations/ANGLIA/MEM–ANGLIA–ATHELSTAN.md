@@ -160,9 +160,9 @@ Internal (ANGLIA):
 • MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE–YORKTOWN — defeat without dissolution
 
 Cross-Civilizational:
-• MEM–FRANCIA–CAPETIANS — dynastic unification via law
+• MEM–FRANCE–CAPETIANS — dynastic unification via law
 • MEM–ROME–AUGUSTUS — unity before abstraction
-• MEM–GERMANIA–OTTONIAN — kingship-centered consolidation
+• MEM–GERMANY–OTTONIAN — kingship-centered consolidation
 
 ────────────────────────────────────────────────────────────
 IX. CONTINUITY INSIGHTS (RAW)

@@ -110,7 +110,7 @@ ANGLIA:
 • MEM–ANGLIA–DYNASTY–STUART — End of direct Stuart line; William and Mary as constitutional sovereigns.
 
 Cross-Civilizational:
-• MEM–FRANCIA–LOUIS–XIV — William’s lifelong opponent; containment of French power.
+• MEM–FRANCE–LOUIS–XIV — William’s lifelong opponent; containment of French power.
 
 ────────────────────────────────────────────────────────────
 VII. BIBLIOGRAPHY

@@ -214,7 +214,7 @@ GEO–MEM (REQUIRED) — ≥2 required:
 
 Cross-Civilizational:
 • MEM–ANGLIA–WAR–CRIMEAN — coalition partner perspective
-• MEM–FRANCIA–WAR–CRIMEAN — coalition partner perspective
+• MEM–FRANCE–WAR–CRIMEAN — coalition partner perspective
 • MEM–OTTOMAN–WAR–CRIMEAN — defensive survival
 
 ────────────────────────────────────────────────────────────

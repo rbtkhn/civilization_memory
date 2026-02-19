@@ -47,7 +47,7 @@ The Durant quote (ARC–INDIA-T-MODERN) frames the moment: "the wealth of eighte
 ────────────────────────────────────────────────────────────
 IV. SEVEN YEARS' WAR AND TREATY OF PARIS (1763)
 ────────────────────────────────────────────────────────────
-The **Seven Years' War** (1756–1763) is fought in Europe, North America, the Caribbean, and **India**. For Francia, the war is encoded as "decisive global legitimacy shock" (MEM–FRANCIA–WAR–SEVEN–YEARS): multi-theatre overextension, naval inferiority, and fiscal strain. Outcomes in India:
+The **Seven Years' War** (1756–1763) is fought in Europe, North America, the Caribbean, and **India**. For Francia, the war is encoded as "decisive global legitimacy shock" (MEM–FRANCE–WAR–SEVEN–YEARS): multi-theatre overextension, naval inferiority, and fiscal strain. Outcomes in India:
 
 • **Collapse of French India** — British forces take Pondicherry (1761); French military and political presence in India is broken. The Treaty of Paris (1763) returns the **comptoirs** to France but under strict limits: they may not be fortified or garrisoned for military use. French India as a **projection of power** is over.
 • **Choiseul's diagnosis** — The Duc de Choiseul, negotiating for France, frames the loss in systemic terms: "We have lost America not in the forests of Canada, but on the seas, where we were never strong enough to contest England's mastery; and it is there, rather than in Europe, that the fate of empires is now decided, by ships, commerce, and the credit that sustains them." The same logic applies to India: empire was decided **at sea**, not in the comptoirs alone.
@@ -68,7 +68,7 @@ For India, the French empire functions as:
 
 • **The rival that lost** — France and Britain both sought wealth and influence in 18th-century India; British naval and fiscal capacity and the Clive–Plassey sequence determined the outcome. French India is the **road not taken**—European colonial presence without British-style territorial revenue state.
 • **Enclave, not province** — Like the Portuguese, the French held **comptoirs**, not hinterland. Unlike the British, they did not convert commercial presence into a subcontinental administrative empire. After 1763 they did not even retain a military option.
-• **Global war, local outcome** — French India's fate is decided in a **global** war (Seven Years' War) and by **maritime** asymmetry (Choiseul). The MEM links to MEM–FRANCIA–WAR–SEVEN–YEARS and MEM–FRANCIA–EMPIRE for the French-side encoding.
+• **Global war, local outcome** — French India's fate is decided in a **global** war (Seven Years' War) and by **maritime** asymmetry (Choiseul). The MEM links to MEM–FRANCE–WAR–SEVEN–YEARS and MEM–FRANCE–EMPIRE for the French-side encoding.
 
 ────────────────────────────────────────────────────────────
 VII. LIMITS & TENSION
@@ -100,8 +100,8 @@ ENABLES:
 PARALLELS (structural):
 • MEM–INDIA–PORTUGAL–EMPIRE — Both enclave-based; Portuguese hold Goa to 1961 (annexation); French hold comptoirs to 1954 (transfer). French lost political contest in 1763; Portuguese never contested for subcontinent.
 • MEM–INDIA–BRITISH–EMPIRE — Contrast: British = territorial, revenue, administrative; French = comptoir, ambition, then collapse.
-• MEM–FRANCIA–WAR–SEVEN–YEARS — Seven Years' War; India as theatre; "Collapse of French India"; Treaty of Paris 1763; Choiseul.
-• MEM–FRANCIA–EMPIRE — First Colonial Empire (1534–1763): Americas, India, Caribbean; 1763 loss of Canada and French India.
+• MEM–FRANCE–WAR–SEVEN–YEARS — Seven Years' War; India as theatre; "Collapse of French India"; Treaty of Paris 1763; Choiseul.
+• MEM–FRANCE–EMPIRE — First Colonial Empire (1534–1763): Americas, India, Caribbean; 1763 loss of Canada and French India.
 
 ────────────────────────────────────────────────────────────
 X. EVIDENCE — ARC-T-MODERN (VERBATIM)
@@ -112,7 +112,7 @@ X. EVIDENCE — ARC-T-MODERN (VERBATIM)
 
 — Will Durant, *The Case for India* (1930) [ARC–INDIA-T-MODERN].
 
-Francia-side: empire decided at sea (MEM–FRANCIA–WAR–SEVEN–YEARS):
+Francia-side: empire decided at sea (MEM–FRANCE–WAR–SEVEN–YEARS):
 
 > We have lost America not in the forests of Canada, but on the seas, where we were never strong enough to contest England's mastery; and it is there, rather than in Europe, that the fate of empires is now decided, by ships, commerce, and the credit that sustains them.
 
@@ -122,8 +122,8 @@ Francia-side: empire decided at sea (MEM–FRANCIA–WAR–SEVEN–YEARS):
 XI. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Will Durant — *The Case for India* (1930); ARC–INDIA-T-MODERN.
-• MEM–FRANCIA–WAR–SEVEN–YEARS — Multi-theatre war; collapse of French India; Choiseul; Anderson *Crucible of War*.
-• MEM–FRANCIA–EMPIRE — First Colonial Empire; Americas, India, Caribbean; 1763.
+• MEM–FRANCE–WAR–SEVEN–YEARS — Multi-theatre war; collapse of French India; Choiseul; Anderson *Crucible of War*.
+• MEM–FRANCE–EMPIRE — First Colonial Empire; Americas, India, Caribbean; 1763.
 • MEM–INDIA–BRITISH–EMPIRE–CLIVE — Clive; Plassey; British consolidation; Durant quote.
 • CIV–ARC–INDIA — As applicable for French India, Pondicherry, transfer 1954.
 

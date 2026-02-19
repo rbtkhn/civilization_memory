@@ -363,7 +363,7 @@ GEO (≥2):
 Cross-civilizational (≥2):
 • MEM–RUSSIA–WAR–NAPOLEON–BORODINO — parallel: tactical genius vs.
   strategic depth; Fabian parallel
-• MEM–GERMANIA–WAR–TEUTOBURG — another commander who defeated Rome
+• MEM–GERMANY–WAR–TEUTOBURG — another commander who defeated Rome
   tactically but could not follow through
 
 ────────────────────────────────────────────────────────────

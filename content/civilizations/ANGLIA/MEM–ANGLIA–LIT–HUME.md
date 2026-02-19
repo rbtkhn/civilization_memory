@@ -163,7 +163,7 @@ retaining the same institutional outcome through convention.
 Hume rejects Hobbes's fear-based absolutism, arguing order persists even
 without existential terror.
 
-• MEM–GERMANIA–KANT
+• MEM–GERMANY–KANT
 Kant reacts against Hume by restoring structure to reason itself, while
 Hume accepts uncertainty as permanent.
 

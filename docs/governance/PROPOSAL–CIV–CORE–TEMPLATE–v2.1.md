@@ -10,7 +10,7 @@
 I. PURPOSE
 ────────────────────────────────────────────────────────────
 
-Align CIV–CORE–TEMPLATE with observed practice across all civilization CORE instances (CHINA, PERSIA, GERMANIA, FRANCIA, ANGLIA, INDIA, ISLAM, ROME, RUSSIA) and update governance references to current canonical versions. No mandatory upgrade; all changes are additive clarifications.
+Align CIV–CORE–TEMPLATE with observed practice across all civilization CORE instances (CHINA, PERSIA, GERMANY, FRANCE, ANGLIA, INDIA, ISLAM, ROME, RUSSIA) and update governance references to current canonical versions. No mandatory upgrade; all changes are additive clarifications.
 
 ────────────────────────────────────────────────────────────
 II. RATIONALE

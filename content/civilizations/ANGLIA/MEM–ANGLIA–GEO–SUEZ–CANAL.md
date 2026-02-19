@@ -178,7 +178,7 @@ ANGLIA:
 • MEM–ANGLIA–GEO–MEDITERRANEAN–SEA — Suez connects Mediterranean to Indian Ocean; strategic pivot.
 
 Cross-Civilizational:
-• MEM–FRANCIA– (as applicable)—French role in canal construction (1869), joint Anglo-French operation 1956.
+• MEM–FRANCE– (as applicable)—French role in canal construction (1869), joint Anglo-French operation 1956.
 
 ────────────────────────────────────────────────────────────
 XI. BIBLIOGRAPHY

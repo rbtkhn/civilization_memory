@@ -233,8 +233,8 @@ GEO (≥2):
 • MEM–RUSSIA–GEO–MOSCOW — coercive center consolidation
 
 Comparative (structural):
-• MEM–FRANCIA–WAR–RELIGION — terror without institutional buffering
-• MEM–GERMANIA–THIRTY–YEARS — elite annihilation cycles
+• MEM–FRANCE–WAR–RELIGION — terror without institutional buffering
+• MEM–GERMANY–THIRTY–YEARS — elite annihilation cycles
 • MEM–CHINA–MING–EUNUCHS — personalism saturation
 
 ────────────────────────────────────────────────────────────

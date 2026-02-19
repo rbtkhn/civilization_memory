@@ -279,7 +279,7 @@ GEO (≥2):
 
 OTHER CIVILIZATIONS:
 • MEM–ANGLIA–NORMANS — foreign elite normalization
-• MEM–FRANCIA–NORMAN–CONQUEST — legitimacy through force
+• MEM–FRANCE–NORMAN–CONQUEST — legitimacy through force
 • MEM–CHINA–NORTHERN–DYNASTIES — external rulers internalized
 
 These connections situate Rurik within a broader pattern of

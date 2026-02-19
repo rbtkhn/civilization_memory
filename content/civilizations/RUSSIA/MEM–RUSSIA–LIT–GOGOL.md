@@ -266,7 +266,7 @@ GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–PETERSBURG — bureaucratic capital in The Overcoat, The Nose
 
 Cross-civilizational:
-• MEM–GERMANIA–ROMANTICISM — German Romantic influence on supernatural elements
+• MEM–GERMANY–ROMANTICISM — German Romantic influence on supernatural elements
 
 SCHOLAR Constraints:
 • RLL–0001 (Corridor Primacy): Gogol's work spans multiple Russian regions

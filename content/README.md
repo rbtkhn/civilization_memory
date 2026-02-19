@@ -25,8 +25,8 @@ Each civilization subdirectory contains structured historical content following 
 - **AFRICA**: African civilizations
 - **ANGLIA**: English/British civilization
 - **CHINA**: Chinese civilization
-- **FRANCIA**: French civilization
-- **GERMANIA**: German civilization
+- **FRANCE**: French civilization
+- **GERMANY**: German civilization
 - **INDIA**: Indian civilization
 - **ISLAM**: Islamic civilization
 - **PERSIA**: Persian civilization

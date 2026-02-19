@@ -195,8 +195,8 @@ ROME:
 
 NON-ROME:
 • MEM–CHINA–QIN — coercive unification without consent
-• MEM–GERMANIA–PRUSSIA — administrative discipline tradeoffs
-• MEM–FRANCIA–NAPOLEON — system dependent on founder
+• MEM–GERMANY–PRUSSIA — administrative discipline tradeoffs
+• MEM–FRANCE–NAPOLEON — system dependent on founder
 
 ────────────────────────────────────────────────────────────
 X. PUBLIC DOMAIN SCHOLARSHIP — GIBBON

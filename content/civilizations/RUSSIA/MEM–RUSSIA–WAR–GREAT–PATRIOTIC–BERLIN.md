@@ -302,8 +302,8 @@ GEO–MEM (≥2):
 • MEM–RUSSIA–WAR–GREAT–PATRIOTIC–OPERATION–BARBAROSSA — operational terrain (Central Europe)
 
 Cross-civilizational:
-• MEM–GERMANIA–THIRD–REICH — destroyed enemy
-• MEM–GERMANIA–HITLER — suicide in bunker
+• MEM–GERMANY–THIRD–REICH — destroyed enemy
+• MEM–GERMANY–HITLER — suicide in bunker
 • MEM–AMERICA–PRESIDENT–EISENHOWER — did not race to Berlin
 
 ────────────────────────────────────────────────────────────

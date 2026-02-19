@@ -71,7 +71,7 @@ Characteristics:
 Alliance is built on trust, not threat.
 
 ────────────────────────────────────────────────────────────
-V. FRANCIA AS MIRROR & MULTIPLIER
+V. FRANCE AS MIRROR & MULTIPLIER
 ────────────────────────────────────────────────────────────
 Franklin succeeds in Francia by selective alignment.
 

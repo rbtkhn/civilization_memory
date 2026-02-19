@@ -262,8 +262,8 @@ GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–FOREST–ZONE — defensive advantage
 
 Cross-civilizational:
-• MEM–GERMANIA–WEHRMACHT — culminating force
-• MEM–GERMANIA–TYPHOON — failed operation
+• MEM–GERMANY–WEHRMACHT — culminating force
+• MEM–GERMANY–TYPHOON — failed operation
 • MEM–JAPONIA–NEUTRALITY — enabled Siberian transfer
 
 ────────────────────────────────────────────────────────────

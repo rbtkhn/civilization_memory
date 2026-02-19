@@ -292,8 +292,8 @@ GEO–MEM (≥2):
 
 Cross-civilizational:
 • MEM–AUSTRIA–WAR–SUCCESSION — Habsburg perspective
-• MEM–GERMANIA–PRUSSIA–RISE — Silesian seizure
-• MEM–FRANCIA–WAR–AUSTRIAN–SUCCESSION — coalition dynamics
+• MEM–GERMANY–PRUSSIA–RISE — Silesian seizure
+• MEM–FRANCE–WAR–AUSTRIAN–SUCCESSION — coalition dynamics
 
 ────────────────────────────────────────────────────────────
 XIII. CONTINUITY INSIGHTS (RAW)

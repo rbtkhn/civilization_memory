@@ -263,7 +263,7 @@ GEO (≥2):
 
 Cross-civilizational:
 • MEM–ISLAM–SELJUKS — primary enemy
-• MEM–FRANCIA–CRUSADES — contemporary events
+• MEM–FRANCE–CRUSADES — contemporary events
 
 ────────────────────────────────────────────────────────────
 XII. CONTINUITY INSIGHTS (RAW)

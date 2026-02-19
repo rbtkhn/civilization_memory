@@ -233,9 +233,9 @@ ANGLIA:
 • MEM–ANGLIA–WAR–AMERICAN–CIVIL — incomplete absorption of restraint
 
 Cross-Civilizational:
-• MEM–FRANCIA–REVOLUTION — reset logic contrast
+• MEM–FRANCE–REVOLUTION — reset logic contrast
 • MEM–ROMAN–REPUBLIC — early faction failure case
-• MEM–GERMANIA–WEIMAR — procedural insufficiency comparison
+• MEM–GERMANY–WEIMAR — procedural insufficiency comparison
 
 ────────────────────────────────────────────────────────────
 X. CIVILIZATIONAL MEMORY FUNCTION

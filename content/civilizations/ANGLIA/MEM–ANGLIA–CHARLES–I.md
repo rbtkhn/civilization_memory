@@ -100,7 +100,7 @@ Internal (ANGLIA):
    — Constraint precedent; king under law—extended to trial and execution.
 
 Cross-Civilizational (structural parallel):
-7) MEM–FRANCIA–LOUIS–XVI
+7) MEM–FRANCE–LOUIS–XVI
    — Regicide; king tried and executed by revolutionary polity (contrast: French Republic vs English Commonwealth).
 
 ────────────────────────────────────────────────────────────

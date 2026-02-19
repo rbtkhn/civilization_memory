@@ -306,7 +306,7 @@ GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–NEVA–RIVER — city geography
 
 Cross-civilizational:
-• MEM–GERMANIA–ARMY–GROUP–NORTH — besieging force
+• MEM–GERMANY–ARMY–GROUP–NORTH — besieging force
 • MEM–FINLANDIA–CONTINUATION–WAR — northern encirclement
 
 ────────────────────────────────────────────────────────────

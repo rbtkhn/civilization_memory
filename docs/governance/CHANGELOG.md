@@ -74,7 +74,7 @@ CHANGES:
 • **CIV–STATE–TEMPLATE § XIV-B:** Relay step 2 now includes "MEM generation candidate per SCHOLAR template Section X.A".
 • **CIV–SCHOLAR–PROTOCOL:** MEM Generation Candidates (Template § X.A) paragraph added after Ephemeral layer text (source, relay, path to MEM).
 • **REVIEWER–BOOTSTRAP–MAP:** Minimum review checks now include SCHOLAR Section X.A (MEM Generation Candidates) presence.
-• **CIV–SCHOLAR–[CIV]:** Section X.A (or equivalent) MEM Generation Candidates + table added to: AMERICA, INDIA, CHINA, ISLAM, ANGLIA, PERSIA, GERMANIA, ROME, FRANCIA (Russia already had XIII.A).
+• **CIV–SCHOLAR–[CIV]:** Section X.A (or equivalent) MEM Generation Candidates + table added to: AMERICA, INDIA, CHINA, ISLAM, ANGLIA, PERSIA, GERMANY, ROME, FRANCE (Russia already had XIII.A).
 
 RATIONALE:
 User: "Propagate changes to all relevant governance and template files."
@@ -151,8 +151,8 @@ CHANGES:
   (X1–X4) for same-entity SCHOLAR vs STATE; analysis types (pairwise, n-way,
   gap, cross-file); procedure (scope, gather, extract, compare, synthesise,
   report); output format and self-check.
-• **Exemplars:** REPORT–SCHOLAR–FRANCIA–GERMANIA–COGNITIVE–DIFFERENTIATION,
-  REPORT–SCHOLAR–FRANCIA–ANGLIA–COGNITIVE–DIFFERENTIATION.
+• **Exemplars:** REPORT–SCHOLAR–FRANCE–GERMANY–COGNITIVE–DIFFERENTIATION,
+  REPORT–SCHOLAR–FRANCE–ANGLIA–COGNITIVE–DIFFERENTIATION.
 
 RATIONALE:
 User request: clear, systematic way to observe and analyze differentiation

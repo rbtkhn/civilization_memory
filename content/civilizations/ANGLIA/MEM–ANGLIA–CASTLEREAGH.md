@@ -129,8 +129,8 @@ ANGLIA:
 • MEM–ANGLIA–PITT–YOUNGER — Financial-strategic foundation for Castlereagh's diplomacy
 
 Cross-Civilizational:
-• MEM–FRANCIA–NAPOLEON — Post-Napoleonic order shapes Francia's future
-• MEM–GERMANIA–METTERNICH — Contrast with Metternich's interventionism
+• MEM–FRANCE–NAPOLEON — Post-Napoleonic order shapes Francia's future
+• MEM–GERMANY–METTERNICH — Contrast with Metternich's interventionism
 
 ────────────────────────────────────────────────────────────
 VIII. CONTINUITY INSIGHTS (RAW)

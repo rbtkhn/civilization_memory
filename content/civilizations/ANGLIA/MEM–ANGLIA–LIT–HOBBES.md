@@ -152,7 +152,7 @@ Hobbes is a direct intellectual response to the war's chaos and regicide.
 Locke emerges as Hobbes's civilizational correction, bounding authority
 once order is restored.
 
-• MEM–GERMANIA–KANT
+• MEM–GERMANY–KANT
 Where Kant limits reason and Locke limits power, Hobbes limits chaos.
 
 • MEM–ANGLIA–WAR–HASTINGS

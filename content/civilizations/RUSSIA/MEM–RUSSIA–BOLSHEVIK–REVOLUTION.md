@@ -350,9 +350,9 @@ GEO Connections — ≥2 Required:
 • MEM–RUSSIA–SIBERIA — Civil War theater
 
 Cross-Civilizational:
-• MEM–GERMANIA–WWI — war context
+• MEM–GERMANY–WWI — war context
 • MEM–ANGLIA–INTERVENTION — Allied opposition
-• MEM–FRANCIA–COMMUNE — revolutionary precedent
+• MEM–FRANCE–COMMUNE — revolutionary precedent
 
 Each connection is structurally required.
 

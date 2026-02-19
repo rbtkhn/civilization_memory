@@ -176,7 +176,7 @@ This supports the core claim of the file:
 sovereignty ruptures; **form persists**.
 
 ────────────────────────────────────────────────────────────
-VII. CONTRAST WITH FRANCIA: CONTINUITY-FIRST VS RESET-FIRST
+VII. CONTRAST WITH FRANCE: CONTINUITY-FIRST VS RESET-FIRST
 (SECONDARY)
 ────────────────────────────────────────────────────────────
 Divergence becomes clear when comparing subsequent revolutionary
@@ -235,9 +235,9 @@ ANGLIA (internal continuity and exit logic):
    — procedural grammar that persists through sovereignty rupture.
 
 Cross-Civilizational (structural contrasts and alliance effects):
-7) MEM–FRANCIA–REVOLUTION
+7) MEM–FRANCE–REVOLUTION
    — contrast case: sovereignty rupture coupled to deeper institutional discontinuity pressure.
-8) MEM–FRANCIA–WAR–AMERICAN–INDEPENDENCE
+8) MEM–FRANCE–WAR–AMERICAN–INDEPENDENCE
    — alliance-as-strategy: Francia uses the war to wound Anglia’s system, not to inherit it.
 9) MEM–ROME–SOCIAL–WAR
    — secession pressure as citizenship/rights dispute: “legal rebellion” dynamics under a larger imperial frame.

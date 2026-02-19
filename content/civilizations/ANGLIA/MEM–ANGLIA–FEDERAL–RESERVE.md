@@ -124,8 +124,8 @@ Same-civilization (Anglia):
 • MEM–ANGLIA–BRITISH–EMPIRE — Comparative: British maritime-financial model vs US Fed-backed dollar
 
 Cross-civilization:
-• MEM–GERMANIA–FRANKFURT — European Central Bank (1998) in Frankfurt; comparative central-bank location and legitimacy
-• MEM–GERMANIA–ROTHSCHILD — Trans-sovereign finance; comparative "who controls the money supply"
+• MEM–GERMANY–FRANKFURT — European Central Bank (1998) in Frankfurt; comparative central-bank location and legitimacy
+• MEM–GERMANY–ROTHSCHILD — Trans-sovereign finance; comparative "who controls the money supply"
 
 ────────────────────────────────────────────────────────────
 VIII. PRIMARY SOURCES & REFERENCES

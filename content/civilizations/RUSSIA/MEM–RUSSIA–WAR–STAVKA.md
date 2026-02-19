@@ -311,7 +311,7 @@ GEO Connections — ≥2 Required:
 • MEM–RUSSIA–GEO–VOLGA–RIVER — 1942 defensive line
 
 Cross-Civilizational:
-• MEM–GERMANIA–NAZI–OKW — opposing command structure
+• MEM–GERMANY–NAZI–OKW — opposing command structure
 • MEM–ANGLIA–WWII–COMBINED–CHIEFS — Allied equivalent
 • MEM–ANGLIA–CHURCHILL — Allied counterpart leader
 

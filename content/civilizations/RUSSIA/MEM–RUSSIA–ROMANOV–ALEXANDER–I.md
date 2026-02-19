@@ -423,8 +423,8 @@ GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–FOREST–ZONE — defensive terrain and logistics
 
 Cross-civilizational:
-• MEM–FRANCIA–NAPOLEON — systemic threat and operational contrast
-• MEM–GERMANIA–WAR–JENA — catastrophic defeat as reform catalyst
+• MEM–FRANCE–NAPOLEON — systemic threat and operational contrast
+• MEM–GERMANY–WAR–JENA — catastrophic defeat as reform catalyst
 
 ────────────────────────────────────────────────────────────
 XII. ACADEMIC REFERENCES (ENGAGED)

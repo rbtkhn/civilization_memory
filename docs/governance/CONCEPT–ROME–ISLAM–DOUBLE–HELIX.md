@@ -327,7 +327,7 @@ multipolar" or by date range.
   "Medieval | Byzantine, Latin, Islamic | Multi-polar"; **paired
   encodings** — MEM–ISLAM–CRUSADES (Islamic perspective) + MEM–ROME–
   CRUSADES (Roman: papal/Byzantine perspective). When entity is France
-  or a Latin polity, add MEM–FRANCIA–WAR–CRUSADES as additional
+  or a Latin polity, add MEM–FRANCE–WAR–CRUSADES as additional
   Latin-state encoding.
 
 **Rule:** Lead with control sequence for structural claim ("no single

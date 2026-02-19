@@ -285,7 +285,7 @@ GEO–MEM (REQUIRED ≥2):
 • MEM–RUSSIA–GEO–BALTIC–REGION — regional context
 
 Cross-civilizational:
-• MEM–GERMANIA–TEUTONIC–ORDER — crusader pressure on Lithuania
+• MEM–GERMANY–TEUTONIC–ORDER — crusader pressure on Lithuania
 • MEM–POLAND–WILNO — Polish period (1920–1939)
 • MEM–JEWISH–VILNA — "Jerusalem of Lithuania"
 

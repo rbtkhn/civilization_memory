@@ -330,7 +330,7 @@ GEO–MEM (≥2):
 
 Cross-civilizational:
 • MEM–EUROPA–ENLIGHTENMENT — architectural and cultural models
-• MEM–GERMANIA–WWII — siege perpetrator
+• MEM–GERMANY–WWII — siege perpetrator
 
 ────────────────────────────────────────────────────────────
 XII. MEM BIBLIOGRAPHY

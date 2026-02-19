@@ -202,10 +202,10 @@ Later articulates lessons learned here.
 • MEM–ANGLIA–MARLBOROUGH  
 Person MEM: Marlborough as coalition-system commander; Blenheim, restraint, Utrecht.
 
-• MEM–FRANCIA–WAR–SPANISH–SUCCESSION  
+• MEM–FRANCE–WAR–SPANISH–SUCCESSION  
 Contrasting memory encodes humiliation and loss of initiative.
 
-• MEM–FRANCIA–LOUIS–XIV  
+• MEM–FRANCE–LOUIS–XIV  
 Shows absolutist overextension confronted by coalition logic.
 
 • MEM–ANGLIA–WAR–HUNDRED–YEARS  

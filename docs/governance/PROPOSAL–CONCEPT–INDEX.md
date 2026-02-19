@@ -189,7 +189,7 @@ G — Cross-civ: Louis XIV, state-building parallel
 
 PROPOSED (concept-aware):
 ```
-G — Explore "coercive_enforcement" pattern in Francia (MEM–FRANCIA–LOUIS–XIV shares this concept)
+G — Explore "coercive_enforcement" pattern in Francia (MEM–FRANCE–LOUIS–XIV shares this concept)
 ```
 
 The system can:

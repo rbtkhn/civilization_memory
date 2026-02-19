@@ -100,6 +100,49 @@ async function handleMessage(bot, chatId, text, sessionKeyForEngine) {
   }
 }
 
+/** Process one Telegram update (for webhook). Returns { chatId, sessionKey, text } or null if nothing to handle. */
+async function parseWebhookUpdate(bot, update) {
+  if (!update) return null;
+  const me = await bot.getMe();
+  const botUserId = me.id;
+  const botUsername = me.username || '';
+
+  if (update.callback_query) {
+    const q = update.callback_query;
+    await bot.answerCallbackQuery(q.id);
+    return {
+      chatId: q.message.chat.id,
+      sessionKey: sessionKey(q.message.chat, q.from),
+      text: q.data,
+    };
+  }
+  if (update.message) {
+    const msg = update.message;
+    const chat = msg.chat;
+    const isGroup = GROUP_TYPES.includes(chat.type);
+    let text = (msg.text || '').trim();
+    if (!text) return null;
+    if (isGroup) {
+      if (!shouldRespondInGroup(msg, botUserId, botUsername)) return null;
+      text = stripMention(text, botUsername);
+      if (!text) return null;
+    }
+    return {
+      chatId: chat.id,
+      sessionKey: sessionKey(chat, msg.from),
+      text,
+    };
+  }
+  return null;
+}
+
+/** Handle one webhook update (parse, run engine, send reply). Use when WEBHOOK_BASE_URL is set. */
+async function handleWebhookUpdate(bot, update) {
+  const parsed = await parseWebhookUpdate(bot, update);
+  if (!parsed) return;
+  await handleMessage(bot, parsed.chatId, parsed.text, parsed.sessionKey);
+}
+
 async function start(token) {
   const bot = new TelegramBot(token, { polling: true });
   const me = await bot.getMe();
@@ -135,4 +178,4 @@ async function start(token) {
   return bot;
 }
 
-module.exports = { start, buildOptionsKeyboard, formatOptionsList };
+module.exports = { start, handleWebhookUpdate, buildOptionsKeyboard, formatOptionsList };

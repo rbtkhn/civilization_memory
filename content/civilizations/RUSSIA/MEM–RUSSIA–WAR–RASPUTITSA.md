@@ -225,7 +225,7 @@ GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–FOREST–ZONE — forest-steppe and road conditions
 
 Cross-civilizational:
-• MEM–GERMANIA–THIRD–REICH — Barbarossa and rasputitsa (invader)
+• MEM–GERMANY–THIRD–REICH — Barbarossa and rasputitsa (invader)
 
 ────────────────────────────────────────────────────────────
 X. MEM BIBLIOGRAPHY (MANDATORY)

@@ -373,8 +373,8 @@ GEO–MEMs (≥2 Required):
 • MEM–ROME–GEO–GAUL — Protected hinterland
 
 CROSS-CIVILIZATIONAL:
-• MEM–GERMANIA–GEO–RHINE — Germanic interiorization
-• MEM–FRANCIA–CAROLINGIAN — Frankish inheritance
+• MEM–GERMANY–GEO–RHINE — Germanic interiorization
+• MEM–FRANCE–CAROLINGIAN — Frankish inheritance
 
 ────────────────────────────────────────────────────────────
 XI. CONTINUITY INSIGHTS (RAW)

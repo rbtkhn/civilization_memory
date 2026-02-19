@@ -215,7 +215,7 @@ GEO MEMs (≥2):
 
 Cross-civilizational:
 • MEM–ANGLIA–WAR–CRIMEAN — coalition partner
-• MEM–FRANCIA–WAR–CRIMEAN — coalition partner
+• MEM–FRANCE–WAR–CRIMEAN — coalition partner
 • MEM–OTTOMAN–EMPIRE — defensive survival (if separate civ)
 
 ────────────────────────────────────────────────────────────

@@ -32,7 +32,7 @@
 
 **File absent:** CIV–SCHOLAR–INDIA.md
 
-**Comparison:** Other civilizations with SCHOLAR files include ANGLIA, FRANCIA, GERMANIA, ISLAM, PERSIA, ROME, RUSSIA (each has CIV–SCHOLAR–[CIV].md). INDIA does not.
+**Comparison:** Other civilizations with SCHOLAR files include ANGLIA, FRANCE, GERMANY, ISLAM, PERSIA, ROME, RUSSIA (each has CIV–SCHOLAR–[CIV].md). INDIA does not.
 
 **Verdict:** Audit of "scholar-india against scholar-template and protocol" cannot be performed on content. Compliance requirements for a *future* CIV–SCHOLAR–INDIA are specified below.
 

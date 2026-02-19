@@ -359,8 +359,8 @@ GEO (≥2):
 • MEM–ROME–GEO–MEDITERRANEAN–SEA — African grain objective
 
 Cross-civilizational:
-• MEM–FRANCIA–CHARLEMAGNE — later Western restoration
-• MEM–GERMANIA–GOTHS — Germanic origin
+• MEM–FRANCE–CHARLEMAGNE — later Western restoration
+• MEM–GERMANY–GOTHS — Germanic origin
 
 ────────────────────────────────────────────────────────────
 XV. CONTINUITY INSIGHTS (RAW)
