@@ -1,21 +1,31 @@
-CIV–INDEX–FRANCE — v3.0
+CIV–INDEX–FRANCE — v3.1
 Civilizational Memory Codex · Index File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 3.0
-Supersedes: CIV–INDEX–FRANCE v2.0
-Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
+Version: 3.1
+Supersedes: CIV–INDEX–FRANCE v3.0
+Upgrade Type: SYNC · Directory reconciliation
 Civilization: FRANCE
 Subject: Francia Memory Index (File Register)
 Dates: Medieval era–present
 Class: CIV–INDEX
 Governed by: CIV–MEM–CORE v3.0
 Last Update: February 2026
-Total MEM–FRANCE Files: 140
+Total MEM–FRANCE Files: 143
 Word Count: ~2,050
 
 Template Alignment: CIV–INDEX–TEMPLATE v3.0
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.0 → v3.1) — SYNC
+────────────────────────────────────────────────────────────
+Directory reconciliation: 3 unregistered MEMs added to FILE REGISTER.
+
+v3.1 changes:
+• +3 new MEMs: MEM–FRANCE–CLOVIS, MEM–FRANCE–JOAN–ARC, MEM–FRANCE–PEPIN (G) PERSON
+• Total: 140 → 143
+• Section II: CIV–SCHOLAR–FRANCE v2.1 → v2.2
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & GOVERNANCE (INDEX LAW)
@@ -47,7 +57,7 @@ II. CANONICAL GOVERNANCE FILES
 • CIV–CORE–FRANCE — v2.0
   Status: ACTIVE · CANONICAL · STAND-ALONE READY · SCHOLAR-INTEGRATED
 
-• CIV–SCHOLAR–FRANCE — v2.1
+• CIV–SCHOLAR–FRANCE — v2.2
   Status: ACTIVE · WRITE-LOCKED · CANONICAL
 
 • CIV–DOCTRINE–FRANCE — v3.0
@@ -57,7 +67,7 @@ II. CANONICAL GOVERNANCE FILES
   Status: ACTIVE
   Entity: France (state); doctrine and Scholar inform STATE; relay-only transfer to SCHOLAR.
 
-• CIV–ARC–FRANCE — v3.0
+• CIV–ARC–FRANCE — v3.1
   Status: ACTIVE · CANONICAL
 
 ────────────────────────────────────────────────────────────
@@ -151,9 +161,11 @@ F) RELIGION
 
 G) PERSON
 • MEM–FRANCE–CHARLEMAGNE.md
+• MEM–FRANCE–CLOVIS.md
 • MEM–FRANCE–LIT–DESCARTES.md
 • MEM–FRANCE–ELEANOR–AQUITAINE.md
 • MEM–FRANCE–LIT–HUGO.md
+• MEM–FRANCE–JOAN–ARC.md
 • MEM–FRANCE–LAFAYETTE.md
 • MEM–FRANCE–LOUIS–XIV.md
 • MEM–FRANCE–LOUIS–XV.md
@@ -162,6 +174,7 @@ G) PERSON
 • MEM–FRANCE–LIT–MONTESQUIEU.md
 • MEM–FRANCE–LIT–PROUST.md
 • MEM–FRANCE–NAPOLEON.md
+• MEM–FRANCE–PEPIN.md
 • MEM–FRANCE–RICHELIEU.md
 • MEM–FRANCE–FRENCH–REVOLUTION–ROBESPIERRE.md
 • MEM–FRANCE–ROUSSEAU.md
@@ -235,5 +248,5 @@ This index is LOCKED.
 • Scholar Mode consumes this index as authoritative scope.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–FRANCE — v3.0
+END OF FILE — CIV–INDEX–FRANCE — v3.1
 ────────────────────────────────────────────────────────────

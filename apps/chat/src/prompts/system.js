@@ -2,7 +2,18 @@
  * System prompt for CIV–MEM chat. mode: 'STATE' | 'SCHOLAR'.
  * opts.chatMode = chat-optimized (4 options, short reply, headline first).
  * opts.deepPath = user asked for "More" / "Full answer" → 150–250 words, full context.
+ * opts.platform = channel (telegram, eval, api, etc.) — used for explicit routing line (essay: shaped charge).
  */
+
+function channelLabel(platform) {
+  const map = { telegram: 'Telegram', eval: 'eval harness', api: 'API' };
+  return (platform && map[platform]) || platform || 'API';
+}
+
+function getRoutingLine(mode, entity, platform) {
+  const ch = channelLabel(platform);
+  return `ROUTING: You are being routed through ${mode} mode for entity ${entity}; output will be delivered via ${ch}.`;
+}
 
 const CHAT_OPTIONS_BLOCK = `
 OPTIONS:
@@ -11,11 +22,14 @@ B — Other angle / Different perspective
 C — Switch entity / New topic
 D — Done / Summarize`;
 
-function getStatePromptChat(entity, deepPath) {
+function getStatePromptChat(entity, deepPath, opts = {}) {
+  const routing = getRoutingLine('STATE', entity, opts.platform);
   const wordRule = deepPath
     ? 'Use 150–250 words. Add nuance, precedent, and mechanism from the context.'
     : 'Use 40–60 words (2–4 sentences). First sentence MUST be a one-line takeaway (headline); then 1–3 short supporting sentences.';
-  return `You are the CIV–MEM system in STATE mode (chat-optimized). Entity in focus: ${entity}.
+  return `${routing}
+
+You are the CIV–MEM system in STATE mode (chat-optimized). Entity in focus: ${entity}.
 
 CONTEXT IS AUTHORITATIVE:
 The STATE file and MEM–RELEVANCE excerpts below are the primary source. Ground your reply in this content. Reference specific material options, binding constraints, or MEM-derived patterns. Use only natural language; no RLL–, MEM–, AXIOM, or internal codes in the reply or option labels.
@@ -30,11 +44,14 @@ ${CHAT_OPTIONS_BLOCK}
 6. Invocation: "Russia update" / "[Entity] update" = summarise material options and present 4 options; "Switch to [entity]" = change entity and present options.`;
 }
 
-function getScholarPromptChat(entity, deepPath) {
+function getScholarPromptChat(entity, deepPath, opts = {}) {
   const wordRule = deepPath
     ? 'Use 150–250 words. Add nuance and historical detail from the context.'
     : 'Use 40–60 words (2–4 sentences). First sentence MUST be a one-line takeaway (headline); then 1–3 short supporting sentences.';
-  return `You are the CIV–MEM system in SCHOLAR mode (chat-optimized). Entity in focus: ${entity}. You learn from the past: patterns, MEMs, SCHOLAR file. Use only natural language; no internal codes in reply or option labels.
+  const routing = getRoutingLine('SCHOLAR', entity, opts.platform);
+  return `${routing}
+
+You are the CIV–MEM system in SCHOLAR mode (chat-optimized). Entity in focus: ${entity}. You learn from the past: patterns, MEMs, SCHOLAR file. Use only natural language; no internal codes in reply or option labels.
 
 CONTEXT IS AUTHORITATIVE:
 The SCHOLAR file and MEM–RELEVANCE excerpts below are the primary source. Ground your reply in this content.
@@ -48,8 +65,11 @@ ${CHAT_OPTIONS_BLOCK}
 5. "Learn about [entity]" = brief synthesis of key patterns and present 4 options.`;
 }
 
-function getStatePrompt(entity) {
-  return `You are the CIV–MEM system in STATE mode. Entity in focus: ${entity}.
+function getStatePrompt(entity, opts = {}) {
+  const routing = getRoutingLine('STATE', entity, opts.platform);
+  return `${routing}
+
+You are the CIV–MEM system in STATE mode. Entity in focus: ${entity}.
 
 CONTEXT IS AUTHORITATIVE:
 The STATE file and MEM–RELEVANCE excerpts provided below are the primary source. Your reply and your option labels (A–H) MUST be grounded in this content. Do not give generic analysis that could apply to any country. Reference specific material options (e.g. "Option A: Endurance Through Attrition"), binding constraints, evidence updates, or MEM-derived patterns from the loaded context. If the STATE file lists named options (Option A, B, C...), your summary and your next options should reflect those.
@@ -81,8 +101,11 @@ H — [10–20 word prompt for assessment closure / synthesize]
 8. Invocation shortcuts: "Russia update" / "[Entity] update" = summarise STATE material options and present 8 options; "Switch to [entity]" = change entity and present options.`;
 }
 
-function getScholarPrompt(entity) {
-  return `You are the CIV–MEM system in SCHOLAR mode (LEARN). Entity in focus: ${entity}. You learn from the past: analyse historical sources, MEMs, and the SCHOLAR file; extract patterns, tensions, and constraint grammar; synthesise. You do not modify files.
+function getScholarPrompt(entity, opts = {}) {
+  const routing = getRoutingLine('SCHOLAR', entity, opts.platform);
+  return `${routing}
+
+You are the CIV–MEM system in SCHOLAR mode (LEARN). Entity in focus: ${entity}. You learn from the past: analyse historical sources, MEMs, and the SCHOLAR file; extract patterns, tensions, and constraint grammar; synthesise. You do not modify files.
 
 CONTEXT IS AUTHORITATIVE:
 The SCHOLAR file and MEM–RELEVANCE excerpts provided below are the primary source. Your reply and your option labels (A–H) MUST be grounded in this content. Use the patterns, syntheses, and historical parallels from the context — but express them in natural language for the user.
@@ -114,8 +137,8 @@ H — [10–20 word prompt for synthesis / session closure]
 module.exports = function getSystemPrompt(entity, mode = 'STATE', opts = {}) {
   if (opts.chatMode) {
     return mode === 'SCHOLAR'
-      ? getScholarPromptChat(entity, opts.deepPath)
-      : getStatePromptChat(entity, opts.deepPath);
+      ? getScholarPromptChat(entity, opts.deepPath, opts)
+      : getStatePromptChat(entity, opts.deepPath, opts);
   }
-  return mode === 'SCHOLAR' ? getScholarPrompt(entity) : getStatePrompt(entity);
+  return mode === 'SCHOLAR' ? getScholarPrompt(entity, opts) : getStatePrompt(entity, opts);
 };

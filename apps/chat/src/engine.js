@@ -262,7 +262,7 @@ async function run(platform, userId, message) {
   const loaded = loadContext(entity, mode, { slim });
   const { stateContent, scholarContent, memRelevanceContent } = loaded;
 
-  const systemPrompt = getSystemPrompt(entity, mode, { chatMode, deepPath });
+  const systemPrompt = getSystemPrompt(entity, mode, { chatMode, deepPath, platform });
   const contextBlock = mode === 'SCHOLAR'
     ? `
 ## SCHOLAR file (excerpt)
@@ -326,6 +326,14 @@ ${memRelevanceContent}
   });
 
   const raw = response.choices[0]?.message?.content || '';
+  const usage = response.usage
+    ? {
+        prompt_tokens: response.usage.prompt_tokens,
+        completion_tokens: response.usage.completion_tokens,
+        total_tokens: response.usage.total_tokens,
+      }
+    : null;
+
   const optionsRegex = chatMode ? OPTIONS_REGEX_CHAT : OPTIONS_REGEX;
   const optionLetterRange = chatMode ? '[A-D]' : '[A-H]';
   const optionsMatch = raw.match(optionsRegex);
@@ -365,7 +373,7 @@ ${memRelevanceContent}
     lastOptions: options,
   });
 
-  return { text, options, entity, mode };
+  return { text, options, entity, mode, usage };
 }
 
 module.exports = { run };

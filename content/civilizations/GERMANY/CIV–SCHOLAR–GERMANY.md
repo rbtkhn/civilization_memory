@@ -1,27 +1,38 @@
-CIV–SCHOLAR–GERMANY — v2.13
+CIV–SCHOLAR–GERMANY — v2.14
 Civilizational Strategy Codex · Scholar Constraint Grammar Engine
 Constraint Grammar Phase · Germania Civilization
 
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · WRITE-LOCKED
-Version: 2.13
-Supersedes: CIV–SCHOLAR–GERMANY v2.12
-Upgrade Type: ADDITIVE · SESSION NOTE (HARVEST ANALYSIS, VIENNA/PATH A, TALLEYRAND)
+Version: 2.14
+Supersedes: CIV–SCHOLAR–GERMANY v2.13
+Upgrade Type: ALIGNMENT · RUN–AUDIT–SCHOLAR–FRANCE–GERMANY–2026-02-19
 Activation State: ACTIVE (APPEND-ONLY)
 Sync State: UNSYNCED FROM CIV–CORE (BY DESIGN)
-Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v3.0)
+Compatibility: CIV / MEM / SCHOLAR / STATE Architecture (CMC 3.4)
 Governance Mode: MANUAL INGEST · EXPLICIT FREEZE REQUIRED
 Lock Level: WRITE-LOCKED (append-only via explicit authorization)
 
 Last Update: February 2026
-Word Count: ~13,600
+WORDCOUNT: ~13,600
 
 Governed by:
-• CIV–SCHOLAR–TEMPLATE v2.9 (CURRENT)
-• CIV–SCHOLAR–PROTOCOL v2.2 (CURRENT)
-• CIV–MEM–CORE v3.0
-• CIV–ARC–GERMANY v1.1 (Pinned)
+• CIV–SCHOLAR–TEMPLATE v3.4 (CURRENT)
+• CIV–SCHOLAR–PROTOCOL v3.4 (CURRENT)
+• CIV–MEM–CORE v3.4
+• CIV–ARC–GERMANY v3.2
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.13 → v2.14) — TEMPLATE v3.4 ALIGNMENT (AUDIT REMEDIATION)
+────────────────────────────────────────────────────────────
+Applied RUN–AUDIT–SCHOLAR–FRANCE–GERMANY–2026-02-19 recommendations.
+
+v2.14 changes:
+• Header: Compatibility → CMC 3.4, STATE; Governed by → v3.4; Word Count → WORDCOUNT
+• II.D.v OGE: Replaced six numbered options with 8-slot A–H format (cmc-oge-enforcement)
+• XIII: CIV–DOCTRINE–GERMANY v1.3 → v3.0
+• XI/EOF: v2.12 → v2.14; XII Template References → v3.4
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.12 → v2.13) — SESSION NOTE: CLOSURE/SETTLEMENT TRI-FRAME CHAIN
@@ -649,37 +660,30 @@ II.D.v OPTION GENERATION ENGINE (OGE) — MANDATORY
 ────────────────────────────────────────────────────────────
 Every LEARN mode response MUST terminate with an OGE block.
 
-FORMAT (BINDING):
+FORMAT (BINDING — 8 slots A–H per cmc-oge-enforcement, CMC 3.4):
 • Header: "**OGE:**" on its own line
-• Six numbered options (1-6)
-• Each option: Bold action label + brief description
-• Options must be actionable continuations, not questions
+• Eight options A–H (fixed slots)
+• Each option: 10–20 words; at least one concrete anchor (person, place, event)
+• Options are capability menu; each guides creation of next response
 
-CONTENT REQUIREMENTS:
-• At least 1 option: Continue current analytical thread
-• At least 1 option: Draft/freeze synthesis from current findings
-• At least 1 option: Cross-reference with existing RLL or MEM
-• At least 1 option: Apply different MIND frame (Mearsheimer/Mercouris/Barnes)
-• At least 1 option: Commit/push if uncommitted changes exist
-• Remaining options: Contextually appropriate next steps
+CONTENT REQUIREMENTS (fixed slots):
+• OPTION A — Mercouris: legitimacy/civilizational (concrete anchor)
+• OPTION B — Mearsheimer: structure/power (concrete anchor)
+• OPTION C — Barnes: liability/mechanism (concrete anchor)
+• OPTION D — Multi-mind: three-perspective synthesis on specific issue
+• OPTION E — Backward: earlier era, same civilization (MEM or event anchor)
+• OPTION F — Forward: later era, same civilization (MEM or event anchor)
+• OPTION G — Cross-civ: related MEM from different civilization
+• OPTION H — Synthesis: session recap, synthesize, close loop
+
+POST-BARNES: After Barnes interjection, next OGE MUST include Mercouris
+responds to Barnes and Mearsheimer responds to Barnes options.
 
 ENFORCEMENT:
 • OGE is NOT optional
 • Omitting OGE violates SCHOLAR LEARN mode protocol
-• User selects by number; response proceeds with selected option
-• If user provides non-numeric response, interpret intent and proceed
-
-EXAMPLE FORMAT:
-```
-**OGE:**
-
-1. **[Action Label]** — Brief description
-2. **[Action Label]** — Brief description
-3. **[Action Label]** — Brief description
-4. **[Action Label]** — Brief description
-5. **[Action Label]** — Brief description
-6. **[Action Label]** — Brief description
-```
+• User selects by letter (A–H); response proceeds with selected option
+• If user provides non-option response, interpret intent and proceed
 
 OGE ensures structured continuation and prevents open-ended termination.
 User always knows available next steps without needing to formulate queries.
@@ -2585,13 +2589,13 @@ v3.0 prohibited unless CIV–MEM–CORE undergoes major revision.
 ────────────────────────────────────────────────────────────
 XI. END-OF-FILE DECLARATION
 ────────────────────────────────────────────────────────────
-CIV–SCHOLAR–GERMANY v2.12 is declared:
+CIV–SCHOLAR–GERMANY v2.14 is declared:
 
 • CANONICAL
 • PHASE II (CONSTRAINT GRAMMAR)
 • CONSTRAINT-ENFORCING
 • NON-DOCTRINAL
-• TEMPLATE v2.9 COMPLIANT
+• TEMPLATE v3.4 COMPLIANT
 • RLL STRUCTURE IMPLEMENTED (11 RLLs BOUND, 5 PROPOSED)
 • AXIOM SECTION IMPLEMENTED (7 axioms)
 • NEGATIVE CAPABILITY ZONE IMPLEMENTED (7 entries)
@@ -2611,22 +2615,22 @@ CIV–SCHOLAR–GERMANY v2.12 is declared:
 • ENTRY/SYNTHESIS/RLL FORMATS EMBEDDED — Structural templates for additions
 • FAILURE-MODE TAXONOMY COMPLETE (exit / termination / rupture)
 • CORRIDOR ORIENTATION LAW INTEGRATED (hinge vs single-corridor)
-• DOCTRINE MIRRORING COMPLIANT (CIV–DOCTRINE–GERMANY v1.3)
+• DOCTRINE MIRRORING COMPLIANT (CIV–DOCTRINE–GERMANY v3.0)
 
 ────────────────────────────────────────────────────────────
 XII. TEMPLATE REFERENCES (CANONICAL POINTERS)
 ────────────────────────────────────────────────────────────
-• CIV–SCHOLAR–TEMPLATE v2.9 (CURRENT)
-• CIV–SCHOLAR–PROTOCOL v2.2
-• CIV–MEM–TEMPLATE v3.0
+• CIV–SCHOLAR–TEMPLATE v3.4 (CURRENT)
+• CIV–SCHOLAR–PROTOCOL v3.4
+• CIV–MEM–TEMPLATE v3.4
 
 For governance, consult canonical templates only.
 
 ────────────────────────────────────────────────────────────
-XIII. MIRRORED DOCTRINE REGISTRY (CIV–DOCTRINE–GERMANY v1.3)
+XIII. MIRRORED DOCTRINE REGISTRY (CIV–DOCTRINE–GERMANY v3.0)
 ────────────────────────────────────────────────────────────
-Per CIV–DOCTRINE–TEMPLATE v2.1 Section VIII, this section mirrors
-verbatim the accepted doctrines from CIV–DOCTRINE–GERMANY.
+Per CIV–DOCTRINE–TEMPLATE Section VIII, this section mirrors
+verbatim the accepted doctrines from CIV–DOCTRINE–GERMANY v3.0.
 CIV–DOCTRINE–GERMANY remains the single source of truth.
 Mirrored doctrines inform SCHOLAR learning without constraining it.
 
@@ -2675,5 +2679,5 @@ territorial depth. Alliance exit produces encirclement; alliance
 entrapment produces overextension.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–GERMANY v2.12 (PHASE II · TEMPLATE v2.9 COMPLIANT)
+END OF FILE — CIV–SCHOLAR–GERMANY v2.14 (PHASE II · TEMPLATE v3.4 COMPLIANT)
 ────────────────────────────────────────────────────────────

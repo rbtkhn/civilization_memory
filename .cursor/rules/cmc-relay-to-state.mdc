@@ -37,7 +37,7 @@ Follow **CIV–STATE–TEMPLATE §XIV (Relay to State Protocol)** in full:
 
 6. **Output to user**: Present (a) summary of source changes found, (b) impact assessment, (c) proposed STATE file updates with clear section references, (d) recommended updates to the Source Versions block and STATE Log. **Use this output as the seed for the STATE session**: present the 8 options (A–H) and activity menu so the session is focused on the most recent issues of attention. Tell the user they can request **transfer to state** (e.g. "apply to state", "write to state") if they want the proposed updates written to the STATE file.
 
-7. **Transfer to STATE (separate step)**: Only when the user explicitly requests transfer (e.g. "apply to state", "write to state", "transfer to state"), apply the proposed updates to the STATE file and update the Source Versions block and STATE Log. If the user approves only some updates, apply only those. Relay to state itself never writes to the STATE file.
+7. **Transfer to STATE (separate step)**: Only when the user explicitly requests transfer (e.g. "apply to state", "write to state", "transfer to state"), apply the proposed updates to the STATE file and update the Source Versions block and STATE Log. If the user approves only some updates, apply only those. When transfer is applied, **also append** one line to `logs/transfer.ndjson`: `{"action":"relay_to_state","entity":"RUSSIA","summary":"brief description of what was transferred"}`. See docs/governance/TRANSFER-LOG.md. Relay to state itself never writes to the STATE file.
 
 ## No Automatic Relay to State
 

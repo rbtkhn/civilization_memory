@@ -1,31 +1,42 @@
-CIV–SCHOLAR–FRANCE — v2.1
+CIV–SCHOLAR–FRANCE — v2.2
 Civilizational Strategy Codex · Scholar Accumulation Engine
 Learning–Chronology–Doctrine Journal · Self-Contained Edition
 
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · WRITE-LOCKED · CANONICAL
-Version: 2.1
-Supersedes: CIV–SCHOLAR–FRANCE v2.0
-Upgrade Type: ADDITIVE · SCHOLAR ANALYSIS INSIGHTS INTEGRATION
+Version: 2.2
+Supersedes: CIV–SCHOLAR–FRANCE v2.1
+Upgrade Type: ALIGNMENT · RUN–AUDIT–SCHOLAR–FRANCE–GERMANY–2026-02-19
 Civilization: FRANCE
 Class: CIV–SCHOLAR
-Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v3.0)
+Compatibility: CIV / MEM / SCHOLAR / STATE Architecture (CMC 3.4)
 Activation State: ACTIVE (LEARN MODE)
 Sync State: UNSYNCED FROM CIV–CORE (BY DESIGN)
 Governance Mode: MANUAL INGEST · EXPLICIT FREEZE REQUIRED
 Lock Level: LEARNING ENABLED (user-authorized)
-Civilization Phase: PHASE I (Accumulation)
+Civilization Phase: PHASE I — ACCUMULATION
 
-Derived from: CIV–SCHOLAR–TEMPLATE v2.10
+Derived from: CIV–SCHOLAR–TEMPLATE v3.4
 Governed by:
-• CIV–MEM–CORE v3.0 (global system law)
-• CIV–SCHOLAR–TEMPLATE v2.10 (structural template)
-• CIV–SCHOLAR–PROTOCOL v2.2 (operating law)
-• CIV–ARC–FRANCE v2.0 (author admissibility canon)
+• CIV–MEM–CORE v3.4 (global system law)
+• CIV–SCHOLAR–TEMPLATE v3.4 (structural template)
+• CIV–SCHOLAR–PROTOCOL v3.4 (operating law)
+• CIV–ARC–FRANCE v3.1 (author admissibility canon)
 
-Last Update: January 2026
+Last Update: February 2026
 WORDCOUNT: ~8,700
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.1 → v2.2) — TEMPLATE v3.4 ALIGNMENT (AUDIT REMEDIATION)
+────────────────────────────────────────────────────────────
+Applied RUN–AUDIT–SCHOLAR–FRANCE–GERMANY–2026-02-19 recommendations.
+
+v2.2 changes:
+• Header: Compatibility → CMC 3.4, STATE; Governed by → v3.4; Phase → PHASE I — ACCUMULATION
+• III.A OGE: Added OPTION G (cross-civ), OPTION H (synthesis); 10–20 words, concrete anchor
+• VII Doctrine Registry: Canonical register pointer (CIV–DOCTRINE–FRANCE)
+• XIII: Context Loading pointer (template § XIII; ARC/CORE load)
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.0 → v2.1) — SCHOLAR ANALYSIS INSIGHTS INTEGRATION
@@ -132,17 +143,19 @@ OGE is MANDATORY for all SCHOLAR interactions.
 
 OGE FORMAT (8 options A–H):
 
-**OPTION A** — [Mercouris: 6–10 word preview—legitimacy/civilizational]
-**OPTION B** — [Mearsheimer: 6–10 word preview—structure/power]
-**OPTION C** — [Barnes: 6–10 word preview—liability/mechanism]
-**OPTION D** — [Trace connection; move through time or space]
-**OPTION E** — [Another path; era, region, or corridor]
-**OPTION F** — [6–10 word session recap; synthesize and return; close the loop]
+**OPTION A** — [Mercouris: 10–20 word preview—legitimacy/civilizational; concrete anchor]
+**OPTION B** — [Mearsheimer: 10–20 word preview—structure/power; concrete anchor]
+**OPTION C** — [Barnes: 10–20 word preview—liability/mechanism; concrete anchor]
+**OPTION D** — [Multi-mind: three-perspective synthesis on specific issue]
+**OPTION E** — [Backward: earlier era, same civilization; MEM or event anchor]
+**OPTION F** — [Forward: later era, same civilization; MEM or event anchor]
+**OPTION G** — [Cross-civ: related MEM from different civilization; PARALLELS/tagged]
+**OPTION H** — [Synthesis: 6–10 word session recap; synthesize and close loop]
 
 User navigates through time and space. MIND-shaped; minimal cognitive load.
 
 CONTENT REQUIREMENTS:
-• Each option must be one line
+• Each option 10–20 words; at least one concrete anchor (person, place, event) per option
 • A/B/C always Mercouris, Mearsheimer, Barnes
 • Options must be mode-tagged (LEARN/WRITE/IMAGINE)
 
@@ -1340,6 +1353,7 @@ ASSUMPTIONS SUMMARY
 ────────────────────────────────────────────────────────────
 VII. DOCTRINE REGISTRY
 ────────────────────────────────────────────────────────────
+Canonical register: CIV–DOCTRINE–FRANCE (single source of truth for state action).
 
 DOCTRINE v0.1 — "DECLARATIVE LEGITIMACY"
 State: FROZEN
@@ -1802,6 +1816,9 @@ counter-belief) may sit in the ledger until Phase II activation or
 explicit user resolution. Authority for refusing freeze: Section XIII
 (Doctrine Mutation PROHIBITED) + Section XVI (staging rules; zero
 doctrinal force until explicit synthesis and freeze).
+
+Context Loading: See CIV–SCHOLAR–TEMPLATE § XIII. Load CIV–ARC–FRANCE
+and CIV–CORE–FRANCE when doctrine- or ARC-relevant operations apply.
 
 Permitted:
 • Read-only queries

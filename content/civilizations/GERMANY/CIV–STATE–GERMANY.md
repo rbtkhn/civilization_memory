@@ -1,15 +1,15 @@
-CIV–STATE–GERMANY — v1.3
+CIV–STATE–GERMANY — v3.0
 Civilizational Memory Codex · State File
 
 Status: ACTIVE
-Version: 1.3
-Supersedes: CIV–STATE–GERMANY v1.2
-Upgrade Type: SESSION HARVEST REFINEMENT — VIENNA PRECEDENT (SCHOLAR–RUSSIA)
+Version: 3.0
+Supersedes: CIV–STATE–GERMANY v1.3
+Upgrade Type: ALIGNMENT · RUN–AUDIT–STATE–FRANCE–GERMANY–2026-02-19
 Entity: Germany / Federal Republic of Germany
 Classification: STANDARD-STATE
 Civilization: GERMANY
 Active: YES
-Last Updated: 11 February 2026
+Last Updated: February 2026
 
 This file learns from the present — analysing current events through
 historically-grounded patterns to provide structured decision-relevant
@@ -974,19 +974,19 @@ Application note: Apply when user or session explicitly invokes Islam/caliphal l
 MEMs to prefer when topic touches this influence: MEM–ISLAM–* (Germany-relevant)
 
 ────────────────────────────────────────────────────────────
-IX. SOURCE VERSIONS (SYNC REFERENCE)
+IX. SOURCE VERSIONS (RELAY TO STATE REFERENCE)
 ────────────────────────────────────────────────────────────
 
 | Source | Version | Last assessed |
 |--------|---------|---------------|
-| CIV–SCHOLAR–GERMANY | v2.13 | 2026-02-11 |
-| CIV–CORE–GERMANY | v2.0 | 2026-02-11 |
-| CIV–DOCTRINE–GERMANY | v3.0 | 2026-02-11 |
-| CIV–ARC–GERMANY | v2.5 | 2026-02-11 |
-| MEM–RELEVANCE–GERMANY | v1.0 | 2026-02-11 |
+| CIV–SCHOLAR–GERMANY | v2.14 | 2026-02-19 |
+| CIV–CORE–GERMANY | v2.0 | 2026-02-19 |
+| CIV–DOCTRINE–GERMANY | v3.0 | 2026-02-19 |
+| CIV–ARC–GERMANY | v3.2 | 2026-02-19 |
+| MEM–RELEVANCE–GERMANY | v1.0 | 2026-02-19 |
 
-Sync command: Compare STATE file against source file versions.
-If any source has been updated since last sync, review for new
+Relay to state: Compare STATE file against source file versions.
+If any source has been updated since last relay, review for new
 patterns, doctrines, or corrections that should propagate to STATE.
 Transfer into SCHOLAR only via "relay" or "relay to scholar"
 (CIV–STATE–TEMPLATE §XIV-B).
@@ -1102,6 +1102,13 @@ ENTRY 006 — 11 February 2026
   references updated across content and docs. Source Versions (Section IX):
   CIV–SCHOLAR–GERMANY v2.13 unchanged.
 
+ENTRY 007 — 19 February 2026
+  Session: Version alignment (v1.3 → v3.0)
+  Source: RUN–AUDIT–STATE–FRANCE–GERMANY–2026-02-19
+  Changes: Section IX updated — CIV–SCHOLAR–GERMANY v2.13 → v2.14; IX title
+  SYNC REFERENCE → RELAY TO STATE REFERENCE; Last assessed 2026-02-19. No
+  substantive STATE content changes.
+
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–STATE–GERMANY v1.1
+END OF FILE — CIV–STATE–GERMANY v3.0
 ────────────────────────────────────────────────────────────

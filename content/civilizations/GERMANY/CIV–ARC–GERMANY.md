@@ -393,5 +393,5 @@ BLACKLISTED:
   discovery with justification instead.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–ARC–GERMANY v3.0
+END OF FILE — CIV–ARC–GERMANY v3.2
 ────────────────────────────────────────────────────────────

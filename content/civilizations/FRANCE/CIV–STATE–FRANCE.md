@@ -1,13 +1,15 @@
-CIV–STATE–FRANCE — v1.0
+CIV–STATE–FRANCE — v3.0
 Civilizational Memory Codex · State File
 
 Status: ACTIVE
-Version: 1.0
+Version: 3.0
+Supersedes: CIV–STATE–FRANCE v1.0
+Upgrade Type: ALIGNMENT · RUN–AUDIT–STATE–FRANCE–GERMANY–2026-02-19
 Entity: France / French Republic
 Classification: STANDARD-STATE
 Civilization: FRANCE
 Active: YES
-Last Updated: 11 February 2026
+Last Updated: February 2026
 
 This file learns from the present — analysing current events through
 historically-grounded patterns to provide structured decision-relevant
@@ -359,19 +361,19 @@ Application note: Apply when topic touches Maghreb, Levant, post-Ottoman order, 
 MEMs to prefer when topic touches this influence: MEM–ISLAM–* (France-relevant), MEM–FRANCE–* (North Africa, Levant)
 
 ────────────────────────────────────────────────────────────
-IX. SOURCE VERSIONS (SYNC REFERENCE)
+IX. SOURCE VERSIONS (RELAY TO STATE REFERENCE)
 ────────────────────────────────────────────────────────────
 
 | Source | Version | Last assessed |
 |--------|---------|---------------|
-| CIV–CORE–FRANCE | v2.0 | 2026-02-11 |
-| CIV–SCHOLAR–FRANCE | v2.1 | 2026-02-11 |
-| CIV–DOCTRINE–FRANCE | v3.3 | 2026-02-11 |
+| CIV–CORE–FRANCE | v2.0 | 2026-02-19 |
+| CIV–SCHOLAR–FRANCE | v2.2 | 2026-02-19 |
+| CIV–DOCTRINE–FRANCE | v3.3 | 2026-02-19 |
 | MEM corpus (FRANCE) | — | Not yet synced |
 
-To update: user issues "sync state to scholar" command (STATE file
-updated from sources). Transfer into SCHOLAR only via "relay" or
-"relay to scholar" (CIV–STATE–TEMPLATE §XIV-B).
+To update: user issues "relay to state" command (STATE file updated
+from sources). Transfer into SCHOLAR only via "relay" or "relay to
+scholar" (CIV–STATE–TEMPLATE §XIV-B).
 
 ────────────────────────────────────────────────────────────
 X. STATE LOG
@@ -386,7 +388,8 @@ X. STATE LOG
 | 2026-02-11 | Sync and index update: CIV–INDEX–FRANCE updated — Section II (CANONICAL GOVERNANCE FILES) added: CIV–CORE–FRANCE v2.0, CIV–SCHOLAR–FRANCE v2.1, CIV–DOCTRINE–FRANCE v3.0, CIV–STATE–FRANCE v1.0, CIV–ARC–FRANCE v3.0. FILE REGISTER renumbered to III, INDEX LOCK to IV. Source Versions (Section IX) confirmed current; no substantive STATE content changes. |
 | 2026-02-11 | Sync (STATE ← sources): Source Versions updated. CIV–DOCTRINE–FRANCE v3.0 → v3.3 (additive operational meanings: 02/05 Napoleonic canonical test; 04 Themistocles / structural reversal). CIV–SCHOLAR–FRANCE v2.1, CIV–CORE–FRANCE v2.0 unchanged. No Hard Constraint changes; no updates to material options or stability indicators required. CIV–STATE–TEMPLATE §XIV. |
 | 2026-02-11 | Rename: CIV–SCHOLAR–FRANCE → CIV–SCHOLAR–FRANCE. Rationale: aligned with CIV–STATE–FRANCE and present-tense entity (France). File renamed; all references updated across content and docs. Source Versions (Section IX): CIV–SCHOLAR–FRANCE v2.1 unchanged. |
+| 2026-02-19 | Version alignment (v1.0 → v3.0). RUN–AUDIT–STATE–FRANCE–GERMANY–2026-02-19: Section IX updated — CIV–SCHOLAR–FRANCE v2.1 → v2.2; IX title SYNC REFERENCE → RELAY TO STATE REFERENCE; Last assessed 2026-02-19. No substantive STATE content changes. |
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–STATE–FRANCE v1.0
+END OF FILE — CIV–STATE–FRANCE v3.0
 ────────────────────────────────────────────────────────────

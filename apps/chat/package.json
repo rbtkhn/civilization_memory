@@ -7,7 +7,8 @@
   "scripts": {
     "start": "node src/index.js",
     "dev": "node --watch src/index.js",
-    "telegram": "node src/index.js"
+    "telegram": "node src/index.js",
+    "eval": "node scripts/eval-engine.js"
   },
   "engines": {
     "node": ">=18"

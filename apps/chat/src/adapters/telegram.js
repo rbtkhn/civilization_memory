@@ -64,7 +64,7 @@ function stripMention(text, botUsername) {
 async function handleMessage(bot, chatId, text, sessionKeyForEngine) {
   try {
     const reply = await bot.sendMessage(chatId, 'Thinking…', { parse_mode: 'HTML' });
-    const { text: responseText, options, entity, mode } = await engine.run(
+    const { text: responseText, options, entity, mode, usage } = await engine.run(
       'telegram',
       sessionKeyForEngine,
       text
@@ -90,6 +90,7 @@ async function handleMessage(bot, chatId, text, sessionKeyForEngine) {
       options: (options || []).map((o) => ({ letter: o.letter, id: o.id, label: o.label })),
       entity: entity || null,
       mode: mode || null,
+      ...(usage && { usage }),
     });
   } catch (err) {
     console.error('Engine or send error:', err);

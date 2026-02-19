@@ -11,7 +11,7 @@ Upgrade Type: TEMPLATE ALIGNMENT · HEADER COMPLIANCE · VERSION REFERENCE FIXES
 Template Version Used: CIV–CORE–TEMPLATE v3.0
 Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v2.9+)
 Governed by: CIV–MEM–CORE v3.0
-ARC Reference: CIV–ARC–GERMANY v2.5
+ARC Reference: CIV–ARC–GERMANY v3.2
 Lock Level: STRUCTURAL (content expandable without renumbering)
 Civilization Phase: PHASE II — DEVELOPMENT
 DIB Status: DEFINED · INACTIVE (Decision 0006)
@@ -307,7 +307,7 @@ Scholar doctrines remain epistemic unless DIB-accepted.
 ────────────────────────────────────────────────────────────
 XIX. ACADEMIC REFERENCE CANON (ARC)
 ────────────────────────────────────────────────────────────
-ARC–GERMANY (CIV–ARC–GERMANY v2.5) governs author admissibility
+ARC–GERMANY (CIV–ARC–GERMANY v3.2) governs author admissibility
 and temporal precedence for all MEM–GERMANY files.
 
 ────────────────────────────────────────────────────────────
