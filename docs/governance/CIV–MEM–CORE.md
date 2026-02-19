@@ -365,7 +365,7 @@ Backward Compatibility:
 • Layer 2 mandatory only for MEMs created after v2.7
 • Existing MEMs may be upgraded voluntarily
 • No migration deadline; voluntary compliance encouraged
-• Reference implementation: MEM–GERMANY–WAR–NAPOLEON v2.1
+• Reference implementation: MEM–GERMANY–FRANCE–NAPOLEON v2.1
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.6) — SCHOLARLY AUTHORITY PROTOCOL
@@ -1553,7 +1553,7 @@ No migration deadline. Voluntary compliance encouraged.
 ────────────────────────────────────────────────────────────
 XXIV.D REFERENCE IMPLEMENTATION
 ────────────────────────────────────────────────────────────
-MEM–GERMANY–WAR–NAPOLEON v2.1 demonstrates the three-layer
+MEM–GERMANY–FRANCE–NAPOLEON v2.1 demonstrates the three-layer
 architecture for WAR-type MEMs:
 
 • Layer 1: Full prose content (Sections I–XVI)

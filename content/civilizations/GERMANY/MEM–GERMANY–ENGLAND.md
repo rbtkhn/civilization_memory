@@ -350,7 +350,19 @@ followed by reconciliation. Moderation—stable, predictable
 relations—proved elusive.
 
 ────────────────────────────────────────────────────────────
-XIV. 20% QUOTE COMPLIANCE DECLARATION
+XIV. MEM CONNECTIONS
+────────────────────────────────────────────────────────────
+Cross-Civilizational:
+
+• MEM–ANGLIA–GERMANY — Connector pair. Germany encodes England as
+  kinship-turned-rival. Anglia encodes Germany. Same interface (England
+  pair), distinct encodings.
+
+• MEM–GERMANY–BRITAIN — Britain pair (18th c.–present). Hanover, naval
+  rivalry, world wars.
+
+────────────────────────────────────────────────────────────
+XV. 20% QUOTE COMPLIANCE DECLARATION
 ────────────────────────────────────────────────────────────
 Total estimated quote words: ~640
 Total MEM words: ~3,200

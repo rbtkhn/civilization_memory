@@ -329,7 +329,7 @@ Same-Civilization (≥10):
 • MEM–FRANCE–DYNASTY–BOURBON — restoration context
 
 Cross-civilizational:
-• MEM–GERMANY–WAR–NAPOLEON — GERMANY Napoleonic memory
+• MEM–GERMANY–FRANCE–NAPOLEON — GERMANY Napoleonic memory
 • MEM–GERMANY–WAR–NAPOLEON–LEIPZIG — GERMANY perspective (liberation)
 • MEM–RUSSIA–WAR–NAPOLEON — Russia 1812 context
 • MEM–RUSSIA–WAR–NAPOLEON–AUSTERLITZ — earlier Russian defeat

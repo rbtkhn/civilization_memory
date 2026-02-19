@@ -281,7 +281,7 @@ XII. MEM CONNECTIONS (MANDATORY · v2.6+)
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
 • MEM–GERMANY–CONGRESS–VIENNA — Settlement that Alliance supported
-• MEM–GERMANY–WAR–NAPOLEON — Trauma that created conservative cohesion
+• MEM–GERMANY–FRANCE–NAPOLEON — Trauma that created conservative cohesion
 • MEM–GERMANY–METTERNICH — Alliance architect and instrumentalizer
 • MEM–GERMANY–PRUSSIA — Signatory and beneficiary
 • MEM–GERMANY–AUSTRIA–VIENNA — Habsburg imperial center

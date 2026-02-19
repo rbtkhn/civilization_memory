@@ -162,13 +162,16 @@ at that node.
 | Thirty Years' War  | MEM–FRANCE–WAR–THIRTY–YEARS        | MEM–GERMANY–WAR–THIRTY–YEARS         |
 | Seven Years' War   | MEM–FRANCE–WAR–SEVEN–YEARS         | MEM–GERMANY–WAR–SEVEN–YEARS          |
 | Crusades           | MEM–FRANCE–WAR–CRUSADES            | MEM–GERMANY–WAR–CRUSADES             |
-| Napoleonic period  | MEM–FRANCE–NAPOLEON                | MEM–GERMANY–WAR–NAPOLEON             |
+| Napoleonic period  | MEM–FRANCE–NAPOLEON                | MEM–GERMANY–FRANCE–NAPOLEON          |
 | Waterloo           | MEM–FRANCE–WAR–NAPOLEON–WATERLOO   | MEM–GERMANY–WAR–WATERLOO             |
 | Franco-Prussian War| MEM–FRANCE–WAR–FRANCO–PRUSSIAN     | MEM–GERMANY–WAR–FRANCO–PRUSSIAN      |
 | Austrian Succession| MEM–FRANCE–WAR–AUSTRIAN–SUCCESSION | MEM–GERMANY–WAR–AUSTRIAN–SUCCESSION  |
 | Spanish Succession | MEM–FRANCE–WAR–SPANISH–SUCCESSION  | MEM–GERMANY–WAR–SPANISH–SUCCESSION   |
 | First World War    | MEM–FRANCE–WAR–FIRST–WORLD–WAR     | MEM–GERMANY–WAR–FIRST–WORLD–WAR      |
+| Second World War   | MEM–FRANCE–WAR–SECOND–WORLD–WAR    | MEM–GERMANY–WAR–SECOND–WORLD–WAR     |
+| Treaty of Versailles | MEM–FRANCE–WAR–FIRST–WORLD–TREATY–VERSAILLES | MEM–GERMANY–WAR–FIRST–WORLD–TREATY–VERSAILLES |
 | Austria-Hungary    | MEM–FRANCE–AUSTRIA–HUNGARY         | MEM–GERMANY–AUSTRIA–HUNGARY          |
+| Ottoman Empire     | MEM–FRANCE–OTTOMAN–EMPIRE          | MEM–GERMANY–OTTOMAN–EMPIRE           |
 | Belgium            | MEM–FRANCE–BELGIUM                 | MEM–GERMANY–BELGIUM                  |
 | Poland             | MEM–FRANCE–POLAND                  | MEM–GERMANY–POLAND                   |
 | Spain              | MEM–FRANCE–SPAIN                   | MEM–GERMANY–SPAIN                    |

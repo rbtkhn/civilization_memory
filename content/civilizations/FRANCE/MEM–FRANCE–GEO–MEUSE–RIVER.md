@@ -172,7 +172,7 @@ XIII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
 • MEM–FRANCE–WAR–WWI — 1914 German advance through Belgium/Meuse; breaks if removed.
-• MEM–FRANCE–WAR–WWII — 1940 Ardennes–Meuse breakthrough; breaks if removed.
+• MEM–FRANCE–WAR–SECOND–WORLD–WAR — 1940 Ardennes–Meuse breakthrough; breaks if removed.
 • MEM–FRANCE–LOUIS–XIV — Northeastern wars and Vauban fortifications; breaks if removed.
 • MEM–FRANCE–NAPOLEON — Campaigns in Low Countries and Rhine; breaks if removed.
 • MEM–FRANCE–GEO–RHINE–RIVER — Rhine–Meuse frontier system; breaks if removed.
@@ -211,7 +211,7 @@ When ingested without CIV–MEM–CORE present, the system MUST issue:
 
 A. Terrain logic: Why does the Meuse function as invasion corridor rather than barrier?
 B. Power distribution: How does buffer (Belgium) magnify vulnerability?
-C. Traverse to MEM–FRANCE–WAR–WWII (1940 breakthrough)
+C. Traverse to MEM–FRANCE–WAR–SECOND–WORLD–WAR (1940 breakthrough)
 D. Traverse to MEM–FRANCE–GEO–RHINE–RIVER (frontier system)
 E. Apply Mearsheimer lens: Offense-dominant geography and defense failure
 F. Apply Barnes lens: Who bears liability when the Meuse line fails?

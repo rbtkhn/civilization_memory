@@ -335,7 +335,7 @@ Same-Civilization (≥10):
 
 Cross-civilizational:
 • MEM–GERMANY–WAR–JENA — GERMANY perspective (near-death experience)
-• MEM–GERMANY–WAR–NAPOLEON — broader GERMANY Napoleonic memory
+• MEM–GERMANY–FRANCE–NAPOLEON — broader GERMANY Napoleonic memory
 • MEM–GERMANY–PRUSSIA–REFORM — reform movement response
 
 ────────────────────────────────────────────────────────────

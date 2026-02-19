@@ -269,6 +269,7 @@ FRANCE:
 • MEM–FRANCE–WAR–TRAFALGAR — naval foreclosure → continental substitute
 
 GERMANY:
+• MEM–GERMANY–FRANCE–NAPOLEON — Connector pair; Germania's encoding
 • MEM–GERMANY–BISMARCK
 
 ANGLIA:

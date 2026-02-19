@@ -201,7 +201,7 @@ Same-civilization (≥10):
 • MEM–FRANCE–LOUIS–XIV — No Pacific dimension; contrast with later expansion; breaks if removed.
 • MEM–FRANCE–FRENCH–REVOLUTION — La Pérouse and revolutionary-era exploration; breaks if removed.
 • MEM–FRANCE–NAPOLEON — Pacific not central; continental priority; breaks if removed.
-• MEM–FRANCE–WAR–WWII — Pacific theater and French territories; breaks if removed.
+• MEM–FRANCE–WAR–SECOND–WORLD–WAR — Pacific theater and French territories; breaks if removed.
 • MEM–FRANCE–CIV–DOCTRINE — Universalism and limits (Pacific as ceiling); breaks if removed.
 • MEM–FRANCE–GEO–MEDITERRANEAN–SEA — Mediterranean vs Pacific orientation; breaks if removed.
 • MEM–FRANCE–GEO–ENGLISH–CHANNEL — Channel/Atlantic vs global reach; breaks if removed.

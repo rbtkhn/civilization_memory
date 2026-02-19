@@ -103,7 +103,7 @@ Primary MEMs:
 Secondary MEMs:
 • MEM–GERMANY–AUSTRIA–METTERNICH — Conservative order maintenance; status quo as strategy
 • MEM–GERMANY–WAR–THIRTY–YEARS — Devastating war requiring Westphalian settlement innovation
-• MEM–GERMANY–WAR–NAPOLEON — Collapse and reconstruction of the European order
+• MEM–GERMANY–FRANCE–NAPOLEON — Collapse and reconstruction of the European order
 
 ────────────────────────────────────────────────────────────
 IV. DEFENCE CAPACITY / STRATEGIC AUTONOMY

@@ -361,7 +361,7 @@ Tension preserved without verdict.
 XII. MEM CONNECTIONS (MANDATORY · v2.6+)
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
-• MEM–GERMANY–WAR–NAPOLEON — Preceding conflict; why settlement was needed
+• MEM–GERMANY–FRANCE–NAPOLEON — Preceding conflict; why settlement was needed
 • MEM–GERMANY–WAR–WATERLOO — Coalition victory enabling settlement
 • MEM–GERMANY–METTERNICH — Architect of the system
 • MEM–GERMANY–AUSTRIA–VIENNA — City hosting the Congress

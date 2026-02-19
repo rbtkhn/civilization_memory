@@ -552,7 +552,7 @@ Belief Status:
 ENTRY 0011
 Source:
 • MEM–RUSSIA–WAR–NAPOLEON–AUSTERLITZ v2.1 (cross-civilizational)
-• MEM–GERMANY–WAR–NAPOLEON (cross-civilizational, referenced)
+• MEM–GERMANY–FRANCE–NAPOLEON (cross-civilizational, referenced)
 • SYNTHESIS 0005 (internal derivation)
 
 Ingest Type:
@@ -1076,7 +1076,7 @@ Tri-Frame Derivation:
 • MEARSHEIMER: Satellite forces are paper divisions; defection = transfer
 
 Cross-Civilizational Sources:
-• MEM–GERMANY–WAR–NAPOLEON (defection cascade, force data)
+• MEM–GERMANY–FRANCE–NAPOLEON (defection cascade, force data)
 • MEM–RUSSIA–WAR–NAPOLEON (endurance alternative)
 • GERMANY SYNTHESIS 0020 (Imperial Collapse Mechanics)
 
@@ -1594,7 +1594,7 @@ PROPOSED RLL CANDIDATES:
   liability visibility + legitimacy destination + defection opportunity align.
   Derivation: SYNTHESIS 0005 (DRAFT), BARNES CATALYST
   Frame: BARNES
-  Cross-civ evidence: MEM–GERMANY–WAR–NAPOLEON (Tauroggen cascade)
+  Cross-civ evidence: MEM–GERMANY–FRANCE–NAPOLEON (Tauroggen cascade)
   Status: PROPOSED · NOT BOUND
 
 • RLL–FRANCE–0005 (CANDIDATE): Force ratios in extraction systems
@@ -1602,7 +1602,7 @@ PROPOSED RLL CANDIDATES:
   by defection probability derived from liability distribution.
   Derivation: SYNTHESIS 0005 (DRAFT), MEARSHEIMER SHARPENING
   Frame: MEARSHEIMER
-  Cross-civ evidence: MEM–GERMANY–WAR–NAPOLEON (German contingent data)
+  Cross-civ evidence: MEM–GERMANY–FRANCE–NAPOLEON (German contingent data)
   Status: PROPOSED · NOT BOUND
 
 • RLL–FRANCE–0006 (CANDIDATE): Defection in hegemonic systems produces

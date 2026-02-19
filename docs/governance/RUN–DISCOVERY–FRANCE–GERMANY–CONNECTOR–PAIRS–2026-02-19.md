@@ -47,7 +47,7 @@ III. PAIRS WITH ASYMMETRIC NAMING (SAME SUBJECT)
 |------------|------------------------------------|--------------------------------|------|
 | Waterloo   | MEM–FRANCE–WAR–NAPOLEON–WATERLOO   | MEM–GERMANY–WAR–WATERLOO       | France embeds Napoleon; Germany event-only |
 | Austerlitz | MEM–FRANCE–WAR–NAPOLEON–AUSTERLITZ | MEM–GERMANY–WAR–AUSTERLITZ     | Same |
-| Napoleon (general) | MEM–FRANCE–NAPOLEON         | MEM–GERMANY–WAR–NAPOLEON       | France: person; Germany: war/period |
+| Napoleon (general) | MEM–FRANCE–NAPOLEON         | MEM–GERMANY–FRANCE–NAPOLEON       | France: person; Germany: war/period |
 | Seven Years' War | MEM–FRANCE–WAR–SEVEN–YEARS  | MEM–GERMANY–WAR–SEVEN–YEARS    | ✓ Both exist (Germany file may lack .md in some paths) |
 
 ────────────────────────────────────────────────────────────
@@ -67,7 +67,7 @@ V. PHANTOM REFERENCES (CITED IN MEM CONNECTIONS, FILE DOES NOT EXIST)
 ────────────────────────────────────────────────────────────
 
 **Cited by France MEMs, Germany file missing:**
-- MEM–GERMANY–WAR–NAPOLEON–LEIPZIG (Germany has WAR–NAPOLEON, WAR–AUSTERLITZ; Leipzig is in WAR–NAPOLEON scope)
+- MEM–GERMANY–FRANCE–NAPOLEON–LEIPZIG (Germany has FRANCE–NAPOLEON, WAR–AUSTERLITZ; Leipzig is in WAR–NAPOLEON scope)
 - MEM–GERMANY–WAR–JENA (subsumed in WAR–NAPOLEON)
 - MEM–GERMANY–BLUCHER (person; no Germany MEM)
 - MEM–GERMANY–MEDIEVAL–FRAGMENTATION
@@ -126,7 +126,7 @@ Use the following as the initial **canonical connector pairs** for CONCEPT–FRA
 | Thirty Years' War  | MEM–FRANCE–WAR–THIRTY–YEARS        | MEM–GERMANY–WAR–THIRTY–YEARS         |
 | Seven Years' War   | MEM–FRANCE–WAR–SEVEN–YEARS         | MEM–GERMANY–WAR–SEVEN–YEARS          |
 | Crusades           | MEM–FRANCE–WAR–CRUSADES            | MEM–GERMANY–WAR–CRUSADES             |
-| Napoleonic period  | MEM–FRANCE–NAPOLEON                | MEM–GERMANY–WAR–NAPOLEON             |
+| Napoleonic period  | MEM–FRANCE–NAPOLEON                | MEM–GERMANY–FRANCE–NAPOLEON             |
 | Waterloo           | MEM–FRANCE–WAR–NAPOLEON–WATERLOO   | MEM–GERMANY–WAR–WATERLOO             |
 | Franco-Prussian War| MEM–FRANCE–WAR–FRANCO–PRUSSIAN     | MEM–GERMANY–WAR–FRANCO–PRUSSIAN      |
 | Treaty of Frankfurt| MEM–FRANCE–TREATY–FRANKFURT        | (subsumed in WAR–FRANCO–PRUSSIAN)    |

@@ -90,6 +90,7 @@ Session closure. Deliver:
 1. 6–10 word session recap
 2. Synthesis paragraph (<100 words)
 3. Four follow-on options: (a) no change, (b) small incremental, (c) bigger change, (d) relay to scholar (STATE) or defer and revisit later (LEARN)
+4. **Journal proposal:** If the session was journal-worthy (see Journal Proposal at H below), propose a journal entry: present the draft and "Add to CIV–JOURNAL–[ENTITY]? (Y / Edit / Skip)". Append only if user approves.
 
 ## Contextual Notes (Stateless Design)
 
@@ -192,7 +193,7 @@ STATE uses the **same 8-slot recursive structure** as SCHOLAR, adapted for prese
 - **Present-oriented** — E illuminates present from history (using both dimension-based and connection-based MEM discovery); F projects forward
 - **Decision-relevant** — options refine material options, not historical understanding
 - **Professional register throughout**
-- **H produces actionable output** — proposed STATE file updates, not learning recap
+- **H produces actionable output** — proposed STATE file updates, not learning recap; plus journal proposal if journal-worthy (see Journal Proposal at H below)
 
 **Same principles apply:** Fixed slots, stateless, 10-20 words per option, concrete anchor per option. **E/F/G flexibility:** Phrase E (historical precedent), F (forward projection), and G (cross-entity) with the specific MEM, entity, or scenario when obvious from context, still within 10–20 words and one anchor.
 
@@ -200,6 +201,30 @@ STATE uses the **same 8-slot recursive structure** as SCHOLAR, adapted for prese
 
 **Selectable contextual option (STATE, optional):** When the recommendation is a specific action (e.g. "add signal check for [event]", "run probability assessment for Pattern 6"), the system MAY add one line making it selectable: "Or choose: Add signal check for [event]" or "Or choose: Run probability assessment for Pattern 6". User can type or select that phrase. At most one such line per turn; no ninth slot. Omit when the recommendation is generic or none was made. See CIV–STATE–TEMPLATE Section X-I (SELECTABLE CONTEXTUAL OPTION).
 
-See: CIV–STATE–TEMPLATE Section X-A, Section X-I
+## Journal Proposal at H
+
+When the user selects **H** (synthesis or assessment closure) in **STATE** or **LEARN**, check if the session was journal-worthy. If yes, propose a journal entry after delivering the H response.
+
+**Journal-worthy checklist** (STATE — propose if any):
+- Decision points surfaced with material options and binding constraints
+- Pattern audit, stability watch, or doctrine check with substantive findings
+- Signal check or probability assessment with a clear result
+
+**Journal-worthy checklist** (LEARN — propose if any):
+- Synthesis, RLL proposal, or ENTRY that advances understanding
+- MEM-generation candidate accepted or MEM created
+
+**Type selection:**
+| Session content | Type |
+|-----------------|------|
+| Decision points, material options, constraints | DECISION |
+| Pattern audit, stability watch, doctrine check | PATTERN |
+| Signal check, probability assessment | SIGNAL |
+| Synthesis, RLL proposal, ENTRY | LEARN |
+| MEM candidate accepted, MEM created | MEM |
+
+**Proposal format:** Present the draft as `### YYYY-MM-DD HH:MM · TYPE` + summary (1–3 sentences) + optional `Refs: ...`, then "Add to CIV–JOURNAL–[ENTITY]? (Y / Edit / Skip)". Append only if user says Y or provides an edit. See CIV–JOURNAL–PROTOCOL.md.
+
+See: CIV–STATE–TEMPLATE Section X-A, Section X-I; CIV–JOURNAL–PROTOCOL.md
 
 Reference: CMC 3.4, Options menu simplification (preserves 8-slot structure, removes state tracking), PROTOCOL–MIND–NAVIGATION

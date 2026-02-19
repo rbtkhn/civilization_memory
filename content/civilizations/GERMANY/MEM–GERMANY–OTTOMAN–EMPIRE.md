@@ -394,6 +394,11 @@ GEO–MEM CONNECTIONS:
 
 CROSS-CIVILIZATION CONNECTIONS:
 
+• MEM–FRANCE–OTTOMAN–EMPIRE
+  Connector pair: Same subject; France encoding = strategic partner;
+  Germany encoding = adversary. Paired encodings.
+  Breaks if removed: Double-helix contrast absent
+
 • MEM–ISLAM–OTTOMAN–EMPIRE
   Dependency: Ottoman state from Islamic perspective
   Breaks if removed: Adversary's self-understanding missing

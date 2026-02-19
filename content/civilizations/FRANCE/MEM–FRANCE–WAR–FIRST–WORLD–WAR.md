@@ -132,6 +132,7 @@ Same-Civilization:
 • MEM–FRANCE–WAR–MARNE — September 1914 reversal; survival
 • MEM–FRANCE–WAR–FIRST–WORLD–VERDUN — Sacred ground; noria
 • MEM–FRANCE–WAR–FIRST–WORLD–SOMME — Industrial attrition
+• MEM–FRANCE–WAR–FIRST–WORLD–TREATY–VERSAILLES — Settlement
 • MEM–FRANCE–WAR–FRANCO–PRUSSIAN — 1870 trauma avenged
 • MEM–FRANCE–ALSACE–LORRAINE — War aim; reclaimed 1918
 • MEM–FRANCE–THIRD–REPUBLIC — Political context

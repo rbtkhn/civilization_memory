@@ -62,7 +62,7 @@ ENFORCEMENT:
 • Existing MEMs: Layer 2 OPTIONAL upgrade path
 • Upgrade versioning: v2.0 → v2.1 when adding structured fields
 
-Reference Implementation: MEM–GERMANY–WAR–NAPOLEON v2.1
+Reference Implementation: MEM–GERMANY–FRANCE–NAPOLEON v2.1
 
 See: CIV–MEM–CORE v3.4, Sections XXIV-XXVII
 

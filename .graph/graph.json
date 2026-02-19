@@ -2041,6 +2041,11 @@
       "civilization": "FRANCE"
     },
     {
+      "id": "MEM–FRANCE–OTTOMAN–EMPIRE",
+      "label": "OTTOMAN–EMPIRE",
+      "civilization": "FRANCE"
+    },
+    {
       "id": "MEM–FRANCE–ORLEANS",
       "label": "ORLEANS",
       "civilization": "FRANCE"
@@ -3091,7 +3096,7 @@
       "civilization": "GERMANY"
     },
     {
-      "id": "MEM–GERMANY–WAR–NAPOLEON",
+      "id": "MEM–GERMANY–FRANCE–NAPOLEON",
       "label": "WAR–NAPOLEON",
       "civilization": "GERMANY"
     },
@@ -17189,7 +17194,7 @@
     },
     {
       "source": "MEM–FRANCE–WAR–NAPOLEON–JENA",
-      "target": "MEM–GERMANY–WAR–NAPOLEON",
+      "target": "MEM–GERMANY–FRANCE–NAPOLEON",
       "type": "CONNECTOR_PAIR"
     },
     {
@@ -17244,7 +17249,7 @@
     },
     {
       "source": "MEM–FRANCE–WAR–NAPOLEON–LEIPZIG",
-      "target": "MEM–GERMANY–WAR–NAPOLEON",
+      "target": "MEM–GERMANY–FRANCE–NAPOLEON",
       "type": "CONNECTOR_PAIR"
     },
     {
@@ -17359,7 +17364,7 @@
     },
     {
       "source": "MEM–FRANCE–WAR–NAPOLEON–WAGRAM",
-      "target": "MEM–GERMANY–WAR–NAPOLEON",
+      "target": "MEM–GERMANY–FRANCE–NAPOLEON",
       "type": "CONNECTOR_PAIR"
     },
     {
@@ -17964,7 +17969,7 @@
     },
     {
       "source": "MEM–GERMANY–AUSTRIA–HOLY–ALLIANCE",
-      "target": "MEM–GERMANY–WAR–NAPOLEON",
+      "target": "MEM–GERMANY–FRANCE–NAPOLEON",
       "type": "SAME_CIV"
     },
     {
@@ -18644,7 +18649,7 @@
     },
     {
       "source": "MEM–GERMANY–CONGRESS–VIENNA",
-      "target": "MEM–GERMANY–WAR–NAPOLEON",
+      "target": "MEM–GERMANY–FRANCE–NAPOLEON",
       "type": "SAME_CIV"
     },
     {
@@ -20974,6 +20979,11 @@
     },
     {
       "source": "MEM–GERMANY–OTTOMAN–EMPIRE",
+      "target": "MEM–FRANCE–OTTOMAN–EMPIRE",
+      "type": "CONNECTOR_PAIR"
+    },
+    {
+      "source": "MEM–GERMANY–OTTOMAN–EMPIRE",
       "target": "MEM–ISLAM–OTTOMAN–EMPIRE",
       "type": "CONNECTOR_PAIR"
     },
@@ -22508,52 +22518,52 @@
       "type": "CONNECTOR_PAIR"
     },
     {
-      "source": "MEM–GERMANY–WAR–NAPOLEON",
+      "source": "MEM–GERMANY–FRANCE–NAPOLEON",
       "target": "MEM–GERMANY–WAR–AUSTERLITZ",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–NAPOLEON",
+      "source": "MEM–GERMANY–FRANCE–NAPOLEON",
       "target": "MEM–GERMANY–WAR–WATERLOO",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–NAPOLEON",
+      "source": "MEM–GERMANY–FRANCE–NAPOLEON",
       "target": "MEM–GERMANY–PRUSSIA",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–NAPOLEON",
+      "source": "MEM–GERMANY–FRANCE–NAPOLEON",
       "target": "MEM–GERMANY–HOLY–ROMAN–EMPIRE",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–NAPOLEON",
+      "source": "MEM–GERMANY–FRANCE–NAPOLEON",
       "target": "MEM–GERMANY–BISMARCK",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–NAPOLEON",
+      "source": "MEM–GERMANY–FRANCE–NAPOLEON",
       "target": "MEM–GERMANY–WILHELM–II",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–NAPOLEON",
+      "source": "MEM–GERMANY–FRANCE–NAPOLEON",
       "target": "MEM–GERMANY–WAR–FRANCO–PRUSSIAN",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–NAPOLEON",
+      "source": "MEM–GERMANY–FRANCE–NAPOLEON",
       "target": "MEM–GERMANY–BERLIN",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–NAPOLEON",
+      "source": "MEM–GERMANY–FRANCE–NAPOLEON",
       "target": "MEM–RUSSIA–WAR–NAPOLEON",
       "type": "CONNECTOR_PAIR"
     },
     {
-      "source": "MEM–GERMANY–WAR–NAPOLEON",
+      "source": "MEM–GERMANY–FRANCE–NAPOLEON",
       "target": "MEM–FRANCE–NAPOLEON",
       "type": "CONNECTOR_PAIR"
     },

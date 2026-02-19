@@ -344,7 +344,7 @@ Same-Civilization (≥10):
 Cross-civilizational:
 • MEM–AUSTRIA–WAR–WAGRAM — Austrian perspective
 • MEM–AUSTRIA–ARCHDUKE–CHARLES — opponent analysis
-• MEM–GERMANY–WAR–NAPOLEON — broader German context
+• MEM–GERMANY–FRANCE–NAPOLEON — broader German context
 
 ────────────────────────────────────────────────────────────
 XIII. LAYER 3: SYNTHESIS LINKAGE (OPTIONAL)

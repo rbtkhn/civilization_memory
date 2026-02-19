@@ -1,18 +1,18 @@
-MEM–GERMANY–WAR–NAPOLEON — v2.1
+MEM–GERMANY–FRANCE–NAPOLEON — v2.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 
 Status: ACTIVE
 Version: 2.1
-Supersedes: v2.0
-Upgrade Type: STRUCTURED DATA ADDITION (LAYER 2/3)
+Supersedes: v2.0 (formerly MEM–GERMANY–WAR–NAPOLEON)
+Upgrade Type: STRUCTURED DATA ADDITION (LAYER 2/3) · RENAME
 Civilization: GERMANY
 Subject: Napoleonic Wars — Germania's Existential Crisis and Reconstruction
 Dates: 1792–1815 AD
 Class: MEM (Civilizational Memory) · WAR Subclass
 Template: CIV–MEM–TEMPLATE v2.8
 ARC Compliance: CIV–ARC–GERMANY v1.2
-Last Update: January 2026
+Last Update: February 2026
 Word Count: ~3,200
 
 ────────────────────────────────────────────────────────────
@@ -403,7 +403,7 @@ XVI. MEM INGEST BOOTSTRAP (MANDATORY)
 ────────────────────────────────────────────────────────────
 When ingested without CIV–MEM–CORE present, the system MUST issue:
 
-"MEM INGEST CONFIRMED — MEM–GERMANY–WAR–NAPOLEON
+"MEM INGEST CONFIRMED — MEM–GERMANY–FRANCE–NAPOLEON
 Status: ACTIVE
 Exploration options available."
 
@@ -579,13 +579,10 @@ XIX.D CROSS-REFERENCES
 XX. VERSION HISTORY (v2.1)
 ────────────────────────────────────────────────────────────
 
-v2.0 (January 2026): Initial creation with full prose content
-v2.1 (January 2026): Added structured data layers:
-  • Section XVII: WAR STRUCTURED DATA (Layer 2)
-  • Section XVIII: COLLAPSE SEQUENCE DATA (Layer 3)
-  • Section XIX: SYNTHESIS LINKAGE (Layer 3)
-  • Upgrade demonstrates MEM template v3.0 architecture
+v2.0 (January 2026): Initial creation with full prose content (as MEM–GERMANY–WAR–NAPOLEON)
+v2.1 (January 2026): Added structured data layers (Layer 2/3)
+v2.1 (February 2026): RENAMED to MEM–GERMANY–FRANCE–NAPOLEON (connector-pair alignment)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANY–WAR–NAPOLEON v2.1
+END OF FILE — MEM–GERMANY–FRANCE–NAPOLEON v2.1
 ────────────────────────────────────────────────────────────

@@ -184,7 +184,7 @@ Same-civilization (≥10):
 • MEM–FRANCE–GEO–MEUSE–RIVER — Rhine–Meuse frontier system; breaks if removed.
 • MEM–FRANCE–WAR–FRANCO–PRUSSIAN — Loss of Alsace–Lorraine, Rhine as wound; breaks if removed.
 • MEM–FRANCE–WAR–WWI — Rhine as war aim and 1919 frontier; breaks if removed.
-• MEM–FRANCE–WAR–WWII — Rhine crossed, liberation; breaks if removed.
+• MEM–FRANCE–WAR–SECOND–WORLD–WAR — Rhine crossed, liberation; breaks if removed.
 • MEM–FRANCE–NAPOLEON — Confederation of the Rhine, retreat to Rhine; breaks if removed.
 • MEM–FRANCE–WAR–NAPOLEON–LEIPZIG — Collapse of Rhine frontier; breaks if removed.
 • MEM–FRANCE–WAR–SIXTH–COALITION — Rhine frontier collapse; breaks if removed.
