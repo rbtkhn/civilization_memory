@@ -223,7 +223,7 @@ When the user selects **H** (synthesis or assessment closure) in **STATE** or **
 | Synthesis, RLL proposal, ENTRY | LEARN |
 | MEM candidate accepted, MEM created | MEM |
 
-**Proposal format:** Present the draft as `### YYYY-MM-DD HH:MM · TYPE` + summary (1–3 sentences) + optional `Refs: ...`, then "Add to CIV–JOURNAL–[ENTITY]? (Y / Edit / Skip)". Append only if user says Y or provides an edit. See CIV–JOURNAL–PROTOCOL.md.
+**Proposal format:** Present the draft as `### YYYY-MM-DD HH:MM · TYPE` + summary (1–3 sentences, engaging natural language, no file names or backend jargon), then "Add to CIV–JOURNAL–[ENTITY]? (Y / Edit / Skip)". Append only if user says Y or provides an edit. See CIV–JOURNAL–PROTOCOL.md.
 
 See: CIV–STATE–TEMPLATE Section X-A, Section X-I; CIV–JOURNAL–PROTOCOL.md
 
