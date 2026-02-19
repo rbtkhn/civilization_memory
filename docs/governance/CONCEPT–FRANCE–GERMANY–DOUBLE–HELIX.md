@@ -189,6 +189,7 @@ at that node.
 | Treaty of Frankfurt| MEM–FRANCE–TREATY–FRANKFURT        | (subsumed in WAR–FRANCO–PRUSSIAN) | Germany encodes treaty within war MEM. |
 | Congress of Vienna| (France: Talleyrand MEM; no dedicated CONGRESS–VIENNA) | MEM–GERMANY–CONGRESS–VIENNA | Germany-only; France perspective via Talleyrand. |
 | Carolingian Partition| (France: DYNASTY–CAROLINGIAN, FRANCIA) | MEM–GERMANY–CAROLINGIAN–PARTITION | Germany-only; France overlaps via dynasty. |
+| Holy Roman Empire | MEM–FRANCE–HOLY–ROMAN–EMPIRE       | MEM–GERMANY–HOLY–ROMAN–EMPIRE  | France = encirclement obstacle, dissolution target; Germany = governance experiment. Connector pair. |
 | Germany (polity)  | (no MEM–FRANCE–GERMANY)            | MEM–GERMANY–FRANCE             | Germany encodes France as defining adversary; France encodes Germany through Bismarck, Franco-Prussian, etc. One-way polity encoding. |
 
 **Use:** When analysing a node that appears in both corpora (e.g.

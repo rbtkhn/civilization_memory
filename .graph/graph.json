@@ -1936,6 +1936,11 @@
       "civilization": "FRANCE"
     },
     {
+      "id": "MEM–FRANCE–HOLY–ROMAN–EMPIRE",
+      "label": "HOLY–ROMAN–EMPIRE",
+      "civilization": "FRANCE"
+    },
+    {
       "id": "MEM–FRANCE–HIST–TOCQUEVILLE",
       "label": "HIST–TOCQUEVILLE",
       "civilization": "FRANCE"
@@ -19966,6 +19971,11 @@
       "source": "MEM–GERMANY–HOLY–ROMAN–EMPIRE",
       "target": "MEM–GERMANY–GEO–DANUBE",
       "type": "SAME_CIV"
+    },
+    {
+      "source": "MEM–GERMANY–HOLY–ROMAN–EMPIRE",
+      "target": "MEM–FRANCE–HOLY–ROMAN–EMPIRE",
+      "type": "CONNECTOR_PAIR"
     },
     {
       "source": "MEM–GERMANY–HOLY–ROMAN–EMPIRE",

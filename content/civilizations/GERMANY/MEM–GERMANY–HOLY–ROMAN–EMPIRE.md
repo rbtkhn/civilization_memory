@@ -342,6 +342,11 @@ GEO MEMs:
 
 Cross-Civilizational:
 
+• MEM–FRANCE–HOLY–ROMAN–EMPIRE
+  Connector pair: Same subject; France encoding = encirclement obstacle,
+  dissolution target; Germany encoding = governance experiment. Paired encodings.
+  Breaks if removed: Double-helix contrast absent.
+
 • MEM–FRANCE–NAPOLEON
   Dependency: Destroyer—Napoleon dissolved Empire in 1806. External force
   ended millennial experiment.

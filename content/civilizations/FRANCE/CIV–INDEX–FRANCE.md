@@ -12,7 +12,7 @@ Dates: Medieval era–present
 Class: CIV–INDEX
 Governed by: CIV–MEM–CORE v3.0
 Last Update: February 2026
-Total MEM–FRANCE Files: 150
+Total MEM–FRANCE Files: 151
 Word Count: ~2,050
 
 Template Alignment: CIV–INDEX–TEMPLATE v3.0
@@ -195,6 +195,7 @@ G.A) SCIENCE (SCI SUBCLASS)
 
 H) OTHER / MISC
 • MEM–FRANCE–FRANCIA.md — v1.0 (civilizational precursor: what Francia was, how it birthed France)
+• MEM–FRANCE–HOLY–ROMAN–EMPIRE.md
 • MEM–FRANCE–EMPIRE.md
 • MEM–FRANCE–EMPIRE–AFRICA.md
 • MEM–FRANCE–EMPIRE–ALGERIA.md

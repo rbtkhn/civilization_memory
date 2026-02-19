@@ -1,6 +1,6 @@
-# CIV–JOURNAL–GERMANY
+# CIV–JOURNAL–FRANCE
 
-Append-only record of STATE and SCHOLAR activity for Germany. See docs/governance/CIV–JOURNAL–PROTOCOL.md.
+Append-only record of STATE and SCHOLAR activity for France. See docs/governance/CIV–JOURNAL–PROTOCOL.md.
 
 ---
 
