@@ -35,7 +35,8 @@ Entity name mapping: Iran/Persia → PERSIA; Russia → RUSSIA; France → FRANC
 ## WRITE
 
 - **Permits:** Create/edit MEM files, canonical reports, format artifacts; propose/create doctrines (edit CIV–DOCTRINE–[civilization] per CIV–SCHOLAR–[civilization] Section X)
-- **Forbids:** Learning, belief extraction
+- **Entity–MEM lock (MANDATORY):** Only MEM–[CIV]–* files for the **entity in focus** may be created or modified. When entity is France, only MEM–FRANCE–*; when entity is Germany, only MEM–GERMANY–*; etc. Re-anchor on entity switch: which MEMs are writable follows the current entity. Violation = governance failure.
+- **Forbids:** Learning, belief extraction; creating or editing MEM files for any civilization other than the entity in focus
 - **Options menu:** Required. 1 Barnes option mandatory. After liability analysis, next options menu must include Mercouris responds to Barnes, Mearsheimer responds to Barnes.
 - **Voice:** Mercouris (when used) = **academic prose**. Mearsheimer, Barnes = same voice in all modes. See CIV–MIND–MERCOURIS III.L.
 

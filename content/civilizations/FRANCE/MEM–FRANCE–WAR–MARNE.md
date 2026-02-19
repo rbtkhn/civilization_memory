@@ -293,7 +293,7 @@ XI. MEM CONNECTIONS (MANDATORY · v2.7 COMPLIANT)
 Same-Civilization (≥10):
 • MEM–FRANCE–WAR–FIRST–WORLD–VERDUN — subsequent 1916 bloodletting
 • MEM–FRANCE–WAR–FIRST–WORLD–SOMME — subsequent 1916 allied offensive
-• MEM–FRANCE–WAR–WORLD–WAR–I — overall conflict context
+• MEM–FRANCE–WAR–FIRST–WORLD–WAR — overall conflict context
 • MEM–FRANCE–THIRD–REPUBLIC — political context
 • MEM–FRANCE–WAR–FRANCO–PRUSSIAN — 1870 trauma avoided
 • MEM–FRANCE–PARIS — capital threatened
@@ -303,8 +303,7 @@ Same-Civilization (≥10):
 • MEM–FRANCE–MAGINOT–LINE — post-war consequence
 
 Cross-civilizational:
-• MEM–GERMANY–WAR–MARNE — German perspective
-• MEM–GERMANY–SCHLIEFFEN–PLAN — failed war plan
+• MEM–GERMANY–FIRST–WORLD–WAR–MARNE — German perspective
 • MEM–ANGLIA–WAR–MARNE — BEF perspective
 • MEM–ANGLIA–BEF — British Expeditionary Force
 

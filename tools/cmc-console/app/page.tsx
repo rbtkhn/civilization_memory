@@ -82,6 +82,7 @@ export default function Home() {
               autoCommit: true,
               autoPush: true,
               commitMessage: `[WRITE Mode] Push compliant file: ${lastSavedFile.filePath}`,
+              civilization: selectedCivilization,
             }),
           });
 
@@ -111,7 +112,7 @@ export default function Home() {
     return () => {
       window.removeEventListener('pushToGitHub', handlePushToGitHub);
     };
-  }, [lastSavedFile]);
+  }, [lastSavedFile, selectedCivilization]);
 
   // Listen for view diff requests
   useEffect(() => {
@@ -491,6 +492,7 @@ export default function Home() {
                       autoPush: options.autoPush,
                       commitMessage: options.commitMessage,
                       showDiff: true,
+                      civilization: selectedCivilization,
                     }),
                   });
 

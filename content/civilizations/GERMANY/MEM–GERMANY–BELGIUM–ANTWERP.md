@@ -478,7 +478,7 @@ Same-civilization (≥10):
 • MEM–GERMANY–LUBECK — Hanseatic parallel
 • MEM–GERMANY–AUSTRIA–HABSBURG — 18th-century sovereign
 • MEM–GERMANY–WESTPHALIA — Scheldt closure treaty
-• MEM–GERMANY–WAR–WORLD–I — occupation
+• MEM–GERMANY–WAR–FIRST–WORLD–WAR — occupation
 • MEM–GERMANY–WAR–WORLD–II — occupation and liberation
 • MEM–GERMANY–BELGIUM — parent territory
 

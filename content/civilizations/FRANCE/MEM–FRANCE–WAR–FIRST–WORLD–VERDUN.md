@@ -357,7 +357,7 @@ XIII. MEM CONNECTIONS (MANDATORY · v2.7 COMPLIANT)
 Same-Civilization (≥10):
 • MEM–FRANCE–WAR–MARNE — prior 1914 salvation
 • MEM–FRANCE–WAR–FIRST–WORLD–SOMME — parallel 1916 operation
-• MEM–FRANCE–WAR–WORLD–WAR–I — overall conflict
+• MEM–FRANCE–WAR–FIRST–WORLD–WAR — overall conflict
 • MEM–FRANCE–WAR–CHEMIN–DES–DAMES — subsequent 1917
 • MEM–FRANCE–PETAIN — commander (creates hero/traitor paradox)
 • MEM–FRANCE–VICHY — Pétain's later role
@@ -367,9 +367,7 @@ Same-Civilization (≥10):
 • MEM–FRANCE–GEO–LORRAINE — geographic context
 
 Cross-civilizational:
-• MEM–GERMANY–WAR–VERDUN — German perspective
-• MEM–GERMANY–FALKENHAYN — German commander/strategist
-• MEM–GERMANY–CROWN–PRINCE–WILHELM — German tactical commander
+• MEM–GERMANY–FIRST–WORLD–WAR–VERDUN — German perspective
 
 ────────────────────────────────────────────────────────────
 XIV. LAYER 3: SYNTHESIS LINKAGE (OPTIONAL)

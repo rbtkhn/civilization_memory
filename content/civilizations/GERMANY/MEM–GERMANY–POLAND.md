@@ -185,6 +185,13 @@ GEO MEMs:
 
 Cross-Civilizational:
 
+• MEM–FRANCE–POLAND
+  Dependency: Connector pair—France encodes Poland as solidarity without
+  delivery; eastern ally and universalist cause. Contrast: Germany =
+  adjacency, partition, administrative interface; France = distance,
+  declaration, capacity deficit. Breaks if removed: Paired encoding
+  undocumented; double-helix at Poland node incomplete.
+
 • MEM–RUSSIA
   Dependency: Partition partner—Russia, Prussia, Austria jointly partition
   Poland. Post-war shaper—Soviet occupation establishes communist Poland.

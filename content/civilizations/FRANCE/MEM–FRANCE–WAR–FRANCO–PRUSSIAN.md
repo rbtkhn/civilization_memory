@@ -198,7 +198,7 @@ FRANCE:
 • MEM–FRANCE–NAPOLEON — performance legitimacy vs institutional depth
 • MEM–FRANCE–WAR–SEVEN–YEARS — legitimacy shock comparison
 • MEM–FRANCE–REVOLUTION–1871 — internal rupture sequence
-• MEM–FRANCE–WORLD–WAR–I — memory activation
+• MEM–FRANCE–WAR–FIRST–WORLD–WAR — memory activation
 
 GERMANY:
 • MEM–GERMANY–BISMARCK — administrative war-making

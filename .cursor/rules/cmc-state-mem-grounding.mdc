@@ -44,6 +44,16 @@ When the entity declares influence from **both** CIV–STATE–ROME and CIV–ST
 
 Do not ground the interval solely in one civilization's MEM when both strands influence the entity. Full procedure, intervals, and MEM list: CONCEPT–ROME–ISLAM–DOUBLE–HELIX Section IX.
 
+## France–Germany paired citation (when topic touches both)
+
+When the **analytical topic touches both France and Germany** (e.g. entity is France or Germany analyzing the other; EU core; Rhine corridor; Alsace-Lorraine; Franco-German relations; Central European order; Napoleonic period; Thirty Years' War; Franco-Prussian War):
+
+1. **Load paired connector MEMs** for the relevant node. Do not ground the analysis in one civilization's MEM alone when both have a connector pair (e.g. MEM–FRANCE–ALSACE–LORRAINE + MEM–GERMANY–ALSACE–LORRAINE).
+2. **Cite both perspectives** with explicit attribution (e.g. "per MEM–FRANCE–ALSACE–LORRAINE …"; "per MEM–GERMANY–ALSACE–LORRAINE …").
+3. **Preserve tension**—do not synthesize away the difference between French and German encodings of the same referent.
+
+**Rule:** When the topic touches both entities, load the **pair** and cite both. Do not ground the analysis solely in one strand. Connector-pair table: CONCEPT–FRANCE–GERMANY–DOUBLE–HELIX Section IV-A, IV-B.
+
 ## SCHOLAR Load (STATE mode — one-way draw)
 
 STATE is downstream of CIV–SCHOLAR; historical patterns, RLLs, and syntheses in SCHOLAR inform STATE's analytical framework (CIV–STATE–TEMPLATE §XII). When in **STATE mode** for entity [CIV], **read CIV–SCHOLAR–[CIV]** (if present in that civilization's folder) at session start or when first needed. Use it for:
@@ -131,6 +141,9 @@ At each analytical node (branch, sub-branch, decision point, indicator assessmen
       and STATE–ISLAM and topic touches Mediterranean structure or intervals
       650–1050 / 1099–1291, did I use control sequence as structural ground
       and paired MEMs (not single-perspective only)? See subsection above.
+- [ ] France–Germany pairs: when topic touches both France and Germany, did I
+      load paired connector MEMs and cite both perspectives (not single strand)?
+      See France–Germany paired citation subsection; CONCEPT–FRANCE–GERMANY–DOUBLE–HELIX Section IX.
 
 ## Fallback
 

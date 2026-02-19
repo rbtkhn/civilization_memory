@@ -1563,9 +1563,11 @@ SYNTHESIS failing checklist cannot be accepted as doctrine.
 XIV.F CONNECTOR-PAIR AND SAME-SUBJECT SYNTHESIS SHAPING (MANDATORY)
 ────────────────────────────────────────────────────────────
 When a synthesis concerns a **connector pair** (same subject in two
-civilizations' MEMs; see CONCEPT–ROME–ISLAM–DOUBLE–HELIX Section IV-A)
-or **same-subject encodings** across three or more civilizations (e.g.
-Constantinople in Rome, Islam, Russia), the synthesis MUST be **shaped
+civilizations' MEMs; see CONCEPT–ROME–ISLAM–DOUBLE–HELIX Section IV-A,
+CONCEPT–FRANCE–GERMANY–DOUBLE–HELIX Section IV-A) or **same-subject
+encodings** across three or more civilizations (e.g. Constantinople in
+Rome, Islam, Russia; Alsace-Lorraine in France and Germany), the
+synthesis MUST be **shaped
 to each civilization's distinct perspective** when recorded in that
 civilization's SCHOLAR file.
 
@@ -1586,12 +1588,17 @@ neutral formulation across all SCHOLAR files.
 - In CIV–SCHOLAR–RUSSIA: lead with Russia's encoding (e.g. lost
   center; origin taken not given up; inheritance by default); Rome and
   Islam as other encodings.
+- For France–Germany connector pairs (e.g. Alsace-Lorraine,
+  Franco-Prussian War): in CIV–SCHOLAR–FRANCE lead with France's
+  encoding; in CIV–SCHOLAR–GERMANY lead with Germany's. See
+  CONCEPT–FRANCE–GERMANY–DOUBLE–HELIX Section X.
 
 **Scope:** Applies when adding ENTRY, synthesis candidate, or pattern
 note to multiple SCHOLAR files about the same connector pair or
 same-subject node. Single-civilization syntheses are unchanged.
 
-Reference: CONCEPT–ROME–ISLAM–DOUBLE–HELIX Section X; .cursor/rules/
+Reference: CONCEPT–ROME–ISLAM–DOUBLE–HELIX Section X; CONCEPT–
+FRANCE–GERMANY–DOUBLE–HELIX Section X; .cursor/rules/
 cmc-scholar-connector-perspective.mdc.
 
 v2.10 ADDITIONS:

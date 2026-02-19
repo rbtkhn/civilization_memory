@@ -289,7 +289,7 @@ XI. MEM CONNECTIONS (MANDATORY · v2.7 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-Civilization (≥10):
 • MEM–FRANCE–WAR–FIRST–WORLD–VERDUN — parallel 1916 operation
-• MEM–FRANCE–WAR–WORLD–WAR–I — overall conflict context
+• MEM–FRANCE–WAR–FIRST–WORLD–WAR — overall conflict context
 • MEM–FRANCE–WAR–MARNE — 1914 context
 • MEM–FRANCE–WAR–NAPOLEON–WATERLOO — Keegan trilogy connection
 • MEM–FRANCE–WAR–AGINCOURT — Keegan trilogy connection
@@ -301,7 +301,7 @@ Same-Civilization (≥10):
 
 Cross-civilizational:
 • MEM–ANGLIA–WAR–SOMME — British perspective (primary)
-• MEM–GERMANY–WAR–SOMME — German perspective
+• MEM–GERMANY–FIRST–WORLD–WAR–SOMME — German perspective
 • MEM–ANGLIA–HAIG — British commander
 
 ────────────────────────────────────────────────────────────

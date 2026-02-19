@@ -1,8 +1,8 @@
-MEM–FRANCE–SPAIN — v1.0
+MEM–FRANCE–SPAIN — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
 Civilization: FRANCE
 Subject: Spain (Imperial Rival, Counter-Universalism, and Southern Constraint)
 Dates: Early modern era–present
@@ -130,5 +130,14 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCE–SPAIN — v1.0
+IX. MEM CONNECTIONS
+────────────────────────────────────────────────────────────
+PARALLELS:
+• MEM–GERMANY–SPAIN — Connector pair. France encodes Spain as
+  counter-example (possession exhausts, declaration persists).
+  Germany encodes Spain as Habsburg partner, encirclement arm,
+  dynastic inheritance lost. Same referent, distinct encodings.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–FRANCE–SPAIN — v1.1
 ────────────────────────────────────────────────────────────

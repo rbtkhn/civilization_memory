@@ -7,8 +7,9 @@ import { NextResponse } from 'next/server';
 import { getCurrentMode, requireAction } from '@/lib/services/mode.service';
 import { writeFileToRepository, getFileDiff, commitFile, pushToRemote, fileExistsInRepository, getCurrentBranch } from '@/lib/services/git.service';
 import { getFileRegistry } from '@/lib/db';
-import { getFileStats, readRepositoryFile } from '@/lib/services/repository.service';
+import { getFileStats } from '@/lib/services/repository.service';
 import { preflightMEMFile } from '@/lib/services/mem-preflight.service';
+import { classifyFile } from '@/lib/services/file-classifier.service';
 import matter from 'gray-matter';
 
 interface WriteFileRequest {
@@ -18,6 +19,8 @@ interface WriteFileRequest {
   autoCommit?: boolean;
   autoPush?: boolean;
   showDiff?: boolean;
+  /** Entity in focus; required for MEM files. Only MEM–[CIV]–* matching civilization may be written. Per cmc-mode-contracts entity–MEM lock. */
+  civilization?: string | null;
 }
 
 /**
@@ -40,13 +43,33 @@ export async function POST(request: Request) {
     requireAction('create_mem');
     
     const body: WriteFileRequest = await request.json();
-    const { filePath, content, commitMessage, autoCommit = false, autoPush = false, showDiff = true } = body;
+    const { filePath, content, commitMessage, autoCommit = false, autoPush = false, showDiff = true, civilization: requestCivilization } = body;
     
     if (!filePath || !content) {
       return NextResponse.json(
         { success: false, error: 'filePath and content are required' },
         { status: 400 }
       );
+    }
+
+    // Entity–MEM lock (cmc-mode-contracts): only MEM–[CIV]–* for entity in focus may be written
+    const isMemFile = /MEM–.*\.md$/i.test(filePath.split('/').pop() || '');
+    if (isMemFile) {
+      if (!requestCivilization || typeof requestCivilization !== 'string' || !requestCivilization.trim()) {
+        return NextResponse.json(
+          { success: false, error: 'civilization is required for MEM file writes (entity–MEM lock). Only MEM–[CIV]–* for the entity in focus may be created or modified.' },
+          { status: 400 }
+        );
+      }
+      const classification = classifyFile(filePath);
+      const fileCiv = classification.civilization || (filePath.match(/MEM–([A-Z]+)–/i)?.[1]?.toUpperCase() ?? null);
+      const reqCiv = requestCivilization.trim().toUpperCase();
+      if (!fileCiv || fileCiv !== reqCiv) {
+        return NextResponse.json(
+          { success: false, error: `Entity–MEM lock violation: file path indicates MEM–${fileCiv || '?'}–* but entity in focus is ${reqCiv}. Only MEM–${reqCiv}–* may be written when ${reqCiv} is selected.` },
+          { status: 403 }
+        );
+      }
     }
     
     // Preflight validation (CIV–MEM–TEMPLATE v1.9)

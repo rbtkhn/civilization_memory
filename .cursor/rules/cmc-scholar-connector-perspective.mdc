@@ -9,13 +9,13 @@ When adding a synthesis (ENTRY, synthesis candidate, or pattern note) about a **
 
 ## Requirement
 
-- **Foreground the host civilization's encoding.** In CIV–SCHOLAR–ROME, lead with Rome's encoding (e.g. continuity terminated, vessel ended). In CIV–SCHOLAR–ISLAM, lead with Islam's (e.g. arrival, imperial absorption). In CIV–SCHOLAR–RUSSIA, lead with Russia's (e.g. lost center, inheritance by default).
+- **Foreground the host civilization's encoding.** In CIV–SCHOLAR–ROME, lead with Rome's encoding (e.g. continuity terminated, vessel ended). In CIV–SCHOLAR–ISLAM, lead with Islam's (e.g. arrival, imperial absorption). In CIV–SCHOLAR–RUSSIA, lead with Russia's (e.g. lost center, inheritance by default). For France–Germany connector pairs: in CIV–SCHOLAR–FRANCE lead with France's encoding; in CIV–SCHOLAR–GERMANY lead with Germany's (e.g. Alsace-Lorraine, Franco-Prussian War, Rhine corridor).
 - **Other encodings as complementary.** Present the other civilization(s) as complementary encodings of the same referent — not as the lead.
 - **No single neutral formulation.** Do not paste the same synthesis text into every SCHOLAR file. Each file gets a version that foregrounds its own civilization's perspective.
 
 ## Scope
 
-- **Connector pairs:** Same subject in two civilizations' MEMs (e.g. MEM–ROME–CONSTANTINOPLE ↔ MEM–ISLAM–CONSTANTINOPLE).
+- **Connector pairs:** Same subject in two civilizations' MEMs (e.g. MEM–ROME–CONSTANTINOPLE ↔ MEM–ISLAM–CONSTANTINOPLE; MEM–FRANCE–ALSACE–LORRAINE ↔ MEM–GERMANY–ALSACE–LORRAINE).
 - **Same-subject N-way encodings:** Same place or event encoded in three or more civilizations (e.g. Constantinople in Rome, Islam, Russia).
 
 ## Self-check
@@ -26,4 +26,4 @@ Before writing a connector-pair or same-subject synthesis into multiple SCHOLAR 
 - [ ] Are other encodings clearly presented as complementary (same referent, different perspective)?
 - [ ] Have I avoided a single neutral formulation copied across all files?
 
-Reference: CONCEPT–ROME–ISLAM–DOUBLE–HELIX Section X; CIV–SCHOLAR–TEMPLATE Section XIV.F.
+Reference: CONCEPT–ROME–ISLAM–DOUBLE–HELIX Section X; CONCEPT–FRANCE–GERMANY–DOUBLE–HELIX Section X; CIV–SCHOLAR–TEMPLATE Section XIV.F.

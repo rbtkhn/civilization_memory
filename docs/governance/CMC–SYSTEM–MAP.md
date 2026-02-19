@@ -36,7 +36,7 @@ II. FILE ROLES (PER CIVILIZATION WHERE APPLICABLE)
 
 | File type           | Role                          | Written by        | Read by              |
 |---------------------|-------------------------------|-------------------|----------------------|
-| MEM–[CIV]–*         | Civilizational memory (past)  | SCHOLAR (WRITE)   | SCHOLAR, STATE       |
+| MEM–[CIV]–*         | Civilizational memory (past)  | SCHOLAR (WRITE), entity‑locked: only MEM–[CIV]–* when entity = [CIV] | SCHOLAR, STATE       |
 | CIV–INDEX–[CIV]     | Canonical registry of MEMs    | SYSTEM / human    | All (discovery)       |
 | MEM–RELEVANCE–[CIV] | Dimension-based MEM lookup    | SYSTEM / human    | STATE, SCHOLAR       |
 | CIV–CORE–[CIV]      | Axioms, constraints            | Human (governed)  | STATE, SCHOLAR       |

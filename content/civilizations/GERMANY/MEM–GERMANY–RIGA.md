@@ -529,7 +529,7 @@ Same-civilization (≥10):
 • MEM–GERMANY–HAMBURG — Hanseatic partner
 • MEM–GERMANY–PRUSSIA — Order state parallel
 • MEM–GERMANY–REFORMATION — Lutheran adoption
-• MEM–GERMANY–WAR–WORLD–I — collapse context
+• MEM–GERMANY–WAR–FIRST–WORLD–WAR — collapse context
 • MEM–GERMANY–WAR–WORLD–II — final withdrawal
 • MEM–GERMANY–KÖNIGSBERG — parallel Baltic German city
 • MEM–GERMANY–DANZIG — parallel Baltic German city
