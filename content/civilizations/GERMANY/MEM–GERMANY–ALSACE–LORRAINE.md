@@ -179,7 +179,7 @@ XI. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 GERMANY (Same-Civilization):
 • MEM–GERMANY–BISMARCK (annexation architect)
-• MEM–GERMANY–WAR–FRANCO–PRUSSIAN (acquisition context)
+• MEM–GERMANY–FRANCO–PRUSSIAN–WAR (acquisition context)
 • MEM–GERMANY–WILHELM–II (management failure)
 • MEM–GERMANY–BELGIUM (parallel border issue)
 

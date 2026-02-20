@@ -272,7 +272,7 @@ Contradictions preserved without verdict.
 X. MEM CONNECTIONS (MANDATORY · v2.7 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-Civilization (≥10):
-• MEM–FRANCE–WAR–HUNDRED–YEARS — campaign context
+• MEM–FRANCE–HUNDRED–YEARS–WAR — campaign context
 • MEM–FRANCE–DYNASTY–VALOIS — ruling dynasty
 • MEM–FRANCE–BURGUNDY — Burgundian division context
 • MEM–FRANCE–JOAN–OF–ARC — recovery figure (gap: MEM needed)

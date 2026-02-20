@@ -296,7 +296,7 @@ GERMANY (Same-Civilization):
   Breaks if removed: Confessional fragmentation appears random; Peace of
   Augsburg/Westphalia lose theological context.
 
-• MEM–GERMANY–WAR–THIRTY–YEARS
+• MEM–GERMANY–THIRTY–YEARS–WAR
   Dependency: Existential crisis—1618-1648 devastation nearly destroys
   Empire; Westphalia reforms rather than dissolves.
   Breaks if removed: Empire's survival appears automatic; why it nearly

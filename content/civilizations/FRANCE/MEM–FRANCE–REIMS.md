@@ -131,7 +131,7 @@ V. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 FRANCE:
 • MEM–FRANCE–REIMS–CATHEDRAL — Cathedral as ritual stage; coronation site
-• MEM–FRANCE–WAR–HUNDRED–YEARS — Reims 1429; sacral legitimacy turn; Joan
+• MEM–FRANCE–HUNDRED–YEARS–WAR — Reims 1429; sacral legitimacy turn; Joan
 • MEM–FRANCE–ORLEANS — Orléans → Reims sequence; relief then coronation
 • MEM–FRANCE–PARIS — Paris (administrative) vs Reims (sacral); loss/recovery
 • MEM–FRANCE–PARIS–NOTRE–DAME — Paris cathedral vs Reims cathedral; legitimacy geography

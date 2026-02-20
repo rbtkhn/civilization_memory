@@ -1,10 +1,10 @@
-MEM–GERMANY–WAR–AUSTRO–PRUSSIAN — v2.0
+MEM–GERMANY–AUSTRO–PRUSSIAN–WAR — v2.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 
 Status: ACTIVE
 Version: 2.1
-Supersedes: MEM–GERMANY–WAR–AUSTRO–PRUSSIAN v2.0
+Supersedes: MEM–GERMANY–AUSTRO–PRUSSIAN–WAR v2.0
 Civilization: GERMANY
 Subject: Austro-Prussian War (Seven Weeks' War)
 Dates: June–August 1866
@@ -264,7 +264,7 @@ GERMANY (Same-Civilization):
   Breaks if removed: 123-year wound (1740–1866) loses origin; why Austria
   and Prussia were rivals unintelligible.
 
-• MEM–GERMANY–WAR–FRANCO–PRUSSIAN
+• MEM–GERMANY–FRANCO–PRUSSIAN–WAR
   Dependency: Successor war—1870 completed what 1866 began. Limited war
   pattern validated and repeated.
   Breaks if removed: 1866 appears as isolated event rather than first of
@@ -372,5 +372,5 @@ Category D — Modern Sources: ✓ COMPLETE (Kissinger, Wilson)
 EQS Status: COMPLIANT
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANY–WAR–AUSTRO–PRUSSIAN — v2.0
+END OF FILE — MEM–GERMANY–AUSTRO–PRUSSIAN–WAR — v2.0
 ────────────────────────────────────────────────────────────

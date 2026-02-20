@@ -155,7 +155,7 @@ IX. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 GERMANY (Same-Civilization):
 • MEM–GERMANY–NETHERLANDS (adjacent derivative)
-• MEM–GERMANY–WAR–MOLTKE (operational planning)
+• MEM–GERMANY–PRUSSIA–MOLTKE (operational planning)
 • MEM–GERMANY–WILHELM–II (decision to invade)
 • MEM–GERMANY–BISMARCK (restraint abandoned)
 

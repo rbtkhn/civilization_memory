@@ -267,12 +267,12 @@ Same-civilization (≥10):
   Breaks if removed: Dual eastern exposure (north via Poland, south via
   Hungary) collapses into single axis.
 
-• MEM–GERMANY–WAR–SEVEN–YEARS
+• MEM–GERMANY–PRUSSIA–SEVEN–YEARS–WAR; MEM–GERMANY–AUSTRIA–SEVEN–YEARS–WAR
   Dependency: Grammar collision demonstrated. Prussia survives through
   fortune, not strategy; Russian depth nearly destroys Germanic precision.
   Breaks if removed: First major grammar collision has no record.
 
-• MEM–GERMANY–WAR–FRANCO–PRUSSIAN
+• MEM–GERMANY–FRANCO–PRUSSIAN–WAR
   Dependency: Precision with closure (contrast). Franco-Prussian War shows
   precision working; Russo-German wars show precision failing.
   Breaks if removed: Contrast case disappears; precision appears universally

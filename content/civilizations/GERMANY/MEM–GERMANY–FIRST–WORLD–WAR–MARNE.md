@@ -111,7 +111,7 @@ VII. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 GERMANY (Same-Civilization):
 
-• MEM–GERMANY–WAR–FRANCO–PRUSSIAN — Contrast: 1870 achieved quick
+• MEM–GERMANY–FRANCO–PRUSSIAN–WAR — Contrast: 1870 achieved quick
   victory; 1914 did not. Breaks if removed: Precedent for German
   war-of-movement success disappears.
 

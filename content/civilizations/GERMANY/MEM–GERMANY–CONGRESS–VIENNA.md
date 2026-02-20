@@ -260,7 +260,7 @@ restraint (avoid overreach, coalition risk); it was not Path A. The
 result: French encoding as humiliation and revanche; German encoding
 as victory and restraint. Same event, divergent legitimacy stories;
 the settlement lacked an honorable acceptance path for France. Compare
-MEM–GERMANY–WAR–FRANCO–PRUSSIAN; MEM–GERMANY–FRANCE.
+MEM–GERMANY–FRANCO–PRUSSIAN–WAR; MEM–GERMANY–FRANCE.
 
 ────────────────────────────────────────────────────────────
 VIII. HUNDRED DAYS AND SETTLEMENT RESILIENCE

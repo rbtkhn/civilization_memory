@@ -181,8 +181,8 @@ ceased to be a confessional struggle and became a contest over systemic
 balance (*Europe’s Tragedy*).
 
 Relevant interfaces:
-• MEM–FRANCE–WAR–THIRTY–YEARS
-• MEM–GERMANY–WAR–THIRTY–YEARS
+• MEM–FRANCE–THIRTY–YEARS–WAR
+• MEM–GERMANY–THIRTY–YEARS–WAR
 • MEM–ANGLIA–BALANCE–OF–POWER
 
 The war functions as **system correction**, not crusade.
@@ -243,14 +243,14 @@ IX. CONTINUITY INSIGHTS (RAW)
 X. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 FRANCE:
-• MEM–FRANCE–WAR–THIRTY–YEARS
+• MEM–FRANCE–THIRTY–YEARS–WAR
 • MEM–FRANCE–LOUIS–XIV
 • MEM–FRANCE–NAPOLEON
 • MEM–FRANCE–BELGIUM
 
 GERMANY:
 • MEM–GERMANY–BISMARCK
-• MEM–GERMANY–WAR–THIRTY–YEARS
+• MEM–GERMANY–THIRTY–YEARS–WAR
 
 ANGLIA:
 • MEM–ANGLIA–NETHERLANDS

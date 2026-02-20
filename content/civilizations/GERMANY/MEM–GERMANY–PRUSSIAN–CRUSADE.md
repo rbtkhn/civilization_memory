@@ -1,4 +1,4 @@
-MEM–GERMANY–WAR–PRUSSIAN–CRUSADE — v2.0
+MEM–GERMANY–PRUSSIAN–CRUSADE — v2.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 
@@ -441,5 +441,5 @@ SECONDARY SOURCES (ARC–DISCOVERY):
   London: Greenhill Books, 2003.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANY–WAR–PRUSSIAN–CRUSADE v2.0
+END OF FILE — MEM–GERMANY–PRUSSIAN–CRUSADE v2.0
 ────────────────────────────────────────────────────────────

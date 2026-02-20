@@ -267,7 +267,7 @@ SAME-CIVILIZATION CONNECTIONS (GERMANY):
   Dependency: Order expanding while Fourth Crusade collapsed
   Breaks if removed: Alternative trajectory missing
 
-• MEM–GERMANY–WAR–PRUSSIAN–CRUSADE
+• MEM–GERMANY–PRUSSIAN–CRUSADE
   Dependency: German crusading alternative
   Breaks if removed: Baltic context absent
 

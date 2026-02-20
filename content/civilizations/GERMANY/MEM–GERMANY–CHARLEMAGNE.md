@@ -203,7 +203,7 @@ SAME-CIVILIZATION MEMs (≥10):
   Breaks if removed: Coercive unification followed by institutionalization
   appears unique to 19th century rather than civilizational pattern.
 
-• MEM–GERMANY–WAR–THIRTY–YEARS
+• MEM–GERMANY–THIRTY–YEARS–WAR
   Dependency: Represents trauma of fragmentation that Charlemagne's order
   was designed to prevent.
   Breaks if removed: Carolingian order lacks counterfactual reference;

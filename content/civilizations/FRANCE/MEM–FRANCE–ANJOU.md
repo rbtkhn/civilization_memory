@@ -116,7 +116,7 @@ VI. MEM CONNECTIONS (MANDATORY)
 FRANCE:
 • MEM–FRANCE–ELEANOR–AQUITAINE — Marriage to Henry II; Angevin empire (Anjou, Normandy, Aquitaine)
 • MEM–FRANCE–AQUITAINE — Contrast: Anjou absorbed 1204; Aquitaine contested until 1453
-• MEM–FRANCE–WAR–HUNDRED–YEARS — Anjou already French; war turns on Aquitaine
+• MEM–FRANCE–HUNDRED–YEARS–WAR — Anjou already French; war turns on Aquitaine
 • MEM–FRANCE–DYNASTY–CAPET — Capetian absorption; Philip Augustus
 • MEM–FRANCE–DYNASTY–VALOIS — Valois-Anjou apanage; Anjou within kingdom
 • MEM–FRANCE–WAR–POITIERS — Hundred Years' War context; no Anjou stake

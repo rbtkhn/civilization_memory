@@ -162,7 +162,19 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-IX. PRIMARY SOURCES & REFERENCES
+IX. MEM CONNECTIONS
+────────────────────────────────────────────────────────────
+Cross-Civilizational:
+
+• MEM–FRANCE–PRUSSIA
+  Connector pair: Same subject; France encoding = disciplined rival,
+  defeated at Jena, victor at Sedan, terminator of French primacy;
+  Germany encoding = survival laboratory, discipline engine, endurance
+  under inferiority. Paired encodings.
+  Breaks if removed: Double-helix contrast absent.
+
+────────────────────────────────────────────────────────────
+X. PRIMARY SOURCES & REFERENCES
 ────────────────────────────────────────────────────────────
 Primary:
 • Prussian administrative records

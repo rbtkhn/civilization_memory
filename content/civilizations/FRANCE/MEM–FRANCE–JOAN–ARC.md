@@ -33,7 +33,7 @@ INFLUENCE:
 |-------|-------|
 | KEY_DECISIONS | Insistence on Reims for coronation; sacral framing of Dauphin's legitimacy; military/symbolic leadership at Orléans and Reims |
 | INFLUENCE_DOMAIN | Legitimacy, myth, ritual geography (Reims), doctrine 03 / AXIOM FRANCE-003 |
-| CITED_IN_MEMS | MEM–FRANCE–WAR–HUNDRED–YEARS; MEM–FRANCE–REIMS–CATHEDRAL; MEM–FRANCE–ORLEANS; MEM–FRANCE–DYNASTY–VALOIS; CIV–SCHOLAR–FRANCE (RLL–0011 myth carrier; doctrine 03) |
+| CITED_IN_MEMS | MEM–FRANCE–HUNDRED–YEARS–WAR; MEM–FRANCE–REIMS–CATHEDRAL; MEM–FRANCE–ORLEANS; MEM–FRANCE–DYNASTY–VALOIS; CIV–SCHOLAR–FRANCE (RLL–0011 myth carrier; doctrine 03) |
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -81,7 +81,7 @@ Charles VII's coronation (July 1429) follow.
 
 > "I was sent to bring the Dauphin to his coronation, and to restore
 > the kingdom to its rightful lord."
-> — Joan of Arc, trial testimony (MEM–FRANCE–WAR–HUNDRED–YEARS) [ERC-PRIMARY]
+> — Joan of Arc, trial testimony (MEM–FRANCE–HUNDRED–YEARS–WAR) [ERC-PRIMARY]
 
 Legitimacy is **ritually restored** before material recovery. The moral
 reversal—Valois again the sacrally recognized king—precedes the military
@@ -144,7 +144,7 @@ FRANCE:
 • MEM–FRANCE–REIMS–CATHEDRAL — Coronation of Charles VII (1429); ritual stage
 • MEM–FRANCE–REIMS — Reims as coronation city; Joan insists on Reims
 • MEM–FRANCE–DYNASTY–VALOIS — Charles VII; legitimacy renewed at Reims
-• MEM–FRANCE–WAR–HUNDRED–YEARS — Moral reversal; trial quote; post-Reims 1431–1453
+• MEM–FRANCE–HUNDRED–YEARS–WAR — Moral reversal; trial quote; post-Reims 1431–1453
 • MEM–FRANCE–WAR–AGINCOURT — Trauma and collapse; Joan as renewal catalyst
 • MEM–FRANCE–AQUITAINE — Territorial stake; post-Reims recovery includes reabsorption
 • MEM–FRANCE–ORLEANS — Relief 1429; route to Reims; chokepoint
@@ -156,7 +156,7 @@ Cross-civilizational:
 VIII. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 CITED SOURCES (verbatim in MEM):
-• Joan of Arc, trial testimony (quoted in MEM–FRANCE–WAR–HUNDRED–YEARS). [ERC-PRIMARY]
+• Joan of Arc, trial testimony (quoted in MEM–FRANCE–HUNDRED–YEARS–WAR). [ERC-PRIMARY]
 
 ADDITIONAL SCHOLARLY SOURCES:
 • Pernoud, Régine. *Joan of Arc*. Various editions.

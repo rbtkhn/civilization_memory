@@ -112,7 +112,7 @@ FRANCE:
 • MEM–FRANCE–DYNASTY–CAPET — Capetian expansion into Midi
 • MEM–FRANCE–WAR–CRUSADES — Albigensian Crusade as crusade type
 • MEM–FRANCE–PAPACY — Papal authorization of crusade
-• MEM–FRANCE–WAR–HUNDRED–YEARS — 14th c. crises; royal authority tested
+• MEM–FRANCE–HUNDRED–YEARS–WAR — 14th c. crises; royal authority tested
 • MEM–FRANCE–RICHELIEU — Later suppression of southern autonomy (Montauban)
 • MEM–FRANCE–LOUIS–XIV — Later royal consolidation; dragonnades
 • MEM–FRANCE–GEO–PYRENEES — Southern frontier

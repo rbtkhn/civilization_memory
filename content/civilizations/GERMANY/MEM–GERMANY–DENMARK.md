@@ -123,7 +123,7 @@ Denmark reminds Germania that access rivals territory.
 VIII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 GERMANY (Same-Civilization):
-• MEM–GERMANY–WAR–DANO–PRUSSIAN (1864 resolution)
+• MEM–GERMANY–DANO–PRUSSIAN–WAR (1864 resolution)
 • MEM–GERMANY–NORWAY (through Denmark)
 • MEM–GERMANY–BISMARCK (limited war exemplar)
 • MEM–GERMANY–WAR–VIKINGS (historical pressure)

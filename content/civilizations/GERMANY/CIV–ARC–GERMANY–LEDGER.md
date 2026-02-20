@@ -99,7 +99,7 @@ Kissinger, Henry (1923–2023)
   Coverage: Bismarck, Metternich, diplomatic theory, realpolitik
   MEMs: MEM–GERMANY–BISMARCK, MEM–GERMANY–AUSTRIA–METTERNICH,
         MEM–GERMANY–HITLER, MEM–GERMANY–WILHELM–II,
-        MEM–GERMANY–WAR–FRANCO–PRUSSIAN, MEM–GERMANY–WAR–TIRPITZ
+        MEM–GERMANY–FRANCO–PRUSSIAN–WAR, MEM–GERMANY–WAR–TIRPITZ
 
 Fried, Johannes (b. 1942)
   *The Middle Ages* (2015)
@@ -133,8 +133,8 @@ Hoyer, Katja
   Citations: 21 references across 6 files
   Coverage: German Empire 1871–1918, Bismarck, Wilhelm II
   MEMs: MEM–GERMANY–BISMARCK, MEM–GERMANY–WILHELM–II,
-        MEM–GERMANY–WAR–FRANCO–PRUSSIAN, MEM–GERMANY–WAR–TIRPITZ,
-        MEM–GERMANY–WAR–DANO–PRUSSIAN, MEM–GERMANY–DYNASTY–HOHENZOLLERN
+        MEM–GERMANY–FRANCO–PRUSSIAN–WAR, MEM–GERMANY–WAR–TIRPITZ,
+        MEM–GERMANY–DANO–PRUSSIAN–WAR, MEM–GERMANY–DYNASTY–HOHENZOLLERN
 
 Taylor, A.J.P. (1906–1990)
   *The Struggle for Mastery in Europe, 1848–1918* (1954);
@@ -173,7 +173,7 @@ Anderson, Fred (b. 1949)
   Citations: ~6 references across 3 files
   Coverage: Seven Years' War, Frederick the Great
   MEMs: MEM–GERMANY–PRUSSIA–FREDERICK–II, MEM–GERMANY–BISMARCK,
-        MEM–GERMANY–WAR–SEVEN–YEARS
+        MEM–GERMANY–PRUSSIA–SEVEN–YEARS–WAR; MEM–GERMANY–AUSTRIA–SEVEN–YEARS–WAR
 
 Feldman, Gerald D. (1937–2007)
   *The Great Disorder* (1993)

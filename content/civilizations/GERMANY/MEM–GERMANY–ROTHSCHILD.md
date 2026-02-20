@@ -258,7 +258,7 @@ Same-civilization (≥10):
 • MEM–GERMANY–DYNASTY–HOHENZOLLERN — Political dynasty (contrast)
 • MEM–GERMANY–AUSTRIA–KAUNITZ — Habsburg finance context
 • MEM–GERMANY–SILESIA — Industrial investment target
-• MEM–GERMANY–WAR–FRANCO–PRUSSIAN — Financed operations
+• MEM–GERMANY–FRANCO–PRUSSIAN–WAR — Financed operations
 
 GEO MEMs (≥2):
 • MEM–GERMANY–GEO–RHINE–RIVER — Trade corridor

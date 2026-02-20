@@ -220,7 +220,7 @@ X. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 GERMANY (Internal):
 
-• MEM–GERMANY–WAR–THIRTY–YEARS
+• MEM–GERMANY–THIRTY–YEARS–WAR
   Dependency: Prior devastation establishes pattern; German space as terrain is learned memory
   Breaks if removed: Acceptance of Palatinate destruction unexplained
 

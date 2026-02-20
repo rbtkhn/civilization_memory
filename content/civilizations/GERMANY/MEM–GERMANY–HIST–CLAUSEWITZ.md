@@ -264,7 +264,7 @@ SAME-CIVILIZATION CONNECTIONS (12):
   Clausewitz's "war as politics by other means" in unification wars
   Breaks if removed: Theory loses its most successful practitioner
 
-• MEM–GERMANY–WAR–MOLTKE
+• MEM–GERMANY–PRUSSIA–MOLTKE
   Dependency: Military partnership with Bismarck; Moltke embodies Clausewitzian
   operational doctrine in practice
   Breaks if removed: Clausewitz's influence on Prussian staff system unexplained
@@ -279,7 +279,7 @@ SAME-CIVILIZATION CONNECTIONS (12):
   provides the empirical base for *Vom Kriege*
   Breaks if removed: Text loses its historical referent
 
-• MEM–GERMANY–WAR–FRANCO–PRUSSIAN
+• MEM–GERMANY–FRANCO–PRUSSIAN–WAR
   Dependency: First major application of Clausewitzian doctrine by Prussian
   general staff; validates political-military integration
   Breaks if removed: No demonstration of Clausewitz's practical influence
@@ -299,7 +299,7 @@ SAME-CIVILIZATION CONNECTIONS (12):
   precedent for Prussian strategic calculations
   Breaks if removed: Prussian military tradition Clausewitz inherits unclear
 
-• MEM–GERMANY–WAR–SEVEN–YEARS
+• MEM–GERMANY–PRUSSIA–SEVEN–YEARS–WAR
   Dependency: Key historical case Clausewitz analyzes; demonstrates friction
   and survival under coalition pressure
   Breaks if removed: Major analytical reference point lost

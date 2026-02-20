@@ -146,7 +146,7 @@ VI. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 FRANCE:
 • MEM–FRANCE–PARIS–NOTRE–DAME — Paris as symbolic core; crown, city, God in stone
-• MEM–FRANCE–WAR–HUNDRED–YEARS — Paris lost (1420), recovered (1436); legitimacy arena
+• MEM–FRANCE–HUNDRED–YEARS–WAR — Paris lost (1420), recovered (1436); legitimacy arena
 • MEM–FRANCE–DYNASTY–VALOIS — Charles VII; recovery of Paris
 • MEM–FRANCE–DYNASTY–CAPET — Paris rising with Capetians
 • MEM–FRANCE–ORLEANS — Orléans (Valois gateway) vs Paris (English-held 1420s)

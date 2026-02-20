@@ -205,7 +205,7 @@ Internal (GERMANY):
 • MEM–GERMANY–MUNICH — capital city and cultural center
 • MEM–GERMANY–PRUSSIA — confessional and political rival
 • MEM–GERMANY–AUSTRIA–VIENNA — Catholic connection, competitive ally
-• MEM–GERMANY–WAR–THIRTY–YEARS — Catholic League participation
+• MEM–GERMANY–THIRTY–YEARS–WAR — Catholic League participation
 • MEM–GERMANY–HOLY–ROMAN–EMPIRE — electoral elevation
 • MEM–GERMANY–BISMARCK — reluctant unification partner
 

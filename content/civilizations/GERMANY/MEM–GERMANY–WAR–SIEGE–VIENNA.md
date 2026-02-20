@@ -180,7 +180,7 @@ GERMANY (Same-Civilization):
   Breaks if removed: Sieges appear isolated rather than systemic; broader
   frontier institutionalization context disappears.
 
-• MEM–GERMANY–WAR–THIRTY–YEARS
+• MEM–GERMANY–THIRTY–YEARS–WAR
   Dependency: Internal collapse contrast—Vienna shows defense under
   external pressure; Thirty Years shows collapse under internal.
   Breaks if removed: Comparison between external and internal Germanic

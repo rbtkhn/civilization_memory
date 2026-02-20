@@ -166,7 +166,7 @@ Same-Civilization (≥10):
 • MEM–FRANCE–SCI–FERMAT — probability correspondence; mathematics
 • MEM–FRANCE–LOUIS–XIV — reign; Jansenism suppressed
 • MEM–FRANCE–RICHELIEU — state consolidation; Port-Royal context
-• MEM–FRANCE–WAR–THIRTY–YEARS — confessional exhaustion; Pascal's generation
+• MEM–FRANCE–THIRTY–YEARS–WAR — confessional exhaustion; Pascal's generation
 • MEM–FRANCE–LIT–MONTAIGNE — skepticism; Pascal's "diversion" critique
 • MEM–FRANCE–PARIS — intellectual center
 • MEM–FRANCE–DYNASTY–BOURBON — political frame

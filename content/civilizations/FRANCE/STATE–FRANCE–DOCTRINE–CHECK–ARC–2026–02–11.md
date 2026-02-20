@@ -118,7 +118,7 @@ DOCTRINE 03 — RUPTURE AS RENEWAL
 DOCTRINE 04 — POST-HEGEMONIC STRATEGIC ANXIETY
 • **Waterloo (18 June 1815)** — "Terminal legitimacy rupture"; "exhaustion made visible." Napoleonic era terminates; Second Restoration; Congress system. Francia's defeat is irreversible—no satellites, no extraction; defeat is Francia's own. Encodes post-hegemonic imprint: alliance dependence and rigidity to follow (MEM–FRANCE–WAR–NAPOLEON–WATERLOO).
 • **Continental System (1806–1814)** — Post-Trafalgar (1805): "Sea failure produces continental coercion." Napoleon cannot contest British naval supremacy; imposes Berlin Decree and closed economic space. "Coercive substitute for maritime power"—defensive improvisation under structural loss (MEM–FRANCE–CONTINENTAL–SYSTEM). Universal language (continental order) without hegemonic maritime capacity.
-• **Thirty Years' War (1618–1648) / Richelieu** — After Wars of Religion, state survival overrides theological consistency; *raison d'état* as higher-order legitimacy. "Interests of the state must come before all else." Secular universalism (balance, not belief) as response to confessional fragmentation; alliance and subsidy warfare to limit exposure (MEM–FRANCE–WAR–THIRTY–YEARS, MEM–FRANCE–RICHELIEU).
+• **Thirty Years' War (1618–1648) / Richelieu** — After Wars of Religion, state survival overrides theological consistency; *raison d'état* as higher-order legitimacy. "Interests of the state must come before all else." Secular universalism (balance, not belief) as response to confessional fragmentation; alliance and subsidy warfare to limit exposure (MEM–FRANCE–THIRTY–YEARS–WAR, MEM–FRANCE–RICHELIEU).
 
 DOCTRINE 05 — LEGITIMACY–CAPACITY OSCILLATOR
 • **French Revolution → Napoleonic Wars** — Revolution asserts legitimacy by principle; fiscal collapse and war (First Coalition, etc.) as legitimacy correction; victory (Austerlitz, Jena) restores credibility; defeat (Leipzig, Waterloo) enables reset (Restoration). "War is used as legitimacy correction" (MEM–FRANCE–FRENCH–REVOLUTION, MEM–FRANCE–WAR–NAPOLEON–WATERLOO).
@@ -138,7 +138,7 @@ V. RECOMMENDED STATE–FRANCE UPDATES (OPTIONAL)
 ────────────────────────────────────────────────────────────
 VI. MEM SOURCES (PRE-1900 EXAMPLES)
 ────────────────────────────────────────────────────────────
-MEM–FRANCE–DECLARATION–RIGHTS–MAN; MEM–FRANCE–LOUIS–XIV; MEM–FRANCE–REVOLUTION–1848; MEM–FRANCE–WAR–SEVEN–YEARS; MEM–FRANCE–FRENCH–REVOLUTION; MEM–FRANCE–JACQUERIE; MEM–FRANCE–WAR–NAPOLEON–WATERLOO; MEM–FRANCE–CONTINENTAL–SYSTEM; MEM–FRANCE–WAR–THIRTY–YEARS; MEM–FRANCE–RICHELIEU.
+MEM–FRANCE–DECLARATION–RIGHTS–MAN; MEM–FRANCE–LOUIS–XIV; MEM–FRANCE–REVOLUTION–1848; MEM–FRANCE–WAR–SEVEN–YEARS; MEM–FRANCE–FRENCH–REVOLUTION; MEM–FRANCE–JACQUERIE; MEM–FRANCE–WAR–NAPOLEON–WATERLOO; MEM–FRANCE–CONTINENTAL–SYSTEM; MEM–FRANCE–THIRTY–YEARS–WAR; MEM–FRANCE–RICHELIEU.
 
 ────────────────────────────────────────────────────────────
 VII. FURTHER VERIFICATION — CAPET DYNASTY ONLY (987–1328)

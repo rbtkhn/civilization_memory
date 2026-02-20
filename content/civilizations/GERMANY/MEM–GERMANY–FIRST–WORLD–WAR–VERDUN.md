@@ -131,7 +131,7 @@ GERMANY (Same-Civilization):
 • MEM–GERMANY–FRANCE — Adversary that endured; Verdun proved French
   resilience. Breaks if removed: Strategic context absent.
 
-• MEM–GERMANY–WAR–FRANCO–PRUSSIAN — 1870 quick victory; Verdun
+• MEM–GERMANY–FRANCO–PRUSSIAN–WAR — 1870 quick victory; Verdun
   represents its antithesis—war without decision.
   Breaks if removed: Contrast with prior success lost.
 

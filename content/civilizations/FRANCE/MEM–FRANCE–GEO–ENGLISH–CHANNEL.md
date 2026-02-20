@@ -142,7 +142,7 @@ XII. MEM CONNECTIONS (MANDATORY)
 Same-civilization (≥10):
 • MEM–FRANCE–WAR–SEVEN–YEARS — Naval defeat and Channel; breaks if removed.
 • MEM–FRANCE–NAPOLEON — Invasion plans and Trafalgar; breaks if removed.
-• MEM–FRANCE–WAR–HUNDRED–YEARS — Cross-Channel dynastic war; breaks if removed.
+• MEM–FRANCE–HUNDRED–YEARS–WAR — Cross-Channel dynastic war; breaks if removed.
 • MEM–FRANCE–WAR–TRAFALGAR — Maritime defeat; breaks if removed.
 • MEM–FRANCE–DYNASTY–NORMAN — Only successful Channel crossing; breaks if removed.
 • MEM–FRANCE–LOUIS–XIV — Continental primacy and Channel limit; breaks if removed.

@@ -275,7 +275,7 @@ Same-Civilization MEMs (GERMANY):
   that prevents print censorship. Empire structure explains why Germania
   becomes printing's capital and victim.
 
-• MEM–GERMANY–WAR–THIRTY–YEARS
+• MEM–GERMANY–THIRTY–YEARS–WAR
   Dependency: Print-enabled confessional fragmentation produces the
   conditions for civilizational collapse. Gutenberg's technology is
   causally upstream of Germanic catastrophe.

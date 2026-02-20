@@ -203,7 +203,7 @@ XI. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 FRANCE:
 • MEM–FRANCE–REIMS–CATHEDRAL — Charles VII coronation 1429; Reims as sacral stage
-• MEM–FRANCE–WAR–HUNDRED–YEARS — Valois legitimacy collapse and recovery; Joan; Reims 1429
+• MEM–FRANCE–HUNDRED–YEARS–WAR — Valois legitimacy collapse and recovery; Joan; Reims 1429
 • MEM–FRANCE–WAR–AGINCOURT — Trauma and collapse; Joan as renewal catalyst
 • MEM–FRANCE–AQUITAINE — Territorial stake; post-Reims reabsorption to 1453
 • MEM–FRANCE–DYNASTY–CAPET — Legitimacy inheritance; 1328 continuity

@@ -1,5 +1,4 @@
-```
-MEM–FRANCE–WAR–HUNDRED–YEARS — v1.2
+MEM–FRANCE–HUNDRED–YEARS–WAR — v1.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE · CANONICAL
@@ -7,7 +6,7 @@ Version: 1.2
 Supersedes: v1.1
 Upgrade Type: ADDITIVE · SCHOLAR LINKAGE (LEARN 2026-01-29)
 Civilization: FRANCE
-Subject: Hundred Years’ War
+Subject: Hundred Years' War
 Dates: 1337–1453 AD
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
@@ -16,7 +15,7 @@ Word Count: ~2,550
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves the Hundred Years’ War as **Francia’s prolonged
+This file preserves the Hundred Years' War as **Francia's prolonged
 legitimacy collapse and subsequent reconstitution**: a civilizational
 near-failure in which dynastic authority fractured, territorial integrity
 disintegrated, and survival required the reinvention of moral, sacral,
@@ -45,7 +44,7 @@ Structural conditions:
 • Fragmented noble loyalties
 
 At the outset, dynastic legality—not national identity—defines the
-conflict’s grammar.
+conflict's grammar.
 
 As Johannes Fried notes, Francia enters the war as a **juridical
 construct without consolidated sovereignty**, vulnerable to external
@@ -57,7 +56,7 @@ Francia enters the war internally fragile.
 ────────────────────────────────────────────────────────────
 III. SYSTEMIC DISINTEGRATION & EARLY COLLAPSE
 ────────────────────────────────────────────────────────────
-Early phases expose the crown’s incapacity.
+Early phases expose the crown's incapacity.
 
 Indicators of collapse:
 • Catastrophic defeats at Crécy (1346) and Poitiers (1356)
@@ -68,9 +67,9 @@ Indicators of collapse:
 
 Jean Froissart records the psychological collapse of authority:
 
-> “The realm of France was so discomfited that there was neither order,
+> "The realm of France was so discomfited that there was neither order,
 > counsel, nor governance, and every man did what seemed good in his
-> own eyes.”
+> own eyes."
 > — Froissart, *Chroniques*
 
 Authority persists symbolically but disintegrates operationally.
@@ -88,7 +87,7 @@ Dynamics include:
 
 Peter Wilson emphasizes that by this stage Francia functions less as a
 state than as a **contested legitimacy arena**, where authority exists
-only where it can be ritually and militarily defended (*Europe’s
+only where it can be ritually and militarily defended (*Europe's
 Tragedy*).
 
 Francia survives as a name, not a system.
@@ -99,15 +98,15 @@ V. SACRAL–POPULAR LEGITIMACY TURN
 Recovery does not begin administratively or militarily.
 
 Catalysts:
-• Joan of Arc’s sacral intervention
+• Joan of Arc's sacral intervention
 • Re-coronation at Reims (1429)
 • Fusion of crown, faith, and popular belief
 • Moral reversal preceding material recovery
 
 Joan frames legitimacy as divinely sanctioned restoration:
 
-> “I was sent to bring the Dauphin to his coronation, and to restore
-> the kingdom to its rightful lord.”
+> "I was sent to bring the Dauphin to his coronation, and to restore
+> the kingdom to its rightful lord."
 > — Joan of Arc, trial testimony
 
 Justine Firnhaber-Baker notes that this moment represents not nationalism
@@ -159,7 +158,7 @@ Enduring effects include:
 • Fusion of sacral symbolism with political authority
 • Precedent for legitimacy reset after catastrophic failure
 
-Henry Kissinger identifies this period as the foundation of France’s
+Henry Kissinger identifies this period as the foundation of France's
 later insistence that **authority must never again be allowed to
 fragment**, even at the cost of pluralism (*Diplomacy*).
 
@@ -184,7 +183,7 @@ FRANCE:
 • MEM–FRANCE–RICHELIEU — restraint as post-collapse governance
 • MEM–FRANCE–LOUIS–XIV — absolutism as overcorrection
 • MEM–FRANCE–REVOLUTION–1789 — legitimacy reset recurrence
-• MEM–FRANCE–WAR–THIRTY–YEARS — secularized universalism contrast
+• MEM–FRANCE–THIRTY–YEARS–WAR — secularized universalism contrast
 
 ANGLIA:
 • MEM–ANGLIA–WAR–HUNDRED–YEARS — procedural endurance vs legitimacy fracture
@@ -205,7 +204,7 @@ X. CONTINUITY INSIGHTS (RAW)
 • Moral authority can resurrect failed dynastic systems.
 • Sacral symbolism can precede institutional recovery.
 • Centralization is justified retrospectively by survival.
-• The Hundred Years’ War is Francia’s first legitimacy resurrection.
+• The Hundred Years' War is Francia's first legitimacy resurrection.
 
 No verdict imposed.
 
@@ -233,12 +232,11 @@ Primary Sources:
 
 Secondary Sources (≥4; ≥3 Distinguished Scholars):
 • **Johannes Fried**, *The Middle Ages*
-• **Peter Wilson**, *Europe’s Tragedy*
+• **Peter Wilson**, *Europe's Tragedy*
 • **Will Durant**, *The Story of Civilization*
 • **Henry Kissinger**, *Diplomacy*
 • **Justine Firnhaber-Baker**, *French History: A Very Short Introduction*
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCE–WAR–HUNDRED–YEARS — v1.2
+END OF FILE — MEM–FRANCE–HUNDRED–YEARS–WAR v1.2
 ────────────────────────────────────────────────────────────
-```

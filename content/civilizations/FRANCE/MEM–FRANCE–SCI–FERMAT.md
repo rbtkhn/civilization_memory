@@ -155,7 +155,7 @@ Same-Civilization (≥10):
 • MEM–FRANCE–LIT–DESCARTES — analytic geometry (parallel development; correspondence)
 • MEM–FRANCE–LOUIS–XIV — reign; Fermat's later years
 • MEM–FRANCE–RICHELIEU — era; magistrate in Toulouse
-• MEM–FRANCE–WAR–THIRTY–YEARS — era; Fermat's generation
+• MEM–FRANCE–THIRTY–YEARS–WAR — era; Fermat's generation
 • MEM–FRANCE–PARIS — intellectual center (Mersenne circle; Fermat corresponded)
 • MEM–FRANCE–DYNASTY–BOURBON — political frame
 • MEM–FRANCE–LIT–MONTAIGNE — contemporary; skepticism and method

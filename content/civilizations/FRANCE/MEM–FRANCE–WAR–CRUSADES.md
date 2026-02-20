@@ -181,7 +181,7 @@ Same-civilization (≥10). Each connection is structurally necessary; removal wo
 • MEM–FRANCE–CHARLEMAGNE — Carolingian sacral kingship and warrior identity precede crusading myth; breaks if removed.
 • MEM–FRANCE–LOUIS–XIV — Absolutist "protector of faith" rhetoric derives from crusade absorption; breaks if removed.
 • MEM–FRANCE–KNIGHTS–TEMPLAR — Military orders are crusade byproduct; Templar fate ties to royal centralization; breaks if removed.
-• MEM–FRANCE–WAR–HUNDRED–YEARS — Chivalric myth from Crusades feeds later French-English war identity; breaks if removed.
+• MEM–FRANCE–HUNDRED–YEARS–WAR — Chivalric myth from Crusades feeds later French-English war identity; breaks if removed.
 • MEM–FRANCE–DYNASTY–CAPET — Capetian consolidation and crusade participation are contemporaneous; breaks if removed.
 • MEM–FRANCE–PAPACY — Papal-French relation (Avignon, Gallicanism) is post-crusade; breaks if removed.
 • MEM–FRANCE–PARIS–NOTRE–DAME — Sacred architecture and crusade piety share legitimacy grammar; breaks if removed.
@@ -224,7 +224,7 @@ B. Myth and failure: Why does Francia encode the Crusades as legitimacy fuel des
 C. Joinville and primary evidence: What does knightly testimony reveal about feudal indiscipline?
 D. Papacy and crown: How does the tension between papal call and royal crusade play out in French memory?
 E. Traverse to MEM–FRANCE–KNIGHTS–TEMPLAR (crusade-derived military order and royal suppression)
-F. Traverse to MEM–FRANCE–WAR–HUNDRED–YEARS (chivalric myth continuity)
+F. Traverse to MEM–FRANCE–HUNDRED–YEARS–WAR (chivalric myth continuity)
 G. Apply Mearsheimer lens: Force structure and coordination failure in crusade campaigns
 H. Apply Barnes lens: Jurisdiction and liability in holy war—who authorizes, who pays?
 

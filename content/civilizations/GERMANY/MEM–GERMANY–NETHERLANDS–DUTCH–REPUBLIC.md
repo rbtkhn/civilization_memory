@@ -362,7 +362,7 @@ Same-civilization (≥10):
 • MEM–GERMANY–HANSEATIC–LEAGUE — commercial predecessor
 • MEM–GERMANY–HOLY–ROMAN–EMPIRE — departed structure
 • MEM–GERMANY–WESTPHALIA — recognition settlement
-• MEM–GERMANY–WAR–THIRTY–YEARS — concurrent conflict
+• MEM–GERMANY–THIRTY–YEARS–WAR — concurrent conflict
 • MEM–GERMANY–AUSTRIA–HABSBURG — departed sovereign
 • MEM–GERMANY–PRUSSIA — later Protestant power (contrast)
 

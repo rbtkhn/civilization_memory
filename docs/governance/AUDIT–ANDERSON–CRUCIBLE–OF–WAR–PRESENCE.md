@@ -11,7 +11,7 @@
 | Category | Status |
 |----------|--------|
 | **ARC registration** | FRANCE ✓ · GERMANY ✓ · **ANGLIA ✗ (gap)** |
-| **MEM usage** | 14 MEM files cite Anderson; 1 typo (CONSEQUENAD) |
+| **MEM usage** | 15 MEM files cite Anderson; 1 typo (CONSEQUENAD) |
 | **CORE / Scholar / Ledger** | CORE–FRANCE, SCHOLAR–FRANCE, ARC–FRANCE–LEDGER, ARC–GERMANY–LEDGER reference Anderson |
 | **Other “Anderson” / “Crucible”** | 4 false positives (M.S. Anderson, Emily Anderson, Herrin *Crucible of Europe*, Grimm) |
 
@@ -42,14 +42,15 @@
 | MEM–FRANCE–EMPIRE–LOUISIANA–PURCHASE | Secondary | 1 quote (1763, French North America); bibliography |
 | MEM–FRANCE–WAR–SEVEN–YEARS–QUEBEC | Secondary | 1 quote (global character); bibliography |
 
-### GERMANY (10 MEMs)
+### GERMANY (11 MEMs)
 
 | File | Role | Quotes / notes |
 |------|------|----------------|
-| MEM–GERMANY–WAR–SEVEN–YEARS | Primary | 2 verbatim quotes; bibliography |
+| MEM–GERMANY–PRUSSIA–SEVEN–YEARS–WAR | Primary | 2 verbatim quotes; bibliography |
+| MEM–GERMANY–AUSTRIA–SEVEN–YEARS–WAR | Primary | 2 verbatim quotes (coalition, Silesia); bibliography |
 | MEM–GERMANY–WAR–AUSTRIAN–SUCCESSION | Secondary | 1 paraphrase (Frederick, coalition); bibliography |
 | MEM–GERMANY–WAR–SILESIAN | Secondary | 2 quotes; bibliography |
-| MEM–GERMANY–WAR–FRANCO–PRUSSIAN | Secondary | 1 quote (Prussian survival); bibliography |
+| MEM–GERMANY–FRANCO–PRUSSIAN–WAR | Secondary | 1 quote (Prussian survival); bibliography |
 | MEM–GERMANY–PRUSSIA–FREDERICK–II | Secondary | 1 paraphrase; bibliography |
 | MEM–GERMANY–BISMARCK | Secondary | 1 paraphrase (Frederick, Seven Years' War); bibliography |
 | MEM–GERMANY–PRUSSIA | Secondary | 1 paraphrase; bibliography |

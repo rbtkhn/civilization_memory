@@ -128,7 +128,7 @@ Internal (ANGLIA):
    — Contrast: medieval land battle vs early modern naval campaign.
 
 Cross-Civilizational:
-7) MEM–FRANCE–WAR–HUNDRED–YEARS
+7) MEM–FRANCE–HUNDRED–YEARS–WAR
    — Contrast: English invasion of France (Hundred Years’ War) vs Spanish invasion attempt of England (Armada).
 8) MEM–ROME–PUNIC–WARS (if present)
    — Structural parallel: naval campaign and invasion attempt; defence and dispersal.

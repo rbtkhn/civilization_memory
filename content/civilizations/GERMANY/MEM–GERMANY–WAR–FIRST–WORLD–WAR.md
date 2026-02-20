@@ -129,7 +129,7 @@ GERMANY (Same-Civilization):
 • MEM–GERMANY–FIRST–WORLD–WAR–VERDUN — Falkenhayn's failed attrition
 • MEM–GERMANY–FIRST–WORLD–WAR–SOMME — Defensive success at cost
 • MEM–GERMANY–WAR–FIRST–WORLD–TREATY–VERSAILLES — Settlement
-• MEM–GERMANY–WAR–FRANCO–PRUSSIAN — Contrast: 1870 quick victory
+• MEM–GERMANY–FRANCO–PRUSSIAN–WAR — Contrast: 1870 quick victory
 • MEM–GERMANY–FRANCE — Primary western adversary
 • MEM–GERMANY–HITLER — 1940 Blitzkrieg avoids 1914–1918 attrition
 • MEM–GERMANY–ALSACE–LORRAINE — Lost at Versailles

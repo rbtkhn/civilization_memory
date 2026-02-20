@@ -147,10 +147,10 @@ The two Scholar files encode **distinct civilizational epistemes**: Francia’s 
 > Derivation: SYNTHESIS 0005, MEM–GERMANY–BISMARCK
 >
 > **AXIOM GERMANY-003:** Trauma encodes permanent constraint.  
-> Derivation: MEM–GERMANY–WAR–THIRTY–YEARS, SYNTHESIS 0004
+> Derivation: MEM–GERMANY–THIRTY–YEARS–WAR, SYNTHESIS 0004
 >
 > **AXIOM GERMANY-004:** Precision without closure produces catastrophe.  
-> Derivation: SYNTHESIS 0003, MEM–GERMANY–WAR–FRANCO–PRUSSIAN
+> Derivation: SYNTHESIS 0003, MEM–GERMANY–FRANCO–PRUSSIAN–WAR
 >
 > **AXIOM GERMANY-005:** Legitimacy derives from restraint, not narrative.  
 > Derivation: SYNTHESIS 0001, MEM–GERMANY–PRUSSIA–FREDERICK–II
@@ -390,7 +390,7 @@ Primary **output** of tri-frame in Germania Scholar: **bound RLLs** that state w
 **Verbatim:**
 
 > **ENTRY 0006**  
-> Source: MEM–GERMANY–WAR–SEVEN–YEARS — v1.2  
+> Source: MEM–GERMANY–PRUSSIA–SEVEN–YEARS–WAR — v1.0  
 > Ingest Type: **Endurance Stress Test**  
 > Primary Belief Extracted: **Survival under encirclement validates replacement capacity, discipline, and logistics-first governance over prestige.**  
 > Belief Status: FROZEN (via Doctrine v0.3 → **RLL–GERMANY–0003**)

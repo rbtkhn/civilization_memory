@@ -130,7 +130,7 @@ VII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 FRANCE:
 • MEM–FRANCE–ELEANOR–AQUITAINE — Heiress; marriage and annulment; Plantagenet hold
-• MEM–FRANCE–WAR–HUNDRED–YEARS — Aquitaine as cause and theatre
+• MEM–FRANCE–HUNDRED–YEARS–WAR — Aquitaine as cause and theatre
 • MEM–FRANCE–WAR–POITIERS — John II captured; Brétigny; Aquitaine ceded
 • MEM–FRANCE–WAR–HUNDRED–YEARS–CRECY — Hundred Years' War; English base in south
 • MEM–FRANCE–DYNASTY–CAPET — Capetian marriage strategy; loss of duchy

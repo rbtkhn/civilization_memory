@@ -237,7 +237,7 @@ IX. MEM CONNECTIONS (MANDATORY)
 Same-civilization (≥10):
 • MEM–GERMANY–CONGRESS–VIENNA — Path A contrast; settlement-design
   success vs Paris as imposition
-• MEM–GERMANY–WAR–FRANCO–PRUSSIAN — 1871 as next imposition case
+• MEM–GERMANY–FRANCO–PRUSSIAN–WAR — 1871 as next imposition case
   (France overridden)
 • MEM–GERMANY–FRANCE — 1871 encoding; Paris 1856 as coalition
   partner (French role at Congress)

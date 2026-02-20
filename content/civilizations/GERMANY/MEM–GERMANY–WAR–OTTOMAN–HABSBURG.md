@@ -160,7 +160,7 @@ GERMANY (Same-Civilization):
   Breaks if removed: Key tests of defensive system disappear; learning
   between sieges undocumented.
 
-• MEM–GERMANY–WAR–THIRTY–YEARS
+• MEM–GERMANY–THIRTY–YEARS–WAR
   Dependency: Internal collapse contrast—Ottoman wars show external
   pressure stabilizing discipline; Thirty Years shows internal pressure
   destroying it.

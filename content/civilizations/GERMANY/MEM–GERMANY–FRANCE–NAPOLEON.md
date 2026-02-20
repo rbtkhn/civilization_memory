@@ -300,7 +300,7 @@ Same-civilization (≥10):
 • MEM–GERMANY–HOLY–ROMAN–EMPIRE — Imperial dissolution context
 • MEM–GERMANY–BISMARCK — Application of Napoleonic lessons with closure
 • MEM–GERMANY–WILHELM–II — Misapplication of Napoleonic lessons
-• MEM–GERMANY–WAR–FRANCO–PRUSSIAN — Later precision-with-closure success
+• MEM–GERMANY–FRANCO–PRUSSIAN–WAR — Later precision-with-closure success
 • MEM–GERMANY–BERLIN — Capital city during occupation
 • MEM–GERMANY–VIENNA — Congress and settlement design
 • MEM–GERMANY–CLAUSEWITZ — Theoretical synthesis of Napoleonic experience

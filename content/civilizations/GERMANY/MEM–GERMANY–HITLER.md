@@ -325,7 +325,7 @@ Same-Civilization MEMs (GERMANY):
   rigidity. Demonstrates how Germanic competence can be paired with
   either survival or annihilation.
 
-• MEM–GERMANY–WAR–FRANCO–PRUSSIAN
+• MEM–GERMANY–FRANCO–PRUSSIAN–WAR
   Dependency: Bismarck's bounded war as counter-model. Hitler's total
   war represents explicit rejection of closure doctrine.
 
@@ -351,7 +351,7 @@ Same-Civilization MEMs (GERMANY):
   European order echoes Reformation pattern while inverting its
   meaning.
 
-• MEM–GERMANY–WAR–THIRTY–YEARS
+• MEM–GERMANY–THIRTY–YEARS–WAR
   Dependency: Previous German catastrophe. Population loss and
   territorial destruction create historical parallel and German
   memory of vulnerability.

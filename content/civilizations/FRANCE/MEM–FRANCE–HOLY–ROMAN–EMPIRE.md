@@ -242,7 +242,7 @@ SAME-CIVILIZATION CONNECTIONS (FRANCE):
   Dependency: Capetian contrast—continuity vs. HRE fragmentation
   Breaks if removed: Structural opposition unintelligible
 
-• MEM–FRANCE–WAR–THIRTY–YEARS
+• MEM–FRANCE–THIRTY–YEARS–WAR
   Dependency: Richelieu fractures Empire; Westphalia embeds French guarantee
   Breaks if removed: Fracture mechanism unexplained
 

@@ -351,7 +351,7 @@ Same-civilization (≥10):
   Breaks if removed: Legal context of autonomous commercial
   confederation disappears.
 
-• MEM–GERMANY–WAR–THIRTY–YEARS
+• MEM–GERMANY–THIRTY–YEARS–WAR
   Dependency: Destructive conclusion—Thirty Years' War devastated
   Hanseatic cities and disrupted trade.
   Breaks if removed: Why League declined unexplained.

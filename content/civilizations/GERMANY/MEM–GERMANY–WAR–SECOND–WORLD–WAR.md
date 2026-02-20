@@ -129,7 +129,7 @@ GERMANY (Same-Civilization):
 • MEM–GERMANY–FIRST–WORLD–WAR–MARNE — 1914 pivot failure; 1940
   succeeds
 • MEM–GERMANY–HITLER — Agent; total war; unconditional surrender
-• MEM–GERMANY–WAR–FRANCO–PRUSSIAN — 1870 quick victory; 1940
+• MEM–GERMANY–FRANCO–PRUSSIAN–WAR — 1870 quick victory; 1940
   echoes
 • MEM–GERMANY–ALSACE–LORRAINE — Recaptured 1940–1944; lost 1945
 • MEM–GERMANY–FRANCE — Western victory 1940; occupation

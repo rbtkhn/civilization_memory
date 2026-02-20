@@ -327,19 +327,19 @@ Same-Civilization MEMs (GERMANY):
   Breaks if removed: Kaiser-Chancellor dynamic unintelligible; dismissal in
   1890 loses context; constitutional structure appears arbitrary.
 
-• MEM–GERMANY–WAR–FRANCO–PRUSSIAN
+• MEM–GERMANY–FRANCO–PRUSSIAN–WAR
   Dependency: The decisive unification war. Bismarck's closure doctrine is
   demonstrated here; MEM is unintelligible without war's bounded execution.
   Breaks if removed: Empire proclamation appears as revolutionary rupture
   rather than controlled outcome; Alsace-Lorraine annexation loses context.
 
-• MEM–GERMANY–WAR–AUSTRO–PRUSSIAN
+• MEM–GERMANY–AUSTRO–PRUSSIAN–WAR
   Dependency: First unification war establishing Prussian hegemony. Shows
   Bismarck's pattern of diplomatic isolation and rapid cessation.
   Breaks if removed: Austro-German relationship after 1866 unintelligible;
   Dual Alliance appears arbitrary rather than post-war reconciliation.
 
-• MEM–GERMANY–WAR–DANO–PRUSSIAN
+• MEM–GERMANY–DANO–PRUSSIAN–WAR
   Dependency: Initial unification war. Establishes Austro-Prussian
   collaboration that Bismarck later ruptures by design.
   Breaks if removed: Schleswig-Holstein question loses clarity; the
@@ -369,7 +369,7 @@ Same-Civilization MEMs (GERMANY):
   Breaks if removed: Limited-war execution lacks theoretical framework;
   political control of military appears as personal quirk.
 
-• MEM–GERMANY–WAR–MOLTKE
+• MEM–GERMANY–PRUSSIA–MOLTKE
   Dependency: Military partnership enabling rapid victories. Bismarck's
   political control depends on Moltke's operational excellence.
   Breaks if removed: Rapid victories appear automatic; civil-military

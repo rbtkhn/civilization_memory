@@ -571,7 +571,7 @@ Same-civilization (≥10):
 • MEM–GERMANY–LUBECK — Hanseatic capital
 • MEM–GERMANY–CHARLEMAGNE — missionary foundation context
 • MEM–GERMANY–HOLY–ROMAN–EMPIRE — Imperial Free City status
-• MEM–GERMANY–WAR–THIRTY–YEARS — Westphalia confirmation
+• MEM–GERMANY–THIRTY–YEARS–WAR — Westphalia confirmation
 • MEM–GERMANY–WAR–WORLD–II — destruction
 • MEM–GERMANY–BISMARCK — imperial unification (Bremen survives)
 • MEM–GERMANY–FEDERAL–REPUBLIC — Bundesland status

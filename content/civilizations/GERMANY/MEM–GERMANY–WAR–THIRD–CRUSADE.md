@@ -306,7 +306,7 @@ SAME-CIVILIZATION CONNECTIONS (GERMANY):
   Dependency: Order founded during crusade
   Breaks if removed: Institutional origin missing
 
-• MEM–GERMANY–WAR–PRUSSIAN–CRUSADE
+• MEM–GERMANY–PRUSSIAN–CRUSADE
   Dependency: Order's subsequent campaign
   Breaks if removed: Consequence unexplained
 

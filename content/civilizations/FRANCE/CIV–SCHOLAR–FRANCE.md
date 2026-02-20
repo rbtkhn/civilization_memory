@@ -438,7 +438,7 @@ Belief Status:
 
 ENTRY 0004
 Source:
-• MEM–FRANCE–WAR–THIRTY–YEARS — v1.0
+• MEM–FRANCE–THIRTY–YEARS–WAR — v1.0
 
 Ingest Type:
 • Systemic Reframing War
@@ -662,7 +662,7 @@ Belief Status:
 
 ENTRY 0013
 Source:
-• MEM–FRANCE–WAR–HUNDRED–YEARS — v1.1
+• MEM–FRANCE–HUNDRED–YEARS–WAR — v1.1
 • MEM–FRANCE–PARIS–NOTRE–DAME — v1.1
 
 Ingest Type:
@@ -795,7 +795,7 @@ Source:
   MEM–FRANCE–GEO–MEUSE–RIVER, MEM–FRANCE–GEO–RHONE–RIVER,
   MEM–FRANCE–GEO–LOIRE–RIVER; MEM–FRANCE–WAR–FRANCO–PRUSSIAN;
   MEM–FRANCE–WAR–NAPOLEON–LEIPZIG; MEM–GERMANY–FRANCE,
-  MEM–GERMANY–WAR–FRANCO–PRUSSIAN, MEM–GERMANY–BISMARCK
+  MEM–GERMANY–FRANCO–PRUSSIAN–WAR, MEM–GERMANY–BISMARCK
 • AUDIT–MEARSHEIMER–FRANCE–GEO–RIVER–CLUSTER–19C–2026–02–11
 
 Ingest Type:
@@ -823,7 +823,7 @@ Belief Status:
 ENTRY 0018
 Source:
 • MEM–FRANCE–WAR–FRANCO–PRUSSIAN, MEM–FRANCE–TREATY–FRANKFURT,
-  MEM–FRANCE–WAR–THIRTY–YEARS, MEM–FRANCE–WAR–SPANISH–SUCCESSION,
+  MEM–FRANCE–THIRTY–YEARS–WAR, MEM–FRANCE–WAR–SPANISH–SUCCESSION,
   MEM–FRANCE–WAR–SEVEN–YEARS, MEM–FRANCE–WAR–NAPOLEON–WATERLOO
 • AUDIT–BARNES–FRANCE–WAR–CLUSTER–INTL–LAW–POLITICS–2026–02–11
 
@@ -1295,7 +1295,7 @@ ASSUMPTIONS SUMMARY
 
 ────────────────────────────────────────────────────────────
 
-SYNTHESIS 0008 (ENTRY 0006 + cross-civ MEM–GERMANY–WAR–SEVEN–YEARS + CORE + tri-frame)
+SYNTHESIS 0008 (ENTRY 0006 + cross-civ MEM–GERMANY–PRUSSIA–SEVEN–YEARS–WAR + CORE + tri-frame)
 ────────────────────────────────────────────────────────────
 Outcome:
 • Francia's civilizational grammar (declarative legitimacy, Crown as source
@@ -1311,7 +1311,7 @@ Outcome:
 Status: FROZEN
 Confidence: TIER 2 (70-90% — synthesized from MEMs, CORE, tri-frame session)
 Freeze Date: January 2026
-Source: ENTRY 0006 (MEM–FRANCE–WAR–SEVEN–YEARS), MEM–GERMANY–WAR–SEVEN–YEARS (cross-civ), CIV–CORE–FRANCE § III.A, CIV–CORE–ANGLIA (Replacement-Without-Rupture), tri-frame (demonstration vs declaration)
+Source: ENTRY 0006 (MEM–FRANCE–WAR–SEVEN–YEARS), MEM–GERMANY–PRUSSIA–SEVEN–YEARS–WAR (cross-civ), CIV–CORE–FRANCE § III.A, CIV–CORE–ANGLIA (Replacement-Without-Rupture), tri-frame (demonstration vs declaration)
 
 ASSUMPTIONS BOX — SYNTHESIS 0008
 ────────────────────────────────────────────────────────────
@@ -1338,7 +1338,7 @@ ASSUMPTION 3: Same war, opposite demonstration outcome (cross-civ)
 | Field | Content |
 |-------|---------|
 | STATEMENT | Seven Years' War (1763) produced opposite demonstration outcomes: Francia failed (credibility break, interval opens); Germania (Prussia) succeeded (endurance under encirclement, no interval) |
-| BASIS | MEM–FRANCE–WAR–SEVEN–YEARS; MEM–GERMANY–WAR–SEVEN–YEARS; Anderson "the Seven Years' War taught different lessons to different states" |
+| BASIS | MEM–FRANCE–WAR–SEVEN–YEARS; MEM–GERMANY–PRUSSIA–SEVEN–YEARS–WAR; Anderson "the Seven Years' War taught different lessons to different states" |
 | IF_WRONG | Same war would produce same structural outcome or different framing |
 | LINCHPIN_STATUS | High |
 
@@ -1509,7 +1509,7 @@ PROPOSED RLL CANDIDATES:
   opens); for Germania (Prussia), the same war was a stress test the
   system passed (endurance under encirclement, no interval). Same war,
   same year—opposite structural outcome.
-  Derivation: ENTRY 0006, MEM–GERMANY–WAR–SEVEN–YEARS (cross-civ),
+  Derivation: ENTRY 0006, MEM–GERMANY–PRUSSIA–SEVEN–YEARS–WAR (cross-civ),
     CIV–CORE–FRANCE § III.A, CIV–CORE–GERMANY (competence-derived
     legitimacy, DOCTRINE 05)
   Frame: MERCOURIS
@@ -1763,7 +1763,7 @@ Session Activity (January 2026):
 • LEARN: Post-Reims (1431–1453) mapped onto SYNTHESIS 0004—Medieval extension added: recovery through rupture (Hundred Years' War); symbolic reassertion (Reims, Joan, fleur-de-lys) before procedural continuity (standing army, taille, territorial recovery); ENTRY 0013, RLL–0011. 29 Jan 2026.
 • LEARN: Tri-frame summary (Barnes + Mearsheimer + Mercouris) on Joan and post-Reims added to RLL–0011 and ENTRY 0013. 29 Jan 2026.
 • LEARN: ENTRY 0014 added—source MEM–FRANCE–AQUITAINE; 1453 (Castillon, Bordeaux) as endpoint of post-Reims material recovery; Aquitaine reabsorption completes SYNTHESIS 0004 medieval extension and RLL–0011 sequence. 29 Jan 2026.
-• WRITE: SYNTHESIS 0008 frozen (ENTRY 0006 + cross-civ MEM–GERMANY–WAR–SEVEN–YEARS + CORE + tri-frame). Three assumptions: (1) grammar blocked Anglia-style path, (2) 1763 as interval (demonstration failed, declaration not yet possible), (3) same war opposite demonstration outcome (Francia failed, Germania succeeded). RLL–FRANCE–0012, 0013, 0014 (CANDIDATE) proposed—GENERAL domain; derivation ENTRY 0006, CORE, tri-frame session. 29 Jan 2026.
+• WRITE: SYNTHESIS 0008 frozen (ENTRY 0006 + cross-civ MEM–GERMANY–PRUSSIA–SEVEN–YEARS–WAR + CORE + tri-frame). Three assumptions: (1) grammar blocked Anglia-style path, (2) 1763 as interval (demonstration failed, declaration not yet possible), (3) same war opposite demonstration outcome (Francia failed, Germania succeeded). RLL–FRANCE–0012, 0013, 0014 (CANDIDATE) proposed—GENERAL domain; derivation ENTRY 0006, CORE, tri-frame session. 29 Jan 2026.
 • LEARN: RLL–FRANCE–0015 (CANDIDATE) proposed—MEMs encoding claim–capacity divergence support both civilizational-grammar (legitimacy) and structural (power/coalition/survival) readings; same MEM sections furnish both; Mercouris reframe (MEM–FRANCE–WAR–SEVEN–YEARS Sections II–VI). GENERAL domain. 29 Jan 2026.
 • WRITE: Scholar analysis insights integrated (REPORT–SCHOLAR–FRANCE–GERMANY–COGNITIVE–DIFFERENTIATION, RUN–REPORT–SCHOLAR–BREAK–TESTS, CCM). SDI 0002 encoding rationale (1870 structural not moral); IX.A CCM awareness (second-order SDI, lack vs choice attribution); NCZ priority resolution MEM list; XIII procedural note (doctrine constrains freeze not record). Seven Years' War encoding (SYNTHESIS 0008, ENTRY 0006) confirmed canonical: interval, demonstration failed, rupture thinkable. 29 Jan 2026.
 • RELAY: STATE session (France doctrine check) relayed 11 Feb 2026. Source: STATE–FRANCE–DOCTRINE–CHECK–ARC–2026–02–11. Transferred: doctrine verification (01–05) under 30-day, pre-1900, and Capet-only (987–1328) MEM grounding; ENTRY 0015 added. CIV–STATE–FRANCE State Log updated.

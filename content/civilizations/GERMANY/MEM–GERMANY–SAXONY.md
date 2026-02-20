@@ -254,7 +254,7 @@ Internal (GERMANY):
 • MEM–GERMANY–DRESDEN — aesthetic treasury and trauma site
 • MEM–GERMANY–BOHEMIA–PRAGUE — hinge connection via Elbe-Vltava
 • MEM–GERMANY–PRUSSIA — territorial rival, 1815 partition
-• MEM–GERMANY–WAR–THIRTY–YEARS — corridor devastation
+• MEM–GERMANY–THIRTY–YEARS–WAR — corridor devastation
 • MEM–GERMANY–SILESIA — industrial connection
 
 Cross-Civilizational:

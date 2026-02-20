@@ -88,7 +88,7 @@ Same-Civilization:
 • MEM–FRANCE–WAR–AGINCOURT — Catastrophic defeat; Henry V
 • MEM–FRANCE–WAR–HUNDRED–YEARS–CRECY — 1346 opening
 • MEM–FRANCE–WAR–POITIERS — 1356; capture of John II
-• MEM–FRANCE–WAR–HUNDRED–YEARS — Overall conflict
+• MEM–FRANCE–HUNDRED–YEARS–WAR — Overall conflict
 • MEM–FRANCE–AQUITAINE — Plantagenet duchy
 • MEM–FRANCE–ANJOU — Angevin core; recovered by Philip Augustus
 • MEM–FRANCE–ELEANOR–AQUITAINE — Marriage to Henry II

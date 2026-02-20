@@ -217,7 +217,7 @@ GEO–MEM (REQUIRED):
 • MEM–RUSSIA–GEO–PRUSSIA — battlefield location
 
 Cross-civilizational:
-• MEM–GERMANY–WAR–SEVEN–YEARS — Prussian perspective
+• MEM–GERMANY–PRUSSIA–SEVEN–YEARS–WAR — Prussian perspective
 • MEM–FRANCE–WAR–SEVEN–YEARS — coalition dynamics
 
 ────────────────────────────────────────────────────────────

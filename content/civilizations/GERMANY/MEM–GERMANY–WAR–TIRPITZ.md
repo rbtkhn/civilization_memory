@@ -295,7 +295,7 @@ Same-Civilization MEMs (GERMANY):
   Dependency: Royal patronage enabling Tirpitz's program. Wilhelm II's
   personal naval obsession was Hohenzollern dynastic policy.
 
-• MEM–GERMANY–WAR–MOLTKE
+• MEM–GERMANY–PRUSSIA–MOLTKE
   Dependency: Land-war doctrine Tirpitz sought to replicate at sea.
   Decisive-battle thinking imported from Prussian army tradition.
 
@@ -323,7 +323,7 @@ Same-Civilization MEMs (GERMANY):
   Dependency: Successor who repeated maritime overreach (U-boat
   campaigns). Pattern continuity of failed naval strategy.
 
-• MEM–GERMANY–WAR–FRANCO–PRUSSIAN
+• MEM–GERMANY–FRANCO–PRUSSIAN–WAR
   Dependency: Unification war that created the empire Tirpitz claimed
   to protect. Continental victory enabled maritime ambition.
 

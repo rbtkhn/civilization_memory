@@ -51,7 +51,7 @@ Primary MEMs:
 Secondary MEMs:
 • MEM–GERMANY–ROTHSCHILD — Financial infrastructure enabling state action
 • MEM–GERMANY–BISMARCK — Fiscal discipline as precondition for limited-war strategy
-• MEM–GERMANY–WAR–FRANCO–PRUSSIAN — French indemnity financing post-unification state
+• MEM–GERMANY–FRANCO–PRUSSIAN–WAR — French indemnity financing post-unification state
 
 ────────────────────────────────────────────────────────────
 II. ALLIANCE MANAGEMENT / BURDEN-SHARING
@@ -77,6 +77,7 @@ Primary MEMs:
 
 Secondary MEMs:
 • MEM–GERMANY–AUSTRIA–KAUNITZ — Diplomatic revolution; alliance reversal as strategic tool
+• MEM–GERMANY–AUSTRIA–SEVEN–YEARS–WAR — Coalition construction and failure; limits of alliance architecture
 • MEM–GERMANY–PRUSSIA–FREDERICK–II — Survival through alliance flexibility under encirclement
 • MEM–GERMANY–AUSTRIA–HOLY–ALLIANCE — Ideological alliance binding; conservative solidarity
 • MEM–GERMANY–CONGRESS–VIENNA — Post-war alliance architecture design
@@ -102,7 +103,7 @@ Primary MEMs:
 
 Secondary MEMs:
 • MEM–GERMANY–AUSTRIA–METTERNICH — Conservative order maintenance; status quo as strategy
-• MEM–GERMANY–WAR–THIRTY–YEARS — Devastating war requiring Westphalian settlement innovation
+• MEM–GERMANY–THIRTY–YEARS–WAR — Devastating war requiring Westphalian settlement innovation
 • MEM–GERMANY–FRANCE–NAPOLEON — Collapse and reconstruction of the European order
 
 ────────────────────────────────────────────────────────────
@@ -126,8 +127,9 @@ Primary MEMs:
   [concepts: state_formation, military_discipline, institutional_capacity]
 
 Secondary MEMs:
-• MEM–GERMANY–WAR–MOLTKE — Operational excellence as force multiplier
-• MEM–GERMANY–WAR–FRANCO–PRUSSIAN — Military victory converted to political unification
+• MEM–GERMANY–PRUSSIA–MOLTKE — Operational excellence as force multiplier
+• MEM–GERMANY–PRUSSIA–SEVEN–YEARS–WAR — Survival under encirclement; replacement capacity; discipline as force multiplier
+• MEM–GERMANY–FRANCO–PRUSSIAN–WAR — Military victory converted to political unification
 • MEM–GERMANY–WAR–SILESIAN — Frederick's gamble; expansion through calculated risk
 • MEM–GERMANY–HIST–CLAUSEWITZ — War as continuation of policy; violence as instrument
 
@@ -270,7 +272,7 @@ recurring pattern — every unification is preceded and followed
 by fragmentation risk.
 
 Primary MEMs:
-• MEM–GERMANY–WAR–THIRTY–YEARS — Devastating fragmentation; 30%
+• MEM–GERMANY–THIRTY–YEARS–WAR — Devastating fragmentation; 30%
   population loss; Westphalian settlement as fragmentation management
   [concepts: catastrophic_fragmentation, settlement_design, sovereignty]
 • MEM–GERMANY–CAROLINGIAN–PARTITION — Division of unified Carolingian
@@ -324,7 +326,7 @@ legitimacy_crisis:
   WEIMAR, HITLER, LUTHER
 
 military_discipline:
-  PRUSSIA–FREDERICK–II, PRUSSIA, WAR–MOLTKE, HIST–CLAUSEWITZ
+  PRUSSIA–FREDERICK–II, PRUSSIA, PRUSSIA–MOLTKE, HIST–CLAUSEWITZ
 
 coalition_fragility:
   WEIMAR, BISMARCK, HOLY–ROMAN–EMPIRE

@@ -208,7 +208,7 @@ Internal (ANGLIA):
    — Later memory of constraint: how kings are bounded after coercive peaks.
 
 Cross-Civilizational (≥3):
-6) MEM–FRANCE–WAR–HUNDRED–YEARS
+6) MEM–FRANCE–HUNDRED–YEARS–WAR
    — Francia experiences the same war as invasion/occupation trauma, not unity.
 7) MEM–FRANCE–JOAN–ARC
    — Counter-legitimacy through sacred-symbolic mobilization rather than procedure.

@@ -99,7 +99,7 @@ Dynamics:
 • Legitimacy is ritually restored before material recovery (1431–1453)
 
 The building is thus the **stage** for the sequence identified in
-MEM–FRANCE–WAR–HUNDRED–YEARS and CIV–SCHOLAR–FRANCE: moral reversal
+MEM–FRANCE–HUNDRED–YEARS–WAR and CIV–SCHOLAR–FRANCE: moral reversal
 (preceding material recovery). The cathedral does not win battles; it
 performs the act that makes Valois victory legible as restoration.
 
@@ -146,7 +146,7 @@ VI. MEM CONNECTIONS (MANDATORY)
 FRANCE:
 • MEM–FRANCE–REIMS — City and cathedral; Reims as coronation city
 • MEM–FRANCE–PARIS–NOTRE–DAME — Paris cathedral vs Reims; legitimacy geography
-• MEM–FRANCE–WAR–HUNDRED–YEARS — Charles VII coronation 1429; moral reversal
+• MEM–FRANCE–HUNDRED–YEARS–WAR — Charles VII coronation 1429; moral reversal
 • MEM–FRANCE–ORLEANS — Orléans → Reims sequence; Joan and route to coronation
 • MEM–FRANCE–PARIS — Paris (capital) vs Reims (coronation); loss and recovery
 • MEM–FRANCE–DYNASTY–VALOIS — Charles VII; coronation at Reims

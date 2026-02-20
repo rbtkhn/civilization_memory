@@ -226,11 +226,11 @@ structure, not declarative status (*Diplomacy*).
 ────────────────────────────────────────────────────────────
 IX. CROSS-CIVILIZATIONAL CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
-• MEM–GERMANY–WAR–SEVEN–YEARS — endurance confirmation vs legitimacy shock
+• MEM–GERMANY–PRUSSIA–SEVEN–YEARS–WAR — endurance confirmation vs legitimacy shock
 • MEM–ANGLIA–WAR–SEVEN–YEARS — maritime dominance and fiscal scalability
 • MEM–FRANCE–NAPOLEON — delayed legitimacy reset response
 • MEM–FRANCE–CONTINENTAL–SYSTEM — mislearned naval lesson
-• MEM–GERMANY–WAR–FRANCO–PRUSSIAN — restraint vs overextension contrast
+• MEM–GERMANY–FRANCO–PRUSSIAN–WAR — restraint vs overextension contrast
 • MEM–ANGLIA–EMPIRE — finance-navy integration
 • MEM–FRANCE–ECON–FISCAL-CRISIS — debt as political accelerant
 • MEM–FRANCE–REVOLUTION — downstream legitimacy collapse

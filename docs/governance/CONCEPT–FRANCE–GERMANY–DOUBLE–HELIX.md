@@ -159,21 +159,23 @@ at that node.
 | Carolingian dynasty| MEM–FRANCE–DYNASTY–CAROLINGIAN     | MEM–GERMANY–DYNASTY–CAROLINGIAN      |
 | Rhine River        | MEM–FRANCE–GEO–RHINE–RIVER         | MEM–GERMANY–GEO–RHINE–RIVER          |
 | Alsace-Lorraine    | MEM–FRANCE–ALSACE–LORRAINE         | MEM–GERMANY–ALSACE–LORRAINE          |
-| Thirty Years' War  | MEM–FRANCE–WAR–THIRTY–YEARS        | MEM–GERMANY–WAR–THIRTY–YEARS         |
-| Seven Years' War   | MEM–FRANCE–WAR–SEVEN–YEARS         | MEM–GERMANY–WAR–SEVEN–YEARS          |
+| Thirty Years' War  | MEM–FRANCE–THIRTY–YEARS–WAR        | MEM–GERMANY–THIRTY–YEARS–WAR         |
+| Seven Years' War   | MEM–FRANCE–WAR–SEVEN–YEARS         | MEM–GERMANY–PRUSSIA–SEVEN–YEARS–WAR (primary; Austria: MEM–GERMANY–AUSTRIA–SEVEN–YEARS–WAR) |
 | Crusades           | MEM–FRANCE–WAR–CRUSADES            | MEM–GERMANY–WAR–CRUSADES             |
 | Napoleonic period  | MEM–FRANCE–NAPOLEON                | MEM–GERMANY–FRANCE–NAPOLEON          |
 | Waterloo           | MEM–FRANCE–WAR–NAPOLEON–WATERLOO   | MEM–GERMANY–WAR–WATERLOO             |
-| Franco-Prussian War| MEM–FRANCE–WAR–FRANCO–PRUSSIAN     | MEM–GERMANY–WAR–FRANCO–PRUSSIAN      |
+| Franco-Prussian War| MEM–FRANCE–WAR–FRANCO–PRUSSIAN     | MEM–GERMANY–FRANCO–PRUSSIAN–WAR      |
 | Austrian Succession| MEM–FRANCE–WAR–AUSTRIAN–SUCCESSION | MEM–GERMANY–WAR–AUSTRIAN–SUCCESSION  |
 | Spanish Succession | MEM–FRANCE–WAR–SPANISH–SUCCESSION  | MEM–GERMANY–WAR–SPANISH–SUCCESSION   |
 | First World War    | MEM–FRANCE–WAR–FIRST–WORLD–WAR     | MEM–GERMANY–WAR–FIRST–WORLD–WAR      |
 | Second World War   | MEM–FRANCE–WAR–SECOND–WORLD–WAR    | MEM–GERMANY–WAR–SECOND–WORLD–WAR     |
 | Treaty of Versailles | MEM–FRANCE–WAR–FIRST–WORLD–TREATY–VERSAILLES | MEM–GERMANY–WAR–FIRST–WORLD–TREATY–VERSAILLES |
+| Austria            | MEM–FRANCE–AUSTRIA                 | MEM–GERMANY–AUSTRIA                  |
 | Austria-Hungary    | MEM–FRANCE–AUSTRIA–HUNGARY         | MEM–GERMANY–AUSTRIA–HUNGARY          |
 | Ottoman Empire     | MEM–FRANCE–OTTOMAN–EMPIRE          | MEM–GERMANY–OTTOMAN–EMPIRE           |
 | Belgium            | MEM–FRANCE–BELGIUM                 | MEM–GERMANY–BELGIUM                  |
 | Poland             | MEM–FRANCE–POLAND                  | MEM–GERMANY–POLAND                   |
+| Prussia            | MEM–FRANCE–PRUSSIA                 | MEM–GERMANY–PRUSSIA                  |
 | Spain              | MEM–FRANCE–SPAIN                   | MEM–GERMANY–SPAIN                    |
 | Marne (1914)       | MEM–FRANCE–WAR–MARNE               | MEM–GERMANY–FIRST–WORLD–WAR–MARNE    |
 | Somme (1916)       | MEM–FRANCE–WAR–FIRST–WORLD–SOMME   | MEM–GERMANY–FIRST–WORLD–WAR–SOMME    |

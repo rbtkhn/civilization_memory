@@ -293,7 +293,7 @@ GERMANY (Same-Civilization):
   flowing from institutional damage Wilhelm caused.
   Breaks if removed: Interwar causation chain incomplete.
 
-• MEM–GERMANY–WAR–FRANCO–PRUSSIAN
+• MEM–GERMANY–FRANCO–PRUSSIAN–WAR
   Dependency: Founding victory—1870 created the Empire Wilhelm destroyed.
   Breaks if removed: What was lost has no origin documentation.
 

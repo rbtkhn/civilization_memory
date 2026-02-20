@@ -230,7 +230,7 @@ Same-civilization (≥10):
 • MEM–GERMANY–BISMARCK — Unification negotiator
 • MEM–GERMANY–FRANKFURT — Constitutional alternative
 • MEM–GERMANY–HOLY–ROMAN–EMPIRE — Imperial context
-• MEM–GERMANY–WAR–THIRTY–YEARS — Confessional conflict
+• MEM–GERMANY–THIRTY–YEARS–WAR — Confessional conflict
 • MEM–GERMANY–CHARLEMAGNE — Bavarian origins
 • MEM–GERMANY–HAMBURG — Northern trade city (contrast)
 

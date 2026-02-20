@@ -798,7 +798,7 @@ PATTERN: Fiscal Discipline as Civilizational Imperative
 
 PATTERN: Fragmentation Under Stress
   Activation: MODERATE (February 2026)
-  Source: MEM–GERMANY–WAR–THIRTY–YEARS, MEM–GERMANY–CAROLINGIAN–
+  Source: MEM–GERMANY–THIRTY–YEARS–WAR, MEM–GERMANY–CAROLINGIAN–
   PARTITION, MEM–GERMANY–WEIMAR
   Relevance: Germanic fragmentation is the deepest recurring pattern.
   The Thirty Years War (1618–1648) destroyed 30% of the population

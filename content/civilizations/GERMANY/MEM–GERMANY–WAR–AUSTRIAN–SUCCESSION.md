@@ -167,7 +167,7 @@ GERMANY (Same-Civilization):
   Austrian Succession conflict.
   Breaks if removed: Military campaigns lose documentation.
 
-• MEM–GERMANY–WAR–AUSTRO–PRUSSIAN
+• MEM–GERMANY–AUSTRO–PRUSSIAN–WAR
   Dependency: Resolution successor—Austrian Succession created dualism
   that 1866 resolved.
   Breaks if removed: Why 1866 was necessary unintelligible; causal chain

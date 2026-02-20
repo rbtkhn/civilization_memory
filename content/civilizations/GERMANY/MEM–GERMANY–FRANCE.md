@@ -378,7 +378,7 @@ SAME-CIVILIZATION CONNECTIONS (GERMANY):
   Breaks if removed: Unification strategy unexplained; why France was
   target of diplomatic isolation has no agent.
 
-• MEM–GERMANY–WAR–FRANCO–PRUSSIAN
+• MEM–GERMANY–FRANCO–PRUSSIAN–WAR
   Dependency: War creating unified Germany at France's expense. Sedan,
   siege of Paris, Versailles proclamation.
   Breaks if removed: 1871 unification has no precipitating event;

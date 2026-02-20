@@ -226,7 +226,7 @@ Same-civilization:
 • MEM–GERMANY–LUTHER — theological opponent, unintended enabler
 • MEM–GERMANY–GUTENBERG — print technology enabling influence
 • MEM–GERMANY–PAPACY — institutional target of criticism
-• MEM–GERMANY–WAR–THIRTY–YEARS — confessional violence he foresaw
+• MEM–GERMANY–THIRTY–YEARS–WAR — confessional violence he foresaw
 • MEM–GERMANY–NETHERLANDS — Low Countries origin
 • MEM–GERMANY–NETHERLANDS–DUTCH–REPUBLIC — later tolerant model
 • MEM–GERMANY–LIT–KANT — later rational faith parallel

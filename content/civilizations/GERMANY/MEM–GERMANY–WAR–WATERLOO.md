@@ -156,7 +156,7 @@ GERMANY (Same-Civilization):
   Breaks if removed: Why Prussia was reformed before Waterloo unexplained;
   learning sequence disappears.
 
-• MEM–GERMANY–WAR–MOLTKE
+• MEM–GERMANY–PRUSSIA–MOLTKE
   Dependency: Staff system maturation—Waterloo validated proto-staff
   coordination that Moltke later perfected.
   Breaks if removed: Institutional continuity from 1815 to 1870 disappears.

@@ -116,7 +116,7 @@ Sweden leaves method, not mastery.
 VIII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 GERMANY (Same-Civilization):
-• MEM–GERMANY–WAR–THIRTY–YEARS (Swedish intervention)
+• MEM–GERMANY–THIRTY–YEARS–WAR (Swedish intervention)
 • MEM–GERMANY–NORWAY (Scandinavian parallel)
 • MEM–GERMANY–DENMARK (Baltic neighbor)
 • MEM–GERMANY–PRUSSIA (absorbed Swedish lessons)

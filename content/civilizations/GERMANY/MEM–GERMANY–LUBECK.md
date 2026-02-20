@@ -588,7 +588,7 @@ Same-civilization (≥10):
 • MEM–GERMANY–RIGA — Lübeck Law recipient
 • MEM–GERMANY–DANZIG — Lübeck Law recipient
 • MEM–GERMANY–PRUSSIA — 1937 absorption
-• MEM–GERMANY–WAR–THIRTY–YEARS — Hanseatic decline context
+• MEM–GERMANY–THIRTY–YEARS–WAR — Hanseatic decline context
 • MEM–GERMANY–WAR–WORLD–II — 1942 bombing
 • MEM–GERMANY–MANN–THOMAS — cultural memorialization
 • MEM–GERMANY–SCHLESWIG–HOLSTEIN — current Land

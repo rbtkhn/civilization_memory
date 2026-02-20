@@ -314,12 +314,12 @@ AXIOM GERMANY-002: Command capacity requires stopping rules.
   Limits: Stopping rules may be externally imposed (1945)
 
 AXIOM GERMANY-003: Trauma encodes permanent constraint.
-  Derivation: MEM–GERMANY–WAR–THIRTY–YEARS, SYNTHESIS 0004
+  Derivation: MEM–GERMANY–THIRTY–YEARS–WAR, SYNTHESIS 0004
   Scope: Strategic culture and war grammar analysis
   Limits: Trauma encoding may fade across generations (1914 failure)
 
 AXIOM GERMANY-004: Precision without closure produces catastrophe.
-  Derivation: SYNTHESIS 0003, MEM–GERMANY–WAR–FRANCO–PRUSSIAN
+  Derivation: SYNTHESIS 0003, MEM–GERMANY–FRANCO–PRUSSIAN–WAR
   Scope: War termination and political gain analysis
   Limits: External constraint may force closure (1918, 1945)
 
@@ -329,7 +329,7 @@ AXIOM GERMANY-005: Legitimacy derives from restraint, not narrative.
   Limits: Post-1945 Germany develops narrative-based legitimacy (Holocaust memory)
 
 AXIOM GERMANY-006: Endurance precedes precision.
-  Derivation: SYNTHESIS 0003, MEM–GERMANY–WAR–SEVEN–YEARS
+  Derivation: SYNTHESIS 0003, MEM–GERMANY–PRUSSIA–SEVEN–YEARS–WAR
   Scope: Strategic sequencing analysis
   Limits: Overwhelming superiority may permit precision-first
 
@@ -352,7 +352,7 @@ STRUCTURAL EXCLUSIONS:
 [NCZ-GER-001] Ideological war as sustainable policy
   Status: INSUFFICIENT
   Reason: 1618–1648, 1914–1918, 1939–1945 all produce civilizational catastrophe
-  Related MEMs: MEM–GERMANY–WAR–THIRTY–YEARS, MEM–GERMANY–WAR–WWI, MEM–GERMANY–WAR–WWII
+  Related MEMs: MEM–GERMANY–THIRTY–YEARS–WAR, MEM–GERMANY–WAR–WWI, MEM–GERMANY–WAR–WWII
   Resolution Path: Would require counter-case of ideological war with stable outcome
 
 [NCZ-GER-002] Imperial expansion without enforced stopping rules
@@ -376,7 +376,7 @@ STRUCTURAL EXCLUSIONS:
 [NCZ-GER-005] Precision victory without subsequent closure
   Status: INSUFFICIENT
   Reason: Franco-Prussian closure validates; 1914 non-closure invalidates
-  Related MEMs: MEM–GERMANY–WAR–FRANCO–PRUSSIAN, MEM–GERMANY–WAR–WWI
+  Related MEMs: MEM–GERMANY–FRANCO–PRUSSIAN–WAR, MEM–GERMANY–WAR–WWI
   Resolution Path: Counter-case of precision → sustained advantage without closure
 
 WAR-SPECIFIC EXCLUSIONS:
@@ -384,7 +384,7 @@ WAR-SPECIFIC EXCLUSIONS:
 [NCZ-GER-006] Two-front war survival without allied collapse
   Status: INSUFFICIENT
   Reason: Seven Years' War survived via allied withdrawal; 1914, 1941 did not
-  Related MEMs: MEM–GERMANY–WAR–SEVEN–YEARS, MEM–GERMANY–WAR–WWI
+  Related MEMs: MEM–GERMANY–PRUSSIA–SEVEN–YEARS–WAR, MEM–GERMANY–WAR–WWI
   Resolution Path: Counter-case of two-front victory through German means alone
 
 [NCZ-GER-007] Long-war advantage against coalition
@@ -858,7 +858,7 @@ Primary Belief Extracted:
 Belief Status: FROZEN (via Doctrine v0.1 → RLL–GERMANY–0001)
 
 ENTRY 0004
-Source: MEM–GERMANY–WAR–THIRTY–YEARS — v1.2
+Source: MEM–GERMANY–THIRTY–YEARS–WAR — v1.2
 Ingest Type: Trauma-Class War Memory
 Primary Belief Extracted:
 • Ideological war and fragmentation produce civilizational
@@ -874,7 +874,7 @@ Primary Belief Extracted:
 Belief Status: FROZEN (via Doctrine v0.2 → RLL–GERMANY–0002)
 
 ENTRY 0006
-Source: MEM–GERMANY–WAR–SEVEN–YEARS — v1.2
+Source: MEM–GERMANY–PRUSSIA–SEVEN–YEARS–WAR — v1.2
 Ingest Type: Endurance Stress Test
 Primary Belief Extracted:
 • Survival under encirclement validates replacement capacity,
@@ -882,7 +882,7 @@ Primary Belief Extracted:
 Belief Status: FROZEN (via Doctrine v0.3 → RLL–GERMANY–0003)
 
 ENTRY 0007
-Source: MEM–GERMANY–WAR–FRANCO–PRUSSIAN — v1.2
+Source: MEM–GERMANY–FRANCO–PRUSSIAN–WAR — v1.2
 Ingest Type: Precision-with-Closure Conflict
 Primary Belief Extracted:
 • Maximum political gain is achievable only when precision is
@@ -1416,7 +1416,7 @@ Outcome:
   deferred catastrophe (exit). Structural position determines form and timing.
 Status: FROZEN → confirms RLL–GERMANY–0007 with temporal refinement
 
-SYNTHESIS 0011 (MEM–GERMANY–BOHEMIA ↔ MEM–GERMANY–WAR–THIRTY–YEARS ↔ TRI-FRAME)
+SYNTHESIS 0011 (MEM–GERMANY–BOHEMIA ↔ MEM–GERMANY–THIRTY–YEARS–WAR ↔ TRI-FRAME)
 Outcome:
 • Bohemia functions as Germania's IDEOLOGICAL FAULT LINE: the point where
   internal constraint converts into system-destroying rupture when subjected
@@ -2212,7 +2212,7 @@ RLL–GERMANY–0010 — Ideological Fracture Law
     France, Sweden, and German princes collected gains while German population
     absorbed demographic catastrophe
   Evidence: MEM–GERMANY–BOHEMIA (Hussite Wars 1419–1434, ideological fault line);
-  MEM–GERMANY–WAR–THIRTY–YEARS (1618–1648, one-third population loss, Westphalian
+  MEM–GERMANY–THIRTY–YEARS–WAR (1618–1648, one-third population loss, Westphalian
   settlement); contrast with MEM–GERMANY–HUNGARY (codified constraint → exit,
   not rupture)
   Source: SYNTHESIS 0011 (ENTRY 0023, cross-reference with Thirty Years' War)

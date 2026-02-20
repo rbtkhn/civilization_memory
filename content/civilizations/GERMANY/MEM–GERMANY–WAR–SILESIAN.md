@@ -233,7 +233,7 @@ GERMANY (Same-Civilization):
   Breaks if removed: Coalition dynamics and Maria Theresa's survival
   struggle disappear.
 
-• MEM–GERMANY–WAR–AUSTRO–PRUSSIAN
+• MEM–GERMANY–AUSTRO–PRUSSIAN–WAR
   Dependency: Resolution—1866 war resolved dualism that 1740 created.
   Direct causal chain across 123 years.
   Breaks if removed: Why 1866 was necessary unintelligible; Silesian wound

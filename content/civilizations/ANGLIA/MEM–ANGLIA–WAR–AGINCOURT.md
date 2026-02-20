@@ -177,7 +177,7 @@ Later discipline-based land warfare without dominance.
 • MEM–ANGLIA–WAR–NELSON  
 Maritime context where decisiveness becomes permanent.
 
-• MEM–FRANCE–WAR–HUNDRED–YEARS  
+• MEM–FRANCE–HUNDRED–YEARS–WAR  
 Divergent civilizational memory of aristocratic catastrophe.
 
 • MEM–FRANCE–JOAN–ARC  

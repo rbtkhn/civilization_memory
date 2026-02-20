@@ -37,7 +37,7 @@ INFLUENCE:
 | MAJOR_WORKS | N/A (patronage, charters) |
 | KEY_DECISIONS | Marriage to Louis VII (1137); annulment (1152); marriage to Henry II (1152); regency and dynastic politics |
 | INFLUENCE_DOMAIN | Dynastic, territorial |
-| CITED_IN_MEMS | MEM–FRANCE–WAR–HUNDRED–YEARS; MEM–FRANCE–WAR–POITIERS; MEM–FRANCE–DYNASTY–CAPET |
+| CITED_IN_MEMS | MEM–FRANCE–HUNDRED–YEARS–WAR; MEM–FRANCE–WAR–POITIERS; MEM–FRANCE–DYNASTY–CAPET |
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -122,7 +122,7 @@ V. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 FRANCE:
 • MEM–FRANCE–DYNASTY–CAPET — Capetian marriage strategy; loss of Aquitaine
-• MEM–FRANCE–WAR–HUNDRED–YEARS — Aquitaine as cause and theatre
+• MEM–FRANCE–HUNDRED–YEARS–WAR — Aquitaine as cause and theatre
 • MEM–FRANCE–WAR–POITIERS — English Aquitaine; Black Prince; Brétigny
 • MEM–FRANCE–WAR–CRUSADES — Eleanor on Second Crusade
 • MEM–FRANCE–WAR–HUNDRED–YEARS–CRECY — Hundred Years' War; Aquitaine stakes

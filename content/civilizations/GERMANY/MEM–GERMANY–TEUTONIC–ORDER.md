@@ -311,7 +311,7 @@ X. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 SAME-CIVILIZATION CONNECTIONS (GERMANY):
 
-• MEM–GERMANY–WAR–PRUSSIAN–CRUSADE
+• MEM–GERMANY–PRUSSIAN–CRUSADE
   Dependency: War that created the Ordensstaat
   Breaks if removed: State-creation unexplained
 

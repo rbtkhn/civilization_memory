@@ -266,7 +266,7 @@ SAME-CIVILIZATION CONNECTIONS (GERMANY):
   Dependency: Baltic crusade enabled by Wendish precedent
   Breaks if removed: Consequence unexplained
 
-• MEM–GERMANY–WAR–PRUSSIAN–CRUSADE
+• MEM–GERMANY–PRUSSIAN–CRUSADE
   Dependency: Baltic crusade enabled by Wendish precedent
   Breaks if removed: Consequence unexplained
 

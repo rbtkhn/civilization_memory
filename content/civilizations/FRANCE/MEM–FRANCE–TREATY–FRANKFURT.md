@@ -187,7 +187,7 @@ ENABLES:
 • MEM–FRANCE–WAR–FRANCO–PRUSSIAN — Treaty formalizes war outcome; both MEMs required for full picture of 1870–1871.
 
 PARALLELS:
-• MEM–GERMANY–WAR–FRANCO–PRUSSIAN — Same war and treaty; Germania encodes victory and “knowing when to stop” (Fried).
+• MEM–GERMANY–FRANCO–PRUSSIAN–WAR — Same war and treaty; Germania encodes victory and “knowing when to stop” (Fried).
 • MEM–GERMANY–BISMARCK — Bismarck as architect of settlement and German unification at French expense.
 
 GEOGRAPHIC:

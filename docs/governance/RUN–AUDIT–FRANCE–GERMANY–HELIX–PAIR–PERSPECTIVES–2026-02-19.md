@@ -63,7 +63,7 @@ III. FINDINGS BY PAIR
 | Strand | MEM | Lead encoding | Distinct markers |
 |--------|-----|---------------|------------------|
 | France | MEM–FRANCE–WAR–FRANCO–PRUSSIAN | Legitimacy collapse; catalytic humiliation | "For Francia, this war is not remembered primarily as a campaign but as a **legitimacy collapse event**"; "War was chosen to restore legitimacy. It instead destroyed it."; "modern strategic anxiety"; "Francia prepares to not lose again—but not to win differently" |
-| Germany | MEM–GERMANY–WAR–FRANCO–PRUSSIAN | Precision conflict; capacity exercised under restraint | "For Germania, this conflict functions as a **control case** demonstrating how maximum political gain can be achieved through disciplined tempo, bounded objectives, and enforced stopping rules"; "capacity exercised under restraint"; "The Franco–Prussian War is the model; World War I is the deviation" |
+| Germany | MEM–GERMANY–FRANCO–PRUSSIAN–WAR | Precision conflict; capacity exercised under restraint | "For Germania, this conflict functions as a **control case** demonstrating how maximum political gain can be achieved through disciplined tempo, bounded objectives, and enforced stopping rules"; "capacity exercised under restraint"; "The Franco–Prussian War is the model; World War I is the deviation" |
 
 **Verdict:** ✅ **Distinct perspectives.** France encodes defeat as legitimacy collapse and strategic anxiety; Germany encodes victory as model of administrative war, stopping rules, and restraint. Same war, opposite poles (humiliation vs. model).
 

@@ -199,7 +199,7 @@ X. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 SAME-CIVILIZATION CONNECTIONS (GERMANY):
 
-• MEM–GERMANY–WAR–THIRTY–YEARS
+• MEM–GERMANY–THIRTY–YEARS–WAR
   Dependency: Primary conflict context
   Breaks if removed: Intervention lacks strategic frame
 

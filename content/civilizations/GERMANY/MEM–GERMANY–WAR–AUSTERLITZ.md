@@ -199,7 +199,7 @@ GERMANY (Same-Civilization):
   Roman Empire dissolution (1806).
   Breaks if removed: What was destroyed institutionally undocumented.
 
-• MEM–GERMANY–WAR–FRANCO–PRUSSIAN
+• MEM–GERMANY–FRANCO–PRUSSIAN–WAR
   Dependency: Eventual reversal—1870 represents full recovery and
   reversal of 1805 relationship with France.
   Breaks if removed: Long-term vindication of reform disappears.
@@ -209,7 +209,7 @@ GERMANY (Same-Civilization):
   Francis II abdicated as Holy Roman Emperor.
   Breaks if removed: Austrian dimension of defeat disappears.
 
-• MEM–GERMANY–WAR–MOLTKE
+• MEM–GERMANY–PRUSSIA–MOLTKE
   Dependency: System successor—Moltke's General Staff perfected
   coordination that failed at Austerlitz.
   Breaks if removed: Institutional recovery has no successor documentation.

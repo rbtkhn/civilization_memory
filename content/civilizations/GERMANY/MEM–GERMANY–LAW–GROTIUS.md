@@ -290,7 +290,7 @@ Contradictions preserved without verdict.
 XII. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
-• MEM–GERMANY–WAR–THIRTY–YEARS — contextual catastrophe
+• MEM–GERMANY–THIRTY–YEARS–WAR — contextual catastrophe
 • MEM–GERMANY–WESTPHALIA — settlement institutionalizing principles
 • MEM–GERMANY–HOLY–ROMAN–EMPIRE — pre-Westphalian order
 • MEM–GERMANY–NETHERLANDS — exit civilization context

@@ -113,7 +113,7 @@ material recovery" (MEM–WAR–HUNDRED–YEARS) is spatially anchored.
 V. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 FRANCE:
-• MEM–FRANCE–WAR–HUNDRED–YEARS — Siege and relief; Joan; Valois recovery
+• MEM–FRANCE–HUNDRED–YEARS–WAR — Siege and relief; Joan; Valois recovery
 • MEM–FRANCE–PARIS–NOTRE–DAME — Paris vs Orléans (north/south); legitimacy geography
 • MEM–FRANCE–DYNASTY–VALOIS — Dauphin Charles VII; continuity under breakdown
 • MEM–FRANCE–GEO–LOIRE–RIVER — Orléans on Loire; strategic crossing

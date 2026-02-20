@@ -128,7 +128,7 @@ VI. MEM CONNECTIONS (MANDATORY)
 FRANCE:
 • MEM–FRANCE–ANJOU — Contrast: Anjou confiscated 1204; Brittany united 1532 by treaty
 • MEM–FRANCE–AQUITAINE — Contrast: Aquitaine contested by war until 1453; Brittany by marriage
-• MEM–FRANCE–WAR–HUNDRED–YEARS — War of Breton Succession; Anglo-French intervention
+• MEM–FRANCE–HUNDRED–YEARS–WAR — War of Breton Succession; Anglo-French intervention
 • MEM–FRANCE–DYNASTY–VALOIS — Charles VIII, Louis XII; Anne of Brittany's marriages
 • MEM–FRANCE–DYNASTY–BOURBON — Francis I; Claude; completion of union
 • MEM–FRANCE–DYNASTY–CAPET — Capetian/Valois pattern of absorption by patience

@@ -314,7 +314,7 @@ SAME-CIVILIZATION CONNECTIONS (GERMANY):
   Dependency: Rival crusading power (1219 Estonian intervention)
   Breaks if removed: Competition dynamics missing
 
-• MEM–GERMANY–WAR–THIRTY–YEARS
+• MEM–GERMANY–THIRTY–YEARS–WAR
   Dependency: Later conflict pattern comparison
   Breaks if removed: Comparative analysis lost
 

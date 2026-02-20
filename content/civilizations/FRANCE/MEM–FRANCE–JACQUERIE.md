@@ -120,7 +120,7 @@ VII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 FRANCE:
 • MEM–FRANCE–WAR–POITIERS — proximate cause (king captured, chaos)
-• MEM–FRANCE–WAR–HUNDRED–YEARS — war context
+• MEM–FRANCE–HUNDRED–YEARS–WAR — war context
 • MEM–FRANCE–DYNASTY–VALOIS — ruling dynasty, Dauphin Charles
 • MEM–FRANCE–ESTATES–GENERAL — 1357 reform attempt, Marcel
 • MEM–FRANCE–WAR–HUNDRED–YEARS–CRECY — prior defeat, noble losses

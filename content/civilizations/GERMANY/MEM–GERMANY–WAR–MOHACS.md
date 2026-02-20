@@ -165,7 +165,7 @@ GERMANY (Same-Civilization):
   developed after Mohács shock.
   Breaks if removed: Learning sequence between 1526 and 1683 disappears.
 
-• MEM–GERMANY–WAR–THIRTY–YEARS
+• MEM–GERMANY–THIRTY–YEARS–WAR
   Dependency: Internal collapse contrast—Mohács = external shock causing
   rapid collapse; Thirty Years = internal fragmentation causing slow
   collapse.

@@ -476,7 +476,7 @@ Same-civilization (≥10):
 • MEM–GERMANY–HOLY–ROMAN–EMPIRE — Imperial context
 • MEM–GERMANY–HABSBURG — Ruling dynasty (pre-revolt)
 • MEM–GERMANY–CHARLES–V — Emperor born in Ghent
-• MEM–GERMANY–WAR–THIRTY–YEARS — Parallel conflict
+• MEM–GERMANY–THIRTY–YEARS–WAR — Parallel conflict
 • MEM–GERMANY–ROTHSCHILD — Financial network parallel
 • MEM–GERMANY–PRUSSIA — Alternative modernization path
 • MEM–GERMANY–BISMARCK — Later unification contrast

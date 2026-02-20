@@ -1,10 +1,10 @@
-MEM–GERMANY–WAR–DANO–PRUSSIAN — v2.0
+MEM–GERMANY–DANO–PRUSSIAN–WAR — v2.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 
 Status: ACTIVE
 Version: 2.1
-Supersedes: MEM–GERMANY–WAR–DANO–PRUSSIAN v2.0
+Supersedes: MEM–GERMANY–DANO–PRUSSIAN–WAR v2.0
 Civilization: GERMANY
 Subject: Second Schleswig War (Dano-Prussian War)
 Dates: February–October 1864
@@ -213,13 +213,13 @@ GERMANY (Same-Civilization):
   Breaks if removed: War appears as random border conflict rather than
   first step in three-war sequence.
 
-• MEM–GERMANY–WAR–AUSTRO–PRUSSIAN
+• MEM–GERMANY–AUSTRO–PRUSSIAN–WAR
   Dependency: Next war in sequence—Schleswig-Holstein spoils dispute
   became casus belli for 1866.
   Breaks if removed: Sequential pattern incomplete; how 1864 created 1866
   unintelligible.
 
-• MEM–GERMANY–WAR–FRANCO–PRUSSIAN
+• MEM–GERMANY–FRANCO–PRUSSIAN–WAR
   Dependency: Final war in sequence—1870 completed what 1864 began.
   Three-war unification arc.
   Breaks if removed: Pattern culmination disappears; 1870 appears isolated.
@@ -235,7 +235,7 @@ GERMANY (Same-Civilization):
   dynasty stakes present.
   Breaks if removed: Royal dimension of war disappears.
 
-• MEM–GERMANY–WAR–MOLTKE
+• MEM–GERMANY–PRUSSIA–MOLTKE
   Dependency: Campaign planner—Moltke's General Staff conducted operations;
   organizational system validated.
   Breaks if removed: How campaign was planned and executed unintelligible.
@@ -329,5 +329,5 @@ Secondary Source Verbatim: 2 quotes (Kissinger, Wilson)
 EQS Status: COMPLIANT
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANY–WAR–DANO–PRUSSIAN — v2.0
+END OF FILE — MEM–GERMANY–DANO–PRUSSIAN–WAR — v2.0
 ────────────────────────────────────────────────────────────

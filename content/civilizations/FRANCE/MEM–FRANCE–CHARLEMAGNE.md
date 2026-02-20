@@ -202,7 +202,7 @@ VIII. MEM CONNECTIONS (MANDATORY)
 Referenced MEM files (illustrative, non-exhaustive):
 
 FRANCE:
-• MEM–FRANCE–WAR–THIRTY–YEARS (legitimacy reframing)
+• MEM–FRANCE–THIRTY–YEARS–WAR (legitimacy reframing)
 • MEM–FRANCE–NAPOLEON (imperial revival by force)
 • MEM–FRANCE–LAW–NAPOLEONIC–CODE (law as legitimacy reset)
 

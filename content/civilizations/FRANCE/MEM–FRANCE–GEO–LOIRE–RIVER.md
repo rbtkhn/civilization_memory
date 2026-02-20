@@ -138,7 +138,7 @@ Same-civilization (≥10):
 • MEM–FRANCE–PARIS–NOTRE–DAME — Paris vs Loire symbolic centers; breaks if removed.
 • MEM–FRANCE–NAPOLEON — Centralization away from Loire; breaks if removed.
 • MEM–FRANCE–BURGUNDY — Rival western pole; breaks if removed.
-• MEM–FRANCE–WAR–HUNDRED–YEARS — Loire as frontier and royal refuge; breaks if removed.
+• MEM–FRANCE–HUNDRED–YEARS–WAR — Loire as frontier and royal refuge; breaks if removed.
 
 GEO MEMs (≥2):
 • MEM–FRANCE–GEO–SEINE–RIVER — Contrast: command vs legitimation river; breaks if removed.

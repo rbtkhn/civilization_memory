@@ -1,9 +1,9 @@
-MEM–GERMANY–WAR–FRANCO–PRUSSIAN — v2.2
+MEM–GERMANY–FRANCO–PRUSSIAN–WAR — v2.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 Status: ACTIVE · CANONICAL
 Version: 2.2
-Supersedes: MEM–GERMANY–WAR–FRANCO–PRUSSIAN v2.1
+Supersedes: MEM–GERMANY–FRANCO–PRUSSIAN–WAR v2.1
 Upgrade Type: CONTENT · VI.A CLOSURE WITHOUT PATH A; CONGRESS–VIENNA CONNECTION
 Template: CIV–MEM–TEMPLATE v2.8
 Civilization: GERMANY
@@ -290,20 +290,20 @@ SAME-CIVILIZATION CONNECTIONS (GERMANY):
   Breaks if removed: Institutional continuity between 1757 survival and
   1870 precision disappears; Prussian method appears invented not inherited.
 
-• MEM–GERMANY–WAR–MOLTKE
+• MEM–GERMANY–PRUSSIA–MOLTKE
   Dependency: Moltke's operational doctrine is inseparable from this
   conflict. Campaign execution cannot be understood without his General
   Staff system.
   Breaks if removed: Rapid victory appears automatic; planning-execution
   system that enabled precision has no documentation.
 
-• MEM–GERMANY–WAR–AUSTRO–PRUSSIAN
+• MEM–GERMANY–AUSTRO–PRUSSIAN–WAR
   Dependency: The 1866 war establishes the sequential unification
   pattern. This MEM requires context of prior bounded conflict success.
   Breaks if removed: 1870 appears as first use of method rather than
   validated repetition; sequential pattern collapses.
 
-• MEM–GERMANY–WAR–DANO–PRUSSIAN
+• MEM–GERMANY–DANO–PRUSSIAN–WAR
   Dependency: First war in the unification sequence. Demonstrates
   the limited-objective pattern that culminates in 1870.
   Breaks if removed: Three-war sequence incomplete; pattern recognition
@@ -446,10 +446,10 @@ SECONDARY SOURCES (ARC-COMPLIANT):
 XIV. MEM INGEST BOOTSTRAP
 ────────────────────────────────────────────────────────────
 When ingested without CORE, the system MUST:
-• Confirm ingest of MEM–GERMANY–WAR–FRANCO–PRUSSIAN v2.0
+• Confirm ingest of MEM–GERMANY–FRANCO–PRUSSIAN–WAR v2.0
 • Declare MEM active
 • Present exploration options based on Sections I–XI
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANY–WAR–FRANCO–PRUSSIAN — v2.2
+END OF FILE — MEM–GERMANY–FRANCO–PRUSSIAN–WAR — v2.2
 ────────────────────────────────────────────────────────────

@@ -228,7 +228,7 @@ GERMANY (Same-Civilization):
 • MEM–GERMANY–PRUSSIA–FREDERICK–II (seizure architect)
 • MEM–GERMANY–PRUSSIA (absorbing polity)
 • MEM–GERMANY–WAR–AUSTRIAN–SUCCESSION (seizure war)
-• MEM–GERMANY–WAR–SEVEN–YEARS (retention war)
+• MEM–GERMANY–PRUSSIA–SEVEN–YEARS–WAR (retention war); MEM–GERMANY–AUSTRIA–SEVEN–YEARS–WAR (failed revanche)
 • MEM–GERMANY–AUSTRIA–KAUNITZ (recovery architect)
 • MEM–GERMANY–MARIA–THERESA (dispossessed sovereign)
 • MEM–GERMANY–BISMARCK (inheritance beneficiary)

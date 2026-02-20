@@ -1696,6 +1696,11 @@
       "civilization": "FRANCE"
     },
     {
+      "id": "MEM–FRANCE–AUSTRIA",
+      "label": "AUSTRIA",
+      "civilization": "FRANCE"
+    },
+    {
       "id": "MEM–FRANCE–AUSTRIA–HUNGARY",
       "label": "AUSTRIA–HUNGARY",
       "civilization": "FRANCE"
@@ -2081,6 +2086,11 @@
       "civilization": "FRANCE"
     },
     {
+      "id": "MEM–FRANCE–PRUSSIA",
+      "label": "PRUSSIA",
+      "civilization": "FRANCE"
+    },
+    {
       "id": "MEM–FRANCE–REIMS",
       "label": "REIMS",
       "civilization": "FRANCE"
@@ -2276,7 +2286,7 @@
       "civilization": "FRANCE"
     },
     {
-      "id": "MEM–FRANCE–WAR–HUNDRED–YEARS",
+      "id": "MEM–FRANCE–HUNDRED–YEARS–WAR",
       "label": "WAR–HUNDRED–YEARS",
       "civilization": "FRANCE"
     },
@@ -2381,7 +2391,7 @@
       "civilization": "FRANCE"
     },
     {
-      "id": "MEM–FRANCE–WAR–THIRTY–YEARS",
+      "id": "MEM–FRANCE–THIRTY–YEARS–WAR",
       "label": "WAR–THIRTY–YEARS",
       "civilization": "FRANCE"
     },
@@ -3041,8 +3051,8 @@
       "civilization": "GERMANY"
     },
     {
-      "id": "MEM–GERMANY–WAR–AUSTRO–PRUSSIAN",
-      "label": "WAR–AUSTRO–PRUSSIAN",
+      "id": "MEM–GERMANY–AUSTRO–PRUSSIAN–WAR",
+      "label": "AUSTRO–PRUSSIAN–WAR",
       "civilization": "GERMANY"
     },
     {
@@ -3056,8 +3066,8 @@
       "civilization": "GERMANY"
     },
     {
-      "id": "MEM–GERMANY–WAR–DANO–PRUSSIAN",
-      "label": "WAR–DANO–PRUSSIAN",
+      "id": "MEM–GERMANY–DANO–PRUSSIAN–WAR",
+      "label": "DANO–PRUSSIAN–WAR",
       "civilization": "GERMANY"
     },
     {
@@ -3071,8 +3081,8 @@
       "civilization": "GERMANY"
     },
     {
-      "id": "MEM–GERMANY–WAR–FRANCO–PRUSSIAN",
-      "label": "WAR–FRANCO–PRUSSIAN",
+      "id": "MEM–GERMANY–FRANCO–PRUSSIAN–WAR",
+      "label": "FRANCO–PRUSSIAN–WAR",
       "civilization": "GERMANY"
     },
     {
@@ -3096,8 +3106,8 @@
       "civilization": "GERMANY"
     },
     {
-      "id": "MEM–GERMANY–WAR–MOLTKE",
-      "label": "WAR–MOLTKE",
+      "id": "MEM–GERMANY–PRUSSIA–MOLTKE",
+      "label": "PRUSSIA–MOLTKE",
       "civilization": "GERMANY"
     },
     {
@@ -3116,8 +3126,8 @@
       "civilization": "GERMANY"
     },
     {
-      "id": "MEM–GERMANY–WAR–PRUSSIAN–CRUSADE",
-      "label": "WAR–PRUSSIAN–CRUSADE",
+      "id": "MEM–GERMANY–PRUSSIAN–CRUSADE",
+      "label": "PRUSSIAN–CRUSADE",
       "civilization": "GERMANY"
     },
     {
@@ -3156,7 +3166,7 @@
       "civilization": "GERMANY"
     },
     {
-      "id": "MEM–GERMANY–WAR–THIRTY–YEARS",
+      "id": "MEM–GERMANY–THIRTY–YEARS–WAR",
       "label": "WAR–THIRTY–YEARS",
       "civilization": "GERMANY"
     },
@@ -10984,7 +10994,7 @@
     },
     {
       "source": "MEM–ANGLIA–HENRY–V",
-      "target": "MEM–FRANCE–WAR–HUNDRED–YEARS",
+      "target": "MEM–FRANCE–HUNDRED–YEARS–WAR",
       "type": "CONNECTOR_PAIR"
     },
     {
@@ -12514,7 +12524,7 @@
     },
     {
       "source": "MEM–ANGLIA–WAR–SPANISH–ARMADA",
-      "target": "MEM–FRANCE–WAR–HUNDRED–YEARS",
+      "target": "MEM–FRANCE–HUNDRED–YEARS–WAR",
       "type": "CONNECTOR_PAIR"
     },
     {
@@ -14224,7 +14234,7 @@
     },
     {
       "source": "MEM–FRANCE–ANJOU",
-      "target": "MEM–FRANCE–WAR–HUNDRED–YEARS",
+      "target": "MEM–FRANCE–HUNDRED–YEARS–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -14269,7 +14279,7 @@
     },
     {
       "source": "MEM–FRANCE–AQUITAINE",
-      "target": "MEM–FRANCE–WAR–HUNDRED–YEARS",
+      "target": "MEM–FRANCE–HUNDRED–YEARS–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -14429,7 +14439,7 @@
     },
     {
       "source": "MEM–FRANCE–BRITTANY",
-      "target": "MEM–FRANCE–WAR–HUNDRED–YEARS",
+      "target": "MEM–FRANCE–HUNDRED–YEARS–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -14474,7 +14484,7 @@
     },
     {
       "source": "MEM–FRANCE–CHARLEMAGNE",
-      "target": "MEM–FRANCE–WAR–THIRTY–YEARS",
+      "target": "MEM–FRANCE–THIRTY–YEARS–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -14684,7 +14694,7 @@
     },
     {
       "source": "MEM–FRANCE–ELEANOR–AQUITAINE",
-      "target": "MEM–FRANCE–WAR–HUNDRED–YEARS",
+      "target": "MEM–FRANCE–HUNDRED–YEARS–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -15209,7 +15219,7 @@
     },
     {
       "source": "MEM–FRANCE–GEO–ENGLISH–CHANNEL",
-      "target": "MEM–FRANCE–WAR–HUNDRED–YEARS",
+      "target": "MEM–FRANCE–HUNDRED–YEARS–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -15349,7 +15359,7 @@
     },
     {
       "source": "MEM–FRANCE–GEO–LOIRE–RIVER",
-      "target": "MEM–FRANCE–WAR–HUNDRED–YEARS",
+      "target": "MEM–FRANCE–HUNDRED–YEARS–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -15809,7 +15819,7 @@
     },
     {
       "source": "MEM–FRANCE–JACQUERIE",
-      "target": "MEM–FRANCE–WAR–HUNDRED–YEARS",
+      "target": "MEM–FRANCE–HUNDRED–YEARS–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -15854,7 +15864,7 @@
     },
     {
       "source": "MEM–FRANCE–JOAN–ARC",
-      "target": "MEM–FRANCE–WAR–HUNDRED–YEARS",
+      "target": "MEM–FRANCE–HUNDRED–YEARS–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -15889,7 +15899,7 @@
     },
     {
       "source": "MEM–FRANCE–LANGUEDOC",
-      "target": "MEM–FRANCE–WAR–HUNDRED–YEARS",
+      "target": "MEM–FRANCE–HUNDRED–YEARS–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -16019,7 +16029,7 @@
     },
     {
       "source": "MEM–FRANCE–LOUIS–XIV",
-      "target": "MEM–FRANCE–WAR–THIRTY–YEARS",
+      "target": "MEM–FRANCE–THIRTY–YEARS–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -16084,7 +16094,7 @@
     },
     {
       "source": "MEM–FRANCE–ORLEANS",
-      "target": "MEM–FRANCE–WAR–HUNDRED–YEARS",
+      "target": "MEM–FRANCE–HUNDRED–YEARS–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -16139,7 +16149,7 @@
     },
     {
       "source": "MEM–FRANCE–PARIS",
-      "target": "MEM–FRANCE–WAR–HUNDRED–YEARS",
+      "target": "MEM–FRANCE–HUNDRED–YEARS–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -16229,7 +16239,7 @@
     },
     {
       "source": "MEM–FRANCE–REIMS",
-      "target": "MEM–FRANCE–WAR–HUNDRED–YEARS",
+      "target": "MEM–FRANCE–HUNDRED–YEARS–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -16304,7 +16314,7 @@
     },
     {
       "source": "MEM–FRANCE–REIMS–CATHEDRAL",
-      "target": "MEM–FRANCE–WAR–HUNDRED–YEARS",
+      "target": "MEM–FRANCE–HUNDRED–YEARS–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -16364,7 +16374,7 @@
     },
     {
       "source": "MEM–FRANCE–RICHELIEU",
-      "target": "MEM–FRANCE–WAR–THIRTY–YEARS",
+      "target": "MEM–FRANCE–THIRTY–YEARS–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -16389,7 +16399,7 @@
     },
     {
       "source": "MEM–FRANCE–RICHELIEU",
-      "target": "MEM–GERMANY–WAR–THIRTY–YEARS",
+      "target": "MEM–GERMANY–THIRTY–YEARS–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -16469,7 +16479,7 @@
     },
     {
       "source": "MEM–FRANCE–SCI–FERMAT",
-      "target": "MEM–FRANCE–WAR–THIRTY–YEARS",
+      "target": "MEM–FRANCE–THIRTY–YEARS–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -16584,7 +16594,7 @@
     },
     {
       "source": "MEM–FRANCE–SCI–PASCAL",
-      "target": "MEM–FRANCE–WAR–THIRTY–YEARS",
+      "target": "MEM–FRANCE–THIRTY–YEARS–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -16804,7 +16814,7 @@
     },
     {
       "source": "MEM–FRANCE–TREATY–FRANKFURT",
-      "target": "MEM–GERMANY–WAR–FRANCO–PRUSSIAN",
+      "target": "MEM–GERMANY–FRANCO–PRUSSIAN–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -16844,7 +16854,7 @@
     },
     {
       "source": "MEM–FRANCE–WAR–AGINCOURT",
-      "target": "MEM–FRANCE–WAR–HUNDRED–YEARS",
+      "target": "MEM–FRANCE–HUNDRED–YEARS–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -17068,27 +17078,27 @@
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–FRANCE–WAR–HUNDRED–YEARS",
+      "source": "MEM–FRANCE–HUNDRED–YEARS–WAR",
       "target": "MEM–FRANCE–RICHELIEU",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–FRANCE–WAR–HUNDRED–YEARS",
+      "source": "MEM–FRANCE–HUNDRED–YEARS–WAR",
       "target": "MEM–FRANCE–LOUIS–XIV",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–FRANCE–WAR–HUNDRED–YEARS",
-      "target": "MEM–FRANCE–WAR–THIRTY–YEARS",
+      "source": "MEM–FRANCE–HUNDRED–YEARS–WAR",
+      "target": "MEM–FRANCE–THIRTY–YEARS–WAR",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–FRANCE–WAR–HUNDRED–YEARS",
+      "source": "MEM–FRANCE–HUNDRED–YEARS–WAR",
       "target": "MEM–ANGLIA–WAR–HUNDRED–YEARS",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–FRANCE–WAR–HUNDRED–YEARS",
+      "source": "MEM–FRANCE–HUNDRED–YEARS–WAR",
       "target": "MEM–GERMANY–PRUSSIA",
       "type": "SAME_CIV"
     },
@@ -17104,7 +17114,7 @@
     },
     {
       "source": "MEM–FRANCE–WAR–HUNDRED–YEARS–CRECY",
-      "target": "MEM–FRANCE–WAR–HUNDRED–YEARS",
+      "target": "MEM–FRANCE–HUNDRED–YEARS–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -17419,7 +17429,7 @@
     },
     {
       "source": "MEM–FRANCE–WAR–POITIERS",
-      "target": "MEM–FRANCE–WAR–HUNDRED–YEARS",
+      "target": "MEM–FRANCE–HUNDRED–YEARS–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -17493,32 +17503,32 @@
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–FRANCE–WAR–THIRTY–YEARS",
+      "source": "MEM–FRANCE–THIRTY–YEARS–WAR",
       "target": "MEM–FRANCE–RICHELIEU",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–FRANCE–WAR–THIRTY–YEARS",
+      "source": "MEM–FRANCE–THIRTY–YEARS–WAR",
       "target": "MEM–FRANCE–LOUIS–XIV",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–FRANCE–WAR–THIRTY–YEARS",
+      "source": "MEM–FRANCE–THIRTY–YEARS–WAR",
       "target": "MEM–FRANCE–WAR–SEVEN–YEARS",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–FRANCE–WAR–THIRTY–YEARS",
+      "source": "MEM–FRANCE–THIRTY–YEARS–WAR",
       "target": "MEM–FRANCE–NAPOLEON",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–FRANCE–WAR–THIRTY–YEARS",
-      "target": "MEM–GERMANY–WAR–THIRTY–YEARS",
+      "source": "MEM–FRANCE–THIRTY–YEARS–WAR",
+      "target": "MEM–GERMANY–THIRTY–YEARS–WAR",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–FRANCE–WAR–THIRTY–YEARS",
+      "source": "MEM–FRANCE–THIRTY–YEARS–WAR",
       "target": "MEM–GERMANY–PRUSSIA",
       "type": "SAME_CIV"
     },
@@ -17724,7 +17734,7 @@
     },
     {
       "source": "MEM–GERMANY–ALSACE–LORRAINE",
-      "target": "MEM–GERMANY–WAR–FRANCO–PRUSSIAN",
+      "target": "MEM–GERMANY–FRANCO–PRUSSIAN–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -17968,6 +17978,16 @@
       "type": "CONNECTOR_PAIR"
     },
     {
+      "source": "MEM–GERMANY–AUSTRIA",
+      "target": "MEM–FRANCE–AUSTRIA",
+      "type": "CONNECTOR_PAIR"
+    },
+    {
+      "source": "MEM–GERMANY–PRUSSIA",
+      "target": "MEM–FRANCE–PRUSSIA",
+      "type": "CONNECTOR_PAIR"
+    },
+    {
       "source": "MEM–GERMANY–AUSTRIA–HOLY–ALLIANCE",
       "target": "MEM–GERMANY–CONGRESS–VIENNA",
       "type": "SAME_CIV"
@@ -18109,7 +18129,7 @@
     },
     {
       "source": "MEM–GERMANY–BAVARIA",
-      "target": "MEM–GERMANY–WAR–THIRTY–YEARS",
+      "target": "MEM–GERMANY–THIRTY–YEARS–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -18174,7 +18194,7 @@
     },
     {
       "source": "MEM–GERMANY–BAVARIA–MUNICH",
-      "target": "MEM–GERMANY–WAR–THIRTY–YEARS",
+      "target": "MEM–GERMANY–THIRTY–YEARS–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -18204,7 +18224,7 @@
     },
     {
       "source": "MEM–GERMANY–BELGIUM",
-      "target": "MEM–GERMANY–WAR–MOLTKE",
+      "target": "MEM–GERMANY–PRUSSIA–MOLTKE",
       "type": "SAME_CIV"
     },
     {
@@ -18329,17 +18349,17 @@
     },
     {
       "source": "MEM–GERMANY–BISMARCK",
-      "target": "MEM–GERMANY–WAR–FRANCO–PRUSSIAN",
+      "target": "MEM–GERMANY–FRANCO–PRUSSIAN–WAR",
       "type": "SAME_CIV"
     },
     {
       "source": "MEM–GERMANY–BISMARCK",
-      "target": "MEM–GERMANY–WAR–AUSTRO–PRUSSIAN",
+      "target": "MEM–GERMANY–AUSTRO–PRUSSIAN–WAR",
       "type": "SAME_CIV"
     },
     {
       "source": "MEM–GERMANY–BISMARCK",
-      "target": "MEM–GERMANY–WAR–DANO–PRUSSIAN",
+      "target": "MEM–GERMANY–DANO–PRUSSIAN–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -18364,7 +18384,7 @@
     },
     {
       "source": "MEM–GERMANY–BISMARCK",
-      "target": "MEM–GERMANY–WAR–MOLTKE",
+      "target": "MEM–GERMANY–PRUSSIA–MOLTKE",
       "type": "SAME_CIV"
     },
     {
@@ -18409,7 +18429,7 @@
     },
     {
       "source": "MEM–GERMANY–BOHEMIA–PRAGUE",
-      "target": "MEM–GERMANY–WAR–THIRTY–YEARS",
+      "target": "MEM–GERMANY–THIRTY–YEARS–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -18429,7 +18449,7 @@
     },
     {
       "source": "MEM–GERMANY–BOHEMIA–PRAGUE",
-      "target": "MEM–FRANCE–WAR–THIRTY–YEARS",
+      "target": "MEM–FRANCE–THIRTY–YEARS–WAR",
       "type": "CONNECTOR_PAIR"
     },
     {
@@ -18469,7 +18489,7 @@
     },
     {
       "source": "MEM–GERMANY–BREMEN",
-      "target": "MEM–GERMANY–WAR–THIRTY–YEARS",
+      "target": "MEM–GERMANY–THIRTY–YEARS–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -18524,7 +18544,7 @@
     },
     {
       "source": "MEM–GERMANY–CHARLEMAGNE",
-      "target": "MEM–GERMANY–WAR–THIRTY–YEARS",
+      "target": "MEM–GERMANY–THIRTY–YEARS–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -18589,7 +18609,7 @@
     },
     {
       "source": "MEM–GERMANY–CONGRESS–PARIS",
-      "target": "MEM–GERMANY–WAR–FRANCO–PRUSSIAN",
+      "target": "MEM–GERMANY–FRANCO–PRUSSIAN–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -18734,7 +18754,7 @@
     },
     {
       "source": "MEM–GERMANY–DENMARK",
-      "target": "MEM–GERMANY–WAR–DANO–PRUSSIAN",
+      "target": "MEM–GERMANY–DANO–PRUSSIAN–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -18919,7 +18939,7 @@
     },
     {
       "source": "MEM–GERMANY–FRANCE",
-      "target": "MEM–GERMANY–WAR–FRANCO–PRUSSIAN",
+      "target": "MEM–GERMANY–FRANCO–PRUSSIAN–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -19589,7 +19609,7 @@
     },
     {
       "source": "MEM–GERMANY–GUTENBERG",
-      "target": "MEM–GERMANY–WAR–THIRTY–YEARS",
+      "target": "MEM–GERMANY–THIRTY–YEARS–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -19719,7 +19739,7 @@
     },
     {
       "source": "MEM–GERMANY–HANSEATIC–LEAGUE",
-      "target": "MEM–GERMANY–WAR–THIRTY–YEARS",
+      "target": "MEM–GERMANY–THIRTY–YEARS–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -19769,7 +19789,7 @@
     },
     {
       "source": "MEM–GERMANY–HIST–CLAUSEWITZ",
-      "target": "MEM–GERMANY–WAR–MOLTKE",
+      "target": "MEM–GERMANY–PRUSSIA–MOLTKE",
       "type": "SAME_CIV"
     },
     {
@@ -19779,7 +19799,7 @@
     },
     {
       "source": "MEM–GERMANY–HIST–CLAUSEWITZ",
-      "target": "MEM–GERMANY–WAR–FRANCO–PRUSSIAN",
+      "target": "MEM–GERMANY–FRANCO–PRUSSIAN–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -19864,7 +19884,7 @@
     },
     {
       "source": "MEM–GERMANY–HITLER",
-      "target": "MEM–GERMANY–WAR–FRANCO–PRUSSIAN",
+      "target": "MEM–GERMANY–FRANCO–PRUSSIAN–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -19894,7 +19914,7 @@
     },
     {
       "source": "MEM–GERMANY–HITLER",
-      "target": "MEM–GERMANY–WAR–THIRTY–YEARS",
+      "target": "MEM–GERMANY–THIRTY–YEARS–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -19939,7 +19959,7 @@
     },
     {
       "source": "MEM–GERMANY–HOLY–ROMAN–EMPIRE",
-      "target": "MEM–GERMANY–WAR–THIRTY–YEARS",
+      "target": "MEM–GERMANY–THIRTY–YEARS–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -20104,7 +20124,7 @@
     },
     {
       "source": "MEM–GERMANY–LAW–GROTIUS",
-      "target": "MEM–GERMANY–WAR–THIRTY–YEARS",
+      "target": "MEM–GERMANY–THIRTY–YEARS–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -20169,7 +20189,7 @@
     },
     {
       "source": "MEM–GERMANY–LIT–ERASMUS",
-      "target": "MEM–GERMANY–WAR–THIRTY–YEARS",
+      "target": "MEM–GERMANY–THIRTY–YEARS–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -20619,7 +20639,7 @@
     },
     {
       "source": "MEM–GERMANY–LUBECK",
-      "target": "MEM–GERMANY–WAR–THIRTY–YEARS",
+      "target": "MEM–GERMANY–THIRTY–YEARS–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -20664,7 +20684,7 @@
     },
     {
       "source": "MEM–GERMANY–NETHERLANDS–AMSTERDAM",
-      "target": "MEM–GERMANY–WAR–THIRTY–YEARS",
+      "target": "MEM–GERMANY–THIRTY–YEARS–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -20729,7 +20749,7 @@
     },
     {
       "source": "MEM–GERMANY–NETHERLANDS–DUTCH–REPUBLIC",
-      "target": "MEM–GERMANY–WAR–THIRTY–YEARS",
+      "target": "MEM–GERMANY–THIRTY–YEARS–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -20949,7 +20969,7 @@
     },
     {
       "source": "MEM–GERMANY–NUREMBERG",
-      "target": "MEM–GERMANY–WAR–THIRTY–YEARS",
+      "target": "MEM–GERMANY–THIRTY–YEARS–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -21249,7 +21269,7 @@
     },
     {
       "source": "MEM–GERMANY–ROTHSCHILD",
-      "target": "MEM–GERMANY–WAR–FRANCO–PRUSSIAN",
+      "target": "MEM–GERMANY–FRANCO–PRUSSIAN–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -21294,7 +21314,7 @@
     },
     {
       "source": "MEM–GERMANY–RUSSIA",
-      "target": "MEM–GERMANY–WAR–FRANCO–PRUSSIAN",
+      "target": "MEM–GERMANY–FRANCO–PRUSSIAN–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -21344,7 +21364,7 @@
     },
     {
       "source": "MEM–GERMANY–SAXONY",
-      "target": "MEM–GERMANY–WAR–THIRTY–YEARS",
+      "target": "MEM–GERMANY–THIRTY–YEARS–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -21669,7 +21689,7 @@
     },
     {
       "source": "MEM–GERMANY–SWEDEN",
-      "target": "MEM–GERMANY–WAR–THIRTY–YEARS",
+      "target": "MEM–GERMANY–THIRTY–YEARS–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -21689,7 +21709,7 @@
     },
     {
       "source": "MEM–GERMANY–SWEDEN–GUSTAVUS–ADOLPHUS",
-      "target": "MEM–GERMANY–WAR–THIRTY–YEARS",
+      "target": "MEM–GERMANY–THIRTY–YEARS–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -21769,7 +21789,7 @@
     },
     {
       "source": "MEM–GERMANY–SWEDEN–STOCKHOLM",
-      "target": "MEM–GERMANY–WAR–THIRTY–YEARS",
+      "target": "MEM–GERMANY–THIRTY–YEARS–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -21814,7 +21834,7 @@
     },
     {
       "source": "MEM–GERMANY–SWEDEN–STOCKHOLM",
-      "target": "MEM–GERMANY–WAR–FRANCO–PRUSSIAN",
+      "target": "MEM–GERMANY–FRANCO–PRUSSIAN–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -21844,7 +21864,7 @@
     },
     {
       "source": "MEM–GERMANY–TEUTONIC–ORDER",
-      "target": "MEM–GERMANY–WAR–PRUSSIAN–CRUSADE",
+      "target": "MEM–GERMANY–PRUSSIAN–CRUSADE",
       "type": "SAME_CIV"
     },
     {
@@ -21929,7 +21949,7 @@
     },
     {
       "source": "MEM–GERMANY–WAR–AUSTERLITZ",
-      "target": "MEM–GERMANY–WAR–FRANCO–PRUSSIAN",
+      "target": "MEM–GERMANY–FRANCO–PRUSSIAN–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -21939,7 +21959,7 @@
     },
     {
       "source": "MEM–GERMANY–WAR–AUSTERLITZ",
-      "target": "MEM–GERMANY–WAR–MOLTKE",
+      "target": "MEM–GERMANY–PRUSSIA–MOLTKE",
       "type": "SAME_CIV"
     },
     {
@@ -21969,7 +21989,7 @@
     },
     {
       "source": "MEM–GERMANY–WAR–AUSTRIAN–SUCCESSION",
-      "target": "MEM–GERMANY–WAR–AUSTRO–PRUSSIAN",
+      "target": "MEM–GERMANY–AUSTRO–PRUSSIAN–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -22018,72 +22038,72 @@
       "type": "CONNECTOR_PAIR"
     },
     {
-      "source": "MEM–GERMANY–WAR–AUSTRO–PRUSSIAN",
+      "source": "MEM–GERMANY–AUSTRO–PRUSSIAN–WAR",
       "target": "MEM–GERMANY–BISMARCK",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–AUSTRO–PRUSSIAN",
+      "source": "MEM–GERMANY–AUSTRO–PRUSSIAN–WAR",
       "target": "MEM–GERMANY–PRUSSIA",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–AUSTRO–PRUSSIAN",
+      "source": "MEM–GERMANY–AUSTRO–PRUSSIAN–WAR",
       "target": "MEM–GERMANY–AUSTRIA",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–AUSTRO–PRUSSIAN",
+      "source": "MEM–GERMANY–AUSTRO–PRUSSIAN–WAR",
       "target": "MEM–GERMANY–DYNASTY–HOHENZOLLERN",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–AUSTRO–PRUSSIAN",
+      "source": "MEM–GERMANY–AUSTRO–PRUSSIAN–WAR",
       "target": "MEM–GERMANY–DYNASTY–HAPSBURG",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–AUSTRO–PRUSSIAN",
+      "source": "MEM–GERMANY–AUSTRO–PRUSSIAN–WAR",
       "target": "MEM–GERMANY–WAR–SILESIAN",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–AUSTRO–PRUSSIAN",
-      "target": "MEM–GERMANY–WAR–FRANCO–PRUSSIAN",
+      "source": "MEM–GERMANY–AUSTRO–PRUSSIAN–WAR",
+      "target": "MEM–GERMANY–FRANCO–PRUSSIAN–WAR",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–AUSTRO–PRUSSIAN",
+      "source": "MEM–GERMANY–AUSTRO–PRUSSIAN–WAR",
       "target": "MEM–GERMANY–SAXONY",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–AUSTRO–PRUSSIAN",
+      "source": "MEM–GERMANY–AUSTRO–PRUSSIAN–WAR",
       "target": "MEM–GERMANY–BOHEMIA",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–AUSTRO–PRUSSIAN",
+      "source": "MEM–GERMANY–AUSTRO–PRUSSIAN–WAR",
       "target": "MEM–GERMANY–HIST–CLAUSEWITZ",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–AUSTRO–PRUSSIAN",
+      "source": "MEM–GERMANY–AUSTRO–PRUSSIAN–WAR",
       "target": "MEM–GERMANY–PRUSSIA–FREDERICK–II",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–AUSTRO–PRUSSIAN",
+      "source": "MEM–GERMANY–AUSTRO–PRUSSIAN–WAR",
       "target": "MEM–GERMANY–GEO–ELBE–RIVER",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–AUSTRO–PRUSSIAN",
+      "source": "MEM–GERMANY–AUSTRO–PRUSSIAN–WAR",
       "target": "MEM–GERMANY–GEO–DANUBE",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–AUSTRO–PRUSSIAN",
+      "source": "MEM–GERMANY–AUSTRO–PRUSSIAN–WAR",
       "target": "MEM–RUSSIA–ROMANOV–ALEXANDER–II",
       "type": "CONNECTOR_PAIR"
     },
@@ -22124,7 +22144,7 @@
     },
     {
       "source": "MEM–GERMANY–WAR–CRUSADES",
-      "target": "MEM–GERMANY–WAR–THIRTY–YEARS",
+      "target": "MEM–GERMANY–THIRTY–YEARS–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -22144,7 +22164,7 @@
     },
     {
       "source": "MEM–GERMANY–WAR–CRUSADES",
-      "target": "MEM–GERMANY–WAR–PRUSSIAN–CRUSADE",
+      "target": "MEM–GERMANY–PRUSSIAN–CRUSADE",
       "type": "SAME_CIV"
     },
     {
@@ -22153,62 +22173,62 @@
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–DANO–PRUSSIAN",
+      "source": "MEM–GERMANY–DANO–PRUSSIAN–WAR",
       "target": "MEM–GERMANY–BISMARCK",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–DANO–PRUSSIAN",
-      "target": "MEM–GERMANY–WAR–AUSTRO–PRUSSIAN",
+      "source": "MEM–GERMANY–DANO–PRUSSIAN–WAR",
+      "target": "MEM–GERMANY–AUSTRO–PRUSSIAN–WAR",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–DANO–PRUSSIAN",
-      "target": "MEM–GERMANY–WAR–FRANCO–PRUSSIAN",
+      "source": "MEM–GERMANY–DANO–PRUSSIAN–WAR",
+      "target": "MEM–GERMANY–FRANCO–PRUSSIAN–WAR",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–DANO–PRUSSIAN",
+      "source": "MEM–GERMANY–DANO–PRUSSIAN–WAR",
       "target": "MEM–GERMANY–PRUSSIA",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–DANO–PRUSSIAN",
+      "source": "MEM–GERMANY–DANO–PRUSSIAN–WAR",
       "target": "MEM–GERMANY–DYNASTY–HOHENZOLLERN",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–DANO–PRUSSIAN",
-      "target": "MEM–GERMANY–WAR–MOLTKE",
+      "source": "MEM–GERMANY–DANO–PRUSSIAN–WAR",
+      "target": "MEM–GERMANY–PRUSSIA–MOLTKE",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–DANO–PRUSSIAN",
+      "source": "MEM–GERMANY–DANO–PRUSSIAN–WAR",
       "target": "MEM–GERMANY–AUSTRIA",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–DANO–PRUSSIAN",
+      "source": "MEM–GERMANY–DANO–PRUSSIAN–WAR",
       "target": "MEM–GERMANY–DANZIG",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–DANO–PRUSSIAN",
+      "source": "MEM–GERMANY–DANO–PRUSSIAN–WAR",
       "target": "MEM–GERMANY–GEO–BALTIC–SEA",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–DANO–PRUSSIAN",
+      "source": "MEM–GERMANY–DANO–PRUSSIAN–WAR",
       "target": "MEM–GERMANY–GEO–ELBE–RIVER",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–DANO–PRUSSIAN",
+      "source": "MEM–GERMANY–DANO–PRUSSIAN–WAR",
       "target": "MEM–ANGLIA–PALMERSTON",
       "type": "CONNECTOR_PAIR"
     },
     {
-      "source": "MEM–GERMANY–WAR–DANO–PRUSSIAN",
+      "source": "MEM–GERMANY–DANO–PRUSSIAN–WAR",
       "target": "MEM–RUSSIA–ROMANOV–ALEXANDER–II",
       "type": "CONNECTOR_PAIR"
     },
@@ -22264,7 +22284,7 @@
     },
     {
       "source": "MEM–GERMANY–WAR–FOURTH–CRUSADE",
-      "target": "MEM–GERMANY–WAR–PRUSSIAN–CRUSADE",
+      "target": "MEM–GERMANY–PRUSSIAN–CRUSADE",
       "type": "SAME_CIV"
     },
     {
@@ -22294,7 +22314,7 @@
     },
     {
       "source": "MEM–GERMANY–WAR–HUSSITE",
-      "target": "MEM–GERMANY–WAR–THIRTY–YEARS",
+      "target": "MEM–GERMANY–THIRTY–YEARS–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -22324,7 +22344,7 @@
     },
     {
       "source": "MEM–GERMANY–WAR–LEAGUE–AUGSBURG",
-      "target": "MEM–GERMANY–WAR–THIRTY–YEARS",
+      "target": "MEM–GERMANY–THIRTY–YEARS–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -22419,7 +22439,7 @@
     },
     {
       "source": "MEM–GERMANY–WAR–LIVONIAN–CRUSADE",
-      "target": "MEM–GERMANY–WAR–THIRTY–YEARS",
+      "target": "MEM–GERMANY–THIRTY–YEARS–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -22439,7 +22459,7 @@
     },
     {
       "source": "MEM–GERMANY–WAR–MOHACS",
-      "target": "MEM–GERMANY–WAR–THIRTY–YEARS",
+      "target": "MEM–GERMANY–THIRTY–YEARS–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -22473,57 +22493,57 @@
       "type": "CONNECTOR_PAIR"
     },
     {
-      "source": "MEM–GERMANY–WAR–MOLTKE",
+      "source": "MEM–GERMANY–PRUSSIA–MOLTKE",
       "target": "MEM–GERMANY–BISMARCK",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–MOLTKE",
-      "target": "MEM–GERMANY–WAR–FRANCO–PRUSSIAN",
+      "source": "MEM–GERMANY–PRUSSIA–MOLTKE",
+      "target": "MEM–GERMANY–FRANCO–PRUSSIAN–WAR",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–MOLTKE",
-      "target": "MEM–GERMANY–WAR–AUSTRO–PRUSSIAN",
+      "source": "MEM–GERMANY–PRUSSIA–MOLTKE",
+      "target": "MEM–GERMANY–AUSTRO–PRUSSIAN–WAR",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–MOLTKE",
-      "target": "MEM–GERMANY–WAR–DANO–PRUSSIAN",
+      "source": "MEM–GERMANY–PRUSSIA–MOLTKE",
+      "target": "MEM–GERMANY–DANO–PRUSSIAN–WAR",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–MOLTKE",
+      "source": "MEM–GERMANY–PRUSSIA–MOLTKE",
       "target": "MEM–GERMANY–HIST–CLAUSEWITZ",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–MOLTKE",
+      "source": "MEM–GERMANY–PRUSSIA–MOLTKE",
       "target": "MEM–GERMANY–WILHELM–II",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–MOLTKE",
+      "source": "MEM–GERMANY–PRUSSIA–MOLTKE",
       "target": "MEM–GERMANY–PRUSSIA",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–MOLTKE",
+      "source": "MEM–GERMANY–PRUSSIA–MOLTKE",
       "target": "MEM–GERMANY–PRUSSIA–FREDERICK–II",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–MOLTKE",
+      "source": "MEM–GERMANY–PRUSSIA–MOLTKE",
       "target": "MEM–GERMANY–GEO–RHINE–RIVER",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–MOLTKE",
+      "source": "MEM–GERMANY–PRUSSIA–MOLTKE",
       "target": "MEM–GERMANY–GEO–ELBE–RIVER",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–MOLTKE",
+      "source": "MEM–GERMANY–PRUSSIA–MOLTKE",
       "target": "MEM–FRANCE–NAPOLEON",
       "type": "CONNECTOR_PAIR"
     },
@@ -22559,7 +22579,7 @@
     },
     {
       "source": "MEM–GERMANY–FRANCE–NAPOLEON",
-      "target": "MEM–GERMANY–WAR–FRANCO–PRUSSIAN",
+      "target": "MEM–GERMANY–FRANCO–PRUSSIAN–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -22589,7 +22609,7 @@
     },
     {
       "source": "MEM–GERMANY–WAR–OTTOMAN–HABSBURG",
-      "target": "MEM–GERMANY–WAR–THIRTY–YEARS",
+      "target": "MEM–GERMANY–THIRTY–YEARS–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -22668,67 +22688,67 @@
       "type": "CONNECTOR_PAIR"
     },
     {
-      "source": "MEM–GERMANY–WAR–PRUSSIAN–CRUSADE",
+      "source": "MEM–GERMANY–PRUSSIAN–CRUSADE",
       "target": "MEM–GERMANY–TEUTONIC–ORDER",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–PRUSSIAN–CRUSADE",
+      "source": "MEM–GERMANY–PRUSSIAN–CRUSADE",
       "target": "MEM–GERMANY–PRUSSIA",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–PRUSSIAN–CRUSADE",
+      "source": "MEM–GERMANY–PRUSSIAN–CRUSADE",
       "target": "MEM–GERMANY–WAR–LIVONIAN–CRUSADE",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–PRUSSIAN–CRUSADE",
+      "source": "MEM–GERMANY–PRUSSIAN–CRUSADE",
       "target": "MEM–GERMANY–LIVONIA",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–PRUSSIAN–CRUSADE",
+      "source": "MEM–GERMANY–PRUSSIAN–CRUSADE",
       "target": "MEM–GERMANY–DANZIG",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–PRUSSIAN–CRUSADE",
+      "source": "MEM–GERMANY–PRUSSIAN–CRUSADE",
       "target": "MEM–GERMANY–HANSEATIC–LEAGUE",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–PRUSSIAN–CRUSADE",
+      "source": "MEM–GERMANY–PRUSSIAN–CRUSADE",
       "target": "MEM–GERMANY–LUBECK",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–PRUSSIAN–CRUSADE",
+      "source": "MEM–GERMANY–PRUSSIAN–CRUSADE",
       "target": "MEM–GERMANY–BISMARCK",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–PRUSSIAN–CRUSADE",
+      "source": "MEM–GERMANY–PRUSSIAN–CRUSADE",
       "target": "MEM–GERMANY–HOLY–ROMAN–EMPIRE",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–PRUSSIAN–CRUSADE",
+      "source": "MEM–GERMANY–PRUSSIAN–CRUSADE",
       "target": "MEM–GERMANY–PRUSSIA–FREDERICK–II",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–PRUSSIAN–CRUSADE",
+      "source": "MEM–GERMANY–PRUSSIAN–CRUSADE",
       "target": "MEM–GERMANY–HITLER",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–PRUSSIAN–CRUSADE",
+      "source": "MEM–GERMANY–PRUSSIAN–CRUSADE",
       "target": "MEM–GERMANY–POLAND",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–PRUSSIAN–CRUSADE",
+      "source": "MEM–GERMANY–PRUSSIAN–CRUSADE",
       "target": "MEM–GERMANY–GEO–VISTULA–RIVER",
       "type": "SAME_CIV"
     },
@@ -22749,7 +22769,7 @@
     },
     {
       "source": "MEM–GERMANY–WAR–SECOND–CRUSADE",
-      "target": "MEM–GERMANY–WAR–PRUSSIAN–CRUSADE",
+      "target": "MEM–GERMANY–PRUSSIAN–CRUSADE",
       "type": "SAME_CIV"
     },
     {
@@ -22779,7 +22799,7 @@
     },
     {
       "source": "MEM–GERMANY–WAR–SIEGE–VIENNA",
-      "target": "MEM–GERMANY–WAR–THIRTY–YEARS",
+      "target": "MEM–GERMANY–THIRTY–YEARS–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -22834,7 +22854,7 @@
     },
     {
       "source": "MEM–GERMANY–WAR–SILESIAN",
-      "target": "MEM–GERMANY–WAR–AUSTRO–PRUSSIAN",
+      "target": "MEM–GERMANY–AUSTRO–PRUSSIAN–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -22934,7 +22954,7 @@
     },
     {
       "source": "MEM–GERMANY–WAR–SWEDISH–NOVGORODIAN",
-      "target": "MEM–GERMANY–WAR–PRUSSIAN–CRUSADE",
+      "target": "MEM–GERMANY–PRUSSIAN–CRUSADE",
       "type": "SAME_CIV"
     },
     {
@@ -22994,7 +23014,7 @@
     },
     {
       "source": "MEM–GERMANY–WAR–TEUTOBURG–FOREST",
-      "target": "MEM–GERMANY–WAR–THIRTY–YEARS",
+      "target": "MEM–GERMANY–THIRTY–YEARS–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -23044,7 +23064,7 @@
     },
     {
       "source": "MEM–GERMANY–WAR–THIRD–CRUSADE",
-      "target": "MEM–GERMANY–WAR–PRUSSIAN–CRUSADE",
+      "target": "MEM–GERMANY–PRUSSIAN–CRUSADE",
       "type": "SAME_CIV"
     },
     {
@@ -23073,62 +23093,62 @@
       "type": "CONNECTOR_PAIR"
     },
     {
-      "source": "MEM–GERMANY–WAR–THIRTY–YEARS",
+      "source": "MEM–GERMANY–THIRTY–YEARS–WAR",
       "target": "MEM–GERMANY–WAR–TEUTOBURG–FOREST",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–THIRTY–YEARS",
+      "source": "MEM–GERMANY–THIRTY–YEARS–WAR",
       "target": "MEM–GERMANY–PRUSSIA",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–THIRTY–YEARS",
+      "source": "MEM–GERMANY–THIRTY–YEARS–WAR",
       "target": "MEM–GERMANY–BISMARCK",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–THIRTY–YEARS",
+      "source": "MEM–GERMANY–THIRTY–YEARS–WAR",
       "target": "MEM–GERMANY–HOLY–ROMAN–EMPIRE",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–THIRTY–YEARS",
+      "source": "MEM–GERMANY–THIRTY–YEARS–WAR",
       "target": "MEM–GERMANY–LUTHER",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–THIRTY–YEARS",
+      "source": "MEM–GERMANY–THIRTY–YEARS–WAR",
       "target": "MEM–GERMANY–DYNASTY–HAPSBURG",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–THIRTY–YEARS",
+      "source": "MEM–GERMANY–THIRTY–YEARS–WAR",
       "target": "MEM–GERMANY–BOHEMIA",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–THIRTY–YEARS",
+      "source": "MEM–GERMANY–THIRTY–YEARS–WAR",
       "target": "MEM–GERMANY–SAXONY",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–THIRTY–YEARS",
+      "source": "MEM–GERMANY–THIRTY–YEARS–WAR",
       "target": "MEM–GERMANY–SWEDEN–GUSTAVUS–ADOLPHUS",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–THIRTY–YEARS",
+      "source": "MEM–GERMANY–THIRTY–YEARS–WAR",
       "target": "MEM–GERMANY–GEO–RHINE–RIVER",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–THIRTY–YEARS",
+      "source": "MEM–GERMANY–THIRTY–YEARS–WAR",
       "target": "MEM–GERMANY–GEO–ELBE–RIVER",
       "type": "SAME_CIV"
     },
     {
-      "source": "MEM–GERMANY–WAR–THIRTY–YEARS",
+      "source": "MEM–GERMANY–THIRTY–YEARS–WAR",
       "target": "MEM–FRANCE–RICHELIEU",
       "type": "CONNECTOR_PAIR"
     },
@@ -23154,7 +23174,7 @@
     },
     {
       "source": "MEM–GERMANY–WAR–TIRPITZ",
-      "target": "MEM–GERMANY–WAR–MOLTKE",
+      "target": "MEM–GERMANY–PRUSSIA–MOLTKE",
       "type": "SAME_CIV"
     },
     {
@@ -23189,7 +23209,7 @@
     },
     {
       "source": "MEM–GERMANY–WAR–TIRPITZ",
-      "target": "MEM–GERMANY–WAR–FRANCO–PRUSSIAN",
+      "target": "MEM–GERMANY–FRANCO–PRUSSIAN–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -23249,7 +23269,7 @@
     },
     {
       "source": "MEM–GERMANY–WAR–WATERLOO",
-      "target": "MEM–GERMANY–WAR–MOLTKE",
+      "target": "MEM–GERMANY–PRUSSIA–MOLTKE",
       "type": "SAME_CIV"
     },
     {
@@ -23424,7 +23444,7 @@
     },
     {
       "source": "MEM–GERMANY–WILHELM–II",
-      "target": "MEM–GERMANY–WAR–FRANCO–PRUSSIAN",
+      "target": "MEM–GERMANY–FRANCO–PRUSSIAN–WAR",
       "type": "SAME_CIV"
     },
     {
@@ -43399,7 +43419,7 @@
     },
     {
       "source": "MEM–RUSSIA–WAR–LIVONIAN",
-      "target": "MEM–GERMANY–WAR–THIRTY–YEARS",
+      "target": "MEM–GERMANY–THIRTY–YEARS–WAR",
       "type": "CONNECTOR_PAIR"
     },
     {

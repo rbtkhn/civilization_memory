@@ -1,10 +1,10 @@
-MEM–GERMANY–WAR–THIRTY–YEARS — v2.0
+MEM–GERMANY–THIRTY–YEARS–WAR — v2.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 
 Status: ACTIVE
 Version: 2.1
-Supersedes: MEM–GERMANY–WAR–THIRTY–YEARS v2.0
+Supersedes: MEM–GERMANY–WAR–THIRTY–YEARS v2.0 (renamed)
 Civilization: GERMANY
 Subject: Thirty Years' War
 Dates: 1618–1648 AD
@@ -213,6 +213,12 @@ GEO MEMs:
 
 Cross-Civilizational:
 
+• MEM–FRANCE–THIRTY–YEARS–WAR
+  Connector pair: Same subject; France encoding = legitimacy inversion,
+  raison d'état breakthrough; Germany encoding = trauma, near-death,
+  restraint. Paired encodings.
+  Breaks if removed: Double-helix contrast absent.
+
 • MEM–FRANCE–RICHELIEU
   Dependency: Opportunistic intervention—France (Catholic) allied with
   Protestants against Catholic Habsburgs. Raison d'état trumped religion.
@@ -275,5 +281,5 @@ Primary/Secondary Verbatim: 6 quotes (Keegan, Wilson, Rady, Fried, Blanning, chr
 EQS Status: COMPLIANT
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANY–WAR–THIRTY–YEARS — v2.0
+END OF FILE — MEM–GERMANY–THIRTY–YEARS–WAR v2.1
 ────────────────────────────────────────────────────────────

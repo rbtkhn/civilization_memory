@@ -165,7 +165,7 @@ GERMANY (Same-Civilization):
   (58–50 BC) established Rhine as Roman frontier; Teutoburg confirmed it.
   Breaks if removed: Why Rhine was the boundary has no origin.
 
-• MEM–GERMANY–WAR–THIRTY–YEARS
+• MEM–GERMANY–THIRTY–YEARS–WAR
   Dependency: Later fragmentation catastrophe—Teutoburg shows successful
   resistance without state; Thirty Years shows failed state under pressure.
   Breaks if removed: Comparison between decentralized victory and

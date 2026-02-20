@@ -301,7 +301,7 @@ Same-civilization (≥10):
 • MEM–GERMANY–HOLY–ROMAN–EMPIRE — Imperial context
 • MEM–GERMANY–HABSBURG — Imperial dynasty
 • MEM–GERMANY–CHARLEMAGNE — Imperial origins
-• MEM–GERMANY–WAR–THIRTY–YEARS — Decline catalyst
+• MEM–GERMANY–THIRTY–YEARS–WAR — Decline catalyst
 • MEM–GERMANY–WAR–WORLD–II — Destruction context
 • MEM–GERMANY–PRUSSIA — Alternative state model
 • MEM–GERMANY–GOLDEN–BULL — Constitutional document

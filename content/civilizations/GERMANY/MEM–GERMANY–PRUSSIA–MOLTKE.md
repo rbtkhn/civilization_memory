@@ -1,10 +1,10 @@
-MEM–GERMANY–WAR–MOLTKE — v2.0
+MEM–GERMANY–PRUSSIA–MOLTKE — v2.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 
 Status: ACTIVE
 Version: 2.1
-Supersedes: MEM–GERMANY–WAR–MOLTKE v2.0
+Supersedes: MEM–GERMANY–WAR–MOLTKE v2.0 (renamed)
 Civilization: GERMANY
 Subject: Helmuth von Moltke the Elder (Operational War System)
 Dates: c. 1857–1888 AD (chief influence period)
@@ -163,17 +163,17 @@ GERMANY (Same-Civilization):
   Breaks if removed: Military-political partnership disappears; why
   wars ended when they did unintelligible.
 
-• MEM–GERMANY–WAR–FRANCO–PRUSSIAN
+• MEM–GERMANY–FRANCO–PRUSSIAN–WAR
   Dependency: Operational success—1870–71 campaign = fullest expression
   of Moltke's system.
   Breaks if removed: System validation disappears; method lacks proof case.
 
-• MEM–GERMANY–WAR–AUSTRO–PRUSSIAN
+• MEM–GERMANY–AUSTRO–PRUSSIAN–WAR
   Dependency: Seven weeks—1866 campaign demonstrated rapid decision
   through staff coordination.
   Breaks if removed: Why seven weeks was possible unexplained.
 
-• MEM–GERMANY–WAR–DANO–PRUSSIAN
+• MEM–GERMANY–DANO–PRUSSIAN–WAR
   Dependency: First application—1864 campaign = first test of Moltke's
   General Staff system.
   Breaks if removed: Sequential refinement pattern disappears.
@@ -266,5 +266,5 @@ Primary/Secondary Verbatim: 4 quotes (Moltke, Keegan)
 EQS Status: COMPLIANT
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANY–WAR–MOLTKE — v2.0
+END OF FILE — MEM–GERMANY–PRUSSIA–MOLTKE v2.1
 ────────────────────────────────────────────────────────────

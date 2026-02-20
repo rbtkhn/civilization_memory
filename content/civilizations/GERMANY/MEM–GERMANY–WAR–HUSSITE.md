@@ -253,7 +253,7 @@ GERMANY (Same-Civilization):
   Breaks if removed: Continuity between 15th-century reform and
   16th-century Reformation disappears.
 
-• MEM–GERMANY–WAR–THIRTY–YEARS
+• MEM–GERMANY–THIRTY–YEARS–WAR
   Dependency: Second Defenestration parallel—1618 Defenestration =
   echo of 1419; Bohemia as conflict origin point.
   Breaks if removed: Pattern recognition across centuries disappears.

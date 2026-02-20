@@ -344,7 +344,7 @@ SAME-CIVILIZATION CONNECTIONS (GERMANY):
   Dependency: Parallel crusade by Teutonic Order
   Breaks if removed: Coordinated pressure unexplained
 
-• MEM–GERMANY–WAR–PRUSSIAN–CRUSADE
+• MEM–GERMANY–PRUSSIAN–CRUSADE
   Dependency: Comparative conquest (success vs. failure)
   Breaks if removed: Pattern contrast missing
 

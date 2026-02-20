@@ -390,7 +390,7 @@ SAME-CIVILIZATION CONNECTIONS (GERMANY):
   Dependency: Commercial network that shaped Stockholm's economy
   Breaks if removed: German merchant presence unexplained
 
-• MEM–GERMANY–WAR–THIRTY–YEARS
+• MEM–GERMANY–THIRTY–YEARS–WAR
   Dependency: Conflict coordinated from Stockholm
   Breaks if removed: Strategic role undefined
 
@@ -426,7 +426,7 @@ SAME-CIVILIZATION CONNECTIONS (GERMANY):
   Dependency: Protestant ally in Thirty Years' War
   Breaks if removed: Coalition diplomacy obscured
 
-• MEM–GERMANY–WAR–FRANCO–PRUSSIAN
+• MEM–GERMANY–FRANCO–PRUSSIAN–WAR
   Dependency: War that ended French-Swedish alignment legacy
   Breaks if removed: Long-term pattern unclear
 

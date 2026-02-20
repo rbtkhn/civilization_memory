@@ -211,14 +211,14 @@ X. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 Internal (GERMANY):
 • MEM–GERMANY–BOHEMIA — ideological fault line analysis
-• MEM–GERMANY–WAR–THIRTY–YEARS — 1618 rupture consequences
+• MEM–GERMANY–THIRTY–YEARS–WAR — 1618 rupture consequences
 • MEM–GERMANY–AUSTRIA–VIENNA — imperial center relationship
 • MEM–GERMANY–NUREMBERG — symbolic capital contrast
 • MEM–GERMANY–HOLY–ROMAN–EMPIRE — Charles IV imperial residence
 
 Cross-Civilizational:
 • MEM–RUSSIA–WAR–1968 — Soviet intervention pattern
-• MEM–FRANCE–WAR–THIRTY–YEARS — French extraction from rupture
+• MEM–FRANCE–THIRTY–YEARS–WAR — French extraction from rupture
 
 GEO Connections:
 • MEM–GERMANY–GEO–ELBE–RIVER — Vltava-Elbe connection

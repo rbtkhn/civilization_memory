@@ -113,4 +113,4 @@ So the cluster is *not* coherent as an international-law-and-politics corpus. It
 
 ---
 
-*Audit conducted under SCHOLAR LEARN; Barnes cognition applied per CIV–MIND–BARNES. Constraint hierarchy: jurisdiction → personal liability → defection incentive → institutional survival → irreversibility. No MEM files were modified. Reference: MEM–FRANCE–WAR–FRANCO–PRUSSIAN, MEM–FRANCE–TREATY–FRANKFURT, MEM–FRANCE–WAR–THIRTY–YEARS, MEM–FRANCE–WAR–SPANISH–SUCCESSION, MEM–FRANCE–WAR–SEVEN–YEARS, MEM–FRANCE–WAR–NAPOLEON–WATERLOO.*
+*Audit conducted under SCHOLAR LEARN; Barnes cognition applied per CIV–MIND–BARNES. Constraint hierarchy: jurisdiction → personal liability → defection incentive → institutional survival → irreversibility. No MEM files were modified. Reference: MEM–FRANCE–WAR–FRANCO–PRUSSIAN, MEM–FRANCE–TREATY–FRANKFURT, MEM–FRANCE–THIRTY–YEARS–WAR, MEM–FRANCE–WAR–SPANISH–SUCCESSION, MEM–FRANCE–WAR–SEVEN–YEARS, MEM–FRANCE–WAR–NAPOLEON–WATERLOO.*

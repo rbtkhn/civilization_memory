@@ -287,7 +287,7 @@ XI. MEM CONNECTIONS (MANDATORY · v2.7 COMPLIANT)
 Same-Civilization (≥10):
 • MEM–FRANCE–WAR–POITIERS — next major defeat (1356)
 • MEM–FRANCE–WAR–AGINCOURT — culminating defeat (1415)
-• MEM–FRANCE–WAR–HUNDRED–YEARS — war context
+• MEM–FRANCE–HUNDRED–YEARS–WAR — war context
 • MEM–FRANCE–DYNASTY–VALOIS — ruling dynasty
 • MEM–FRANCE–JOAN–OF–ARC — eventual reversal
 • MEM–FRANCE–CALAIS — strategic consequence

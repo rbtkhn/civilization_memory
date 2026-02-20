@@ -155,7 +155,7 @@ GERMANY (Same-Civilization):
   participation was episodic and uncoordinated.
   Breaks if removed: Institutional context of failure disappears.
 
-• MEM–GERMANY–WAR–THIRTY–YEARS
+• MEM–GERMANY–THIRTY–YEARS–WAR
   Dependency: Later fragmentation catastrophe—same structural weakness
   that limited crusading later caused internal collapse.
   Breaks if removed: Pattern continuity across centuries disappears.
@@ -175,7 +175,7 @@ GERMANY (Same-Civilization):
   precedent for crusading imperial role.
   Breaks if removed: Why emperors felt obligated to crusade unexplained.
 
-• MEM–GERMANY–WAR–PRUSSIAN–CRUSADE
+• MEM–GERMANY–PRUSSIAN–CRUSADE
   Dependency: Northern crusade success—Teutonic success in Prussia
   contrasts with imperial failure in Levant.
   Breaks if removed: Comparative analysis of crusade outcomes disappears.

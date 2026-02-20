@@ -239,6 +239,12 @@ GEO MEMs:
 
 Cross-Civilizational:
 
+• MEM–FRANCE–AUSTRIA
+  Connector pair: Same subject; France encoding = Habsburg rival,
+  eastern wing of encirclement, defeated opponent; Germany encoding =
+  imperial core, institutionalized Germania. Paired encodings.
+  Breaks if removed: Double-helix contrast absent.
+
 • MEM–ISLAM–OTTOMAN–EMPIRE
   Dependency: Eastern adversary—Ottoman sieges of Vienna define Austrian
   role as Christendom's bulwark.

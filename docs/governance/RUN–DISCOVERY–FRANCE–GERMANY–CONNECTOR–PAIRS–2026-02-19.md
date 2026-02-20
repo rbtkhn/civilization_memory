@@ -24,8 +24,8 @@ II. CANONICAL CONNECTOR PAIRS (BOTH EXIST, NAMING ALIGNED)
 | Charlemagne        | MEM–FRANCE–CHARLEMAGNE             | MEM–GERMANY–CHARLEMAGNE              | ✓ PAIR |
 | Rhine River        | MEM–FRANCE–GEO–RHINE–RIVER         | MEM–GERMANY–GEO–RHINE–RIVER          | ✓ PAIR |
 | Alsace-Lorraine    | MEM–FRANCE–ALSACE–LORRAINE         | MEM–GERMANY–ALSACE–LORRAINE          | ✓ PAIR |
-| Franco-Prussian War| MEM–FRANCE–WAR–FRANCO–PRUSSIAN     | MEM–GERMANY–WAR–FRANCO–PRUSSIAN      | ✓ PAIR |
-| Thirty Years' War  | MEM–FRANCE–WAR–THIRTY–YEARS        | MEM–GERMANY–WAR–THIRTY–YEARS         | ✓ PAIR |
+| Franco-Prussian War| MEM–FRANCE–WAR–FRANCO–PRUSSIAN     | MEM–GERMANY–FRANCO–PRUSSIAN–WAR      | ✓ PAIR |
+| Thirty Years' War  | MEM–FRANCE–THIRTY–YEARS–WAR        | MEM–GERMANY–THIRTY–YEARS–WAR         | ✓ PAIR |
 | Crusades           | MEM–FRANCE–WAR–CRUSADES            | MEM–GERMANY–WAR–CRUSADES             | ✓ PAIR |
 | Austrian Succession| MEM–FRANCE–WAR–AUSTRIAN–SUCCESSION | MEM–GERMANY–WAR–AUSTRIAN–SUCCESSION  | ✓ PAIR |
 | Spanish Succession | MEM–FRANCE–WAR–SPANISH–SUCCESSION  | MEM–GERMANY–WAR–SPANISH–SUCCESSION   | ✓ PAIR |
@@ -48,7 +48,7 @@ III. PAIRS WITH ASYMMETRIC NAMING (SAME SUBJECT)
 | Waterloo   | MEM–FRANCE–WAR–NAPOLEON–WATERLOO   | MEM–GERMANY–WAR–WATERLOO       | France embeds Napoleon; Germany event-only |
 | Austerlitz | MEM–FRANCE–WAR–NAPOLEON–AUSTERLITZ | MEM–GERMANY–WAR–AUSTERLITZ     | Same |
 | Napoleon (general) | MEM–FRANCE–NAPOLEON         | MEM–GERMANY–FRANCE–NAPOLEON       | France: person; Germany: war/period |
-| Seven Years' War | MEM–FRANCE–WAR–SEVEN–YEARS  | MEM–GERMANY–WAR–SEVEN–YEARS    | ✓ Both exist (Germany file may lack .md in some paths) |
+| Seven Years' War | MEM–FRANCE–WAR–SEVEN–YEARS  | MEM–GERMANY–PRUSSIA–SEVEN–YEARS–WAR (primary); MEM–GERMANY–AUSTRIA–SEVEN–YEARS–WAR (secondary) | ✓ Both exist; Germany split into Prussia/Austria encodings |
 
 ────────────────────────────────────────────────────────────
 IV. GAPS (ONE SIDE EXISTS, OTHER MISSING)
@@ -123,12 +123,12 @@ Use the following as the initial **canonical connector pairs** for CONCEPT–FRA
 | Carolingian dynasty| MEM–FRANCE–DYNASTY–CAROLINGIAN     | MEM–GERMANY–DYNASTY–CAROLINGIAN      |
 | Rhine River        | MEM–FRANCE–GEO–RHINE–RIVER         | MEM–GERMANY–GEO–RHINE–RIVER          |
 | Alsace-Lorraine    | MEM–FRANCE–ALSACE–LORRAINE         | MEM–GERMANY–ALSACE–LORRAINE          |
-| Thirty Years' War  | MEM–FRANCE–WAR–THIRTY–YEARS        | MEM–GERMANY–WAR–THIRTY–YEARS         |
-| Seven Years' War   | MEM–FRANCE–WAR–SEVEN–YEARS         | MEM–GERMANY–WAR–SEVEN–YEARS          |
+| Thirty Years' War  | MEM–FRANCE–THIRTY–YEARS–WAR        | MEM–GERMANY–THIRTY–YEARS–WAR         |
+| Seven Years' War   | MEM–FRANCE–WAR–SEVEN–YEARS         | MEM–GERMANY–PRUSSIA–SEVEN–YEARS–WAR (primary); MEM–GERMANY–AUSTRIA–SEVEN–YEARS–WAR (secondary) |
 | Crusades           | MEM–FRANCE–WAR–CRUSADES            | MEM–GERMANY–WAR–CRUSADES             |
 | Napoleonic period  | MEM–FRANCE–NAPOLEON                | MEM–GERMANY–FRANCE–NAPOLEON             |
 | Waterloo           | MEM–FRANCE–WAR–NAPOLEON–WATERLOO   | MEM–GERMANY–WAR–WATERLOO             |
-| Franco-Prussian War| MEM–FRANCE–WAR–FRANCO–PRUSSIAN     | MEM–GERMANY–WAR–FRANCO–PRUSSIAN      |
+| Franco-Prussian War| MEM–FRANCE–WAR–FRANCO–PRUSSIAN     | MEM–GERMANY–FRANCO–PRUSSIAN–WAR      |
 | Treaty of Frankfurt| MEM–FRANCE–TREATY–FRANKFURT        | (subsumed in WAR–FRANCO–PRUSSIAN)    |
 | Austria-Hungary    | MEM–FRANCE–AUSTRIA–HUNGARY         | MEM–GERMANY–AUSTRIA–HUNGARY          |
 | Belgium            | MEM–FRANCE–BELGIUM                 | MEM–GERMANY–BELGIUM                  |
