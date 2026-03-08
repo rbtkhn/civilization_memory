@@ -17,7 +17,7 @@ ARC Reference: CIV–ARC–PERSIA v3.1
 Authority Flow (NON-REVERSIBLE): CIV–MEM–CORE → CIV–MEM–TEMPLATE → CIV–SCHOLAR–TEMPLATE → CIV–SCHOLAR–PERSIA
 Last Update: February 2026
 
-Upgrade Type: ADDITIVE · WAR corpus integration; v2.0 MEM batch; Persia–Islam overlap (Mearsheimer); Source MEM expansion; GEO four-zone + overextension liability (ENTRY 0006, SYNTHESIS 0005); STATE→Scholar relay (ENTRY 0007); SYNTHESIS 0005 accepted as doctrine → CIV–DOCTRINE–PERSIA DOCTRINE 01 (DIB–PERSIA 2026-02). SYNTHESIS 0004 accepted as doctrine → CIV–DOCTRINE–PERSIA DOCTRINE 02 (DIB–PERSIA 2026-02-17; RUN–EXERCISE–A). RELAY: ENTRY 0008 — binding-exercises summary (A–D) and outcomes relayed to LEARN session.
+Upgrade Type: ADDITIVE · WAR corpus integration; v2.0 MEM batch; Persia–Islam overlap (Mearsheimer); Source MEM expansion; GEO four-zone + overextension liability (ENTRY 0006, SYNTHESIS 0005); STATE→Scholar relay (ENTRY 0007); SYNTHESIS 0005 accepted as doctrine → CIV–DOCTRINE–PERSIA DOCTRINE 01 (DIB–PERSIA 2026-02). SYNTHESIS 0004 accepted as doctrine → CIV–DOCTRINE–PERSIA DOCTRINE 02 (DIB–PERSIA 2026-02-17; RUN–EXERCISE–A). RELAY: ENTRY 0008 — binding-exercises summary (A–D) and outcomes relayed to LEARN session. RELAY: ENTRY 0009 — war-phase application (exhaustion, external shock, relocation asymmetry, Carrhae vs Khosrow calibration band); SYNTHESIS 0006 (Relocation asymmetry, CANDIDATE); pattern notes (X.B) (STATE→Scholar transfer 2026-03-07).
 
 UPGRADE NOTE (v1.0 → v2.0): ENTRY 0004 (WAR corpus), 0005 (Persia–Islam); SYNTHESIS 0004 (Persia–Islam structural); Source MEMs expanded to 34; ARC v1.3. ADDITIVE: ENTRY 0006 (GEO cluster + Sasanian forward + Barnes liability); SYNTHESIS 0005 (GEO four-zone pattern + overextension liability; RLL candidate). RELAY: ENTRY 0007 (STATE session pending US–Iran escalation, week of 7 Feb 2026; application of GEO four-zone and Khosrow/Kavadh liability; Iran perspective).
 
@@ -108,6 +108,10 @@ Proposed new MEMs recorded here for WRITE-mode pickup. Source: LEARN/IMAGINE or 
 
 | Civ   | Proposed subject / title   | One-line rationale                    | Source (ENTRY/session/relay) | Status |
 |-------|----------------------------|---------------------------------------|-----------------------------|--------|
+
+X.B PATTERN NOTES (Ephemeral — STATE relay Mar 2026)
+• **Exhaustion and External Shock:** MEM precedent — Khosrow/Heraclius mutual exhaustion; Islamic conquests (602–628 aftermath); MEM–PERSIA–ISLAM (absorption); MEM–ROME–ISLAM (permanent loss). Discriminating question: who has "fresh" forces when both combatants depleted? External shock candidates: Russia, Turkey, Gulf (pivot vs collapse), Japan/SK, China. Paired encoding: Persia = absorption and civilizational survival; Rome = territorial and influence loss. Source: STATE Section VII; ENTRY 0009.
+• **Carrhae vs Khosrow calibration band:** Carrhae = denial at boundary (mobility, cost-imposition, no decisive engagement). Khosrow = maximal reach (Levant, Egypt) inviting reversal. Calibration band for Iran: stay in Carrhae band (denial, calibrated strikes) vs drift into Khosrow band (mass salvos on Gulf civilians, full Hormuz closure, maximal retaliation). Iran Decision Tracker divergence (user: Calibrate; Iran: Continue on Gulf strikes) = Iran currently in Khosrow band on that dimension. Source: MEM–PERSIA–WAR–CARRHAE, MEM–PERSIA–SASANIAN–KHOSROW–II; STATE Iran Decision 1; ENTRY 0009.
 
 ────────────────────────────────────────────────────────────
 XI. OGE SPECIFICATION (EMBEDDED)
@@ -284,6 +288,16 @@ Session continuation (LEARN): **Conflict-type test (DOCTRINE 02)** applied. Thre
 Belief Status:
 • UNFROZEN
 
+ENTRY 0009
+Source:
+• STATE session (relay); Iran–US/Israel war (active from ~28 Feb 2026); application of ENTRY 0006, SYNTHESIS 0003, 0005; MEM–PERSIA–SASANIAN–KHOSROW–II, MEM–PERSIA–WAR–ROME, MEM–PERSIA–ISLAM, MEM–ROME–ISLAM, MEM–ROME–EMPIRE–HERACLIUS
+Ingest Type:
+• Current-Event Application — Exhaustion, external shock, relocation asymmetry (STATE → Scholar relay)
+Primary Belief Extracted:
+• War-phase application of GEO and Khosrow patterns: (1) **Exhaustion and External Shock** — Khosrow/Heraclius mutual exhaustion; Islamic conquests filled vacuum; paired encoding (Persia absorption vs Rome permanent loss); external shock candidates when both sides deplete. (2) **Relocation asymmetry** — Iranians have no exit; Israelis have diaspora; Kavadh = elite defection (political exit); Israel = emigration risk; structural implication: Iran endurance tolerance raised, Israel hollowing risk. Double-edged no-exit: binds when regime narrative holds; fractures when "nowhere else to go" becomes grievance (RA-2 observable). (3) **Closure capacity** — US lacks it; 30–90 day erosion paths (standoff depletion, base loss, coalition fracture, material stress) likelier than gains. (4) **Carrhae vs Khosrow calibration band** — Carrhae = denial at boundary; Khosrow = maximal reach inviting reversal. Iran currently in Khosrow band on Gulf strikes (Decision 1 divergence). Tensions preserved. No doctrine or forecast; application only.
+Belief Status:
+• UNFROZEN
+
 ────────────────────────────────────────────────────────────
 XVII. BELIEF SYNTHESIS LOG
 ────────────────────────────────────────────────────────────
@@ -423,6 +437,19 @@ Content:
 
 Verdict: Pattern recorded; constraint-oriented; no closure. CCM applies. Accepted as doctrine → CIV–DOCTRINE–PERSIA DOCTRINE 01.
 
+SYNTHESIS 0006 — RELOCATION ASYMMETRY (CANDIDATE)
+Source: ENTRY 0009; STATE session relay (Mar 2026); MEM–PERSIA–SASANIAN–KHOSROW–II (Kavadh defection)
+Status: CANDIDATE (not yet accepted as doctrine)
+Confidence: UNBINDING (Phase I)
+
+Content:
+• Iranians have no exit (Iran = only home); Israelis have diaspora (Law of Return, emigration).
+• Kavadh analogue: elite defection (political exit); Israel analogue: emigration before political collapse.
+• Structural implication: Iran's endurance tolerance raised; Israel's hollowing risk.
+• Double-edged no-exit: "No exit" binds when regime narrative ("we have no choice but to defend") holds; fractures when "nowhere else to go" becomes grievance. Observable: RA-2 (Iranian cohesion) positive when no such event; negative when anti-regime framing uses exit-frustration.
+
+Verdict: CANDIDATE. For LEARN exploration; Assumptions Box and confidence tier if promoted.
+
 ────────────────────────────────────────────────────────────
 XVIII. DOCTRINE REGISTRY
 ────────────────────────────────────────────────────────────
@@ -457,10 +484,10 @@ Permitted:
 XXI. CURRENT STATUS
 ────────────────────────────────────────────────────────────
 Doctrine Count: 2
-Total Entries: 8
-Next Entry ID: 0009
+Total Entries: 9
+Next Entry ID: 0010
 Frozen Syntheses: 2
-Total Syntheses: 3
+Total Syntheses: 6
 SDI Entries: 0
 
 ────────────────────────────────────────────────────────────

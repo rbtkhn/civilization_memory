@@ -9,3 +9,8 @@ The session framed the US–Iran war, then in its fifth or sixth day, around thr
 
 ---
 
+### 2026-03-07 12:00 · TRANSFER
+War-phase insights from the Iran conflict—relocation asymmetry (Iranians have no exit, Israelis have diaspora), exhaustion and external shock, and the Carrhae vs Khosrow calibration band—were added to the Scholar record. A synthesis candidate on relocation asymmetry and two pattern notes were recorded for future learning.
+
+---
+
