@@ -1,19 +1,28 @@
-CIV–DOCTRINE–PERSIA — v1.2
+CIV–DOCTRINE–PERSIA — v1.3
 Civilizational Strategy Codex · Doctrine Register
 Doctrine-Only Extraction Layer
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 1.2
-Supersedes: CIV–DOCTRINE–PERSIA v1.1
-Upgrade Type: ADDITIVE · DOCTRINE 02 (SYNTHESIS 0004 promoted via DIB–PERSIA 2026-02-17)
+Version: 1.3
+Supersedes: CIV–DOCTRINE–PERSIA v1.2
+Upgrade Type: ADDITIVE · DOCTRINE 03, DOCTRINE 04 (DIB–PERSIA accepted 2026-03-09)
 Civilization: PERSIA
 Class: CIV–DOCTRINE (Doctrine Registry)
 Source Authority: DIB–PERSIA (Explicit Acceptance Only) · Scholar WRITE (per CIV–SCHOLAR–PERSIA § X)
 Compatibility: CIV–MEM–CORE · CIV–CORE–PERSIA v2.0 · CIV–SCHOLAR–PERSIA
 Governance Authority: CIV–MEM–CORE
 Derived from: CIV–DOCTRINE–TEMPLATE v3.2
-Last Update: February 2026
-Word Count: ~1,450
+Last Update: March 2026
+Word Count: ~1,900
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v1.3) — DOCTRINE 03, DOCTRINE 04
+────────────────────────────────────────────────────────────
+User requested addition of DOCTRINE 03 and DOCTRINE 04. DIB–PERSIA accepted 2026-03-09.
+
+• DOCTRINE 03 (ASYMMETRY OF PATIENCE): New doctrine. In parity conflict, the side that can endure without closure has structural advantage; denial, mobility, and tempo favour the patient defender; the stressed side tends to move first. MEM support: MEM–PERSIA–WAR–CARRHAE, MEM–PERSIA–WAR–ROME, MEM–PERSIA–PARTHIAN. Scope: strategic/temporal advantage in conflict (warfighting, standoff).
+
+• DOCTRINE 04 (CALIBRATED CHOKEPOINT LEVERAGE): New doctrine. Chokepoint leverage is exercised through calibrated denial (threat, harassment, selective restriction) rather than total closure; credible threat alters behavior; total closure is last resort. MEM support: MEM–PERSIA–GEO–PERSIAN–GULF.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.2) — DOCTRINE 02
@@ -101,6 +110,46 @@ Hard Constraints:
 
 ────────────────────────────────────────────────────────────
 
+DOCTRINE 03
+Name: ASYMMETRY OF PATIENCE
+Status: ACCEPTED · LOCKED · CANONICAL
+Source:
+• MEM–PERSIA–WAR–CARRHAE, MEM–PERSIA–WAR–ROME, MEM–PERSIA–PARTHIAN
+• DIB–PERSIA (Accepted 2026-03-09)
+
+Definition:
+In parity conflict, the side that can endure without closure has structural advantage. Denial, mobility, and tempo favour the patient defender; the side under greater time or material stress tends to move first. Patience is a form of leverage.
+
+Operational Meaning:
+• In warfighting and strategic standoff: assume endurance favours the defender in parity zones; the stressed side will seek closure or make first moves.
+• Do not rush to settle when denial can be sustained; tempo is a resource.
+• Scope: strategic/temporal advantage in conflict (warfighting, standoff). The negotiation variant (wait-for-them-to-bid) is observed behavior but not MEM-grounded.
+
+Hard Constraints:
+• Doctrine is invalid or must be reviewed if: (1) evidence shows the patient defender consistently loses or is forced to move first when doctrine predicts advantage; (2) stressed side is shown to gain systematically from delay in parity conflict.
+
+────────────────────────────────────────────────────────────
+
+DOCTRINE 04
+Name: CALIBRATED CHOKEPOINT LEVERAGE
+Status: ACCEPTED · LOCKED · CANONICAL
+Source:
+• MEM–PERSIA–GEO–PERSIAN–GULF
+• DIB–PERSIA (Accepted 2026-03-09)
+
+Definition:
+Chokepoint leverage is exercised through calibrated denial (threat, harassment, selective restriction) rather than total closure. Iran need not close the strait to extract leverage; the credible threat alters behavior. Total closure is last resort.
+
+Operational Meaning:
+• In Gulf zone: prefer threat and partial restriction over full closure; use leverage to impose cost and shape behavior, not to maximize disruption.
+• Preserve optionality and coalition pressure; calibrated use sustains credibility while avoiding irreversible escalation.
+• Complements DOCTRINE 01 Gulf zone; specifies *how* chokepoint advantage is exercised.
+
+Hard Constraints:
+• Doctrine is invalid or must be reviewed if: (1) evidence shows calibrated leverage consistently fails to alter adversary behavior where total closure would have succeeded; (2) total closure is shown to be systematically preferable to calibrated use in Gulf context.
+
+────────────────────────────────────────────────────────────
+
 ────────────────────────────────────────────────────────────
 III. EXPLICITLY EXCLUDED MATERIAL
 ────────────────────────────────────────────────────────────
@@ -109,8 +158,8 @@ No doctrines have been rejected at this stage. Draft doctrines, candidate belief
 ────────────────────────────────────────────────────────────
 IV. MIRRORING
 ────────────────────────────────────────────────────────────
-Per CIV–DOCTRINE–TEMPLATE § VIII: CIV–DOCTRINE–PERSIA is mirrored verbatim into CIV–CORE–PERSIA and CIV–SCHOLAR–PERSIA. This file remains the single source of truth for doctrine definitions. DOCTRINE 01 and DOCTRINE 02 are reflected in SCHOLAR Section XVIII (Doctrine Registry); mirror into CORE when governance provides.
+Per CIV–DOCTRINE–TEMPLATE § VIII: CIV–DOCTRINE–PERSIA is mirrored verbatim into CIV–CORE–PERSIA and CIV–SCHOLAR–PERSIA. This file remains the single source of truth for doctrine definitions. DOCTRINE 01, 02, 03, and 04 are reflected in SCHOLAR Section XVIII (Doctrine Registry); mirror into CORE when governance provides.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–DOCTRINE–PERSIA — v1.2
+END OF FILE — CIV–DOCTRINE–PERSIA — v1.3
 ────────────────────────────────────────────────────────────

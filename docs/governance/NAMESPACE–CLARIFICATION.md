@@ -3,8 +3,8 @@ Civilizational Memory Codex · Category Namespace Resolution
 Defect Remediation · Errata
 
 Status: ACTIVE · CANONICAL
-Governed by: CMC 3.3
-Version: 3.3
+Governed by: CMC 3.4
+Version: 3.4
 Class: GOVERNANCE (Errata)
 Addresses: ARC namespace collision (CRITICAL defect)
 Last Update: January 2026

@@ -1,20 +1,27 @@
-CIV–AXIOM–PERSIA — v1.0
+CIV–AXIOM–PERSIA — v1.1
 Civilizational Strategy Codex · Axiom Registry
 First-Principles Extraction Layer
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 1.0
+Version: 1.1
+Supersedes: CIV–AXIOM–PERSIA v1.0
+Upgrade Type: Scope/Limits refinement (004, 005, 008) — war-phase validation Mar 2026
 Civilization: PERSIA
 Class: CIV–AXIOM (Axiom Registry)
 Source Authority: CIV–CORE–PERSIA (Section I extraction)
 Compatibility: CIV–MEM–CORE · CIV–CORE–PERSIA v2.0 · CIV–SCHOLAR–PERSIA
 Derived from: CIV–CORE–PERSIA (Section I: Civilizational Identity & Prime Axioms)
 Template Version Used: CIV–AXIOM–TEMPLATE v1.0
-Last Update: February 2026
+Last Update: March 2026
 Word Count: ~1,100
 
 **DERIVATION CLAUSE (BINDING):**
 This axiom registry is **derived from CIV–CORE–PERSIA**. It does not originate axioms. All axioms below are extracted from CIV–CORE–PERSIA Section I (Civilizational Identity & Prime Axioms) and recorded in standard axiom format (Statement, Scope, Limits, Derivation). Authority flow: CIV–CORE–PERSIA → extraction → CIV–AXIOM–PERSIA. This file is the single registry for CORE-extracted axioms. Scholar-derived axioms may be added only after a synthesis is promoted to axiom and accepted by DIB–PERSIA.
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v1.1) — SCOPE/LIMITS REFINEMENT
+────────────────────────────────────────────────────────────
+War-phase validation (Iran War, Mar 2026) informed Scope/Limits refinement for AXIOM 004, 005, 008. Statement text unchanged; CORE remains source. Refinements: PERSIA-004 Limits — diplomacy hedged, deterrence precedes settlement; PERSIA-005 Scope — settlement and negotiation framing; PERSIA-008 Scope — sustained military pressure.
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & AUTHORITY
@@ -61,12 +68,12 @@ AXIOM PERSIA-003: Continuity through compression.
 AXIOM PERSIA-004: Structural suspicion operating system.
   Statement: External actors are assumed to run encirclement algorithms. Trust is never default; deterrence precedes diplomacy.
   Scope: External-actor assessment, diplomacy, and deterrence analysis.
-  Limits: Does not forbid diplomacy; encodes default posture.
+  Limits: Does not forbid diplomacy; encodes default posture. Diplomacy is hedged (e.g. backchannel + public denial); deterrence precedes settlement.
   Derivation: CIV–CORE–PERSIA Section I.4 (Structural Suspicion Operating System).
 
 AXIOM PERSIA-005: Dignity–patience–compute trinity.
   Statement: Patience governs tempo, compute governs endurance, dignity governs legitimacy. Forced trade-offs among the three create instability risk.
-  Scope: Legitimacy accounting, tempo, and strategic trade-off analysis.
+  Scope: Legitimacy accounting, tempo, and strategic trade-off analysis, including settlement and negotiation framing.
   Limits: Does not rank the three; encodes trinity and instability condition.
   Derivation: CIV–CORE–PERSIA Section I.5 (Dignity–Patience–Compute Trinity).
   Status: HARD CONSTRAINT in CORE.
@@ -85,7 +92,7 @@ AXIOM PERSIA-007: Shi'a memory engine.
 
 AXIOM PERSIA-008: Survival as primary legitimacy metric.
   Statement: Prosperity is optional; sovereignty and endurance are mandatory.
-  Scope: Legitimacy accounting and regime stability analysis.
+  Scope: Legitimacy accounting and regime stability analysis, including under sustained military pressure.
   Limits: Does not forbid prosperity; encodes priority order.
   Derivation: CIV–CORE–PERSIA Section I.8 (Survival as Primary Legitimacy Metric).
 
@@ -100,5 +107,5 @@ IV. MIRRORING
 Per CIV–AXIOM–TEMPLATE § VIII: CIV–AXIOM–PERSIA may be mirrored verbatim into CIV–CORE–PERSIA and CIV–SCHOLAR–PERSIA when governance so provides. This file remains the single source of truth for the axiom registry. CORE Section I remains the source from which PERSIA-001–008 were extracted.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–AXIOM–PERSIA — v1.0
+END OF FILE — CIV–AXIOM–PERSIA — v1.1
 ────────────────────────────────────────────────────────────
