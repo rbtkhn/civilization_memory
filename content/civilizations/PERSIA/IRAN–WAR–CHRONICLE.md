@@ -1,6 +1,6 @@
 # IRAN–WAR–CHRONICLE
 
-Day-by-day record of **events** and **quotes** for the US–Iran conflict (war phase from 1 March 2026). Append-only. Structured for quick lookup and for use as a **web timeline** (each day = one clickable node).
+Append-only day-by-day record of reported events and attributed quotes for the US–Iran conflict (war phase beginning 1 March 2026). Structured for quick lookup and web-timeline use.
 
 ---
 
@@ -12,7 +12,7 @@ Day-by-day record of **events** and **quotes** for the US–Iran conflict (war p
 
 **Operations:** US — Operation Epic Fury; Israel — Operation Roaring Lion (Lion’s Roar). War phase from 1 March 2026 (strikes began 28 Feb).
 
-**Objectives (stated):** US — eliminate imminent threats, destroy ballistic missile capability, prevent nuclear weapon; later regime change rhetoric, then “unconditional surrender” and “acceptable leader.” Israel — regime change “conditions,” destroy nuclear/missile threat, “lasting peace.” Iran — no surrender; “permanent end” to war; no ceasefire without permanent end. Oman/mediator — ceasefire, off-ramps, return to diplomacy.
+**Objectives (stated / attributed):** US — eliminate stated imminent threats, degrade ballistic missile capability, and prevent a nuclear weapon; later rhetoric also included regime-change and leadership-approval language. Israel — degrade nuclear and missile threat; later rhetoric included regime-change conditions and "lasting peace." Iran — reject surrender; insist on a permanent end to the war; reject ceasefire without durable termination. Oman/mediator — ceasefire, off-ramps, return to diplomacy.
 
 **Schema (per day)** — Fixed order; include every heading even if empty (use *(none reported)* or *(pending update)*):
 
@@ -33,18 +33,20 @@ Day-by-day record of **events** and **quotes** for the US–Iran conflict (war p
 | Analysis | [optional] |
 | Sources | mandatory |
 
+**Sources (per day):** When listing sources, tier when helpful: primary/official | wire/major | secondary/commentary | internal (see Day 7 and **Preferred source hierarchy**).
+
 **Contradictions / disputes :** See **Contradictions & Open Disputes** section below.
 
-**Source of quotes:** Truth Social (Trump), White House X, Pentagon (Hegseth), State/Capitol Hill (Rubio), Fox/VINnews/CBS/Foreign Policy (Kushner, Witkoff), PressTV/NBC/Al Jazeera (Araghchi, Larijani), Kremlin/TASS/Reuters (Russia), FMPRC/China.org.cn/Xinhua (China), Times of Israel/i24NEWS (Netanyahu), Al Jazeera/CBS/Oman Observer (Oman FM Badr al-Busaidi), and other cited outlets. See **Preferred authorized sources** at end of file.
+**Source of quotes:** Primary official statements where available (Truth Social, White House, Pentagon, Kremlin, FMPRC, official mediator statements); otherwise attributed media interviews and dated outlet reports, cited inline by actor and day. See **Preferred source hierarchy** at end of file.
 
 ---
 
 ## Prelude
 
-- **Late 2025 – Feb 2026:** US military buildup in region; Geneva/Oman nuclear talks with US envoys (Kushner, Witkoff) and Iranian officials. Omani FM (28 Feb, CBS): *"A peace deal is within our reach"*; Iran “zero stockpiling,” never material for a bomb; talks “achieved genuine progress.”
-- **26–27 Feb 2026:** Third round of talks in Geneva; no deal. Mediators reported “significant progress”; technical talks expected to continue.
-- **27 Feb 2026:** Trump approved Operation Epic Fury (reported 3:38 PM EST); strikes began in the early hours of 28 Feb (1:15 AM ET reported elsewhere). Decapitation strike on Khamenei compound; dozens of senior figures killed.
-- **28 Feb – 1 Mar:** Iran confirmed Khamenei’s death; launched Operation True Promise IV (retaliatory strikes). Gulf states invoked Art 51; Hormuz closed to US/Israel/allies.
+- **Late 2025 – Feb 2026:** Regional military buildup and active Geneva/Oman nuclear talks between U.S. envoys and Iranian officials. Omani FM (28 Feb, CBS): *"A peace deal is within our reach"*; Iran "zero stockpiling," never material for a bomb; talks "achieved genuine progress."
+- **26–27 Feb 2026:** Third round of talks in Geneva concluded without agreement; mediators reported progress and expected technical talks to continue.
+- **27–28 Feb 2026:** According to cited reporting, Trump approved Operation Epic Fury on 27 Feb and strikes began early 28 Feb. Subsequent reporting stated that a strike on the Khamenei compound killed senior figures; exact casualty and leadership-loss claims should be treated as reported, not yet fully resolved in this chronicle.
+- **28 Feb – 1 Mar:** Iran confirmed Khamenei's death; launched Operation True Promise IV (retaliatory strikes). Gulf states invoked Art 51; Hormuz closed to US/Israel/allies.
 
 ---
 
@@ -64,7 +66,7 @@ Day-by-day record of **events** and **quotes** for the US–Iran conflict (war p
 - [Day 10 · 2026-03-10](#day-10--2026-03-10)
 - [Numbers at a glance](#numbers-at-a-glance)
 - [Contradictions & Open Disputes](#contradictions--open-disputes)
-- [Preferred authorized sources](#preferred-authorized-sources-daily-updates)
+- [Preferred source hierarchy](#preferred-source-hierarchy-for-daily-updates)
 
 ---
 
@@ -78,10 +80,10 @@ Day-by-day record of **events** and **quotes** for the US–Iran conflict (war p
 | 4 | 2026-03-04 | QatarEnergy force majeure; LNG halted; China envoy. | Just begun; regime toast | — | Closed | — |
 | 5 | 2026-03-05 | Tehran bombed; Hormuz closed; Kuwait near shutdown. | Involved in choosing leader | — | Closed | — |
 | 6 | 2026-03-06 | Russia–Iran intel; Putin–Pezeshkian; White House montages. | No deal except unconditional surrender | — | Closed | — |
-| 7 | 2026-03-07 | US strikes Qeshm desalination; Trump spins surrender. | Surrender claimed | Red lines; won't leave aggression unanswered | Closed | — |
+| 7 | 2026-03-07 | US strikes Qeshm desalination; Trump asserts Iranian apology/surrender. | Surrender claimed | Red lines; won't leave aggression unanswered | Closed | — |
 | 8 | 2026-03-08 | Iran rejects ceasefire; Mojtaba named; Wang Yi Two Sessions. | Must approve Iran's leader | Permanent end; never surrender | Closed | — |
 | 9 | 2026-03-09 | UN SG ceasefire; Brent >$100; Putin–Trump call. | No ceasefire stance | As long as it takes | Closed | >$100 |
-| 10 | 2026-03-10 | “Most intense day”; >5,000 targets; Larijani “be careful”; Hormuz closed. | Twenty times harder; short-term | Be careful; no ceasefire | Effectively closed | ~$90–$119 |
+| 10 | 2026-03-10 | “Most intense day”; >5,000 targets; Larijani “be careful”; Hormuz closed. | Trump signals intensified strikes and short war horizon | Be careful; no ceasefire | Effectively closed | ~$90–$119 |
 
 ---
 
@@ -97,7 +99,7 @@ Day-by-day record of **events** and **quotes** for the US–Iran conflict (war p
 
 **Key targets / locations:** Khamenei compound (Tehran); dozens of senior military/political figures; Gulf states and US bases (Iran retaliation).
 
-**Numbers:** 3 US military killed in action (Trump, 2 Mar); strikes reported 1,000+ targets in first 24–48h (various). *Sources: Trump; Reuters, ISW, GlobalSecurity.*
+**Numbers:** Trump stated on 2 Mar that 3 U.S. service members had been killed in action. Various cited reporting described 1,000+ targets struck in the first 24–48 hours; treat aggregate strike counts as reported totals subject to later revision. *Sources: Trump; Reuters, ISW, GlobalSecurity.*
 
 **Regional / proxy:** Iran struck Gulf states hosting US forces; Hormuz closed to US/Israel/allies.
 
@@ -110,7 +112,7 @@ Day-by-day record of **events** and **quotes** for the US–Iran conflict (war p
 
 **Iran**
 
-- **Araghchi** (Al Jazeera, 1 Mar): Assassination “very dangerous and unprecedented”; Iran bound by no limits in defending itself. *"We do not expect anything special from others and are capable of defending ourselves."* *"We do not attack the Persian Gulf countries but will target the US military presence in these states."* *"The regime change in Iran is an impossible mission."* No plan to close Strait of Hormuz.
+- **Araghchi** (Al Jazeera, 1 Mar): Assassination “very dangerous and unprecedented”; Iran bound by no limits in defending itself. *"We do not expect anything special from others and are capable of defending ourselves."* *"We do not attack the Persian Gulf countries but will target the US military presence in these states."* *"The regime change in Iran is an impossible mission."* Araghchi also indicated that Iran did not at that stage present closure of Hormuz as its declared immediate course of action.
 - **Larijani:** [No dated statement in retrieved sources for 1 Mar.]
 
 **Russia**
@@ -163,7 +165,7 @@ Day-by-day record of **events** and **quotes** for the US–Iran conflict (war p
 **US**
 
 - **Trump** (Truth Social video): “Sweeping battlefield gains” and death of Khamenei. *"Three US military service members have been killed in action … and sadly there will likely be more before it ends."* *"Khamenei, one of the most evil people in History, is dead. This is not only Justice for the people of Iran, but for all Great Americans... The heavy and pinpoint bombing, however, will continue, uninterrupted."*
-- **Hegseth** (Pentagon, 2 Mar): *"We didn't start this war, but under President [Donald] Trump, we're finishing it."* Iran waging a “savage, one-sided war against America” for 47 years. *"This is not a so-called regime change war, but the regime sure did change, and the world is better off for it."* *"To the people of Iran, this is your moment."*
+- **Hegseth** (Pentagon, 2 Mar): Said the U.S. did not start the war and framed the campaign as decisive rather than open-ended. Also used language encouraging internal Iranian political change (e.g. *"To the people of Iran, this is your moment."*).
 - **Rubio** (Capitol Hill, 2 Mar): *"The hardest hits are yet to come."* *"The objective of this mission is to destroy their ballistic missile capability and make sure they can't rebuild it."* *"There absolutely was an imminent threat."*
 
 **Iran**
@@ -212,7 +214,7 @@ Day-by-day record of **events** and **quotes** for the US–Iran conflict (war p
 
 **Key targets / locations:** [No new named facilities this day; strikes continued per briefings.] Assembly of Experts (Tehran) struck by IDF (reported elsewhere). *See Day 4–5 for inland expansion.*
 
-**Numbers:** US campaign timeline “four or five weeks” (Run 1); two additional US service members confirmed dead (total 6 US KIA by 3 Mar). *Sources: AP, Reuters.*
+**Numbers:** Internal project run estimated a possible 4–5 week campaign horizon; this is an analytic estimate, not an official public timeline. Two additional U.S. service members confirmed dead (total 6 US KIA by 3 Mar). *Sources: AP, Reuters; Run 1 (internal).*
 
 **Regional / proxy:** [Oman mediation; Hezbollah and regional escalation reported in other chronicles for this window.]
 
@@ -224,7 +226,7 @@ Day-by-day record of **events** and **quotes** for the US–Iran conflict (war p
 
 **Kushner / Witkoff**
 
-- **Witkoff** (3 Mar, Fox News): Gave behind-the-scenes account of Feb Geneva/Oman talks. *"Three different times we opened the talks with the Iranians saying they have an 'inalienable right' to enrich all the nuclear fuel in their possession. That's how they opened."* U.S. response: *"The President feels we have an inalienable right to stop you immediately."* *"Jared Kushner and I looked at each other, confused, and said: well, now we're really in this."* On U.S. proposal: *"We discussed ten years of absolute zero enrichment. We would pay for the fuel."* — *"rejected outright."* *"They had no intention of doing anything except preserving enrichment for weaponization purposes."* Iran had put ~10,000 kg fissile material on the table (~460 kg at 60%, ~1,000 kg at 20%, rest at 3.67%); 60% could reach weapons-grade *"within about a week, maybe ten days at most."* *"The two Iranian negotiators told us directly, without shame, that they control 460 kilograms of 60% enrichment, and they are aware that this could produce 11 nuclear bombs. That was their opening position."* *"They were proud that they had evaded various monitoring protocols."* By end of second meeting *"it was clear"* a deal *"would be impossible"*; third round *"was not positive."* *"In the end, we tried to make a fair deal with them. It was very clear that this was going to be impossible."* (VINnews, CBS, Foreign Policy.)
+- **Witkoff** (3 Mar, Fox News): Presented a retrospective account of the Feb Geneva/Oman talks, including disputed claims about Iran's enrichment position and the U.S. demand for zero enrichment. See **Contradictions & Open Disputes**, Row 1.
 - **Kushner:** No separate dated 3 Mar statement; cited by Witkoff as co-negotiator in Geneva/Oman rounds.
 
 **Iran**
@@ -248,7 +250,7 @@ Day-by-day record of **events** and **quotes** for the US–Iran conflict (war p
 
 - **Badr al-Busaidi** (3 Mar, X): *"Oman reaffirms its call for an immediate ceasefire and a return to responsible regional diplomacy. There are off ramps available. Let's use them."* Did not specify what the off-ramps were (Al Jazeera).
 - Pushed back on the Trump administration’s “imminent threat” framing: maintained that “significant progress” had been made in the nuclear talks before the US and Israel launched attacks. Oman had said peace was “within reach” hours before the strikes (Al Jazeera).
-- **Contradiction of Witkoff:** A Persian Gulf diplomat with direct knowledge of the talks (mediator side) subsequently called Witkoff’s Fox account false (PressTV 4 Mar, MS NOW). *See **Day 4** for full rebuttal.* *"I can categorically state that this is inaccurate."* Iran had told the U.S. the enriched material could "all go away should we have a deal and Iran can be relieved from sanctions"; Witkoff had misrepresented that as Iran "proud" of evading oversight. Report: Witkoff "undermined Iran talks by peddling lies to build case for military aggression."
+- **Contradiction of Witkoff:** PressTV / MS NOW cited a Persian Gulf diplomat with direct knowledge of the talks: Witkoff's description was false. *"I can categorically state that this is inaccurate."* Iran had told the U.S. the enriched material could "all go away should we have a deal"; the diplomat said Witkoff had misrepresented that. PressTV/MS NOW framed Witkoff's account as misleading and escalatory. *See **Contradictions & Open Disputes**, Row 1; Day 4 for full rebuttal.*
 
 **Analysis**
 
@@ -300,7 +302,7 @@ Day-by-day record of **events** and **quotes** for the US–Iran conflict (war p
 
 **Oman (mediator)**
 
-- **Contradiction of Witkoff (4 Mar):** PressTV / MS NOW cited a Persian Gulf diplomat with direct knowledge of the Geneva/Oman talks: Witkoff's description of the negotiations was false. *"I can categorically state that this is inaccurate."* The Iranians had told Witkoff they were willing to give up the enriched uranium as part of a new agreement; the material could "all go away should we have a deal and Iran can be relieved from sanctions." The diplomat said Witkoff was explaining that the stockpile could be eliminated in a deal — not that Iran was "proud" of evading oversight. Report framed Witkoff as "peddling lies to build case for military aggression." (Al-Busaidi had already stated Iran agreed to "zero stockpiling" and downblending to irreversible fuel — The Hill 27 Feb, CBS.) *See **Day 3** for Witkoff’s account.*
+- **Contradiction of Witkoff (4 Mar):** PressTV / MS NOW cited a Persian Gulf diplomat with direct knowledge of the Geneva/Oman talks: Witkoff's description of the negotiations was false. *"I can categorically state that this is inaccurate."* The Iranians had told Witkoff they were willing to give up the enriched uranium as part of a new agreement; the material could "all go away should we have a deal and Iran can be relieved from sanctions." The diplomat said Witkoff was explaining that the stockpile could be eliminated in a deal — not that Iran was "proud" of evading oversight. PressTV/MS NOW framed Witkoff's account as misleading and escalatory; a Persian Gulf diplomat cited in that reporting called his description "categorically inaccurate." (Al-Busaidi had already stated Iran agreed to "zero stockpiling" and downblending to irreversible fuel — The Hill 27 Feb, CBS.) *See **Day 3** for Witkoff’s account.*
 
 **Sources:** GT10 Run 2; Al Jazeera, Boston.com, POLITICO, Guardian, Reuters, Time News, FMPRC, China.org.cn, Times of Israel; PressTV 4 Mar 2026, MS NOW, The Hill (Oman/Witkoff).
 
@@ -419,13 +421,13 @@ Day-by-day record of **events** and **quotes** for the US–Iran conflict (war p
 
 ## Day 7 · 2026-03-07
 
-**Summary:** US strikes Qeshm desalination plant. Pezeshkian–Putin call; Iran says won’t attack neighbors unless attacked from their territory. Trump spins as surrender.
+**Summary:** US strikes Qeshm desalination plant. Pezeshkian–Putin call; Iran says won’t attack neighbors unless attacked from their territory. Trump asserts Iranian apology/surrender.
 
 **Events**
 
 - US strikes Qeshm desalination (GT9-3).
 - Pezeshkian–Putin call; Iran says won’t attack neighbors unless attacked from their territory.
-- Trump spins as surrender (Davis: no public record of Pezeshkian thanking Trump). *See [**Contradictions & Open Disputes**](#contradictions--open-disputes) below.*
+- Trump asserted Iranian apology/surrender (Davis: no corroborating public evidence for formal Iranian apology or surrender statement; see Contradictions). *See [**Contradictions & Open Disputes**](#contradictions--open-disputes) below.*
 
 **Key targets / locations:** Qeshm Island (desalination plant); water supply impacted in 30 villages (Araghchi).
 
@@ -468,18 +470,18 @@ Day-by-day record of **events** and **quotes** for the US–Iran conflict (war p
 
 (none)
 
-**Sources:** Daniel Davis, Fortune, NPR, Mercouris, PressTV, ANI, CNN, Tasnim, Israel.com, Times of Israel, PBS; Run 3.
+**Sources:** Primary/official — Trump (Truth Social), Araghchi (X), Wang Yi, Netanyahu (7 Mar). Wire/major — CNN, NPR, PBS, Times of Israel, PressTV, Tasnim, ANI. Secondary/commentary — Daniel Davis, Fortune, Mercouris. Internal — Run 3.
 
 ---
 
 ## Day 8 · 2026-03-08
 
-**Summary:** Iran rejects ceasefire (“permanent end,” “will never surrender”). Iran names Mojtaba Khamenei successor. Trump rejects him. Wang Yi Two Sessions.
+**Summary:** Iran rejects ceasefire (“permanent end,” “will never surrender”). Reporting indicated Mojtaba Khamenei had been named successor; this chronicle treats succession status as reported unless and until formal confirmation standards are met. Trump rejects him. Wang Yi Two Sessions.
 
 **Events**
 
 - Iran rejects ceasefire (Araghchi 8 Mar); “permanent end,” “will never surrender.”
-- Iran names Mojtaba Khamenei successor. Trump rejects him.
+- Reporting indicated Mojtaba Khamenei had been named successor (see Summary). Trump rejects him.
 
 **Key targets / locations:** Succession (Mojtaba Khamenei named); regime/infrastructure strikes ongoing. Esfahan Missile Complex, underground facilities (reported elsewhere).
 
@@ -528,12 +530,12 @@ Day-by-day record of **events** and **quotes** for the US–Iran conflict (war p
 
 ## Day 9 · 2026-03-09
 
-**Summary:** UN SG calls for de-escalation and immediate ceasefire. Brent >$100; M–J 1 confirmed. Lavrov rebuke to Gulf; BRICS consolidation. Putin–Trump call.
+**Summary:** UN SG calls for de-escalation and immediate ceasefire. Brent >$100; project discriminator M–J 1 triggered (internal analytic flag; see STATE / run references). Lavrov rebuke to Gulf; BRICS consolidation. Putin–Trump call.
 
 **Events**
 
 - UN SG calls for de-escalation, immediate ceasefire.
-- Brent >$100; M–J 1 confirmed.
+- Brent >$100; project discriminator M–J 1 triggered (internal; see STATE / run references).
 - Lavrov rebuke to Gulf; BRICS consolidation.
 
 **Key targets / locations:** [Strikes and targeting ongoing; no new named facilities this day.] US ordered staff to leave Saudi Arabia (reported). *Sources: GlobalSecurity.*
@@ -631,9 +633,9 @@ Day-by-day record of **events** and **quotes** for the US–Iran conflict (war p
 
 (none reported)
 
-**Analysis**
+**Assessment (internal)**
 
-- MEM precedent (Carrhae, Roman–Persian, Khosrow): Iran in calibrated-denial band; US target set = escalation of effort without closure guarantee; strike volume as systemic drain. Khosrow risk if either side leaves band. Forward: M–J 1 4-week window closes ~1 Apr; DR-1 band mid-Apr.
+- Current strike volume suggests intensifying effort without a clearly documented closure mechanism. Historical analogies from prior Roman–Persian and related precedent files indicate risk of prolonged escalation if neither side secures a durable off-ramp. See referenced runs for full doctrine language.
 
 **Sources:** Pattern 12 Run 7; Exhaustion and External Shock (10 Mar session).
 
@@ -646,7 +648,7 @@ Append new rows only. Do not overwrite.
 | # | Claim A | Source/Day | Claim B | Source/Day | Status | Notes |
 |---|---------|------------|---------|------------|--------|-------|
 | 1 | Iran "proud" of 460 kg/11 bombs; rejected zero-enrichment; no deal possible | Witkoff, 3 Mar Fox / Day 3 | Stockpile offer made pre-war; Iran offered to eliminate enriched material in a deal; Witkoff "categorically inaccurate" | Persian Gulf diplomat, 4 Mar / Day 4 | Unresolved | Oman mediator side; track escalation rhetoric |
-| 2 | Iran apologized and surrendered; thank you President Trump | Trump Truth Social ~7–8 Mar / Day 7 | No public record of Pezeshkian thanking Trump | Davis / Day 7 | Unresolved | Surrender spin vs documented record |
+| 2 | Iran apologized and surrendered; thank you President Trump | Trump Truth Social ~7–8 Mar / Day 7 | No corroborating public evidence identified in cited reporting for a formal Iranian apology or surrender statement | Davis / Day 7 | Unresolved | Surrender spin vs documented record |
 | 3 | War "very complete" / nearly over; short-term | Trump, Day 10 | "Not done yet"; "nothing has been completed yet"; operation ~2 weeks | Netanyahu, Israeli official, Day 10 | Unresolved | US vs Israeli war-status framing |
 
 ---
@@ -655,19 +657,21 @@ Append new rows only. Do not overwrite.
 
 Cumulative / append-only: one row per update. Do not overwrite; add new row when value changes.
 
+**Source type taxonomy:** official statement | wire reporting | secondary reporting | tracker estimate | internal analytic run
+
 | Metric | Value | As of (Day) | Source / note |
 |--------|--------|-------------|----------------|
-| US KIA | 3 | Day 1–2 | Trump video |
-| US KIA | 6 | Day 3 | AP, Reuters (two additional confirmed) |
-| Targets struck (combined) | 1,000+ | Day 1–2 (first 24–48h) | Reuters, ISW, opepicfury |
-| Targets struck (US most intense day) | >5,000 | Day 10 | Hegseth |
-| Iranian navy (ships destroyed) | 9+ | Day 2 | Reuters |
-| Iranian navy (ships destroyed) | 20+ | mid-Mar | Long War Journal |
-| Oil (Brent) | >$100 | Day 9 | Run 5–6 |
-| Oil (Brent) | ~$90–$119 | Day 10 | GlobalSecurity, 2026iranwartracker |
-| Qeshm desalination (villages affected) | 30 | Day 7 | Araghchi |
-| Campaign timeline (US) | 4–5 weeks | Early Mar | Trump, AP, Run 1 |
-| Operation length (Israeli estimate) | ~2 weeks initial | Day 10 | Israeli official |
+| US KIA | 3 | Day 1–2 | Trump video (official) |
+| US KIA | 6 | Day 3 | AP, Reuters (wire) |
+| Targets struck (combined) | 1,000+ | Day 1–2 (first 24–48h) | Reuters, ISW (wire); opepicfury (tracker) |
+| Targets struck (US most intense day) | >5,000 | Day 10 | Hegseth (official) |
+| Iranian navy (ships destroyed) | 9+ | Day 2 | Reuters (wire) |
+| Iranian navy (ships destroyed) | 20+ | mid-Mar | Long War Journal (secondary) |
+| Oil (Brent) | >$100 | Day 9 | Run 5–6 (internal) |
+| Oil (Brent) | ~$90–$119 | Day 10 | GlobalSecurity (secondary), 2026iranwartracker (tracker) |
+| Qeshm desalination (villages affected) | 30 | Day 7 | Araghchi (official) |
+| Campaign timeline (US) | 4–5 weeks | Early Mar | Trump, AP (official/wire); Run 1 (internal) |
+| Operation length (Israeli estimate) | ~2 weeks initial | Day 10 | Israeli official (official) |
 
 *All figures from cited daily sources; other chronicles (ISW, GlobalSecurity, Long War Journal) may differ.*
 
@@ -675,45 +679,38 @@ Cumulative / append-only: one row per update. Do not overwrite; add new row when
 
 ---
 
-## Preferred authorized sources (daily updates)
+## Preferred source hierarchy for daily updates
 
-When updating this chronicle each day, **prefer the following web and official sources** for events and direct quotes. Use this list as the default lookup set; add new outlets only when a story is not covered here.
+When updating this chronicle each day, prefer sources by tier. **Tier 1:** official / primary statements. **Tier 2:** Reuters, AP, major transcripted interviews. **Tier 3:** secondary / regional / partisan / commentary. **Tier 4:** internal analysis only (do not cite as event source). Use this list as the default lookup set; add new outlets only when a story is not covered here.
 
 **US / Trump / White House / Pentagon / State**
 
-- Truth Social (Trump); White House X (formerly Twitter)
-- Trump's Truth archive (trumpstruth.org); Sahm Capital / Business Insider (Truth Social)
-- Benzinga, Boston Globe, Reuters, Breitbart, Axios, Foreign Policy, Newsweek, Military.com, NHPR, RealClearPolitics
-- NBC News, CNN, NPR, PBS NewsHour, AP, ABC
-- Washington Post (WaPo), New York Times (NYT), Guardian
-- POLITICO, Boston.com, Sun-Sentinel, Verge
+- **Tier 1:** Truth Social (Trump); White House X (formerly Twitter); Pentagon (Hegseth); State / Capitol Hill (Rubio); Trump's Truth archive (trumpstruth.org)
+- **Tier 2:** Reuters, AP, NBC News, CNN, NPR, PBS NewsHour, ABC; Washington Post (WaPo), New York Times (NYT), Guardian; Sahm Capital / Business Insider (Truth Social)
+- **Tier 3:** Benzinga, Boston Globe, Breitbart, Axios, Foreign Policy, Newsweek, Military.com, NHPR, RealClearPolitics; POLITICO, Boston.com, Sun-Sentinel, Verge
 
 **Iran (Araghchi, Larijani, official)**
 
-- PressTV (presstv.ir)
-- Al Jazeera, Al Arabiya, ANI, Tasnim News Agency
-- The National, Pakistan Today (where cited)
+- **Tier 1:** PressTV (presstv.ir) — official / state-affiliated
+- **Tier 2:** Al Jazeera, Al Arabiya, ANI, Tasnim News Agency
+- **Tier 3:** The National, Pakistan Today (where cited)
 
 **Russia (Putin, Lavrov, Peskov, Kremlin)**
 
-- Kremlin (en.kremlin.ru); TASS (tass.com)
-- Reuters (Kremlin readouts), AP
-- Sputnik, Moscow Times
-- Detroit News, Straits Times, WSJ, FMT
-- Tribune (India), China Daily (Lavrov)
+- **Tier 1:** Kremlin (en.kremlin.ru); TASS (tass.com)
+- **Tier 2:** Reuters (Kremlin readouts), AP
+- **Tier 3:** Sputnik, Moscow Times; Detroit News, Straits Times, WSJ, FMT; Tribune (India), China Daily (Lavrov)
 
 **China (Wang Yi, FM spokesperson)**
 
-- FMPRC (fmprc.gov.cn); China.org.cn; Xinhua (english.news.cn)
-- CGTN, Global Times
-- Guardian, CNN, Reuters, Times of Israel (China coverage)
+- **Tier 1:** FMPRC (fmprc.gov.cn); China.org.cn; Xinhua (english.news.cn)
+- **Tier 2:** CGTN, Global Times; Guardian, CNN, Reuters, Times of Israel (China coverage)
 
 **Israel (Netanyahu, official)**
 
-- Times of Israel, i24NEWS
-- Israel MFA / embassies.gov.il; Israel.com
-- Reuters, CNN, PBS NewsHour, AP, Xinhua
-- ANI, Deccan Chronicle, MoneyControl, AA (Anadolu Agency), LBC, Middle East Monitor
+- **Tier 1:** Israel MFA / embassies.gov.il; Israel.com
+- **Tier 2:** Times of Israel, i24NEWS; Reuters, CNN, PBS NewsHour, AP, Xinhua
+- **Tier 3:** ANI, Deccan Chronicle, MoneyControl, AA (Anadolu Agency), LBC, Middle East Monitor
 
 **Oman (mediator — Badr al-Busaidi)**
 
@@ -721,16 +718,28 @@ When updating this chronicle each day, **prefer the following web and official s
 
 **Kushner / Witkoff (US envoys, Iran/Geneva talks)**
 
-- Fox News (Witkoff 3 Mar interview), VINnews, CBS News, Foreign Policy, NY Post, Hannity.com (where cited)
+- **Tier 2:** Fox News (Witkoff 3 Mar interview), VINnews, CBS News, Foreign Policy
+- **Tier 3:** NY Post, Hannity.com (where cited)
 
 **Other / wire / regional**
 
-- Ammon News, ABP Live, Daily Post, Latestly, TRT World
-- UN Meetings Coverage (un.org)
-- Daniel Davis (cited articles); Crooke; Mercouris (where cited)
+- **Tier 2:** UN Meetings Coverage (un.org); Ammon News, ABP Live, Daily Post, Latestly, TRT World
+- **Tier 3:** Daniel Davis (cited articles); Crooke; Mercouris (where cited)
 
-**Session/internal (for analysis only, not for quoted text)**
+**Tier 4 — internal analysis only (do not cite as event source)**
 
 - Pattern 12 Run references; STATE Section VII; CIV–JOURNAL–PERSIA; Exhaustion and External Shock session
+
+---
+
+## Predictions
+
+Expert predictions on war trajectory, duration, and outcomes. Append new rows; do not overwrite.
+
+| Date / source | Expert | Prediction | As of |
+|---------------|--------|------------|-------|
+| *(none yet)* | Jiang, Mercouris, Ritter, others | — | — |
+
+*New days are appended to the chronicle before this section; this page remains last.*
 
 ---
