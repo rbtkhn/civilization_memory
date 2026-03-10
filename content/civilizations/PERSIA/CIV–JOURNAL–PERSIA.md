@@ -14,3 +14,8 @@ War-phase insights from the Iran conflict—relocation asymmetry (Iranians have 
 
 ---
 
+### 2026-03-10 12:00 · PATTERN
+The session weighed the 10 March escalation—Washington’s “most intense day” and expanded target set, Iran’s barrages and effective Hormuz pressure—against Jiang’s Law of Escalation and Persia’s own memory of denial and overextension. It surfaced a MEM-grounded reading: Iran’s posture fits the Carrhae and Roman–Persian pattern of calibrated denial rather than maximal reach; the US target set was read as an escalation of effort that does not by itself guarantee closure, with Khosrow as the warning for both sides if either overreaches. A forward look to early April suggested the material-stress window would likely close without a clear US or Israeli de-escalation step, leaving saturation and mutual drain as the outcome band and Gulf pivot or external shock as the next discriminators.
+
+---
+
