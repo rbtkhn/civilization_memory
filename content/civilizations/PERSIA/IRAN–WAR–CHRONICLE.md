@@ -1,4 +1,5 @@
-# IRAN–WAR–CHRONICLE
+| 🇮🇷 | **Iran War Chronicle** | 🇺🇸 |
+|:---|:---:|---:|
 
 Append-only day-by-day record of reported events and attributed quotes for the US–Iran conflict (war phase beginning 1 March 2026). Structured for quick lookup and web-timeline use.
 
@@ -31,6 +32,7 @@ Append-only day-by-day record of reported events and attributed quotes for the U
 | Oman (mediator) | [optional] |
 | Kushner / Witkoff | [optional] |
 | Analysis | [optional] |
+| History | [optional] |
 | Sources | mandatory |
 
 **Sources (per day):** When listing sources, tier when helpful: primary/official | wire/major | secondary/commentary | internal (see Day 7 and **Preferred source hierarchy**).
@@ -142,6 +144,16 @@ Append-only day-by-day record of reported events and attributed quotes for the U
 
 (none)
 
+**History**
+
+Day 1 opened with a decapitation strike on the Supreme Leader’s compound and dozens of senior officials. Iran responded with Operation True Promise IV, the closure of Hormuz to US, Israeli, and allied traffic, and strikes on Gulf states and US bases. In legitimacy terms, sovereignty and institutional continuity were directly challenged; Iran framed its response as existential defence against regime change. Structurally, Iran shifted the contest onto denial: Hormuz closure and asymmetric strikes into chokepoint and regional leverage, where its advantages are strongest and coalition conventional superiority is least usable. Whoever assumed control faced a stark choice: under-response risked legitimacy collapse; maximal retaliation risked overextension and exhaustion—the recurring risk when Persian power pushes forward without a clear stopping point. Iran chose maximal retaliation.
+
+It seems the attackers bet on shock producing paralysis or regime collapse. Historical parallels—Alexander’s defeat of Darius at Gaugamela, Barbarossa, Pearl Harbor—suggest attackers often underestimate the victim’s capacity to absorb shock and respond. In each case, the victim’s depth and endurance proved more robust than assumed. Iran’s immediate response fits that pattern: endurance, not paralysis. GCC invocation of Article 51 hardened the coalition; Oman kept a mediation track open.
+
+**Strategy**
+
+Those parallels shape how to read current behaviour and what to watch next. The Alexander–Darius precedent suggests command decapitation works when elite cohesion breaks; Iran’s unified retaliation indicates cohesion has not fractured yet. The Barbarossa and Pearl Harbor cases imply the decisive question is whether Iran can sustain endurance under further strikes, coalition pressure, and internal stress. Iran’s shift into denial—Hormuz, asymmetric strikes—aligns with a strategy that favours depth and chokepoint leverage over set-piece battle. The risk is overextension: a Sasanian pattern where maximal retaliation exhausts the system before exhaustion thresholds bite on the other side. For observers, the main signposts are: whether elite cohesion holds or fragments; whether Iran’s denial posture can be sustained or is gradually eroded; and whether escalation continues or mediation gains traction. The tension between sovereignty defence, regional exhaustion, and overextension remains open; future behaviour will turn on how that tension plays out.
+
 **Sources:** Benzinga, Boston Globe, PressTV, Reuters, WSJ, Moscow Times, Euronews, China.org.cn, Xinhua, Times of Israel, i24NEWS, Manila Bulletin; CBS, Oman Observer, fm.gov.om, The Hill, NAMPA (Oman FM); Pattern 12 Run 1.
 
 ---
@@ -197,6 +209,14 @@ Append-only day-by-day record of reported events and attributed quotes for the U
 **Analysis**
 
 (none)
+
+**History**
+
+*(none)*
+
+**Strategy**
+
+*(none)*
 
 **Sources:** Boston Globe, Foreign Policy, Military.com, NHPR, PressTV, Al Arabiya, Reuters, Xinhua, Israel MFA, Times of Israel, Sahm Capital / Business Insider.
 
@@ -256,6 +276,14 @@ Append-only day-by-day record of reported events and attributed quotes for the U
 
 (none)
 
+**History**
+
+*(none)*
+
+**Strategy**
+
+*(none)*
+
 **Sources:** Pattern 12 Run 1; CNN, NPR, Al Jazeera, NYT, Sun-Sentinel, ANI, AP, Tribune, Sputnik, Reuters, China Daily, China.org.cn, FMPRC, Times of Israel, MoneyControl, AA; Al Jazeera 3 Mar 2026 (Oman FM); VINnews, Fox News, CBS, Foreign Policy (Witkoff/Kushner); PressTV 4 Mar, MS NOW.
 
 ---
@@ -303,6 +331,14 @@ Append-only day-by-day record of reported events and attributed quotes for the U
 **Oman (mediator)**
 
 - **Contradiction of Witkoff (4 Mar):** PressTV / MS NOW cited a Persian Gulf diplomat with direct knowledge of the Geneva/Oman talks: Witkoff's description of the negotiations was false. *"I can categorically state that this is inaccurate."* The Iranians had told Witkoff they were willing to give up the enriched uranium as part of a new agreement; the material could "all go away should we have a deal and Iran can be relieved from sanctions." The diplomat said Witkoff was explaining that the stockpile could be eliminated in a deal — not that Iran was "proud" of evading oversight. PressTV/MS NOW framed Witkoff's account as misleading and escalatory; a Persian Gulf diplomat cited in that reporting called his description "categorically inaccurate." (Al-Busaidi had already stated Iran agreed to "zero stockpiling" and downblending to irreversible fuel — The Hill 27 Feb, CBS.) *See **Day 3** for Witkoff’s account.*
+
+**History**
+
+*(none)*
+
+**Strategy**
+
+*(none)*
 
 **Sources:** GT10 Run 2; Al Jazeera, Boston.com, POLITICO, Guardian, Reuters, Time News, FMPRC, China.org.cn, Times of Israel; PressTV 4 Mar 2026, MS NOW, The Hill (Oman/Witkoff).
 
@@ -357,6 +393,14 @@ Append-only day-by-day record of reported events and attributed quotes for the U
 **Analysis**
 
 (none)
+
+**History**
+
+*(none)*
+
+**Strategy**
+
+*(none)*
 
 **Sources:** Reuters, Axios, Breitbart, RealClearPolitics, TASS, PBS NewsHour.
 
@@ -415,6 +459,14 @@ Append-only day-by-day record of reported events and attributed quotes for the U
 
 (none)
 
+**History**
+
+*(none)*
+
+**Strategy**
+
+*(none)*
+
 **Sources:** Trump’s Truth (trumpstruth.org), Reuters, Breitbart, Marine Corps Times, Foreign Policy, Times of Israel, WaPo, Verge, CNN, ABC, Kremlin (en.kremlin.ru), TASS, Latestly, TRT World.
 
 ---
@@ -470,6 +522,14 @@ Append-only day-by-day record of reported events and attributed quotes for the U
 
 (none)
 
+**History**
+
+*(none)*
+
+**Strategy**
+
+*(none)*
+
 **Sources:** Primary/official — Trump (Truth Social), Araghchi (X), Wang Yi, Netanyahu (7 Mar). Wire/major — CNN, NPR, PBS, Times of Israel, PressTV, Tasnim, ANI. Secondary/commentary — Daniel Davis, Fortune, Mercouris. Internal — Run 3.
 
 ---
@@ -523,6 +583,10 @@ Append-only day-by-day record of reported events and attributed quotes for the U
 **Analysis**
 
 (none)
+
+**History**
+
+*(none)*
 
 **Sources:** Ammon News, Newsweek, Foreign Policy, ABP Live, Daily Post, NYT, Davis, PressTV, NBC, TASS, FMPRC, Guardian, CGTN, China.org.cn, ANI, Deccan Chronicle.
 
@@ -580,6 +644,14 @@ Append-only day-by-day record of reported events and attributed quotes for the U
 
 (none)
 
+**History**
+
+*(none)*
+
+**Strategy**
+
+*(none)*
+
 **Sources:** UN Meetings Coverage, Pattern 12 Run 5–6, Crooke, PBS NewsHour, Bol News, Detroit News, Straits Times, Time News.
 
 ---
@@ -636,6 +708,14 @@ Append-only day-by-day record of reported events and attributed quotes for the U
 **Assessment (internal)**
 
 - Current strike volume suggests intensifying effort without a clearly documented closure mechanism. Historical analogies from prior Roman–Persian and related precedent files indicate risk of prolonged escalation if neither side secures a durable off-ramp. See referenced runs for full doctrine language.
+
+**History**
+
+*(none)*
+
+**Strategy**
+
+*(none)*
 
 **Sources:** Pattern 12 Run 7; Exhaustion and External Shock (10 Mar session).
 

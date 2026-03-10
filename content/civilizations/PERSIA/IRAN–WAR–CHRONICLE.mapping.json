@@ -1,0 +1,33 @@
+{
+  "mapping_version": 1,
+  "summary_blocks": ["Summary"],
+  "vector_order": ["Narrative", "Military", "Economy", "Politics", "History"],
+  "vectors": {
+    "Narrative": ["Events", "Regional / proxy", "Analysis"],
+    "Military": ["Numbers", "Key targets / locations"],
+    "Economy": ["Economy"],
+    "Politics": ["US", "Iran", "Russia", "China", "Israel", "Oman (mediator)", "Kushner / Witkoff"],
+    "History": ["History", "Strategy"]
+  },
+  "required_blocks": ["Summary", "Sources"],
+  "optional_blocks": [
+    "Events",
+    "Key targets / locations",
+    "Numbers",
+    "Regional / proxy",
+    "US",
+    "Iran",
+    "Russia",
+    "China",
+    "Israel",
+    "Oman (mediator)",
+    "Kushner / Witkoff",
+    "Analysis",
+    "Economy",
+    "History",
+    "Strategy"
+  ],
+  "_schema_notes": "Add new subsections (e.g. Cyber / Information Ops, Civilian Impact) to optional_blocks and to the appropriate vectors entry. Old days without them will render '(none reported)'. Promote to required_blocks only if you want validation to fail until all days are updated.",
+  "politics_keep_label": true,
+  "military_key_targets_inline": true
+}

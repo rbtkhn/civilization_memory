@@ -19,6 +19,17 @@ const defaultDir = dirname(defaultInput);
 const inputPath = resolve(repoRoot, process.argv[2] || defaultInput);
 const outputDir = resolve(repoRoot, process.argv[3] || defaultDir);
 
+function loadMapping(forPath) {
+  const base = forPath.replace(/\.md$/i, '');
+  const jsonPath = base + '.mapping.json';
+  try {
+    const raw = readFileSync(jsonPath, 'utf8');
+    return JSON.parse(raw);
+  } catch (e) {
+    throw new Error('Missing or invalid mapping file: ' + jsonPath + ' — ' + e.message);
+  }
+}
+
 // ----- Slug for heading IDs -----
 function slug(text) {
   return text
@@ -32,23 +43,8 @@ function slug(text) {
     .replace(/[^a-z0-9-]/g, '');
 }
 
-// ----- Section categories after Summary (Narrative, Military, Economy, Politics) -----
-const SECTION_ORDER = ['Narrative', 'Military', 'Economy', 'Politics'];
-const LABEL_TO_SECTION = {
-  'Analysis': 'Narrative',
-  'Regional / proxy': 'Narrative',
-  'Numbers': 'Military',
-  'US': 'Politics',
-  'Iran': 'Politics',
-  'Russia': 'Politics',
-  'China': 'Politics',
-  'Israel': 'Politics',
-  'Oman (mediator)': 'Politics',
-  'Kushner / Witkoff': 'Politics',
-};
-
-// ----- Consolidate Events and Key targets into Summary, then structure by Narrative / Military / Economy / Politics -----
-function consolidateDayBody(md) {
+// ----- Parse day body into labeled blocks -----
+function parseDayBlocks(md) {
   const re = /(^|\n)(\*\*([^*]+)\*\*)\s*:?\s*\n?/gm;
   const matches = [...md.matchAll(re)];
   const blocks = [];
@@ -59,45 +55,130 @@ function consolidateDayBody(md) {
     const label = matches[i][3].trim().replace(/:$/, '');
     blocks.push({ label, content });
   }
+  return blocks;
+}
 
-  const summaryLabels = ['Summary', 'Events', 'Key targets / locations'];
-  let mergedSummary = '';
-  const rest = [];
+function isEmptyOrNone(content) {
+  if (!content || !content.trim()) return true;
+  const t = content.trim();
+  if (/^\(none\)$/i.test(t)) return true;
+  if (/^\(none reported\)$/i.test(t)) return true;
+  if (/^\[?\(none[^)]*\)\]?$/i.test(t)) return true;
+  return false;
+}
 
-  for (const b of blocks) {
-    if (summaryLabels.includes(b.label)) {
-      if (b.label === 'Summary') mergedSummary = b.content;
-      else if (b.label === 'Events') mergedSummary += (mergedSummary ? '\n\n' : '') + '**Events**\n\n' + b.content;
-      else if (b.label === 'Key targets / locations') mergedSummary += (mergedSummary ? '\n\n' : '') + '**Key targets / locations:** ' + b.content.replace(/\n/g, ' ').trim();
-    } else {
-      rest.push(b);
+// ----- Build day body from mapping (Summary + vectors) -----
+function applyMappingToDayBody(md, mapping) {
+  const blocks = parseDayBlocks(md);
+  const byLabel = {};
+  blocks.forEach(b => { byLabel[b.label] = b; });
+
+  let summaryLine = '';
+  for (const lab of mapping.summary_blocks || ['Summary']) {
+    const b = byLabel[lab];
+    if (b && b.content) {
+      summaryLine = b.content;
+      break;
     }
   }
 
-  const out = ['**Summary:**\n\n' + mergedSummary];
+  const out = ['**Summary:**\n\n' + summaryLine];
+  const vectorOrder = mapping.vector_order || ['Narrative', 'Military', 'Economy', 'Politics'];
+  const vectors = mapping.vectors || {};
 
-  const sourcesBlock = rest.find(b => b.label === 'Sources');
-  const otherBlocks = rest.filter(b => b.label !== 'Sources');
-
-  for (const sectionName of SECTION_ORDER) {
-    const inSection = otherBlocks.filter(b => LABEL_TO_SECTION[b.label] === sectionName);
+  for (const sectionName of vectorOrder) {
     out.push('\n\n**' + sectionName + '**\n\n');
-    if (inSection.length) {
-      for (const b of inSection) out.push('**' + b.label + '**\n\n' + b.content + '\n\n');
-    } else {
-      out.push('*(none reported)*\n\n');
+    const blockList = vectors[sectionName];
+    if (!blockList || !Array.isArray(blockList)) {
+      out.push('*(none reported)*');
+      continue;
     }
+
+    const parts = [];
+    const isMilitary = sectionName === 'Military';
+    const keyTargetsInline = !!mapping.military_key_targets_inline;
+    const politicsKeepLabel = mapping.politics_keep_label !== false;
+
+    for (const lab of blockList) {
+      const b = byLabel[lab];
+      if (!b || isEmptyOrNone(b.content)) continue;
+      if (isMilitary && keyTargetsInline && lab === 'Key targets / locations') {
+        parts.push(b.content.replace(/\n/g, ' ').trim());
+      } else if (sectionName === 'Politics' && politicsKeepLabel) {
+        parts.push('**' + b.label + '**\n\n' + b.content);
+      } else {
+        parts.push(b.content);
+      }
+    }
+    out.push(parts.length ? parts.join('\n\n') : '*(none reported)*');
   }
 
-  if (sourcesBlock) out.push('**Sources:**\n\n' + sourcesBlock.content);
+  const sourcesBlock = byLabel['Sources'];
+  if (sourcesBlock && sourcesBlock.content) out.push('\n\n**Sources:**\n\n' + sourcesBlock.content);
   return out.join('').trim();
 }
+
+// ----- Build structured day data (summary, vectors, sources) for JSON output -----
+function dayBodyToStructured(blocks, mapping) {
+  const byLabel = {};
+  blocks.forEach(b => { byLabel[b.label] = b; });
+
+  let summary = '';
+  for (const lab of mapping.summary_blocks || ['Summary']) {
+    const b = byLabel[lab];
+    if (b && b.content) {
+      summary = b.content;
+      break;
+    }
+  }
+
+  const vectors = {};
+  const vectorOrder = mapping.vector_order || ['Narrative', 'Military', 'Economy', 'Politics'];
+  const vectorBlocks = mapping.vectors || {};
+  const isMilitary = (name) => name === 'Military';
+  const keyTargetsInline = !!mapping.military_key_targets_inline;
+  const politicsKeepLabel = mapping.politics_keep_label !== false;
+
+  for (const sectionName of vectorOrder) {
+    const blockList = vectorBlocks[sectionName];
+    if (!blockList || !Array.isArray(blockList)) {
+      vectors[sectionName] = '';
+      continue;
+    }
+    const parts = [];
+    for (const lab of blockList) {
+      const b = byLabel[lab];
+      if (!b || isEmptyOrNone(b.content)) continue;
+      if (isMilitary(sectionName) && keyTargetsInline && lab === 'Key targets / locations') {
+        parts.push(b.content.replace(/\n/g, ' ').trim());
+      } else if (sectionName === 'Politics' && politicsKeepLabel) {
+        parts.push('**' + b.label + '**\n\n' + b.content);
+      } else {
+        parts.push(b.content);
+      }
+    }
+    vectors[sectionName] = parts.length ? parts.join('\n\n') : '*(none reported)*';
+  }
+
+  const sourcesBlock = byLabel['Sources'];
+  const sources = sourcesBlock && sourcesBlock.content ? sourcesBlock.content : '';
+  return { summary, vectors, sources };
+}
+
+// ----- Site header: Iran flag left, title center, USA flag right -----
+const SITE_HEADER_HTML = `
+<header class="site-header">
+  <span class="header-flag" aria-hidden="true">🇮🇷</span>
+  <h1 class="header-title">Iran War Chronicle</h1>
+  <span class="header-flag" aria-hidden="true">🇺🇸</span>
+</header>`;
 
 // ----- Split markdown into sections by ## -----
 function splitSections(md) {
   const sections = [];
   const parts = md.split(/\n(?=## )/);
-  const intro = parts[0].replace(/^# IRAN–WAR–CHRONICLE\s*\n\n/, '').trim();
+  let intro = parts[0].replace(/^# IRAN–WAR–CHRONICLE\s*\n\n/, '').trim();
+  intro = intro.replace(/^\|[^\n]+\|\s*\n\|[^\n]+\|\s*\n\n?/, '').trim().replace(/\n\n---\s*$/, '');
   for (let i = 1; i < parts.length; i++) {
     const match = parts[i].match(/^## (.+?)\n([\s\S]*)/);
     if (match) sections.push({ title: match[1].trim(), body: match[2].trim() });
@@ -223,6 +304,11 @@ function dayNav(dayNum, maxDay) {
 const STYLES = `
   * { box-sizing: border-box; }
   body { font-family: system-ui, -apple-system, sans-serif; line-height: 1.6; max-width: 52rem; margin: 0 auto; padding: 1rem 1.5rem; color: #1a1a1a; background: #fafafa; }
+  header.site-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 1rem; padding-bottom: 0.75rem; border-bottom: 1px solid #ddd; }
+  header.site-header .header-flag { font-size: 1.75rem; line-height: 1; }
+  header.site-header .header-title { flex: 1; text-align: center; font-size: 1.75rem; margin: 0; }
+  header.day-header { margin-top: 0.5rem; margin-bottom: 1rem; }
+  header.day-header h2 { margin: 0; font-size: 1.25rem; }
   h1 { font-size: 1.75rem; margin-top: 0; border-bottom: 1px solid #ddd; padding-bottom: 0.5rem; }
   h2 { font-size: 1.25rem; margin-top: 2rem; scroll-margin-top: 4rem; }
   h2[id] { color: #0d47a1; }
@@ -241,14 +327,24 @@ const STYLES = `
   hr { border: none; border-top: 1px solid #e0e0e0; margin: 1.5rem 0; }
   p { margin: 0.5rem 0; }
   @media (max-width: 640px) { nav.quick-jump ul { columns: 1; } }
+  @media print {
+    nav.page-nav, nav.quick-jump { display: none; }
+    body { background: #fff; color: #111; }
+    a[href] { color: #111; }
+    article { break-inside: avoid; }
+  }
 `;
 
-function docWrap(title, body) {
+function docWrap(title, body, meta = {}) {
+  const generatedWith = meta.mapping_version != null
+    ? `<meta name="generated-with" content="mapping-v${escapeHtml(String(meta.mapping_version))}"/>`
+    : '';
   return `<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  ${generatedWith}
   <title>${escapeHtml(title)}</title>
   <style>${STYLES}</style>
 </head>
@@ -277,6 +373,8 @@ function quickJumpHtml(dayCount) {
 // ----- Main -----
 try {
   mkdirSync(outputDir, { recursive: true });
+  const mapping = loadMapping(inputPath);
+  const meta = { mapping_version: mapping.mapping_version };
   const md = readFileSync(inputPath, 'utf8');
   const { intro, sections } = splitSections(md);
 
@@ -292,13 +390,29 @@ try {
     'Preferred source hierarchy for daily updates',
   ];
 
+  const SITE_TITLE = 'Iran War Chronicle';
   const preludeParts = [];
-  preludeParts.push('<h1>Prelude</h1>');
+  preludeParts.push(SITE_HEADER_HTML);
+  preludeParts.push('<h2>Prelude</h2>');
   preludeParts.push('<p>' + inline(escapeHtml(intro)) + '</p>');
   preludeParts.push('<hr/>');
 
   const daySections = sections.filter(s => /^Day \d+ /.test(s.title));
   const dayCount = daySections.length;
+
+  const structuredDays = daySections.map(sec => ({
+    title: sec.title,
+    ...dayBodyToStructured(parseDayBlocks(sec.body), mapping),
+  }));
+  const chronicleData = {
+    mapping_version: mapping.mapping_version,
+    generated_at: new Date().toISOString(),
+    intro,
+    days: structuredDays,
+    predictions: byTitle['Predictions'] || '',
+  };
+  writeFileSync(join(outputDir, 'chronicle.json'), JSON.stringify(chronicleData, null, 2), 'utf8');
+  console.log('Wrote: chronicle.json');
 
   for (const title of preludeSections) {
     if (title === null) {
@@ -314,9 +428,14 @@ try {
     preludeParts.push('');
   }
 
-  const preludeHtml = docWrap('Prelude', preludeParts.join('\n'));
+  const preludeHtml = docWrap(SITE_TITLE + ' — Prelude', preludeParts.join('\n'), meta);
   writeFileSync(join(outputDir, 'prelude.html'), preludeHtml, 'utf8');
   console.log('Wrote: prelude.html');
+
+  const dateFromTitle = (title) => {
+    const m = title.match(/·\s*(\d{4}-\d{2}-\d{2})/);
+    return m ? m[1] : '';
+  };
 
   for (let d = 1; d <= dayCount; d++) {
     const sec = daySections.find(s => s.title.startsWith(`Day ${d} `));
@@ -324,21 +443,32 @@ try {
       console.warn('Missing section: Day', d);
       continue;
     }
-    const bodyHtml = dayNav(d, dayCount) + '\n\n<h2>' + escapeHtml(sec.title) + '</h2>\n' + mdBlockToHtml(consolidateDayBody(sec.body), './');
-    const dayHtml = docWrap(sec.title, bodyHtml);
+    const structured = structuredDays[d - 1];
+    const dateAttr = dateFromTitle(sec.title);
+    const timeTag = dateAttr ? `<time datetime="${escapeHtml(dateAttr)}">${escapeHtml(dateAttr)}</time>` : '';
+    let articleBody = SITE_HEADER_HTML + '\n<header class="day-header"><h2>' + escapeHtml(sec.title) + '</h2>' + timeTag + '</header>\n\n';
+    articleBody += '<section aria-label="Summary"><p><strong>Summary:</strong></p>\n<p>' + escapeHtml(structured.summary) + '</p></section>\n\n';
+    const vectorOrder = mapping.vector_order || ['Narrative', 'Military', 'Economy', 'Politics'];
+    for (const v of vectorOrder) {
+      const content = structured.vectors[v] || '*(none reported)*';
+      articleBody += '<section role="region" aria-label="' + escapeHtml(v) + '"><p><strong>' + escapeHtml(v) + '</strong></p>\n' + mdBlockToHtml(content, './') + '</section>\n\n';
+    }
+    articleBody += '<section aria-label="Sources"><p><strong>Sources:</strong></p>\n<p>' + escapeHtml(structured.sources) + '</p></section>';
+    const bodyHtml = dayNav(d, dayCount) + '\n\n<article aria-label="Day ' + d + '">\n' + articleBody + '\n</article>';
+    const dayHtml = docWrap(SITE_TITLE + ' — Day ' + d, bodyHtml, meta);
     writeFileSync(join(outputDir, `day-${d}.html`), dayHtml, 'utf8');
     console.log('Wrote: day-' + d + '.html');
   }
 
   const predictionsBody = byTitle['Predictions'];
   const predictionsContent = predictionsBody
-    ? '<h1>Predictions</h1>\n' + mdBlockToHtml(predictionsBody, './')
-    : '<h1>Predictions</h1>\n<p>Expert predictions (Jiang, Mercouris, Ritter, others) will be tracked here. Append new rows in the source chronicle.</p>';
+    ? '<h2>Predictions</h2>\n' + mdBlockToHtml(predictionsBody, './')
+    : '<h2>Predictions</h2>\n<p>Expert predictions (Jiang, Mercouris, Ritter, others) will be tracked here. Append new rows in the source chronicle.</p>';
   const predictionsNav = '<nav class="page-nav"><a href="prelude.html">Prelude</a>' + (dayCount > 0 ? ` · <a href="day-${dayCount}.html">← Day ${dayCount}</a>` : '') + '</nav>';
-  writeFileSync(join(outputDir, 'predictions.html'), docWrap('Predictions', predictionsNav + '\n\n' + predictionsContent), 'utf8');
+  writeFileSync(join(outputDir, 'predictions.html'), docWrap(SITE_TITLE + ' — Predictions', predictionsNav + '\n\n<h1>Iran War Chronicle</h1>\n\n' + predictionsContent, meta), 'utf8');
   console.log('Wrote: predictions.html');
 
-  const indexHtml = docWrap('IRAN–WAR–CHRONICLE', '<p>Redirecting to <a href="prelude.html">Prelude</a>…</p><script>location.href="prelude.html";</script>');
+  const indexHtml = docWrap(SITE_TITLE, SITE_HEADER_HTML + '\n<p>Redirecting to <a href="prelude.html">Prelude</a>…</p><script>location.href="prelude.html";</script>', meta);
   writeFileSync(join(outputDir, 'index.html'), indexHtml, 'utf8');
   console.log('Wrote: index.html');
 
