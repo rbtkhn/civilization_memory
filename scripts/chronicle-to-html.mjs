@@ -7,7 +7,7 @@
  */
 
 import { readFileSync, writeFileSync, mkdirSync } from 'fs';
-import { dirname, join, resolve } from 'path';
+import { basename, dirname, join, resolve } from 'path';
 import { fileURLToPath } from 'url';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
@@ -30,6 +30,67 @@ function slug(text) {
     .replace(/-{3,}/g, '--')
     .replace(/-+/g, '-')
     .replace(/[^a-z0-9-]/g, '');
+}
+
+// ----- Section categories after Summary (Narrative, Military, Economy, Politics) -----
+const SECTION_ORDER = ['Narrative', 'Military', 'Economy', 'Politics'];
+const LABEL_TO_SECTION = {
+  'Analysis': 'Narrative',
+  'Regional / proxy': 'Narrative',
+  'Numbers': 'Military',
+  'US': 'Politics',
+  'Iran': 'Politics',
+  'Russia': 'Politics',
+  'China': 'Politics',
+  'Israel': 'Politics',
+  'Oman (mediator)': 'Politics',
+  'Kushner / Witkoff': 'Politics',
+};
+
+// ----- Consolidate Events and Key targets into Summary, then structure by Narrative / Military / Economy / Politics -----
+function consolidateDayBody(md) {
+  const re = /(^|\n)(\*\*([^*]+)\*\*)\s*:?\s*\n?/gm;
+  const matches = [...md.matchAll(re)];
+  const blocks = [];
+  for (let i = 0; i < matches.length; i++) {
+    const contentStart = matches[i].index + matches[i][0].length;
+    const contentEnd = i + 1 < matches.length ? matches[i + 1].index : md.length;
+    const content = md.slice(contentStart, contentEnd).trim();
+    const label = matches[i][3].trim().replace(/:$/, '');
+    blocks.push({ label, content });
+  }
+
+  const summaryLabels = ['Summary', 'Events', 'Key targets / locations'];
+  let mergedSummary = '';
+  const rest = [];
+
+  for (const b of blocks) {
+    if (summaryLabels.includes(b.label)) {
+      if (b.label === 'Summary') mergedSummary = b.content;
+      else if (b.label === 'Events') mergedSummary += (mergedSummary ? '\n\n' : '') + '**Events**\n\n' + b.content;
+      else if (b.label === 'Key targets / locations') mergedSummary += (mergedSummary ? '\n\n' : '') + '**Key targets / locations:** ' + b.content.replace(/\n/g, ' ').trim();
+    } else {
+      rest.push(b);
+    }
+  }
+
+  const out = ['**Summary:**\n\n' + mergedSummary];
+
+  const sourcesBlock = rest.find(b => b.label === 'Sources');
+  const otherBlocks = rest.filter(b => b.label !== 'Sources');
+
+  for (const sectionName of SECTION_ORDER) {
+    const inSection = otherBlocks.filter(b => LABEL_TO_SECTION[b.label] === sectionName);
+    out.push('\n\n**' + sectionName + '**\n\n');
+    if (inSection.length) {
+      for (const b of inSection) out.push('**' + b.label + '**\n\n' + b.content + '\n\n');
+    } else {
+      out.push('*(none reported)*\n\n');
+    }
+  }
+
+  if (sourcesBlock) out.push('**Sources:**\n\n' + sourcesBlock.content);
+  return out.join('').trim();
 }
 
 // ----- Split markdown into sections by ## -----
@@ -263,7 +324,7 @@ try {
       console.warn('Missing section: Day', d);
       continue;
     }
-    const bodyHtml = dayNav(d, dayCount) + '\n\n<h2>' + escapeHtml(sec.title) + '</h2>\n' + mdBlockToHtml(sec.body, './');
+    const bodyHtml = dayNav(d, dayCount) + '\n\n<h2>' + escapeHtml(sec.title) + '</h2>\n' + mdBlockToHtml(consolidateDayBody(sec.body), './');
     const dayHtml = docWrap(sec.title, bodyHtml);
     writeFileSync(join(outputDir, `day-${d}.html`), dayHtml, 'utf8');
     console.log('Wrote: day-' + d + '.html');
@@ -280,6 +341,10 @@ try {
   const indexHtml = docWrap('IRAN–WAR–CHRONICLE', '<p>Redirecting to <a href="prelude.html">Prelude</a>…</p><script>location.href="prelude.html";</script>');
   writeFileSync(join(outputDir, 'index.html'), indexHtml, 'utf8');
   console.log('Wrote: index.html');
+
+  const chronicleRedirectPath = join(outputDir, basename(inputPath).replace(/\.md$/i, '.html'));
+  writeFileSync(chronicleRedirectPath, indexHtml, 'utf8');
+  console.log('Wrote: ' + basename(chronicleRedirectPath));
 } catch (err) {
   console.error(err.message);
   process.exit(1);
