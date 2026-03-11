@@ -1,14 +1,23 @@
-CIV–MEM–TEMPLATE — v3.4
+CIV–MEM–TEMPLATE — v3.5
 Civilizational Memory Codex · Memory File Enforcement Template
 THREE-LAYER ARCHITECTURE · STRUCTURED DATA FIELDS · TRADECRAFT INTEGRATION
+CMC 3.5 EDITION · ALIGNED WITH CIV–MEM–CORE v3.5
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 3.4
-Supersedes: CIV–MEM–TEMPLATE v3.3
-Governed by: CMC 3.4
+Version: 3.5
+Supersedes: CIV–MEM–TEMPLATE v3.4 (governance alignment; version number tracks CIV–MEM–CORE / CMC)
+Governed by: CMC 3.5
 Class: CIV–MEM–TEMPLATE (Authoring Law)
-Last Update: February 2026
+Last Update: 10 March 2026
 WORDCOUNT: ~7,600
+
+────────────────────────────────────────────────────────────
+ALIGNMENT NOTE (v3.5) — VERSION NUMBER MATCHES CIV–MEM–CORE
+────────────────────────────────────────────────────────────
+MEM template **declared version** is aligned to **CIV–MEM–CORE v3.5** and **CMC 3.5**.
+Upgrade notes below (v3.4 indigenous-language requirement, v2.9 TLA, etc.) remain as
+**content history**. When citing "CIV–MEM–TEMPLATE v3.5" mean governance alignment;
+when citing a section (e.g. § VIII.D.1), cite the section.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v3.4) — INDIGENOUS-LANGUAGE QUOTE REQUIREMENT (ARC-DRIVEN)
@@ -1456,5 +1465,5 @@ They may NOT:
 • Break backward compatibility with existing MEMs
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–MEM–TEMPLATE (CMC 3.4)
+END OF FILE — CIV–MEM–TEMPLATE v3.5 (aligned with CIV–MEM–CORE v3.5 · CMC 3.5)
 ────────────────────────────────────────────────────────────

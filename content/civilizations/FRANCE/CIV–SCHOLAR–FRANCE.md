@@ -17,11 +17,11 @@ Governance Mode: MANUAL INGEST · EXPLICIT FREEZE REQUIRED
 Lock Level: LEARNING ENABLED (user-authorized)
 Civilization Phase: PHASE I — ACCUMULATION
 
-Derived from: CIV–SCHOLAR–TEMPLATE v3.4
+Derived from: CIV–SCHOLAR–TEMPLATE v3.5
 Governed by:
 • CIV–MEM–CORE v3.4 (global system law)
-• CIV–SCHOLAR–TEMPLATE v3.4 (structural template)
-• CIV–SCHOLAR–PROTOCOL v3.4 (operating law)
+• CIV–SCHOLAR–TEMPLATE v3.5 (structural template)
+• CIV–SCHOLAR–PROTOCOL v3.5 (operating law)
 • CIV–ARC–FRANCE v3.1 (author admissibility canon)
 
 Last Update: February 2026

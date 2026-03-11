@@ -3,9 +3,11 @@ description: Enforces CMC options requirements — SCHOLAR modes (8 fixed slots)
 alwaysApply: true
 ---
 
-# CMC Options Menu Enforcement — CMC 3.4
+# CMC Options Menu Enforcement — CMC 3.5
 
 Options are **required** in **WRITE, LEARN, IMAGINE** (SCHOLAR) and **STATE** modes. **Append the full 8 options (A–H) after every substantive response** in LEARN, IMAGINE, and STATE — do not wait for the user to request them. In WRITE, apply when options are presented (e.g. after MEM draft or edit).
+
+**Critical:** When the user selects A, B, C, D, E, F, or G, the response to that selection is a substantive response and **must also end with the full 8 options**. Option-selection responses are recursive: each produces content, then the same menu. Never omit options because the reply was short or because the user chose a single option.
 
 ## Core Design Principle
 
@@ -144,7 +146,7 @@ See PROTOCOL–MIND–NAVIGATION for full affinity matrices.
 
 ## Self-Check Before Sending
 
-- [ ] Exactly 8 options (A–H)?
+- [ ] Exactly 8 options (A–H)? **Including after option-selection responses (A–G)?**
 - [ ] Slots fixed (A=Mercouris, B=Mearsheimer, C=Barnes)?
 - [ ] Each option 10–20 words with concrete anchor?
 - [ ] A/B/C derived from MIND profiles?
@@ -227,4 +229,4 @@ When the user selects **H** (synthesis or assessment closure) in **STATE** or **
 
 See: CIV–STATE–TEMPLATE Section X-A, Section X-I; CIV–JOURNAL–PROTOCOL.md
 
-Reference: CMC 3.4, Options menu simplification (preserves 8-slot structure, removes state tracking), PROTOCOL–MIND–NAVIGATION
+Reference: CMC 3.5, Options menu simplification (preserves 8-slot structure, removes state tracking), PROTOCOL–MIND–NAVIGATION

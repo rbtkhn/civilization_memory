@@ -4,7 +4,7 @@
 **Version:** 1.0  
 **Author:** CMC System  
 **Date:** 2026-02-13  
-**Governed by:** CMC 3.3
+**Governed by:** CMC 3.5
 
 ---
 
@@ -38,9 +38,11 @@ Exit criteria:
 
 ---
 
-### Phase B — Rule/Template Synchronization (In Progress)
+### Phase B — Rule/Template Synchronization (Complete)
 
 **Goal:** Align active cursor rules and templates with 3.3 semantics.
+
+**Completed:** 10 March 2026 (CMC 3.5 upgrade).
 
 Deliverables:
 - Active rules reference 3.3 protocol status where relevant
@@ -48,8 +50,8 @@ Deliverables:
 - Backward-compatible aliases retained (e.g., relay (deprecated: harvest))
 
 Exit criteria:
-- Rule-to-template references pass consistency checks
-- No drift findings in governance checks for upgraded paths
+- Rule-to-template references pass consistency checks ✓
+- No drift findings in governance checks for upgraded paths ✓
 
 ---
 

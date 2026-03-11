@@ -1,7 +1,7 @@
 # CONCEPT: France and Germany as Two Strands of the Double Helix of the Franco-German Axis
 
 **Status:** ACTIVE  
-**Governed by:** CMC 3.4 · Mirror of CONCEPT–ROME–ISLAM–DOUBLE–HELIX  
+**Governed by:** CMC 3.5 · Mirror of CONCEPT–ROME–ISLAM–DOUBLE–HELIX  
 **Source:** RUN–DISCOVERY–FRANCE–GERMANY–CONNECTOR–PAIRS–2026-02-19  
 **Last updated:** February 2026
 

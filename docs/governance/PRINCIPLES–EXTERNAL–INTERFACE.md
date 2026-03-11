@@ -1,7 +1,7 @@
 # Principles: External-Facing Output and Simplified Interface
 
 Civilizational Memory Codex · Governance  
-Governed by: CMC 3.4  
+Governed by: CMC 3.5  
 Last Update: February 2026
 
 ────────────────────────────────────────────────────────────

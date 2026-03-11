@@ -1,7 +1,7 @@
 # Governing Rules vs Evidence — Conceptual Layer
 
 **Status:** ACTIVE · Reference  
-**Governed by:** CMC 3.4  
+**Governed by:** CMC 3.5  
 **Last updated:** February 2026  
 
 **Purpose:** Define the split between what **governs** (constraints, rules) and what **illustrates** (evidence, narrative). This supports a single constraint backbone for STATE and SCHOLAR and clarifies how doctrines and RLLs are consumed.

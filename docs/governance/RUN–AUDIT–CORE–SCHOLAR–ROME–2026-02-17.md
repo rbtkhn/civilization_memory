@@ -2,7 +2,7 @@
 
 **Date:** 17 February 2026  
 **Scope:** CIV–CORE–ROME v2.0, CIV–SCHOLAR–ROME v2.7  
-**Reference:** CIV–CORE–TEMPLATE v3.4, CIV–SCHOLAR–TEMPLATE v3.4, CMC–BOOTSTRAP (CMC 3.4)  
+**Reference:** CIV–CORE–TEMPLATE v3.5, CIV–SCHOLAR–TEMPLATE v3.5, CMC–BOOTSTRAP (CMC 3.5)  
 **Mode:** SYSTEM (governance audit)
 
 ────────────────────────────────────────────────────────────
@@ -18,7 +18,7 @@ I. CIV–CORE–ROME — FINDINGS
 - **Current:** CORE declares "Template Version Used: CIV–CORE–TEMPLATE v3.0" and "Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v3.0)".
 - **Governance:** CIV–CORE–TEMPLATE is v3.4; CMC is 3.4 (VERSION–MANIFEST, BOOTSTRAP).
 - **Impact:** Low. Structure matches template; only header metadata is stale.
-- **Recommendation:** Update header to "CIV–CORE–TEMPLATE v3.4" and "CMC v3.4" (or current governance version) on next touch.
+- **Recommendation:** ~~Update header to "CIV–CORE–TEMPLATE v3.4"~~ — superseded: template aligned to v3.5 (10 Mar 2026).
 
 **1.2 Civilization phase mismatch**
 - **CORE declares:** "Civilization Phase: PHASE I — FOUNDATION" (line 11).

@@ -6,7 +6,7 @@ Status: ACTIVE · CANONICAL · SCHOLAR-ENABLED · STAND-ALONE
 Version: 3.0
 Supersedes: CIV–CORE–ISLAM v2.0
 Upgrade Type: CMC 3.4 ALIGNMENT · OGE RECOGNITION · VERSION BUMP
-Template Version Used: CIV–CORE–TEMPLATE v3.4 (civilization-specific structure: Demographic at VII; Technology at VIII; Military at IX; EPL at XVI; Verdict at XXI. Time Orientation embedded in III.)
+Template Version Used: CIV–CORE–TEMPLATE v3.5 (civilization-specific structure: Demographic at VII; Technology at VIII; Military at IX; EPL at XVI; Verdict at XXI. Time Orientation embedded in III.)
 Compatibility: CIV / MEM / SCHOLAR / STATE Architecture (CMC v3.4)
 Conceptual Lineage: SCE–CIV–ISLAM V9.7.2 (doctrinal ancestry preserved)
 Civilization Phase: PHASE I — FOUNDATION

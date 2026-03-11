@@ -18,8 +18,8 @@ Last Update: February 2026
 WORDCOUNT: ~13,600
 
 Governed by:
-• CIV–SCHOLAR–TEMPLATE v3.4 (CURRENT)
-• CIV–SCHOLAR–PROTOCOL v3.4 (CURRENT)
+• CIV–SCHOLAR–TEMPLATE v3.5 (CURRENT)
+• CIV–SCHOLAR–PROTOCOL v3.5 (CURRENT)
 • CIV–MEM–CORE v3.4
 • CIV–ARC–GERMANY v3.2
 
@@ -2620,9 +2620,9 @@ CIV–SCHOLAR–GERMANY v2.14 is declared:
 ────────────────────────────────────────────────────────────
 XII. TEMPLATE REFERENCES (CANONICAL POINTERS)
 ────────────────────────────────────────────────────────────
-• CIV–SCHOLAR–TEMPLATE v3.4 (CURRENT)
-• CIV–SCHOLAR–PROTOCOL v3.4
-• CIV–MEM–TEMPLATE v3.4
+• CIV–SCHOLAR–TEMPLATE v3.5 (CURRENT)
+• CIV–SCHOLAR–PROTOCOL v3.5
+• CIV–MEM–TEMPLATE v3.5
 
 For governance, consult canonical templates only.
 

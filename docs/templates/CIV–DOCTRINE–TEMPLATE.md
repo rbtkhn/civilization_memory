@@ -8,7 +8,7 @@ Supersedes: CIV–DOCTRINE–TEMPLATE v2.1
 Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
 Class: CIV–DOCTRINE (Template)
 Scope: GLOBAL (All Civilizations)
-Compatibility: CIV–MEM–CORE v3.4 · CIV–SCHOLAR–TEMPLATE v3.4 · CIV–SCHOLAR–PROTOCOL v3.4
+Compatibility: CIV–MEM–CORE v3.5 · CIV–SCHOLAR–TEMPLATE v3.5 · CIV–SCHOLAR–PROTOCOL v3.5
 Governance Authority: CIV–MEM–CORE v3.4
 Lock Level: TOTAL (Doctrine-Only · No Learning)
 Last Update: February 2026

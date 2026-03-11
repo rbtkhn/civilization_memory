@@ -1,13 +1,26 @@
-CIV–SCHOLAR–TEMPLATE — v3.4
+CIV–SCHOLAR–TEMPLATE — v3.5
 Civilizational Memory Codex · SCHOLAR Engine Governance Template
+CMC 3.5 EDITION · ALIGNED WITH CIV–MEM–CORE v3.5
 
 Status: ACTIVE · CANONICAL · LOCKED
-Supersedes: CIV–SCHOLAR–TEMPLATE v3.2
-Upgrade Type: ALIGNMENT · CMC 3.4 VERSION ALIGNMENT
+Version: 3.5
+Supersedes: CIV–SCHOLAR–TEMPLATE v3.4 (governance alignment; version number now tracks CIV–MEM–CORE / CMC)
+Upgrade Type: GOVERNANCE ALIGNMENT · CMC 3.5
 Class: CIV–SCHOLAR–TEMPLATE (Authoring & Learning Law)
-Compatibility: CIV–MEM–CORE v3.4 · CIV–MEM–TEMPLATE v3.4 · CIV–SCHOLAR–PROTOCOL v3.4
-Last Update: February 2026
+Compatibility: CIV–MEM–CORE v3.5 · CMC 3.5 · CIV–MEM–TEMPLATE v3.5 · CIV–SCHOLAR–PROTOCOL v3.5
+Last Update: 10 March 2026
 WORDCOUNT: ~14,500
+
+────────────────────────────────────────────────────────────
+ALIGNMENT NOTE (v3.5) — VERSION NUMBER MATCHES CIV–MEM–CORE
+────────────────────────────────────────────────────────────
+SCHOLAR template **declared version** is aligned to **CIV–MEM–CORE v3.5** and **CMC 3.5**
+(single governance reference per VERSION–MANIFEST). **Upgrade declaration** blocks below
+(retained labels v2.x / v3.0–v3.4) record **template content history**—OGE simplification,
+synthesis tradecraft, audit commands, etc.—and are not separate file versions. When citing
+"CIV–SCHOLAR–TEMPLATE v3.5" mean governance alignment with MEM–CORE/CMC 3.5; when citing a
+specific section or procedure, cite the section or the retained upgrade label where relevant.
+CIV–MEM–TEMPLATE and CIV–SCHOLAR–PROTOCOL are now v3.5-aligned (same batch as this file).
 
 ────────────────────────────────────────────────────────────
 UPGRADE DECLARATION (v3.0 → v3.1 OGE SIMPLIFICATION)
@@ -1686,5 +1699,5 @@ v2.1 ADDITIONS:
 • OGE systematization for LEARN mode
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–TEMPLATE v3.4
+END OF FILE — CIV–SCHOLAR–TEMPLATE v3.5 (aligned with CIV–MEM–CORE v3.5 · CMC 3.5)
 ────────────────────────────────────────────────────────────

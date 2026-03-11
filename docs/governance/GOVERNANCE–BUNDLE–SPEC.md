@@ -4,7 +4,7 @@ Civilizational Memory Codex · Exportable Governance Artifact
 
 Status: ACTIVE
 Date: February 2026
-Governed by: CMC 3.4
+Governed by: CMC 3.5
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE

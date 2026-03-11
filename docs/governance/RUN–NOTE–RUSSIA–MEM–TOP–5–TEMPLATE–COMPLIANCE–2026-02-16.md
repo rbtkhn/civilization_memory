@@ -1,7 +1,7 @@
 # Top 5 Russia MEMs for Full MEM-Template Compliance Upgrade
 
 **Date:** 16 February 2026  
-**Purpose:** Identify the five most important MEM–RUSSIA files that must be upgraded to full compliance with CIV–MEM–TEMPLATE v3.4, including the indigenous-language quote requirement (CIV–ARC–RUSSIA v3.5; template § VIII.D.1).  
+**Purpose:** Identify the five most important MEM–RUSSIA files that must be upgraded to full compliance with CIV–MEM–TEMPLATE v3.5, including the indigenous-language quote requirement (CIV–ARC–RUSSIA v3.5; template § VIII.D.1).  
 **Scope:** Russia civilization only.
 
 ---
@@ -80,7 +80,7 @@
 
 ## References
 
-- CIV–MEM–TEMPLATE v3.4 § VIII.D.1 (Indigenous-Language Quote Requirement)
+- CIV–MEM–TEMPLATE v3.5 § VIII.D.1 (Indigenous-Language Quote Requirement)
 - CIV–ARC–RUSSIA v3.5 (indigenous-language admissible sources: Primary Chronicle, Novgorod First, Laurentian, Hypatian; Karamzin, Solovyov, Klyuchevsky)
 - MEM–RELEVANCE–RUSSIA (dimensions I–VII)
 - CIV–STATE–RUSSIA, CIV–SCHOLAR–RUSSIA (RLL, doctrine references)

@@ -2,7 +2,7 @@
 
 **Date:** 18 February 2026  
 **Scope:** CIV–SCHOLAR–ROME v2.7, CIV–SCHOLAR–ISLAM v2.0  
-**Reference:** CIV–SCHOLAR–TEMPLATE v3.4, CIV–MEM–CORE v3.4, CMC–BOOTSTRAP (CMC 3.4)  
+**Reference:** CIV–SCHOLAR–TEMPLATE v3.5, CIV–MEM–CORE v3.5, CMC–BOOTSTRAP (CMC 3.5)  
 **Mode:** SYSTEM (governance audit)
 
 ────────────────────────────────────────────────────────────

@@ -1,7 +1,7 @@
 TERMINOLOGY–REGISTRY
 Civilizational Memory Codex · Governance Document
 
-Governed by: CMC 3.4
+Governed by: CMC 3.5
 Status: ACTIVE · CANONICAL
 Created: February 2026
 Last Updated: 11 February 2026

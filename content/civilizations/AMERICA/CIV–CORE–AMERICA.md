@@ -6,7 +6,7 @@ Status: ACTIVE · CANONICAL · STAND-ALONE READY · SCHOLAR-ENABLED
 Version: 3.3
 Supersedes: v1.0
 Upgrade Type: INITIAL CREATION
-Template Version Used: CIV–CORE–TEMPLATE v3.0
+Template Version Used: CIV–CORE–TEMPLATE v3.5
 Compatibility: CIV / MEM / SCHOLAR / STATE Architecture (CMC v3.2+)
 Governed by: CIV–MEM–CORE v3.2
 ARC Reference: CIV–ARC–AMERICA

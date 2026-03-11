@@ -1,17 +1,17 @@
-CIV–MEM–CORE — v3.4
+CIV–MEM–CORE — v3.5
 Civilizational Memory Codex · System Core
-CMC 3.4 EDITION · STATE PROCEDURES AND INVOCATION
+CMC 3.5 EDITION · OPTIMIZATION AND REFINEMENT
 
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · GLOBAL PRELOAD
-Version: 3.4
+Version: 3.5
 Scope: ALL CIVILIZATIONS
 Class: CIV–MEM–CORE (System / Preload)
 Load Order: FIRST FILE IN EVERY NEW CONVERSATION
-Supersedes: CIV–MEM–CORE v3.3
-Upgrade Type: CMC 3.4 · STATE PROCEDURES AND INVOCATION
-Last Update: 17 February 2026
+Supersedes: CIV–MEM–CORE v3.4
+Upgrade Type: CMC 3.5 · OPTIMIZATION AND REFINEMENT
+Last Update: 10 March 2026
 
 LINEAGE NOTE — STRATEGIC COGNITION ENGINE (SCE)
 CIV–MEM does not define or govern the Strategic Cognition Engine (SCE). SCE is the prior/upstream system from which CIV–CORE civilization files and at least one MIND profile (CIV–MIND–MEARSHEIMER: Source Derivation SCE–EXP–MEARSHEIMER v9.7) derive; CIV–CORE instances declare Conceptual Lineage (e.g. SCE–CIV–CHINA V9.8, SCE–CIV–RUSSIA v9.7.2) with doctrinal ancestry preserved. SCE-specific roles (e.g. Supreme Chancellor, Chief of Staff) are not defined in CIV–MEM; only lineage references appear in this codebase.
@@ -82,6 +82,22 @@ KEY CHANGES:
 
 Effect: All 3.3 governance remains in force; STATE procedures and
 invocation are now part of the canonical binding. No section removals.
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.5) — CMC 3.5 · OPTIMIZATION AND REFINEMENT
+────────────────────────────────────────────────────────────
+This version formalizes the 10 March 2026 upgrade (PROPOSAL–CMC–3.5).
+
+KEY CHANGES:
+• ROADMAP–CMC–3.3 Phase B marked Complete (rule/template alignment verified)
+• Event Chronicle added as governed artifact type (File Class Taxonomy III)
+• Governance drift fix: NAMESPACE–CLARIFICATION title alignment
+• All 3.4 governance remains in force
+
+Effect: Additive; no section removals. Chronicle type enables future
+event-by-event records; cmc-chronicle-mind-voice remains operational.
+
+Reference: PROPOSAL–CMC–3.5; AUDIT–GOVERNANCE–TEMPLATE–ALIGNMENT–2026–03–10.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v3.2) — CMC 3.2 · THREE-MODE ARCHITECTURE
@@ -578,6 +594,12 @@ CIV–SCHOLAR–[CIVILIZATION]
 CIV–DOCTRINE–[NAME]
 • Frozen synthesis outputs
 • Must derive explicitly from SCHOLAR
+
+EVENT CHRONICLE (e.g. IRAN–WAR–CHRONICLE)
+• Append-only, day-by-day (or equivalent) record of reported events and attributed quotes for a conflict, crisis, or unfolding situation
+• Supplements CIV–STATE–[CIV]; sources and reasoning remain in STATE Section VII; Chronicle is the structured event/quotation record
+• Governance: schema discipline (fixed block order), MIND voice assignment by section (per cmc-chronicle-mind-voice), append-only, attribution rules, contradiction surfacing
+• Operational enforcement: .cursor/rules/cmc-chronicle-mind-voice.mdc
 
 ENTITY FOCUS: CORE, CIV–STATE–[CIV], and CIV–SCHOLAR–[CIV] re-anchor
 together on civilization/entity switch. The previous entity's CORE,
@@ -2096,5 +2118,5 @@ They may NOT:
 • Introduce interpretation
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–MEM–CORE v3.4
+END OF FILE — CIV–MEM–CORE v3.5
 ────────────────────────────────────────────────────────────

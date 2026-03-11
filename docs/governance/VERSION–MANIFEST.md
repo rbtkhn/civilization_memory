@@ -1,12 +1,23 @@
-VERSION–MANIFEST — v3.4
+VERSION–MANIFEST — v3.5
 Civilizational Memory Codex · Canonical Version Registry
-STATE PROCEDURES AND INVOCATION EDITION
+OPTIMIZATION AND REFINEMENT EDITION
 
 Status: ACTIVE · CANONICAL
 Class: MANIFEST
-Last Updated: 2026-02-17
-Supersedes: VERSION–MANIFEST v3.3
+Last Updated: 10 March 2026
+Supersedes: VERSION–MANIFEST v3.4
 Purpose: Single source of truth for governance version
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.5) — OPTIMIZATION AND REFINEMENT
+────────────────────────────────────────────────────────────
+This version formalizes the 10 March 2026 upgrade (PROPOSAL–CMC–3.5).
+All 3.4 governance remains in force.
+
+KEY CHANGES:
+• ROADMAP–CMC–3.3 Phase B marked Complete
+• Event Chronicle added as governed artifact type (CIV–MEM–CORE III)
+• Governance drift fix: NAMESPACE–CLARIFICATION alignment
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v3.4) — STATE PROCEDURES AND INVOCATION
@@ -76,10 +87,10 @@ I. CMC GOVERNANCE VERSION (SINGLE SOURCE OF TRUTH)
 
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
-│              CMC GOVERNANCE VERSION: 3.4                    │
+│              CMC GOVERNANCE VERSION: 3.5                    │
 │                                                             │
-│  Effective: 2026-02-17                                      │
-│  Supersedes: CMC 3.3                                        │
+│  Effective: 2026-03-10                                      │
+│  Supersedes: CMC 3.4                                        │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 
@@ -94,13 +105,13 @@ Individual governance documents no longer declare separate versions.
 The CMC Governance Version is the single binding reference.
 
 ────────────────────────────────────────────────────────────
-II. GOVERNANCE DOCUMENTS (ALL CMC 3.4)
+II. GOVERNANCE DOCUMENTS (ALL CMC 3.5)
 ────────────────────────────────────────────────────────────
-These documents are governed by CMC 3.4.
+These documents are governed by CMC 3.5.
 They do not declare individual versions.
 
 CORE GOVERNANCE:
-• CIV–MEM–CORE (v3.4)
+• CIV–MEM–CORE (v3.5)
 • CMC–BOOTSTRAP
 • VERSION–MANIFEST (this file)
 • TERMINOLOGY–REGISTRY
@@ -189,7 +200,7 @@ For recurring drift checks, see:
 • tools/cmc-governance-checks.sh
 
 MAJOR VERSIONS:
-• CMC 3.5 (Planned): Optimization and refinement cycle
+• CMC 3.5 (2026-03-10): Optimization and Refinement (Phase B complete, Event Chronicle, drift fixes)
 • CMC 3.4 (2026-02-17): STATE Procedures and Invocation (signal-check prediction link, measurability/falsifiability, invocation phrases, options flexibility)
 • CMC 3.3 (2026-02-13): Integration Program Activation (Tiered Retrieval, Living ARC, MIND Navigation, CEP residual integration)
 • CMC 3.2 (2026-02-10): Three-Mode Architecture Edition (SCHOLAR/STATE/SYSTEM)
@@ -220,7 +231,7 @@ VI. QUICK BINDING DECLARATION
 ────────────────────────────────────────────────────────────
 For session startup, declare:
 
-"Bound by CMC Governance Version 3.4"
+"Bound by CMC Governance Version 3.5"
 
 This single declaration replaces all previous multi-line bindings.
 
@@ -229,10 +240,10 @@ VII. COMPLIANCE RULES
 ────────────────────────────────────────────────────────────
 1. New MEMs use simplified header format (Section III)
 2. Existing MEMs with old headers remain valid
-3. MIND profile references use "CMC 3.4" not individual versions
+3. MIND profile references use "CMC 3.5" not individual versions
 4. Compliance status tracked in COMPLIANCE–REGISTRY.md
 5. Version changes logged in CHANGELOG.md
 
 ────────────────────────────────────────────────────────────
-END OF FILE — VERSION–MANIFEST — v3.4
+END OF FILE — VERSION–MANIFEST — v3.5
 ────────────────────────────────────────────────────────────

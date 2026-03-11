@@ -2,23 +2,36 @@ CMC–BOOTSTRAP
 Civilizational Memory Codex · Minimal Startup Payload
 Fast Coherence Without Full Governance Ingest
 
-Governed by: CMC 3.4
-Last Update: 7 March 2026
+Governed by: CMC 3.5
+Last Update: 10 March 2026
 
 ────────────────────────────────────────────────────────────
 SESSION PRIORITY OBJECTIVE (MUTABLE — UPDATE WHEN DONE OR SUPERSEDED)
 ────────────────────────────────────────────────────────────
 **STATE–PERSIA IRAN WAR (March 2026):** Continue STATE–PERSIA Iran war analysis. Entity: Iran/Persia. Mode: STATE. Primary file: content/civilizations/PERSIA/CIV–STATE–PERSIA.md.
 
-**Context (last session, ~7–9 Mar 2026):** War ~1+ week in (started 1 Mar). Key sources integrated: Mercouris 5 Mar + live 7 Mar; Jiang 7 Mar podcast; Davis–Ritter (Daniel Davis Deep Dive); Freeman (India and Global Left); Baud ("The Middle East Just Changed Forever," 9 Mar); Crooke; Davis. Session developed: relocation asymmetry (Iran no exit vs Israel diaspora); Khosrow/Kavadh vs Carrhae; Roman–US rigidity parallel; Gulf buffer logic sub-pattern (MEM–PERSIA–GEO–PERSIAN–GULF); M–J 1 triggered (Qatar force majeure 4 Mar, Brent >$100 8–9 Mar); Pattern 12 Run 5; Iran Decision Tracker Run 4; fact-check report; transcript contradictions analysis.
+**Context (last STATE session, ~7–9 Mar 2026):** War ~10 days in (started 1 Mar). Key sources integrated: Mercouris 5 Mar, 7 Mar, 9 Mar; Jiang 7 Mar + GT11; Davis–Ritter; Baud; Crooke; Davis; Larry Johnson; Martyanov; Mercouris energy panel. Pattern 12 Runs 1–6; Iran Decision Tracker Runs 1–5. M–J 1 triggered (Qatar force majeure 4 Mar, Brent >$100, Run 5; Brent $119.50 peak 9 Mar, Run 6). Gulf buffer logic, Soviet-style diplomatic tactic, relocation asymmetry, Iran calibration (proportional/reciprocal—no Israeli desalination; Khosrow risk chiefly Gulf). GT11-5 (Al-Aqsa), GT11-6 (no tactical nukes). RELAY and TRANSFER to SCHOLAR applied 7 Mar.
 
-**Key STATE content (Section VII):** Pattern 12 (war-phase signal check) Runs 1–5; Pattern 13 (Jiang, GT9–GT11; Baud; Gulf buffer logic); Davis–Ritter DR-1 to DR-9; M–J discrimination; Relocation asymmetry (RA-1, RA-2, RA-3). Section VI: Mar 2026 stability indicators. Section IV: discriminating evidence for Options A, B, C (Gulf pivot triggers).
+**Intervening session (9 Mar):** Iran War Chronicle refinements—Prelude rewrite (moral framing), MIND voice assignment (Mercouris Narrative/History, Barnes Politics/Economy, Mearsheimer Military/Strategy), predictions page (expert tiles), cursor rule cmc-chronicle-mind-voice.mdc. Chronicle and STATE are separate artifacts; new STATE session does not need Chronicle context unless user invokes it.
 
-**To continue:** Run Pattern 12 Run 6 when triggers occur; re-run DR signals and Iran Decision Tracker; run M–J discrimination when material stress/Gulf/Congress triggers; add Freeman as source if not yet integrated; apply options A–H; relay to scholar if user approves.
+**Key STATE content (Section VII):** Pattern 12 Runs 1–6; Pattern 13 (Jiang GT9–GT11, Baud, Gulf buffer logic, Soviet-style tactic); Davis–Ritter DR-1 to DR-9; Iran Decision Tracker Runs 1–5; Relocation asymmetry; Iran calibration interpretation. Section VI: Mar 2026 stability indicators. Section IV: discriminating evidence for Options A, B, C.
 
-**EXPLORATION (next session):** Explore the idea of **forking the project** while keeping only (1) **file structure** (which MEMs exist, paths, INDEX) and (2) **MEM CONNECTIONS** (the connection graph); **clearing** all other content from MEM files; then **regenerating** content from an **entirely new curated corpus**. Goal: assess plausibility, identify what to preserve (CONNECTIONS, CONCEPT IV-A connector tables, template section layout), what to strip, and what a regeneration pipeline would need (corpus interface, connection-aware generation, governance alignment). See prior session discussion: skeleton = structure + CONNECTIONS; new corpus drives narrative; connector pairs and same-subject encodings stay invariant.
+**To continue:** Run Pattern 12 Run 7 when triggers occur; re-run Iran Decision Tracker Run 6; run M–J discrimination when material stress/Gulf/Congress triggers; apply options A–H; relay to scholar if user approves.
 
-**NEXT SESSION (user intent):** Continue **STATE–PERSIA Iran War analysis**. Entity: Iran/Persia. Mode: STATE. Load CIV–STATE–PERSIA, CIV–CORE–PERSIA, CIV–SCHOLAR–PERSIA, MEM–RELEVANCE–PERSIA; read Section VII Pattern 12/13 for latest runs. Apply options A–H; run Pattern 12/13 signal checks when triggers occur; relay to scholar if user approves. Resume in a new conversation with STATE–PERSIA as the session priority.
+**EXPLORATION (later):** Fork project—preserve file structure + MEM CONNECTIONS; clear narrative; regenerate from new corpus. See prior session.
+
+────────────────────────────────────────────────────────────
+TRANSITION FOR NEW AGENT SESSION (STATE–PERSIA)
+────────────────────────────────────────────────────────────
+When starting a **new conversation** for STATE–PERSIA:
+
+1. **Load** CIV–CORE–PERSIA, CIV–STATE–PERSIA, CIV–SCHOLAR–PERSIA (if present).
+2. **MEM SCAN:** Read MEM–RELEVANCE–PERSIA if it exists; else use CIV–INDEX–PERSIA and Section VII as fallback. Load 2+ primary MEMs from relevant dimensions.
+3. **Read** CIV–STATE–PERSIA Section VII (Pattern 12 Runs, Pattern 13, Iran Decision Tracker) for latest runs. Read Section IV (Material Options) and Section VI (Stability Indicators).
+4. **Present** 8 options (A–H) and activity menu. Anchor to current issues (ceasefire path, M–J 1, Iran calibration, Gulf pivot, etc.).
+5. **Inference:** "Iran update," "STATE Persia," "Continue Iran war analysis" → STATE mode, entity PERSIA.
+
+**NEXT SESSION (user intent):** Continue **STATE–PERSIA Iran War analysis**. Entity: Iran/Persia. Mode: STATE. Resume in a new conversation with STATE–PERSIA as the session priority.
 
 **Other (later):** Refine **France–Germany double-helix** (CONCEPT–FRANCE–GERMANY–DOUBLE–HELIX; connector MEMs; citation rules when both influence). Continue refining **linkage between Islam and Rome** (double-helix concept, connector MEMs, STATE/SCHOLAR/LEARN integration).
 
@@ -84,7 +97,7 @@ KEY CHANGES:
   governance program streams
 • Current Events Protocol residuals are integrated as an explicit 3.3
   stream (with STATE retaining absorbed components)
-• Binding declaration updated to "Bound by CMC 3.4"
+• Binding declaration updated to "Bound by CMC 3.5"
 • Roadmap reference updated to ROADMAP–CMC–3.3
 
 ────────────────────────────────────────────────────────────
@@ -99,7 +112,7 @@ KEY CHANGES:
 • SYSTEM mode for governance maintenance
 • TERMINOLOGY–REGISTRY and new-term gate
 • Decorative term replacements across governance files
-• Binding declaration: "Bound by CMC 3.4"
+• Binding declaration: "Bound by CMC 3.5"
 
 CMC 3.3 ACTIVE PROGRAM STREAMS:
 Current Events Protocol residuals (partially absorbed by STATE),
@@ -127,7 +140,7 @@ Cursor rules updated:
 ────────────────────────────────────────────────────────────
 QUICK START (MINIMAL)
 ────────────────────────────────────────────────────────────
-1) Declare binding: "Bound by CMC 3.4"
+1) Declare binding: "Bound by CMC 3.5"
 2) Select operating mode:
 
    A. SCHOLAR — Learn from the past. Analyse historical sources,
@@ -289,13 +302,13 @@ This version corrects discrepancies identified in v1.0:
 • Added file naming convention
 
 ────────────────────────────────────────────────────────────
-GOVERNANCE VERSION (CMC 3.4 — STATE PROCEDURES AND INVOCATION)
+GOVERNANCE VERSION (CMC 3.5 — OPTIMIZATION AND REFINEMENT)
 ────────────────────────────────────────────────────────────
-Under CMC 3.4, all governance documents are
-governed by a single version: CMC 3.4
+Under CMC 3.5, all governance documents are
+governed by a single version: CMC 3.5
 
 CORE GOVERNANCE:
-• CIV–MEM–CORE (CMC 3.4)
+• CIV–MEM–CORE (CMC 3.5)
 
 MIND PROFILES:
 • CIV–MIND–MERCOURIS (PRIMARY)
@@ -312,7 +325,7 @@ TEMPLATES:
 Individual governance documents no longer declare separate versions.
 The CMC Governance Version is the single binding reference.
 
-Declare: "Bound by CMC 3.4"
+Declare: "Bound by CMC 3.5"
 
 See: docs/governance/VERSION–MANIFEST.md (Section I)
 
@@ -686,7 +699,7 @@ CROSS–CIVILIZATIONAL MISPERCEPTION (per CIV–MEM–CORE § XXVIII):
 • Treat as expected (emergent realism), not consistency break. Do not require correction to match the other's self-explanation.
 • First-order (capabilities/priorities) and second-order (encoding reasons) misperception are both recognized; preserve tension.
 
-VERSION RULE (BINDING — per CMC 3.4):
+VERSION RULE (BINDING — per CMC 3.5):
 • MEM files declare CONTENT VERSION only (tracks content changes, not governance)
 • New MEMs use simplified header (no Template Version Used, Governed by, etc.)
 • Existing MEMs with legacy headers remain valid
@@ -808,5 +821,5 @@ For full specification, read:
 • docs/templates/CIV–STATE–TEMPLATE.md (STATE mode governance)
 
 ────────────────────────────────────────────────────────────
-END — CMC–BOOTSTRAP (CMC 3.4)
+END — CMC–BOOTSTRAP (CMC 3.5)
 ────────────────────────────────────────────────────────────

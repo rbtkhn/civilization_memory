@@ -7,7 +7,7 @@ Status: ACTIVE · CANONICAL · SIMPLIFIED
 Supersedes: CIV–ARC–[CIVILIZATION] v3.4
 Upgrade Type: INDIGENOUS-LANGUAGE QUOTE REQUIREMENT (OPTIONAL PER ARC)
 Scope: Author admissibility and temporal precedence ONLY
-Compatibility: CIV–MEM–CORE v3.4 · CIV–MEM–TEMPLATE v3.4 · NAMESPACE–CLARIFICATION v1.0
+Compatibility: CIV–MEM–CORE v3.5 · CIV–MEM–TEMPLATE v3.5 · NAMESPACE–CLARIFICATION v1.0
 Last Updated: February 2026
 
 ────────────────────────────────────────────────────────────

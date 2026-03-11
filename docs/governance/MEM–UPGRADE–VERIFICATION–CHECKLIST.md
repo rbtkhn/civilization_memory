@@ -4,7 +4,7 @@
 
 **When to use:** Before completing any batch of MEM upgrades (v1.x → v2.0, additive integrations, corpus-wide changes).
 
-**Authority:** CIV–MEM–TEMPLATE v3.4 · CIV–MEM–CORE v3.4 · content composition rule (cmc-blend-law)
+**Authority:** CIV–MEM–TEMPLATE v3.5 · CIV–MEM–CORE v3.5 · content composition rule (cmc-blend-law)
 
 ---
 

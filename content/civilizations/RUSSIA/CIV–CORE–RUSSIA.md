@@ -5,7 +5,7 @@ Phase-Aware Template v3.0 Compliance · Temporal Compression Doctrine · Scholar
 Status: ACTIVE · CANONICAL · SCHOLAR-ENABLED · STAND-ALONE · FULL INLINE
 Activation State: ACTIVE
 Supersedes: CIV–CORE–RUSSIA v3.1
-Template Version Used: CIV–CORE–TEMPLATE v3.0
+Template Version Used: CIV–CORE–TEMPLATE v3.5
 Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v3.0)
 Governed by: CIV–MEM–CORE v3.0
 Upgrade Type: DOCTRINE CITATION · CIV–DOCTRINE–RUSSIA v3.2 LINKAGE

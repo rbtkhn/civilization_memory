@@ -4,7 +4,7 @@ Civilizational Memory Codex · System Performance & Quality Measurement
 Status: ACTIVE · REFERENCE
 Version: 1.0
 Scope: SYSTEM mode; audits; quality evaluation
-Governed by: CMC 3.4 · CIV–MEM–CORE · CIV–MEM–TEMPLATE · CIV–STATE–TEMPLATE
+Governed by: CMC 3.5 · CIV–MEM–CORE · CIV–MEM–TEMPLATE · CIV–STATE–TEMPLATE
 Last Update: February 2026
 
 Purpose: Define quantitative benchmarks to establish and measure the performance and quality of the CIV–MEM system. These benchmarks support audits, compliance checks, and periodic review. They do not replace qualitative judgment; they make it possible to track trends and spot regressions.

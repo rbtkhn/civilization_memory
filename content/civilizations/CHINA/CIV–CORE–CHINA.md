@@ -6,7 +6,7 @@ Status: ACTIVE · CANONICAL · STAND-ALONE READY · SCHOLAR-ENABLED
 Version: 3.0
 Supersedes: CIV–CORE–CHINA v2.0
 Upgrade Type: ALIGNMENT · v3.0 VERSION BUMP
-Template Version Used: CIV–CORE–TEMPLATE v3.0
+Template Version Used: CIV–CORE–TEMPLATE v3.5
 Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v3.0)
 Conceptual Lineage: SCE–CIV–CHINA V9.8 (doctrinal ancestry preserved)
 Civilization Phase: PHASE I

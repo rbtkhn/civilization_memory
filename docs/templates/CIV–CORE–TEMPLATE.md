@@ -1,22 +1,31 @@
-CIV–CORE–TEMPLATE — v3.4
+CIV–CORE–TEMPLATE — v3.5
 Civilizational Strategy Codex · Civilization Core Engine
 Global Structural Template · Phase-Aware Enhanced Scholarly Edition
+CMC 3.5 EDITION · ALIGNED WITH CIV–MEM–CORE v3.5
 
 Status: ACTIVE · CANONICAL · TEMPLATE
-Supersedes: CIV–CORE–TEMPLATE v3.2
-Upgrade Type: ALIGNMENT · CMC 3.4 VERSION ALIGNMENT
+Version: 3.5
+Supersedes: CIV–CORE–TEMPLATE v3.4 (governance alignment; version number tracks CIV–MEM–CORE / CMC)
+Upgrade Type: GOVERNANCE ALIGNMENT · CMC 3.5
 Activation State: INACTIVE BY DEFAULT
-Compatibility: CIV / MEM / SCHOLAR / STATE Architecture (CMC v3.4)
+Compatibility: CIV / MEM / SCHOLAR / STATE Architecture (CMC 3.5)
 Governance Mode: STRUCTURAL LOCK
 Lock Level: TOTAL (no silent mutation)
 
 Governed by:
-• CIV–MEM–CORE v3.4 (global system law)
+• CIV–MEM–CORE v3.5 (global system law)
 • CIV–CORE–GOVERNANCE–LAW v1.0 (implicit)
-• CIV–SCHOLAR–PROTOCOL v3.4 (interaction layer only)
+• CIV–SCHOLAR–PROTOCOL v3.5 (interaction layer only)
 
-Last Update: February 2026
+Last Update: 10 March 2026
 WORDCOUNT: ~4,000
+
+────────────────────────────────────────────────────────────
+ALIGNMENT NOTE (v3.5) — VERSION NUMBER MATCHES CIV–MEM–CORE
+────────────────────────────────────────────────────────────
+CORE template **declared version** is aligned to **CIV–MEM–CORE v3.5** and **CMC 3.5**.
+Upgrade notes below (v1.9→v2.0, phase model, etc.) remain as **content history**.
+When citing "CIV–CORE–TEMPLATE v3.5" mean governance alignment; section references unchanged.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.9 → v2.0 CONTINUITY CARRY-FORWARD)
@@ -323,8 +332,8 @@ XVI. TEMPLATE CANONICAL STATUS
 This template is CANONICAL.
 
 All future CIV–CORE files MUST declare:
-“Template Version Used: CIV–CORE–TEMPLATE v3.0”
+“Template Version Used: CIV–CORE–TEMPLATE v3.5”
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–CORE–TEMPLATE v3.4
+END OF FILE — CIV–CORE–TEMPLATE v3.5 (aligned with CIV–MEM–CORE v3.5 · CMC 3.5)
 ────────────────────────────────────────────────────────────

@@ -2,7 +2,7 @@
 
 **Date:** 19 February 2026  
 **Scope:** CIV–CORE–GERMANY v2.0, CIV–CORE–FRANCE v2.0  
-**Reference:** CIV–CORE–TEMPLATE v3.4, CIV–MEM–CORE v3.4, CMC–BOOTSTRAP (CMC 3.4), VERSION–MANIFEST v3.4  
+**Reference:** CIV–CORE–TEMPLATE v3.5, CIV–MEM–CORE v3.5, CMC–BOOTSTRAP (CMC 3.5), VERSION–MANIFEST v3.5  
 **Mode:** SYSTEM (governance audit)
 
 ────────────────────────────────────────────────────────────

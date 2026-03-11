@@ -1,13 +1,26 @@
-CIV–STATE–TEMPLATE — v3.11
+CIV–STATE–TEMPLATE — v3.5
 Civilizational Memory Codex · STATE File Template
+CMC 3.5 EDITION · ALIGNED WITH CIV–MEM–CORE v3.5
 
 Status: ACTIVE · CANONICAL
-Version: 3.11
-Supersedes: CIV–STATE–TEMPLATE v3.10
-Upgrade Type: POLITY VS ACTOR · SIGNALS AS TRIGGERS
+Version: 3.5
+Scope: STATE files (present-oriented decision support)
 Class: CIV–STATE–TEMPLATE (Decision-Support Governance)
-Compatibility: CIV–MEM–CORE v3.4 · CMC 3.4
-Last Update: 17 February 2026
+Supersedes: CIV–STATE–TEMPLATE v3.11 (internal revision; version number now tracks CIV–MEM–CORE / CMC)
+Upgrade Type: GOVERNANCE ALIGNMENT · CMC 3.5
+Compatibility: CIV–MEM–CORE v3.5 · CMC 3.5
+Last Update: 10 March 2026
+
+────────────────────────────────────────────────────────────
+ALIGNMENT NOTE (v3.5) — VERSION NUMBER MATCHES CIV–MEM–CORE
+────────────────────────────────────────────────────────────
+STATE template **declared version** is aligned to **CIV–MEM–CORE v3.5** and **CMC 3.5**
+(single governance reference per VERSION–MANIFEST). Procedural upgrade notes below
+(retained labels v3.4 through v3.11) record **template content history**—sections
+X-J, X-K, polity vs actor, doctrine–RLL stress, etc.—and are not separate file
+versions. When citing "CIV–STATE–TEMPLATE v3.5" mean governance alignment with
+MEM–CORE/CMC 3.5; when citing a specific procedure, cite the section (e.g. X-B, X-J)
+or the retained upgrade-note label where relevant.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v3.11) — POLITY VS ACTOR · SIGNALS AS TRIGGERS
@@ -2903,5 +2916,5 @@ Per Version Decoupling (CMC 3.1+):
 • Do not increment for governance changes
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–STATE–TEMPLATE v3.11
+END OF FILE — CIV–STATE–TEMPLATE v3.5 (aligned with CIV–MEM–CORE v3.5 · CMC 3.5)
 ────────────────────────────────────────────────────────────

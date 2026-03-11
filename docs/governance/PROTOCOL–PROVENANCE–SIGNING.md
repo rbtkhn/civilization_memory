@@ -2,7 +2,7 @@ PROTOCOL–PROVENANCE–SIGNING
 Civilizational Memory Codex · Contribution Provenance Policy
 
 Status: ACTIVE
-Governed by: CMC 3.4
+Governed by: CMC 3.5
 Last Updated: 2026-02-13
 
 Purpose:

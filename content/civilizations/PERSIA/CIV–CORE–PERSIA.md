@@ -1,20 +1,20 @@
-CIV–CORE–PERSIA — v3.3
+CIV–CORE–PERSIA — v3.4
 Civilizational Memory Codex · Civilization Continuity Engine
 Sovereignty–Compression–Exit-Building Edition
 
 Status: ACTIVE · CANONICAL · SCHOLAR-ENABLED · STAND-ALONE
-Version: v3.3
-Supersedes: CIV–CORE–PERSIA v2.0
-Upgrade Type: Alignment with CMC 3.3; propagation of MEM content-composition rule (CIV–MEM–CORE VP-1.g). Persia MEM corpus: 21 priority MEMs upgraded to structural context, Barnes dimension, no numerical proportions (2026-02). CORE substantive content unchanged; governance and MEM-corpus alignment recorded.
-Template Version Used: CIV–CORE–TEMPLATE v3.0 (civilization-specific structure: Siege–Compute at XIII; EPL at XVI; Hardening Layers at XIX; Verdict at XXI. Strategic Red Lines embedded in Hardening Layers; SCHOLAR Mode implicit in Status.)
-Compatibility: CIV / MEM / SCHOLAR / STATE Architecture (CMC v3.3)
-Governed by: CIV–MEM–CORE v3.3
+Version: v3.4
+Supersedes: CIV–CORE–PERSIA v3.3
+Upgrade Type: Alignment with CMC 3.5; doctrine mirror (CIV–DOCTRINE–PERSIA v1.3); war-phase continuity; Event Chronicle reference. Governance and template alignment per AUDIT–CORE–PERSIA–TEMPLATE–STATE–CHRONICLE–2026–03–10.
+Template Version Used: CIV–CORE–TEMPLATE v3.5 (civilization-specific structure: Siege–Compute at XIII; EPL at XVI; Hardening Layers at XIX; Verdict at XXI. Strategic Red Lines embedded in Hardening Layers; SCHOLAR Mode implicit in Status.)
+Compatibility: CIV / MEM / SCHOLAR / STATE Architecture (CMC v3.5)
+Governed by: CIV–MEM–CORE v3.5
 ARC Reference: CIV–ARC–PERSIA v3.1
 Conceptual Lineage: SCE–CIV–PERSIA V9.7.2 (doctrinal ancestry preserved)
 Civilization Phase: PHASE I (Accumulation)
 Lock Level: STRUCTURAL (content expandable without renumbering)
-Last Update: February 2026
-WORDCOUNT: ~2,450
+Last Update: March 2026
+WORDCOUNT: ~2,850
 
 ────────────────────────────────────────────────────────────
 I. CIVILIZATIONAL IDENTITY & PRIME AXIOMS
@@ -75,7 +75,7 @@ III. HISTORICAL–TEMPORAL CONTINUITY ENGINE
 ────────────────────────────────────────────────────────────
 
 Ancient → Sasanian → Safavid → Colonial Trauma → 1953 Coup →
-Iran–Iraq War → Sanctions Era → Compute-Siege Future
+Iran–Iraq War → Sanctions Era → Compute-Siege Future → War phase (Mar 2026–)
 
 Rule:
 Each era increases siege literacy and distrust of external guarantees.
@@ -159,6 +159,8 @@ Narrative posture:
 • martyrdom memory activation
 • deterrence messaging discipline
 • external encirclement interpretation default
+
+Event Chronicle (IRAN–WAR–CHRONICLE) supplements CIV–STATE–PERSIA for war-phase event recording; CORE outputs feed both. See CIV–MEM–CORE File Class Taxonomy (Event Chronicle).
 
 MANDATORY OUTPUT:
 • Narrative Coherence: HIGH / MED / LOW
@@ -270,6 +272,24 @@ MANDATORY OUTPUT:
 • VES-PE: PASS / FAIL
 
 ────────────────────────────────────────────────────────────
+XIX-B. DOCTRINE MIRROR (from CIV–DOCTRINE–PERSIA v1.3)
+────────────────────────────────────────────────────────────
+
+CIV–CORE may cite doctrines ONLY from this registry. Source: CIV–DOCTRINE–PERSIA.
+
+DOCTRINE 01 — FOUR-ZONE GEO AND LEVANT OVEREXTENSION LIABILITY
+Persian strategic geography: four zones (Caspian buffer, Gulf chokepoint, Indian Ocean periphery, Levant parity) with distinct incentives. In parity zones, conquest does not imply consolidation; overextension invites reversal, court defection, exhaustion. Liability attaches to overextending ruler and defecting successor. Exhaustion more dangerous than defeat when closure capacity absent.
+
+DOCTRINE 02 — PERSIA–ISLAM STRUCTURAL TRANSITION
+Mutual exhaustion (Roman–Persian war) creates vacuum; Arabs enter. State collapse and civilizational persistence coexist. Doctrine optimized for peer conflict fails when conflict type shifts (new actor, different velocity). Consider exhaustion/vacuum and third-actor entry as structural possibilities.
+
+DOCTRINE 03 — ASYMMETRY OF PATIENCE
+In parity conflict, the side that can endure without closure has structural advantage. Denial, mobility, tempo favour the patient defender; the stressed side tends to move first. Tempo is a resource. Do not rush to settle when denial can be sustained.
+
+DOCTRINE 04 — CALIBRATED CHOKEPOINT LEVERAGE
+Chokepoint leverage via calibrated denial (threat, harassment, selective restriction) rather than total closure. Credible threat alters behavior; total closure is last resort. In Gulf zone: prefer threat and partial restriction; preserve optionality.
+
+────────────────────────────────────────────────────────────
 XX. SESSION HEADER (OPTIONAL)
 ────────────────────────────────────────────────────────────
 
@@ -320,5 +340,5 @@ Every Persia-engine conclusion MUST end with:
 No narrative output is valid without this block.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–CORE–PERSIA — v3.3
+END OF FILE — CIV–CORE–PERSIA — v3.4
 ────────────────────────────────────────────────────────────

@@ -2,7 +2,7 @@
 
 **Date:** 17 February 2026  
 **Scope:** CIV–STATE–ROME (Rome civilization STATE file)  
-**Reference:** CIV–STATE–TEMPLATE v3.11, CMC–BOOTSTRAP (CMC 3.4), cmc-state-mem-grounding  
+**Reference:** CIV–STATE–TEMPLATE v3.5, CMC–BOOTSTRAP (CMC 3.4), cmc-state-mem-grounding  
 **Mode:** SYSTEM (governance audit)
 
 ────────────────────────────────────────────────────────────
@@ -40,7 +40,7 @@ II. RECOMMENDATIONS
 
 | # | Option | Action |
 |---|--------|--------|
-| 1 | **Create CIV–STATE–ROME** | Add CIV–STATE–ROME per CIV–STATE–TEMPLATE v3.11, derived from CIV–CORE–ROME, CIV–SCHOLAR–ROME, CIV–DOCTRINE–ROME. Define entity (e.g. FRAGMENTED-SOURCE "Roman inheritance" or a present-oriented Latin-civilization scope). Create MEM–RELEVANCE–ROME first (recommended) so MEM SCAN has dimension-based discovery; otherwise document fallback (Section VII + INDEX) for MEM grounding. |
+| 1 | **Create CIV–STATE–ROME** | Add CIV–STATE–ROME per CIV–STATE–TEMPLATE v3.5, derived from CIV–CORE–ROME, CIV–SCHOLAR–ROME, CIV–DOCTRINE–ROME. Define entity (e.g. FRAGMENTED-SOURCE "Roman inheritance" or a present-oriented Latin-civilization scope). Create MEM–RELEVANCE–ROME first (recommended) so MEM SCAN has dimension-based discovery; otherwise document fallback (Section VII + INDEX) for MEM grounding. |
 | 2 | **Leave absent (intentional)** | If Rome is treated as historical/fragmented only and no present-oriented decision support is desired for a "Rome" entity, document the absence as intentional (e.g. one-line note in BOOTSTRAP or a README in the ROME folder). No STATE file required. |
 | 3 | **Stub only** | Create a minimal CIV–STATE–ROME with header, entity identification (FRAGMENTED-SOURCE), and placeholder sections I–X, no material options yet — to reserve the file and allow incremental build. MEM–RELEVANCE–ROME still recommended before substantive STATE sessions. |
 

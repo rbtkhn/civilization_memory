@@ -1,7 +1,7 @@
 # PROTOCOL–MODE–INFERENCE
 
 **Status:** ACTIVE · NORMATIVE  
-**Governed by:** CMC 3.4  
+**Governed by:** CMC 3.5  
 **Last updated:** 2026-02-17  
 **Binding location:** .cursor/rules/cmc-mode-contracts.mdc (Mode inference section)
 

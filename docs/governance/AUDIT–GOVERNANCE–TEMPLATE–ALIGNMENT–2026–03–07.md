@@ -47,8 +47,8 @@ III. TEMPLATE FILES — CURRENT STATE
 
 | File | Header / Compatibility | Residual drift | Status |
 |------|------------------------|----------------|--------|
-| CIV–STATE–TEMPLATE.md | v3.11, CMC 3.4 | — | ✓ |
-| CIV–SCHOLAR–TEMPLATE.md | v3.4, CMC 3.4 | — | ✓ |
+| CIV–STATE–TEMPLATE.md | v3.5, CIV–MEM–CORE v3.5 · CMC 3.5 (aligned 10 Mar 2026; supersedes internal v3.11) | — | ✓ |
+| CIV–SCHOLAR–TEMPLATE.md | v3.5, CIV–MEM–CORE v3.5 · CMC 3.5 (aligned 10 Mar 2026; supersedes v3.4) | — | ✓ |
 | CIV–SCHOLAR–PROTOCOL.md | v3.4, CMC 3.4 | — | ✓ |
 | CIV–MEM–TEMPLATE.md | v3.4, CMC 3.4 | — | ✓ |
 | CIV–CORE–TEMPLATE.md | v3.4, CMC 3.4 | — | ✓ |

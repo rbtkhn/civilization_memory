@@ -1,7 +1,7 @@
 # CONCEPT: STATE influence from concluded entities
 
 **Status:** ACTIVE  
-**Governed by:** CMC 3.4 · CIV–STATE–TEMPLATE  
+**Governed by:** CMC 3.5 · CIV–STATE–TEMPLATE  
 **Last updated:** February 2026
 
 ────────────────────────────────────────────────────────────

@@ -4,7 +4,7 @@ AI Investors · Strategic Acquirers
 
 Status: DRAFT
 Date: February 2026
-Governed by: CMC 3.4 (project context)
+Governed by: CMC 3.5 (project context)
 
 ────────────────────────────────────────────────────────────
 TITLE

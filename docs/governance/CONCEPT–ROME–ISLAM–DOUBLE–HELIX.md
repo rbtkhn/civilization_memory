@@ -1,7 +1,7 @@
 # CONCEPT: Rome and Islam as Two Strands of the Double Helix of Western Civilization
 
 **Status:** ACTIVE  
-**Governed by:** CMC 3.4 · Refinement of influence-from-concluded-entities design  
+**Governed by:** CMC 3.5 · Refinement of influence-from-concluded-entities design  
 **Last updated:** February 2026
 
 ────────────────────────────────────────────────────────────

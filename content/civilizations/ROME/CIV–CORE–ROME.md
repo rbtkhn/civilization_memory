@@ -4,7 +4,7 @@ Phase-Aware Template v3.4 Compliance · Legitimacy-First Sovereignty
 
 Status: ACTIVE · CANONICAL · SCHOLAR-ENABLED · STAND-ALONE
 Supersedes: CIV–CORE–ROME v2.0
-Template Version Used: CIV–CORE–TEMPLATE v3.4
+Template Version Used: CIV–CORE–TEMPLATE v3.5
 Compatibility: CIV / MEM / SCHOLAR / STATE Architecture (CMC v3.4)
 Governed by: CIV–MEM–CORE v3.4
 Upgrade Type: VERSION BUMP · v3.0 (governance already at v3.4)

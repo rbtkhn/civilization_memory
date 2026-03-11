@@ -2,7 +2,7 @@
 
 **Date:** 18 February 2026  
 **Scope:** CIV–CORE–ROME v2.0, CIV–CORE–ISLAM v2.0  
-**Reference:** CIV–CORE–TEMPLATE v3.4, CIV–MEM–CORE v3.4, CMC–BOOTSTRAP (CMC 3.4)  
+**Reference:** CIV–CORE–TEMPLATE v3.5, CIV–MEM–CORE v3.5, CMC–BOOTSTRAP (CMC 3.5)  
 **Mode:** SYSTEM (governance audit)
 
 ────────────────────────────────────────────────────────────
@@ -20,7 +20,7 @@ I. CIV–CORE–ROME — VERIFICATION
 | Field | Required | CIV–CORE–ROME | Status |
 |-------|----------|----------------|--------|
 | Filename | ✓ | CIV–CORE–ROME — v2.0 | ✓ |
-| Template Version Used | ✓ | CIV–CORE–TEMPLATE v3.4 | ✓ |
+| Template Version Used | ✓ | CIV–CORE–TEMPLATE v3.5 | ✓ |
 | Compatibility | ✓ | CIV / MEM / SCHOLAR Architecture (CMC v3.4) | ✓ |
 | Governed by | — | CIV–MEM–CORE v3.4 | ✓ |
 | Civilization Phase | ✓ | PHASE II — DEVELOPMENT | ✓ |
@@ -56,7 +56,7 @@ II. CIV–CORE–ISLAM — FINDINGS
 - **Current:** Template Version Used: CIV–CORE–TEMPLATE v3.0; Compatibility: CMC v2.2+; Governed by: CIV–MEM–CORE v3.0.
 - **Governance:** CIV–CORE–TEMPLATE is v3.4; CMC is 3.4; CIV–MEM–CORE is v3.4 (VERSION–MANIFEST, BOOTSTRAP).
 - **Impact:** Low. Structure and content are valid; header metadata is behind.
-- **Recommendation:** Update to "Template Version Used: CIV–CORE–TEMPLATE v3.4 (civilization-specific structure: …)", "Compatibility: CIV / MEM / SCHOLAR / STATE Architecture (CMC v3.4)", "Governed by: CIV–MEM–CORE v3.4" on next touch.
+- **Recommendation:** ~~v3.4~~ — CORE template aligned to v3.5 (10 Mar 2026); CIV–CORE–ROME/ISLAM headers can cite v3.5 on next touch.
 
 **2.2 Civilization Phase wording**
 - **Current:** "Civilization Phase: PHASE I (Accumulation)".

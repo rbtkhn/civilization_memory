@@ -1,11 +1,101 @@
-CHANGELOG — v3.4
+CHANGELOG — v3.5
 Civilizational Memory Codex · Governance Change History
 Consolidated Version History
 
 Status: ACTIVE · CANONICAL
-Governed by: CMC 3.4
-Last Updated: 2026-02-17
+Governed by: CMC 3.5
+Last Updated: 10 March 2026
 Purpose: Track all governance changes in one place
+
+────────────────────────────────────────────────────────────
+00034. CIV–CORE–TEMPLATE v3.5 ALIGNMENT (10 MAR 2026)
+────────────────────────────────────────────────────────────
+Date: 10 March 2026
+Type: TEMPLATE (governance alignment)
+
+CHANGES:
+• **CIV–CORE–TEMPLATE:** v3.4 → **v3.5** — aligned with CIV–MEM–CORE v3.5 / CMC 3.5. Governed by block MEM–CORE v3.5; Compatibility CMC 3.5; Section XVI canonical declaration v3.5; ALIGNMENT NOTE added; END OF FILE updated.
+• **CIV–SCHOLAR–PROTOCOL, CIV–AXIOM–TEMPLATE:** Compatibility CORE–TEMPLATE v3.5.
+• **CIV–CORE–ROME, CIV–CORE–PERSIA, CIV–CORE–ISLAM; CIV–CORE–AMERICA, ANGLIA, CHINA, GERMANY, FRANCE, RUSSIA:** Template Version Used → v3.5 where still v3.0/v3.4.
+• **RUN–AUDIT–CORE–*** (Germany–France, Rome–Islam, Core–SCHOLAR–Rome), **AUDIT–CORE–PERSIA–TEMPLATE–STATE–CHRONICLE:** Reference lines → v3.5 where applicable.
+• **AUDIT–GOVERNANCE–TEMPLATE–ALIGNMENT–2026–03–10:** CORE template row → v3.5.
+
+RATIONALE:
+CORE template was the remaining major template on v3.4; now consistent with MEM–CORE v3.5.
+
+────────────────────────────────────────────────────────────
+00033. CIV–MEM–TEMPLATE + CIV–SCHOLAR–PROTOCOL v3.5 ALIGNMENT (10 MAR 2026)
+────────────────────────────────────────────────────────────
+Date: 10 March 2026
+Type: TEMPLATE (governance alignment)
+
+CHANGES:
+• **CIV–MEM–TEMPLATE:** v3.4 → **v3.5** — aligned with CIV–MEM–CORE v3.5 / CMC 3.5. Governed by CMC 3.5. ALIGNMENT NOTE added; END OF FILE updated.
+• **CIV–SCHOLAR–PROTOCOL:** v3.4 → **v3.5** — same alignment; Supersedes v3.4; Compatibility unchanged except version labels.
+• **CIV–SCHOLAR–TEMPLATE:** Compatibility line now lists MEM–TEMPLATE v3.5 · PROTOCOL v3.5; alignment note updated (no longer "remain v3.4").
+• **CIV–INDEX–TEMPLATE, CIV–DOCTRINE–TEMPLATE, CIV–ARC–TEMPLATE, CIV–CORE–TEMPLATE, CIV–MIND–BARNES, CIV–SCHOLAR–FRANCE, CIV–SCHOLAR–GERMANY, MEM–UPGRADE–VERIFICATION–CHECKLIST, RUN–NOTE–RUSSIA–MEM–TOP–5:** References → v3.5 where they cited PROTOCOL or MEM–TEMPLATE v3.4.
+
+RATIONALE:
+Completes alignment batch — SCHOLAR stack and MEM template on one version number with MEM–CORE.
+
+────────────────────────────────────────────────────────────
+00032. CIV–SCHOLAR–TEMPLATE v3.5 ALIGNMENT (10 MAR 2026)
+────────────────────────────────────────────────────────────
+Date: 10 March 2026
+Type: TEMPLATE (governance alignment)
+
+CHANGES:
+• **CIV–SCHOLAR–TEMPLATE:** Declared version **3.4 → 3.5** to **match CIV–MEM–CORE v3.5** and **CMC 3.5**. Header/footer and Compatibility updated; **ALIGNMENT NOTE** added (upgrade-declaration blocks below retain historical labels; MEM–TEMPLATE / SCHOLAR–PROTOCOL remain v3.4 in compatibility until separately bumped). Supersedes v3.4.
+• **CIV–SCHOLAR–PRUNING–PROTOCOL, CIV–INDEX–TEMPLATE, CIV–DOCTRINE–TEMPLATE, CIV–SCHOLAR–PROTOCOL, CIV–MIND–BARNES:** Compatibility / template references → v3.5 where they cited SCHOLAR template v3.4.
+• **CIV–SCHOLAR–ROME, CIV–SCHOLAR–FRANCE, CIV–SCHOLAR–ISLAM, CIV–SCHOLAR–GERMANY:** Governed by / Template Version Used / Derived from → v3.5 where active.
+• **AUDIT–GOVERNANCE–TEMPLATE–ALIGNMENT 2026-03-07 / 2026-03-10:** SCHOLAR template row → v3.5.
+
+RATIONALE:
+Same as STATE template alignment — single governance reference; SCHOLAR template version tracks MEM–CORE.
+
+────────────────────────────────────────────────────────────
+00031. CIV–STATE–TEMPLATE v3.5 ALIGNMENT (10 MAR 2026)
+────────────────────────────────────────────────────────────
+Date: 10 March 2026
+Type: TEMPLATE (governance alignment)
+
+CHANGES:
+• **CIV–STATE–TEMPLATE:** Declared version **3.11 → 3.5** to **match CIV–MEM–CORE v3.5** and **CMC 3.5**. Header/footer now state alignment; Compatibility line CIV–MEM–CORE v3.5 · CMC 3.5. **ALIGNMENT NOTE** added: procedural upgrade-note labels (v3.4–v3.11) retained in body as content history; file version is governance alignment, not renumbering of sections. Supersedes internal v3.11.
+• **AUDIT–GOVERNANCE–TEMPLATE–ALIGNMENT–2026–03–07 / 2026–03–10:** STATE template row updated to v3.5.
+• **CIV–STATE–PERSIA** Source Versions: CIV–STATE–TEMPLATE reference updated to v3.5.
+• **RUN–AUDIT–STATE–ROME / FRANCE–GERMANY / ROME–ISLAM:** Reference lines updated to v3.5 where they cited v3.11.
+
+RATIONALE:
+Single governance version (VERSION–MANIFEST); STATE template should not float on a separate internal rev when MEM–CORE and CMC are at 3.5.
+
+────────────────────────────────────────────────────────────
+00030. CIV–CORE–PERSIA REFINEMENTS (10 MAR 2026)
+────────────────────────────────────────────────────────────
+Date: 10 March 2026
+Type: CONTENT (CORE refinement)
+
+CHANGES:
+• **CIV–CORE–PERSIA v3.3 → v3.4:** Governance alignment (Template v3.4, Compatibility CMC 3.5, Governed by v3.5); doctrine mirror (XIX-B) with DOCTRINE 01–04 from CIV–DOCTRINE–PERSIA v1.3; Section III continuity sequence adds "War phase (Mar 2026–)"; Section X adds Event Chronicle reference (IRAN–WAR–CHRONICLE supplements STATE; CORE outputs feed both); WORDCOUNT ~2,450 → ~2,850.
+
+RATIONALE:
+AUDIT–CORE–PERSIA–TEMPLATE–STATE–CHRONICLE–2026–03–10. Doctrine mirroring required per CIV–CORE–TEMPLATE XIV; governance alignment to CMC 3.5; war-phase and Chronicle refinements reflect STATE–PERSIA and Iran War Chronicle evolution.
+
+────────────────────────────────────────────────────────────
+00029. CMC 3.5 GOVERNANCE VERSION BUMP (10 MAR 2026)
+────────────────────────────────────────────────────────────
+Date: 10 March 2026
+Type: GOVERNANCE (version bump)
+
+CHANGES:
+• **VERSION–MANIFEST:** CMC GOVERNANCE VERSION 3.4 → 3.5. Effective 2026-03-10. Supersedes 3.4. Section II "ALL CMC 3.4" → "ALL CMC 3.5". CIV–MEM–CORE (v3.5). MAJOR VERSIONS: CMC 3.5 (2026-03-10) Optimization and Refinement. Quick binding: "Bound by CMC Governance Version 3.5". Compliance rule 3: CMC 3.5. END OF FILE v3.5.
+• **CIV–MEM–CORE:** Version 3.4 → 3.5. Supersedes v3.4. Upgrade Type CMC 3.5 · OPTIMIZATION AND REFINEMENT. UPGRADE NOTE (v3.5) added. Event Chronicle added to File Class Taxonomy (III). END OF FILE v3.5.
+• **ROADMAP–CMC–3.3:** Phase B status In Progress → Complete; completion date 10 March 2026; Governed by CMC 3.5.
+• **NAMESPACE–CLARIFICATION:** Title v3.3 → v3.5; Version 3.5.
+• **CMC–BOOTSTRAP:** Governed by CMC 3.5; "Bound by CMC 3.4" → "Bound by CMC 3.5" (all occurrences).
+• **CHANGELOG:** Governed by CMC 3.5.
+
+RATIONALE:
+PROPOSAL–CMC–3.5 implemented. Scope: Phase B completion, Event Chronicle artifact type, governance drift fix.
 
 ────────────────────────────────────────────────────────────
 00025. SIGNAL CHECK – PREDICTION LINK, MEASURABILITY, OPTION FLEXIBILITY (17 FEB 2026)

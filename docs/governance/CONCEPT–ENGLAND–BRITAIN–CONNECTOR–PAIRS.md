@@ -1,7 +1,7 @@
 # CONCEPT: England and Britain Connector Pairs (France–Anglia, Germany–Anglia)
 
 **Status:** ACTIVE  
-**Governed by:** CMC 3.4  
+**Governed by:** CMC 3.5  
 **Last updated:** February 2026
 
 ────────────────────────────────────────────────────────────

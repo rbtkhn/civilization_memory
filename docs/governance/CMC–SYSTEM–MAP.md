@@ -2,7 +2,7 @@ CMC–SYSTEM–MAP
 Civilizational Memory Codex · High-Level Architecture
 
 Status: ACTIVE · CANONICAL
-Governed by: CMC 3.4
+Governed by: CMC 3.5
 Last Updated: February 2026
 
 Purpose:

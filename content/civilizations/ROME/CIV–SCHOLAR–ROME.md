@@ -14,7 +14,7 @@ Lock Level: TOTAL (no autonomous learning)
 
 Governed by:
 • CIV–MEM–CORE v3.4
-• CIV–SCHOLAR–TEMPLATE v3.4 (CURRENT)
+• CIV–SCHOLAR–TEMPLATE v3.5 (CURRENT)
 • CIV–SCHOLAR–GOVERNANCE–LAW v1.3 (or higher)
 • CIV–ARC–ROME v3.2 (EXTERNAL · MIRRORED)
 
@@ -25,7 +25,7 @@ WORDCOUNT: ~8,200
 UPGRADE NOTE (2026-02-17) — VERSION ALIGNMENT (AUDIT REMEDIATION)
 ────────────────────────────────────────────────────────────
 RUN–AUDIT–CORE–SCHOLAR–ROME–2026-02-17 remediation applied.
-• Governed by: CIV–MEM–CORE v3.4, CIV–SCHOLAR–TEMPLATE v3.4, CIV–ARC–ROME v3.2
+• Governed by: CIV–MEM–CORE v3.5, CIV–SCHOLAR–TEMPLATE v3.5, CIV–ARC–ROME v3.2
 • Doctrine reference (Sections V, VIII): CIV–DOCTRINE–ROME v2.0 → v3.0
 • Section IX (ARC pointer): CIV–ARC–ROME v1.9 → v3.2; compliance sentence updated
 No learning entries, syntheses, or RLLs changed.

@@ -729,15 +729,21 @@ Those parallels shape how to read current behaviour and what to watch next. The 
 
 - Current strike volume suggests intensifying effort without a clearly documented closure mechanism. Historical analogies from prior Roman–Persian and related precedent files indicate risk of prolonged escalation if neither side secures a durable off-ramp. See referenced runs for full doctrine language.
 
+**Analysis**
+
+- **Davis–Pape 10 Mar (Strategy):** Robert Pape (Chicago, Escalation Trap Substack): "Smart bomb trap" — Stage 1 hyperconfidence (June Fordow bombing destroyed facilities but enriched uranium already produced and dispersed); Stage 2 regime change (air power never achieved in 100 years; Keane "missing the core" — enriched material); Stage 3 limited territorial control (only way to secure material = ground mission; 82nd vs ~1M armed Iranians; Blumenthal "path toward deploying American troops"). Horizontal escalation: Iran prolonging war, parallel attack, drive wedges; time favors Iran (Sadat problem for Arab leaders). Exit: return to deal; tell Israel can't bomb; Israel join NPT. ~2 weeks to run out of targets (Gulf War pattern). Davis: 4–5 week campaign; interceptor exhaustion risk. *Source: Daniel Davis Deep Dive, 10 Mar 2026; Pape Foreign Affairs "Why Escalation Favors Iran."*
+- **Mearsheimer–Diesen 10 Mar (Strategy):** John Mearsheimer (Chicago): "Nobody can tell a plausible story about how this war ends"; no off-ramp. Iran incentive to prolong; strong hand (missiles, drones, target-rich); escalation ladder reciprocity. Gulf vulnerability: desalination (Riyadh 90%, Kuwait 90%, Oman 76%); Iran "assured destruction capability"; "Iranians are in the driver's seat." Air power alone cannot win—historical record clear; Iraq 2003 needed ground. Kaine told Trump no viable military option; NIC said unlikely regime change; ignored. Netanyahu "bamboozled" Trump. Russia benefits (assets diverted, oil demand up, intel to Iran). Europe "lick Trump's boots"; doesn't matter for winning. *Source: Glenn Diesen, "John Mearsheimer: U.S. Already Lost Iran War - No Off-Ramp in Sight" 10 Mar 2026. Voice audit: AUTHENTIC (RUN–AUDIT–MEARSHEIMER–DIESEN–2026-03-10).*
+- **Larry Johnson 10 Mar (Politics):** Hormuz mining contested: Iran denies; CENTCOM inconsistency; Trump "remove mines = giant step" as narrative setup. *Source: Larry Johnson "CNN: Iran Begins Mining Strait!" 10 Mar 2026.*
+
 **History**
 
 *(none)*
 
 **Strategy**
 
-*(none)*
+- Pape: Iran horizontal-escalation strategy targets US soft underbelly (Vietnam parallel): turn quick decisive victory into prolonged conflict. Precision vs precision (drones, parallel attack); regime change never worked; bombs fuse society and regime.
 
-**Sources:** Pattern 12 Run 7; Exhaustion and External Shock (10 Mar session).
+**Sources:** Pattern 12 Run 7; Exhaustion and External Shock (10 Mar session); Davis–Pape 10 Mar; Mearsheimer–Diesen 10 Mar; Larry Johnson 10 Mar.
 
 ---
 
@@ -824,7 +830,7 @@ When updating this chronicle each day, prefer sources by tier. **Tier 1:** offic
 **Other / wire / regional**
 
 - **Tier 2:** UN Meetings Coverage (un.org); Ammon News, ABP Live, Daily Post, Latestly, TRT World
-- **Tier 3:** Daniel Davis (cited articles); Crooke; Mercouris (where cited)
+- **Tier 3:** Daniel Davis (cited articles); Crooke; Mercouris (where cited); Robert Pape / Escalation Trap Substack; Larry Johnson (where cited); John Mearsheimer (where cited); Glenn Diesen (where cited)
 
 **Tier 4 — internal analysis only (do not cite as event source)**
 
@@ -846,8 +852,10 @@ Expert predictions on war trajectory, duration, and outcomes. We track: Alexande
 | Spark Solidarity 2 Mar | Jiang Xueqin | Predicted Trump win, US–Iran war, American defeat → multipolarity; actual conflict (air/missile, no ground invasion) differed from predicted joint ground invasion | Day 2 |
 | ANI Jan 2026 | Daniel Davis | "Danger window" for US–Israel strikes around 26 Jan; war would NOT be short | Jan 2026 |
 | Davis Deep Dive, Day 10 | Daniel Davis | 4–5 week campaign; interceptor stockpile exhaustion risk; Iran "not wobbling"; US "higher probability of sustaining" in doubt | Day 10 |
+| Davis Deep Dive, Day 10 | Robert Pape | Smart bomb trap: tactical success → strategic failure; enriched uranium dispersed; regime change via air power never worked; 60–70% likely boots on ground; ~2 weeks to run out of targets; exit = return to deal, Israel join NPT | Day 10 |
 | Substack "Big Trouble" | John Mearsheimer | US/Israel will likely lose; regime change + subservient regime "close to zero"; Iran wins by surviving; Israel dragged US into war | Pre–Mar 2026 |
 | Substack "Bombing to Lose" | John Mearsheimer | Limited strikes escalate dangerously; "least bad option is not to attack"; Iran can win by not becoming puppet (Vietnam parallel) | Pre–Mar 2026 |
+| Glenn Diesen 10 Mar 2026 | John Mearsheimer | "Nobody can tell a plausible story about how this war ends"; no off-ramp; Iran in driver's seat; escalation dominance "facetious"; if economy goes off cliff, US caves to Iran — not a victory; air power alone cannot win (historical record clear) | Day 10 |
 | Greatreporter Feb 2026 | Douglas Macgregor | US strike on Iran "99% certain"; air/missile war to induce state disintegration; standoff attacks rarely decisive (Kosovo parallel) | Feb 2026 |
 | Tucker Carlson Mar 2026 | Douglas Macgregor | War driven by Israel; regionalization; Russia/China investments; nuclear brinkmanship risk | Early Mar 2026 |
 | GV Wire 20 Feb 2026 | Trita Parsi | Even "small attack" leads to full war; Iran would not accept symbolic retaliation; attrition strategy: Hormuz, oil, US assets | Feb 2026 |

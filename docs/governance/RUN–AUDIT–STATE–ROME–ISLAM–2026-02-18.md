@@ -2,7 +2,7 @@
 
 **Date:** 18 February 2026  
 **Scope:** CIV–STATE–ROME v1.0, CIV–STATE–ISLAM v1.0  
-**Reference:** CIV–STATE–TEMPLATE v3.11, CIV–MEM–CORE v3.4, CMC–BOOTSTRAP (CMC 3.4)  
+**Reference:** CIV–STATE–TEMPLATE v3.5, CIV–MEM–CORE v3.4, CMC–BOOTSTRAP (CMC 3.4)  
 **Mode:** SYSTEM (governance audit)
 
 ────────────────────────────────────────────────────────────
@@ -40,7 +40,7 @@ II. CIV–STATE–ROME — VERIFICATION
 I (Entity Identification), II (Succession and Inheritance), III (Strategic Position — three perspectives), IV (Material Options — N/A + reference use), V (Completeness Audit), VI (Stability — N/A), VI-B (Opponent — N/A), VII (Decision-Relevant History — REFERENCE patterns), VIII (Cross-Entity Links), IX (Source Versions), X (State Log). **All present and ordered.**
 
 **2.3 Section IX — Source Versions (REMEDIATION)**
-- **Current:** CIV–CORE–ROME v2.0; CIV–SCHOLAR–ROME v2.7; CIV–DOCTRINE–ROME v3.0; CIV–STATE–TEMPLATE v3.11.
+- **Current:** CIV–CORE–ROME v2.0; CIV–SCHOLAR–ROME v2.7; CIV–DOCTRINE–ROME v3.0; CIV–STATE–TEMPLATE v3.5.
 - **Actual (post-upgrade):** CIV–CORE–ROME v3.0; CIV–SCHOLAR–ROME v3.0; CIV–DOCTRINE–ROME v3.0; template v3.11 unchanged.
 - **Recommendation:** Update Section IX to: CIV–CORE–ROME v3.0; CIV–SCHOLAR–ROME v3.0. Add a STATE Log entry noting the version alignment (or include in next relay).
 

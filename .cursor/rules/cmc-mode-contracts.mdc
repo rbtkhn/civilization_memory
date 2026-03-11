@@ -18,7 +18,7 @@ Entity name mapping: Iran/Persia → PERSIA; Russia → RUSSIA; France → FRANC
 
 **2. Task → mode (when no phrase matches).** When the user does **not** explicitly name a mode and no invocation phrase matches, infer mode from the **request**:
 
-- **SYSTEM:** Governance/template/audit/compliance/cursor-rules work (e.g. "audit alignment of governance files", "add a cursor rule", "relay to state" or "run relay-to-state protocol on STATE file", "upgrade templates to v3.4"). Operate in SYSTEM without requiring the user to say "system mode".
+- **SYSTEM:** Governance/template/audit/compliance/cursor-rules work (e.g. "audit alignment of governance files", "add a cursor rule", "relay to state" or "run relay-to-state protocol on STATE file", "upgrade templates to v3.5"). Operate in SYSTEM without requiring the user to say "system mode".
 - **STATE:** Decision support, MEM-grounded current-events analysis, CIV–STATE updates, entity-focused options. Requires MEM SCAN and CORE load when analyzing an entity.
 - **SCHOLAR (WRITE/LEARN/IMAGINE):** MEM authoring, LEARN traversal, doctrine/RLL proposals, historical synthesis, scenario exploration. Sub-mode inferred from action: edit MEM → WRITE; explore options / historical question with entity → LEARN. **Do not infer IMAGINE** from open-ended phrases like "imagine..." or "what if..." when no mode or entity is specified; treat as general conversation. IMAGINE is entered only when the user is already in SCHOLAR and explicitly invokes scenario/exploration (e.g. "imagine mode", "IMAGINE", or an option that leads to IMAGINE), or when the user explicitly requests IMAGINE with an entity.
 

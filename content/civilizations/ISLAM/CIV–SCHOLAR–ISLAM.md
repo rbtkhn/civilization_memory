@@ -9,12 +9,12 @@ Compatibility: CIV / MEM / SCHOLAR / STATE Architecture (CMC v3.4)
 Governance Mode: MANUAL INGEST · EXPLICIT FREEZE REQUIRED
 Lock Level: TOTAL (no autonomous learning)
 Civilization Phase: PHASE I — FOUNDATION
-Template Version Used: CIV–SCHOLAR–TEMPLATE v3.4
+Template Version Used: CIV–SCHOLAR–TEMPLATE v3.5
 Supersedes: CIV–SCHOLAR–ISLAM v2.0
 Derived from: CIV–SCHOLAR–TEMPLATE v2.10
 Governed by:
 • CIV–MEM–CORE v3.4
-• CIV–SCHOLAR–TEMPLATE v3.4
+• CIV–SCHOLAR–TEMPLATE v3.5
 • CIV–SCHOLAR–PROTOCOL v3.0
 • CIV–ARC–ISLAM v3.2 (EXTERNAL · MIRRORED)
 ARC Reference: CIV–ARC–ISLAM v3.2
@@ -32,7 +32,7 @@ v2.0 — Major upgrade. Expanded source MEM corpus: MEM–ISLAM–MONGOL–HULEG
 UPGRADE NOTE (2026-02-18) — v3.0 VERSION BUMP · CMC 3.4 ALIGNMENT
 ────────────────────────────────────────────────────────────
 • Content version: v2.0 → v3.0; Supersedes set to v2.0.
-• Header: Template Version Used → v3.4; Governed by → CIV–MEM–CORE v3.4, CIV–SCHOLAR–TEMPLATE v3.4, CIV–ARC–ISLAM v3.2; ARC Reference → v3.2; Compatibility → CIV / MEM / SCHOLAR / STATE (CMC v3.4); Civilization Phase → PHASE I — FOUNDATION.
+• Header: Template Version Used → v3.5; Governed by → CIV–MEM–CORE v3.5, CIV–SCHOLAR–TEMPLATE v3.5, CIV–ARC–ISLAM v3.2; ARC Reference → v3.2; Compatibility → CIV / MEM / SCHOLAR / STATE (CMC 3.5); Civilization Phase → PHASE I — FOUNDATION.
 • Section I: CIV–CORE–ISLAM v2.0 → v3.0.
 • WORDCOUNT standardized. No doctrine, entries, or syntheses changed. Reference: RUN–AUDIT–SCHOLAR–ROME–ISLAM–2026-02-18.
 

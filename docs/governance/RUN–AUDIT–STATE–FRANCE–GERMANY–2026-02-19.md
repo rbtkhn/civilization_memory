@@ -2,7 +2,7 @@
 
 **Date:** 19 February 2026  
 **Scope:** CIV–STATE–FRANCE v1.0, CIV–STATE–GERMANY v1.3  
-**Reference:** CIV–STATE–TEMPLATE v3.11, CIV–MEM–CORE v3.4, CMC–BOOTSTRAP (CMC 3.4), cmc-state-mem-grounding  
+**Reference:** CIV–STATE–TEMPLATE v3.5, CIV–MEM–CORE v3.4, CMC–BOOTSTRAP (CMC 3.4), cmc-state-mem-grounding  
 **Mode:** SYSTEM (governance audit)
 
 ────────────────────────────────────────────────────────────

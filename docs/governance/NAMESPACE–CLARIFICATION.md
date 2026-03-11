@@ -1,10 +1,10 @@
-NAMESPACE–CLARIFICATION — v3.3
+NAMESPACE–CLARIFICATION — v3.5
 Civilizational Memory Codex · Category Namespace Resolution
 Defect Remediation · Errata
 
 Status: ACTIVE · CANONICAL
-Governed by: CMC 3.4
-Version: 3.4
+Governed by: CMC 3.5
+Version: 3.5
 Class: GOVERNANCE (Errata)
 Addresses: ARC namespace collision (CRITICAL defect)
 Last Update: January 2026
