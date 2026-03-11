@@ -35,6 +35,8 @@ Append-only day-by-day record of reported events and attributed quotes for the U
 | History | [optional] |
 | Sources | mandatory |
 
+**MIND assignment (section voice):** Generate **Narrative** and **History** in Mercouris voice (legitimacy, civilizational continuity, institutional frame). Generate **Politics** and **Economy** in Barnes voice (liability, mechanism, who is on the hook; tax/regulatory jurisdiction, defection incentives). Generate **Military** and **Strategy** in Mearsheimer voice (structure, force ratio, incentives). See CIV–MIND–MERCOURIS, CIV–MIND–BARNES, CIV–MIND–MEARSHEIMER.
+
 **Sources (per day):** When listing sources, tier when helpful: primary/official | wire/major | secondary/commentary | internal (see Day 7 and **Preferred source hierarchy**).
 
 **Contradictions / disputes :** See **Contradictions & Open Disputes** section below.
@@ -45,10 +47,28 @@ Append-only day-by-day record of reported events and attributed quotes for the U
 
 ## Prelude
 
-- **Late 2025 – Feb 2026:** Regional military buildup and active Geneva/Oman nuclear talks between U.S. envoys and Iranian officials. Omani FM (28 Feb, CBS): *"A peace deal is within our reach"*; Iran "zero stockpiling," never material for a bomb; talks "achieved genuine progress."
-- **26–27 Feb 2026:** Third round of talks in Geneva concluded without agreement; mediators reported progress and expected technical talks to continue.
-- **27–28 Feb 2026:** According to cited reporting, Trump approved Operation Epic Fury on 27 Feb and strikes began early 28 Feb. Subsequent reporting stated that a strike on the Khamenei compound killed senior figures; exact casualty and leadership-loss claims should be treated as reported, not yet fully resolved in this chronicle.
-- **28 Feb – 1 Mar:** Iran confirmed Khamenei's death; launched Operation True Promise IV (retaliatory strikes). Gulf states invoked Art 51; Hormuz closed to US/Israel/allies.
+On 28 February 2026, Israel and the United States launched a treacherous sneak attack against the Islamic Republic of Iran, murdering the Supreme Leader and hundreds of children at school. The third round of nuclear talks in Geneva had just ended without agreement; in Oman, mediators could still speak of a peace within reach. The strike had been ordered on 27 February; in the small hours of the 28th it came. Iran confirmed the Supreme Leader's death and answered with Operation True Promise IV—retaliation, the closure of the Strait of Hormuz to American, Israeli, and allied shipping, and the Gulf states' invocation of Article 51. This chronicle begins on the first full day of that war: 1 March 2026.
+
+This site is an append-only, day-by-day record of what was said and done, with attribution. It is built for quick lookup and for placing events in order. Sources and reasoning live in CIV–STATE–PERSIA; here we present the record. Contradictions and unresolved claims are flagged, not smoothed away.
+
+---
+
+## Sources
+
+Sources are tiered when helpful. Example tiers: **1. Primary/official** — Truth Social, White House, Pentagon, Kremlin, FMPRC, official mediator statements. **2. Wire/major** — Reuters, AP, TASS. **3. Secondary/commentary** — ISW, regional outlets, analyst transcripts. **4. Internal** — analytic runs (not cited as event source). Quotes are attributed by actor and day. Cross-entity or conflicting claims are surfaced, not silently resolved—the reader sees both sides with attribution. The **Preferred source hierarchy** (in Reference) lists the canonical outlets used for daily updates.
+
+---
+
+## Methodology
+
+- Cursor/LLM analysis framework with structured reasoning and civilizational-memory grounding
+
+- Fixed schema per day (Events, Numbers, Politics, History, etc.)
+- Historical parallels drawn from a curated MEM corpus
+- Three analytical perspectives applied consistently: legitimacy, power structure, liability
+- Append-only discipline, attribution rules, contradiction surfacing
+- Yields a stable, comparable record across days; reduces narrative drift; surfaces patterns and precedents that single-pass or ad-hoc analysis often misses
+
 
 ---
 
@@ -814,11 +834,26 @@ When updating this chronicle each day, prefer sources by tier. **Tier 1:** offic
 
 ## Predictions
 
-Expert predictions on war trajectory, duration, and outcomes. Append new rows; do not overwrite.
+Expert predictions on war trajectory, duration, and outcomes. We track: Alexander Mercouris, Robert Barnes, John Mearsheimer, Trita Parsi, Scott Ritter, Jiang Xueqin, Douglas Macgregor, Daniel Davis, Jeffrey Sachs, Max Blumenthal. Append new rows; do not overwrite.
 
 | Date / source | Expert | Prediction | As of |
 |---------------|--------|------------|-------|
-| *(none yet)* | Jiang, Mercouris, Ritter, others | — | — |
+| YouTube, Crooke collab | Alexander Mercouris | War with Iran "can't be quick" and "won't be short"; airpower alone unlikely to achieve regime change; Iran more resilient than Libya | Pre–Mar 2026 |
+| Program 5 Mar 2026 | Alexander Mercouris | US off-ramp "probably well before September" if Iran endures; Hormuz closure is "lock grip"; endurance test, no decisive advantage | Day 5 |
+| YouTube, Larry Johnson | Scott Ritter | Iran headed for victory; Trump–Netanyahu will seek face-saving way to end war within ~2 weeks; Russia/China to urge Iran to accept face-saving deal | Early Mar 2026 |
+| Greanville Post 1 Mar | Scott Ritter | Assassinating Khamenei was "catastrophic error"; unified and strengthened Iranian government | Day 1 |
+| AS USA, Predictive History | Jiang Xueqin | Iran prepared 20 years; strategy: unite population, build alliances, win global opinion, weaken enemy; asymmetric warfare, control terms of engagement | Pre–Mar 2026 |
+| Spark Solidarity 2 Mar | Jiang Xueqin | Predicted Trump win, US–Iran war, American defeat → multipolarity; actual conflict (air/missile, no ground invasion) differed from predicted joint ground invasion | Day 2 |
+| ANI Jan 2026 | Daniel Davis | "Danger window" for US–Israel strikes around 26 Jan; war would NOT be short | Jan 2026 |
+| Davis Deep Dive, Day 10 | Daniel Davis | 4–5 week campaign; interceptor stockpile exhaustion risk; Iran "not wobbling"; US "higher probability of sustaining" in doubt | Day 10 |
+| Substack "Big Trouble" | John Mearsheimer | US/Israel will likely lose; regime change + subservient regime "close to zero"; Iran wins by surviving; Israel dragged US into war | Pre–Mar 2026 |
+| Substack "Bombing to Lose" | John Mearsheimer | Limited strikes escalate dangerously; "least bad option is not to attack"; Iran can win by not becoming puppet (Vietnam parallel) | Pre–Mar 2026 |
+| Greatreporter Feb 2026 | Douglas Macgregor | US strike on Iran "99% certain"; air/missile war to induce state disintegration; standoff attacks rarely decisive (Kosovo parallel) | Feb 2026 |
+| Tucker Carlson Mar 2026 | Douglas Macgregor | War driven by Israel; regionalization; Russia/China investments; nuclear brinkmanship risk | Early Mar 2026 |
+| GV Wire 20 Feb 2026 | Trita Parsi | Even "small attack" leads to full war; Iran would not accept symbolic retaliation; attrition strategy: Hormuz, oil, US assets | Feb 2026 |
+| NPR, Mundo America Mar | Trita Parsi | Military plan likely to fail; could deteriorate to land invasion; bombing strengthens nationalist sentiment, not regime change | Early Mar 2026 |
+| jeffsachs.org | Jeffrey Sachs | US war on Iran "imminent"; "US will fail"; open letter to UN opposing war | Pre–Mar 2026 |
+| YouTube, Worldnews Mar | Max Blumenthal | Conflict will expand to US ground troops ("under Kurdish cover"); long-term war, not quick strike; Israeli interests dictating Trump; Trump coalition collapses when soldiers die | Early Mar 2026 |
 
 *New days are appended to the chronicle before this section; this page remains last.*
 

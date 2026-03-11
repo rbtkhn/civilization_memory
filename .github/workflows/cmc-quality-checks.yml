@@ -44,3 +44,14 @@ jobs:
             BASE_REF="${{ github.event.before }}"
           fi
           python3 tools/cmc-validate-corpus.py --changed-only --base-ref "$BASE_REF" --head-ref "${{ github.sha }}"
+
+      - name: Chronicle health checks
+        run: |
+          CHRONICLE="content/civilizations/PERSIA/IRAN–WAR–CHRONICLE.md"
+          if [ -f "$CHRONICLE" ]; then
+            if [ "${{ github.event_name }}" = "pull_request" ]; then
+              node scripts/validate-chronicle.mjs "$CHRONICLE" --append-only "${{ github.event.pull_request.base.sha }}"
+            else
+              node scripts/validate-chronicle.mjs "$CHRONICLE" --skip-append-only
+            fi
+          fi

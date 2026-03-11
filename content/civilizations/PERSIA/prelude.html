@@ -7,35 +7,82 @@
   <title>Iran War Chronicle — Prelude</title>
   <style>
   * { box-sizing: border-box; }
-  body { font-family: system-ui, -apple-system, sans-serif; line-height: 1.6; max-width: 52rem; margin: 0 auto; padding: 1rem 1.5rem; color: #1a1a1a; background: #fafafa; }
-  header.site-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 1rem; padding-bottom: 0.75rem; border-bottom: 1px solid #ddd; }
-  header.site-header .header-flag { font-size: 1.75rem; line-height: 1; }
-  header.site-header .header-title { flex: 1; text-align: center; font-size: 1.75rem; margin: 0; }
-  header.day-header { margin-top: 0.5rem; margin-bottom: 1rem; }
-  header.day-header h2 { margin: 0; font-size: 1.25rem; }
-  h1 { font-size: 1.75rem; margin-top: 0; border-bottom: 1px solid #ddd; padding-bottom: 0.5rem; }
-  h2 { font-size: 1.25rem; margin-top: 2rem; scroll-margin-top: 4rem; }
-  h2[id] { color: #0d47a1; }
-  nav.quick-jump { position: sticky; top: 0; background: #fff; border: 1px solid #e0e0e0; border-radius: 6px; padding: 0.75rem 1rem; margin: 1.5rem 0; z-index: 10; box-shadow: 0 1px 3px rgba(0,0,0,.06); }
-  nav.quick-jump ul { list-style: none; padding: 0; margin: 0; columns: 2; column-gap: 1.5rem; font-size: 0.9rem; }
-  nav.quick-jump li { break-inside: avoid; margin-bottom: 0.35rem; }
-  nav.quick-jump a, nav.page-nav a { color: #1565c0; text-decoration: none; }
-  nav.quick-jump a:hover, nav.page-nav a:hover { text-decoration: underline; }
-  nav.page-nav { margin-bottom: 1.5rem; font-size: 0.95rem; }
-  table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.9rem; }
-  th, td { border: 1px solid #ddd; padding: 0.5rem 0.75rem; text-align: left; }
+  html, body { height: 100%; margin: 0; overflow: hidden; font-family: system-ui, -apple-system, sans-serif; line-height: 1.5; color: #1a1a1a; background: #fafafa; }
+  body { display: flex; flex-direction: column; max-width: 52rem; margin: 0 auto; padding: 0.5rem 1rem; }
+  .page-main { flex: 1; min-height: 0; display: flex; flex-direction: column; overflow: hidden; }
+  header.site-header { flex-shrink: 0; display: flex; align-items: center; justify-content: center; gap: 0.75rem; padding: 0.5rem 0; border-bottom: 1px solid #ddd; }
+  header.site-header .header-flag { font-size: 1.5rem; line-height: 1; flex-shrink: 0; }
+  header.site-header .header-brand { flex: 0 0 auto; text-align: center; }
+  header.site-header .header-title { font-size: 1.6rem; font-weight: 700; margin: 0; line-height: 1.2; color: #111; }
+  header.site-header .header-subtitle { font-size: 0.8rem; color: #666; margin: 0.2rem 0 0; font-weight: 400; }
+  header.day-header { margin: 0.25rem 0; }
+  header.day-header h2 { margin: 0; font-size: 1.1rem; }
+  nav.page-nav { flex-shrink: 0; font-size: 0.85rem; padding: 0.25rem 0; }
+  nav.page-nav a { color: #1565c0; text-decoration: none; }
+  nav.page-nav a:hover { text-decoration: underline; }
+  nav.tab-bar { display: flex; flex-wrap: wrap; gap: 0.25rem; padding: 0.5rem 0; border-bottom: 1px solid #ddd; background: #fff; }
+  nav.tab-bar button { padding: 0.4rem 0.75rem; font-size: 0.9rem; font-weight: 500; border: 1px solid #e0e0e0; border-radius: 4px; background: #f5f5f5; color: #333; cursor: pointer; }
+  nav.tab-bar button:hover { background: #eee; border-color: #ccc; }
+  nav.tab-bar button.active { background: #1565c0; color: #fff; border-color: #1565c0; }
+  .tab-panels { flex: 1; min-height: 0; overflow-y: auto; padding: 0.5rem 0; display: flex; flex-direction: column; }
+  .tab-panel { display: none; font-size: 0.9rem; }
+  .tab-panel.active { display: block; }
+  .tab-panel .panel-body { max-height: 50vh; overflow-y: auto; }
+  h2 { font-size: 1.1rem; margin: 0.5rem 0; }
+  h4 { font-size: 1rem; margin: 1rem 0 0.5rem; }
+  .landing-hero { text-align: center; padding: 1.5rem 0; }
+  .landing-tagline { font-size: 1rem; color: #555; margin: 0.5rem 0 1rem; max-width: 36rem; margin-left: auto; margin-right: auto; }
+  .landing-cta { display: inline-block; padding: 0.75rem 1.5rem; font-size: 1.1rem; font-weight: 600; background: #1565c0; color: #fff; text-decoration: none; border-radius: 6px; margin: 0.5rem 0; }
+  .landing-cta:hover { background: #0d47a1; }
+  .landing-days { display: grid; grid-template-columns: repeat(auto-fill, minmax(8rem, 1fr)); gap: 0.5rem; margin: 1.5rem 0; }
+  .landing-day { padding: 0.5rem 0.75rem; background: #fff; border: 1px solid #e0e0e0; border-radius: 4px; text-decoration: none; color: #1565c0; font-size: 0.9rem; text-align: center; }
+  .landing-day:hover { border-color: #1565c0; background: #e3f2fd; }
+  .landing-day-num { font-weight: 600; display: block; }
+  .landing-day-date { font-size: 0.8rem; color: #666; }
+  .landing-section { margin: 1.5rem 0; padding-top: 1rem; border-top: 1px solid #eee; }
+  .landing-section h3 { font-size: 1rem; margin: 0 0 0.5rem; color: #333; }
+  nav.quick-nav { padding: 0.5rem 0; }
+  nav.quick-nav h4 { font-size: 0.95rem; margin: 0 0 0.4rem; color: #333; }
+  nav.quick-nav ul { margin: 0; padding-left: 1.25rem; list-style: disc; }
+  nav.quick-nav li { margin: 0.2rem 0; }
+  nav.quick-nav a { color: #1565c0; text-decoration: none; }
+  nav.quick-nav a:hover { text-decoration: underline; }
+  details.landing-details { margin: 0.5rem 0; }
+  details.landing-details summary { cursor: pointer; font-weight: 500; color: #1565c0; }
+  details.landing-details summary:hover { text-decoration: underline; }
+  .carousel-wrap { margin: 0.5rem 0; }
+  .carousel-nav { display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.5rem; }
+  .carousel-nav select { padding: 0.3rem 0.5rem; font-size: 0.9rem; }
+  .carousel-card { padding: 0.5rem; background: #fff; border: 1px solid #e0e0e0; border-radius: 4px; font-size: 0.85rem; }
+  .carousel-card .row { display: grid; grid-template-columns: auto 1fr; gap: 0.25rem 0.75rem; margin: 0.2rem 0; }
+  .carousel-card .label { font-weight: 600; color: #555; }
+  .predictions-layout { display: flex; flex: 1; min-height: 0; gap: 1rem; }
+  .predictions-sidebar { flex: 0 0 auto; display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.5rem; padding-right: 1rem; border-right: 1px solid #eee; }
+  .expert-tile { display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 0.6rem; background: #fff; border: 1px solid #e0e0e0; border-radius: 6px; cursor: pointer; text-align: center; font-size: 0.8rem; transition: border-color 0.15s, background 0.15s; }
+  .expert-tile:hover { border-color: #1565c0; background: #f8fbff; }
+  .expert-tile.active { border-color: #1565c0; background: #e3f2fd; color: #0d47a1; }
+  .expert-tile .avatar { width: 2.5rem; height: 2.5rem; border-radius: 50%; background: #e0e0e0; display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: 0.75rem; color: #555; margin-bottom: 0.3rem; }
+  .expert-tile.active .avatar { background: #1565c0; color: #fff; }
+  .expert-tile .name { line-height: 1.2; word-break: break-word; }
+  .predictions-main { flex: 1; min-width: 0; overflow-y: auto; padding: 0.5rem 0; }
+  .predictions-panel { display: none; }
+  .predictions-panel.active { display: block; }
+  .predictions-panel h3 { font-size: 1.1rem; margin: 0 0 0.75rem; color: #111; }
+  .prediction-item { margin-bottom: 1rem; padding-bottom: 1rem; border-bottom: 1px solid #eee; font-size: 0.9rem; }
+  .prediction-item:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
+  .prediction-item .meta { font-size: 0.8rem; color: #666; margin-bottom: 0.25rem; }
+  .prediction-item .text { line-height: 1.5; }
+  table { width: 100%; border-collapse: collapse; font-size: 0.85rem; }
+  th, td { border: 1px solid #ddd; padding: 0.35rem 0.5rem; text-align: left; }
   th { background: #e3f2fd; font-weight: 600; }
-  tr:nth-child(even) { background: #f5f5f5; }
-  ul { padding-left: 1.5rem; margin: 0.5rem 0; }
-  li { margin: 0.25rem 0; }
-  hr { border: none; border-top: 1px solid #e0e0e0; margin: 1.5rem 0; }
-  p { margin: 0.5rem 0; }
-  @media (max-width: 640px) { nav.quick-jump ul { columns: 1; } }
+  ul { padding-left: 1.25rem; margin: 0.35rem 0; }
+  li { margin: 0.2rem 0; }
+  p { margin: 0.35rem 0; font-size: 0.9rem; }
   @media print {
-    nav.page-nav, nav.quick-jump { display: none; }
-    body { background: #fff; color: #111; }
-    a[href] { color: #111; }
-    article { break-inside: avoid; }
+    html, body { overflow: auto; height: auto; }
+    nav.tab-bar button { display: none; }
+    .tab-panel { display: block !important; }
+    .tab-panel .panel-body { max-height: none; overflow: visible; }
   }
 </style>
 </head>
@@ -43,43 +90,51 @@
 
 <header class="site-header">
   <span class="header-flag" aria-hidden="true">🇮🇷</span>
-  <h1 class="header-title">Iran War Chronicle</h1>
+  <div class="header-brand">
+    <h1 class="header-title">Iran War Chronicle</h1>
+  </div>
   <span class="header-flag" aria-hidden="true">🇺🇸</span>
 </header>
-<h2>Prelude</h2>
-<p>Append-only day-by-day record of reported events and attributed quotes for the US–Iran conflict (war phase beginning 1 March 2026). Structured for quick lookup and web-timeline use.</p>
-<hr/>
-<h2 id="prelude">Prelude</h2>
-<ul>
-<li><strong>Late 2025 – Feb 2026:</strong> Regional military buildup and active Geneva/Oman nuclear talks between U.S. envoys and Iranian officials. Omani FM (28 Feb, CBS): <em>&quot;A peace deal is within our reach&quot;</em>; Iran &quot;zero stockpiling,&quot; never material for a bomb; talks &quot;achieved genuine progress.&quot;</li>
-<li><strong>26–27 Feb 2026:</strong> Third round of talks in Geneva concluded without agreement; mediators reported progress and expected technical talks to continue.</li>
-<li><strong>27–28 Feb 2026:</strong> According to cited reporting, Trump approved Operation Epic Fury on 27 Feb and strikes began early 28 Feb. Subsequent reporting stated that a strike on the Khamenei compound killed senior figures; exact casualty and leadership-loss claims should be treated as reported, not yet fully resolved in this chronicle.</li>
-<li><strong>28 Feb – 1 Mar:</strong> Iran confirmed Khamenei's death; launched Operation True Promise IV (retaliatory strikes). Gulf states invoked Art 51; Hormuz closed to US/Israel/allies.</li>
+<nav class="page-nav"><a href="prelude.html">Prelude</a> · <a href="day-1.html">Day 1</a> · <a href="day-10.html">Day 10</a> · <a href="predictions.html">Predictions</a></nav>
+<main class="page-main">
+<section id="prelude" class="landing-section">
+<h3>Prelude</h3>
+<div><p>On 28 February 2026, Israel and the United States launched a treacherous sneak attack against the Islamic Republic of Iran, murdering the Supreme Leader and hundreds of children at school. The third round of nuclear talks in Geneva had just ended without agreement; in Oman, mediators could still speak of a peace within reach. The strike had been ordered on 27 February; in the small hours of the 28th it came. Iran confirmed the Supreme Leader's death and answered with Operation True Promise IV—retaliation, the closure of the Strait of Hormuz to American, Israeli, and allied shipping, and the Gulf states' invocation of Article 51. This chronicle begins on the first full day of that war: 1 March 2026.</p>
+
+<p>This site is an append-only, day-by-day record of what was said and done, with attribution. It is built for quick lookup and for placing events in order. Sources and reasoning live in CIV–STATE–PERSIA; here we present the record. Contradictions and unresolved claims are flagged, not smoothed away.</p>
+
+<hr/></div>
+</section>
+<section id="sources" class="landing-section">
+<h3>Sources</h3>
+<div><p>Sources are tiered when helpful. Example tiers: <strong>1. Primary/official</strong> — Truth Social, White House, Pentagon, Kremlin, FMPRC, official mediator statements. <strong>2. Wire/major</strong> — Reuters, AP, TASS. <strong>3. Secondary/commentary</strong> — ISW, regional outlets, analyst transcripts. <strong>4. Internal</strong> — analytic runs (not cited as event source). Quotes are attributed by actor and day. Cross-entity or conflicting claims are surfaced, not silently resolved—the reader sees both sides with attribution. The <strong>Preferred source hierarchy</strong> (in Reference) lists the canonical outlets used for daily updates.</p>
+
+<hr/></div>
+</section>
+<section id="methodology" class="landing-section">
+<h3>Methodology</h3>
+<div><ul>
+<li>Cursor/LLM analysis framework with structured reasoning and civilizational-memory grounding</li>
 </ul>
 
-<hr/>
+<ul>
+<li>Fixed schema per day (Events, Numbers, Politics, History, etc.)</li>
+<li>Historical parallels drawn from a curated MEM corpus</li>
+<li>Three analytical perspectives applied consistently: legitimacy, power structure, liability</li>
+<li>Append-only discipline, attribution rules, contradiction surfacing</li>
+<li>Yields a stable, comparable record across days; reduces narrative drift; surfaces patterns and precedents that single-pass or ad-hoc analysis often misses</li>
+</ul>
 
-<h2 id="quick-jump">Quick Jump</h2>
-<nav class="quick-jump" aria-label="Quick navigation"><ul><li><a href="prelude.html#prelude">Prelude</a></li><li><a href="prelude.html#timeline-at-a-glance">Timeline at a glance</a></li><li><a href="day-1.html">Day 1</a></li><li><a href="day-2.html">Day 2</a></li><li><a href="day-3.html">Day 3</a></li><li><a href="day-4.html">Day 4</a></li><li><a href="day-5.html">Day 5</a></li><li><a href="day-6.html">Day 6</a></li><li><a href="day-7.html">Day 7</a></li><li><a href="day-8.html">Day 8</a></li><li><a href="day-9.html">Day 9</a></li><li><a href="day-10.html">Day 10</a></li><li><a href="prelude.html#numbers-at-a-glance">Numbers at a glance</a></li><li><a href="prelude.html#contradictions--open-disputes">Contradictions &amp; Open Disputes</a></li><li><a href="prelude.html#preferred-source-hierarchy-for-daily-updates">Preferred source hierarchy</a></li><li><a href="predictions.html">Predictions</a></li></ul></nav>
-<h2 id="timeline-at-a-glance">Timeline at a glance</h2>
-<table>
-<tr><th>Day</th><th>Date</th><th>Summary</th><th>US posture</th><th>Iran posture</th><th>Hormuz</th><th>Oil/Brent</th></tr>
-<tr><td>1</td><td>2026-03-01</td><td>War opens: decapitation; Iran True Promise IV; Hormuz closed.</td><td>Eliminate threats; no nuke</td><td>No limits; regime change impossible</td><td>Closed</td><td>—</td></tr>
-<tr><td>2</td><td>2026-03-02</td><td>Putin mediation; Gulf Art 51; Pentagon/Rubio briefings.</td><td>Sweeping gains; bombing continues</td><td>No negotiations; long war</td><td>Closed</td><td>—</td></tr>
-<tr><td>3</td><td>2026-03-03</td><td>Iran denies backchannel; Oman off-ramps; lawmakers question strategy.</td><td>4–5 weeks timeline</td><td>No Iranian threat; war of choice</td><td>Closed</td><td>—</td></tr>
-<tr><td>4</td><td>2026-03-04</td><td>QatarEnergy force majeure; LNG halted; China envoy.</td><td>Just begun; regime toast</td><td>—</td><td>Closed</td><td>—</td></tr>
-<tr><td>5</td><td>2026-03-05</td><td>Tehran bombed; Hormuz closed; Kuwait near shutdown.</td><td>Involved in choosing leader</td><td>—</td><td>Closed</td><td>—</td></tr>
-<tr><td>6</td><td>2026-03-06</td><td>Russia–Iran intel; Putin–Pezeshkian; White House montages.</td><td>No deal except unconditional surrender</td><td>—</td><td>Closed</td><td>—</td></tr>
-<tr><td>7</td><td>2026-03-07</td><td>US strikes Qeshm desalination; Trump asserts Iranian apology/surrender.</td><td>Surrender claimed</td><td>Red lines; won't leave aggression unanswered</td><td>Closed</td><td>—</td></tr>
-<tr><td>8</td><td>2026-03-08</td><td>Iran rejects ceasefire; Mojtaba named; Wang Yi Two Sessions.</td><td>Must approve Iran's leader</td><td>Permanent end; never surrender</td><td>Closed</td><td>—</td></tr>
-<tr><td>9</td><td>2026-03-09</td><td>UN SG ceasefire; Brent &gt;$100; Putin–Trump call.</td><td>No ceasefire stance</td><td>As long as it takes</td><td>Closed</td><td>&gt;$100</td></tr>
-<tr><td>10</td><td>2026-03-10</td><td>“Most intense day”; &gt;5,000 targets; Larijani “be careful”; Hormuz closed.</td><td>Trump signals intensified strikes and short war horizon</td><td>Be careful; no ceasefire</td><td>Effectively closed</td><td>~$90–$119</td></tr>
-</table>
 
-<hr/>
-
-<h2 id="numbers-at-a-glance">Numbers at a glance</h2>
-<p>Cumulative / append-only: one row per update. Do not overwrite; add new row when value changes.</p>
+<hr/></div>
+</section>
+<section id="day-by-day" class="landing-section">
+<div class="landing-days"><a href="day-1.html" class="landing-day">2026-03-01</a><a href="day-2.html" class="landing-day">2026-03-02</a><a href="day-3.html" class="landing-day">2026-03-03</a><a href="day-4.html" class="landing-day">2026-03-04</a><a href="day-5.html" class="landing-day">2026-03-05</a><a href="day-6.html" class="landing-day">2026-03-06</a><a href="day-7.html" class="landing-day">2026-03-07</a><a href="day-8.html" class="landing-day">2026-03-08</a><a href="day-9.html" class="landing-day">2026-03-09</a><a href="day-10.html" class="landing-day">2026-03-10</a></div>
+</section>
+<section id="reference" class="landing-section">
+<details class="landing-details" id="reference-details">
+<summary>Reference — Numbers, Contradictions, Sources</summary>
+<div style="margin-top:0.75rem;max-height:50vh;overflow-y:auto;"><h4 id="numbers-at-a-glance">Numbers at a glance</h4><p>Cumulative / append-only: one row per update. Do not overwrite; add new row when value changes.</p>
 
 <p><strong>Source type taxonomy:</strong> official statement | wire reporting | secondary reporting | tracker estimate | internal analytic run</p>
 
@@ -102,10 +157,7 @@
 
 <p><strong>Related chronicles / logs (for cross-check and operational detail):</strong> ISW Iran Updates (understandingwar.org, Mar 2026); GlobalSecurity Iran War 2026 (globalsecurity.org/military/ops/iran-war-update.htm, daily/oprep); FDD Long War Journal (longwarjournal.org/archives/2026/03); 2026 Iran War Tracker (2026iranwartracker.com, 106 goals); Operation Epic Fury timeline (opepicfury.info, epicfuryops.info); CENTCOM (centcom.mil); Reuters/AP live and dated coverage; CFR Global Conflict Tracker (Iran–Israel–USA); Wikipedia “2026 Iran conflict,” “Prelude to the 2026 Iran conflict.”</p>
 
-<hr/>
-
-<h2 id="contradictions-open-disputes">Contradictions &amp; Open Disputes</h2>
-<p>Append new rows only. Do not overwrite.</p>
+<hr/><h4 id="contradictions-open-disputes">Contradictions &amp; Open Disputes</h4><p>Append new rows only. Do not overwrite.</p>
 
 <table>
 <tr><th>#</th><th>Claim A</th><th>Source/Day</th><th>Claim B</th><th>Source/Day</th><th>Status</th><th>Notes</th></tr>
@@ -114,10 +166,7 @@
 <tr><td>3</td><td>War &quot;very complete&quot; / nearly over; short-term</td><td>Trump, Day 10</td><td>&quot;Not done yet&quot;; &quot;nothing has been completed yet&quot;; operation ~2 weeks</td><td>Netanyahu, Israeli official, Day 10</td><td>Unresolved</td><td>US vs Israeli war-status framing</td></tr>
 </table>
 
-<hr/>
-
-<h2 id="preferred-source-hierarchy-for-daily-updates">Preferred source hierarchy for daily updates</h2>
-<p>When updating this chronicle each day, prefer sources by tier. <strong>Tier 1:</strong> official / primary statements. <strong>Tier 2:</strong> Reuters, AP, major transcripted interviews. <strong>Tier 3:</strong> secondary / regional / partisan / commentary. <strong>Tier 4:</strong> internal analysis only (do not cite as event source). Use this list as the default lookup set; add new outlets only when a story is not covered here.</p>
+<hr/><h4 id="preferred-source-hierarchy">Preferred source hierarchy</h4><p>When updating this chronicle each day, prefer sources by tier. <strong>Tier 1:</strong> official / primary statements. <strong>Tier 2:</strong> Reuters, AP, major transcripted interviews. <strong>Tier 3:</strong> secondary / regional / partisan / commentary. <strong>Tier 4:</strong> internal analysis only (do not cite as event source). Use this list as the default lookup set; add new outlets only when a story is not covered here.</p>
 
 <p><strong>US / Trump / White House / Pentagon / State</strong></p>
 
@@ -184,7 +233,12 @@
 <li>Pattern 12 Run references; STATE Section VII; CIV–JOURNAL–PERSIA; Exhaustion and External Shock session</li>
 </ul>
 
-<hr/>
-
+<hr/></div>
+</details>
+</section>
+<nav class="page-nav" style="margin-top:1.5rem;padding-top:1rem;border-top:1px solid #eee;"><a href="day-1.html">Day 1</a> · <a href="day-10.html">Day 10</a> · <a href="predictions.html">Predictions</a></nav>
+<script>(function(){var d=document.getElementById("reference-details");if(d&&["numbers-at-a-glance","contradictions-open-disputes","preferred-source-hierarchy"].indexOf(location.hash.slice(1))>=0)d.open=true;window.onhashchange=function(){if(d&&["numbers-at-a-glance","contradictions-open-disputes","preferred-source-hierarchy"].indexOf(location.hash.slice(1))>=0)d.open=true;};
+if(location.hash)setTimeout(function(){var e=document.getElementById(location.hash.slice(1));if(e)e.scrollIntoView({behavior:"smooth"});},50);})();</script>
+</main>
 </body>
 </html>

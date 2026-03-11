@@ -7,53 +7,232 @@
   <title>Iran War Chronicle — Predictions</title>
   <style>
   * { box-sizing: border-box; }
-  body { font-family: system-ui, -apple-system, sans-serif; line-height: 1.6; max-width: 52rem; margin: 0 auto; padding: 1rem 1.5rem; color: #1a1a1a; background: #fafafa; }
-  header.site-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 1rem; padding-bottom: 0.75rem; border-bottom: 1px solid #ddd; }
-  header.site-header .header-flag { font-size: 1.75rem; line-height: 1; }
-  header.site-header .header-title { flex: 1; text-align: center; font-size: 1.75rem; margin: 0; }
-  header.day-header { margin-top: 0.5rem; margin-bottom: 1rem; }
-  header.day-header h2 { margin: 0; font-size: 1.25rem; }
-  h1 { font-size: 1.75rem; margin-top: 0; border-bottom: 1px solid #ddd; padding-bottom: 0.5rem; }
-  h2 { font-size: 1.25rem; margin-top: 2rem; scroll-margin-top: 4rem; }
-  h2[id] { color: #0d47a1; }
-  nav.quick-jump { position: sticky; top: 0; background: #fff; border: 1px solid #e0e0e0; border-radius: 6px; padding: 0.75rem 1rem; margin: 1.5rem 0; z-index: 10; box-shadow: 0 1px 3px rgba(0,0,0,.06); }
-  nav.quick-jump ul { list-style: none; padding: 0; margin: 0; columns: 2; column-gap: 1.5rem; font-size: 0.9rem; }
-  nav.quick-jump li { break-inside: avoid; margin-bottom: 0.35rem; }
-  nav.quick-jump a, nav.page-nav a { color: #1565c0; text-decoration: none; }
-  nav.quick-jump a:hover, nav.page-nav a:hover { text-decoration: underline; }
-  nav.page-nav { margin-bottom: 1.5rem; font-size: 0.95rem; }
-  table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.9rem; }
-  th, td { border: 1px solid #ddd; padding: 0.5rem 0.75rem; text-align: left; }
+  html, body { height: 100%; margin: 0; overflow: hidden; font-family: system-ui, -apple-system, sans-serif; line-height: 1.5; color: #1a1a1a; background: #fafafa; }
+  body { display: flex; flex-direction: column; max-width: 52rem; margin: 0 auto; padding: 0.5rem 1rem; }
+  .page-main { flex: 1; min-height: 0; display: flex; flex-direction: column; overflow: hidden; }
+  header.site-header { flex-shrink: 0; display: flex; align-items: center; justify-content: center; gap: 0.75rem; padding: 0.5rem 0; border-bottom: 1px solid #ddd; }
+  header.site-header .header-flag { font-size: 1.5rem; line-height: 1; flex-shrink: 0; }
+  header.site-header .header-brand { flex: 0 0 auto; text-align: center; }
+  header.site-header .header-title { font-size: 1.6rem; font-weight: 700; margin: 0; line-height: 1.2; color: #111; }
+  header.site-header .header-subtitle { font-size: 0.8rem; color: #666; margin: 0.2rem 0 0; font-weight: 400; }
+  header.day-header { margin: 0.25rem 0; }
+  header.day-header h2 { margin: 0; font-size: 1.1rem; }
+  nav.page-nav { flex-shrink: 0; font-size: 0.85rem; padding: 0.25rem 0; }
+  nav.page-nav a { color: #1565c0; text-decoration: none; }
+  nav.page-nav a:hover { text-decoration: underline; }
+  nav.tab-bar { display: flex; flex-wrap: wrap; gap: 0.25rem; padding: 0.5rem 0; border-bottom: 1px solid #ddd; background: #fff; }
+  nav.tab-bar button { padding: 0.4rem 0.75rem; font-size: 0.9rem; font-weight: 500; border: 1px solid #e0e0e0; border-radius: 4px; background: #f5f5f5; color: #333; cursor: pointer; }
+  nav.tab-bar button:hover { background: #eee; border-color: #ccc; }
+  nav.tab-bar button.active { background: #1565c0; color: #fff; border-color: #1565c0; }
+  .tab-panels { flex: 1; min-height: 0; overflow-y: auto; padding: 0.5rem 0; display: flex; flex-direction: column; }
+  .tab-panel { display: none; font-size: 0.9rem; }
+  .tab-panel.active { display: block; }
+  .tab-panel .panel-body { max-height: 50vh; overflow-y: auto; }
+  h2 { font-size: 1.1rem; margin: 0.5rem 0; }
+  h4 { font-size: 1rem; margin: 1rem 0 0.5rem; }
+  .landing-hero { text-align: center; padding: 1.5rem 0; }
+  .landing-tagline { font-size: 1rem; color: #555; margin: 0.5rem 0 1rem; max-width: 36rem; margin-left: auto; margin-right: auto; }
+  .landing-cta { display: inline-block; padding: 0.75rem 1.5rem; font-size: 1.1rem; font-weight: 600; background: #1565c0; color: #fff; text-decoration: none; border-radius: 6px; margin: 0.5rem 0; }
+  .landing-cta:hover { background: #0d47a1; }
+  .landing-days { display: grid; grid-template-columns: repeat(auto-fill, minmax(8rem, 1fr)); gap: 0.5rem; margin: 1.5rem 0; }
+  .landing-day { padding: 0.5rem 0.75rem; background: #fff; border: 1px solid #e0e0e0; border-radius: 4px; text-decoration: none; color: #1565c0; font-size: 0.9rem; text-align: center; }
+  .landing-day:hover { border-color: #1565c0; background: #e3f2fd; }
+  .landing-day-num { font-weight: 600; display: block; }
+  .landing-day-date { font-size: 0.8rem; color: #666; }
+  .landing-section { margin: 1.5rem 0; padding-top: 1rem; border-top: 1px solid #eee; }
+  .landing-section h3 { font-size: 1rem; margin: 0 0 0.5rem; color: #333; }
+  nav.quick-nav { padding: 0.5rem 0; }
+  nav.quick-nav h4 { font-size: 0.95rem; margin: 0 0 0.4rem; color: #333; }
+  nav.quick-nav ul { margin: 0; padding-left: 1.25rem; list-style: disc; }
+  nav.quick-nav li { margin: 0.2rem 0; }
+  nav.quick-nav a { color: #1565c0; text-decoration: none; }
+  nav.quick-nav a:hover { text-decoration: underline; }
+  details.landing-details { margin: 0.5rem 0; }
+  details.landing-details summary { cursor: pointer; font-weight: 500; color: #1565c0; }
+  details.landing-details summary:hover { text-decoration: underline; }
+  .carousel-wrap { margin: 0.5rem 0; }
+  .carousel-nav { display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.5rem; }
+  .carousel-nav select { padding: 0.3rem 0.5rem; font-size: 0.9rem; }
+  .carousel-card { padding: 0.5rem; background: #fff; border: 1px solid #e0e0e0; border-radius: 4px; font-size: 0.85rem; }
+  .carousel-card .row { display: grid; grid-template-columns: auto 1fr; gap: 0.25rem 0.75rem; margin: 0.2rem 0; }
+  .carousel-card .label { font-weight: 600; color: #555; }
+  .predictions-layout { display: flex; flex: 1; min-height: 0; gap: 1rem; }
+  .predictions-sidebar { flex: 0 0 auto; display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.5rem; padding-right: 1rem; border-right: 1px solid #eee; }
+  .expert-tile { display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 0.6rem; background: #fff; border: 1px solid #e0e0e0; border-radius: 6px; cursor: pointer; text-align: center; font-size: 0.8rem; transition: border-color 0.15s, background 0.15s; }
+  .expert-tile:hover { border-color: #1565c0; background: #f8fbff; }
+  .expert-tile.active { border-color: #1565c0; background: #e3f2fd; color: #0d47a1; }
+  .expert-tile .avatar { width: 2.5rem; height: 2.5rem; border-radius: 50%; background: #e0e0e0; display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: 0.75rem; color: #555; margin-bottom: 0.3rem; }
+  .expert-tile.active .avatar { background: #1565c0; color: #fff; }
+  .expert-tile .name { line-height: 1.2; word-break: break-word; }
+  .predictions-main { flex: 1; min-width: 0; overflow-y: auto; padding: 0.5rem 0; }
+  .predictions-panel { display: none; }
+  .predictions-panel.active { display: block; }
+  .predictions-panel h3 { font-size: 1.1rem; margin: 0 0 0.75rem; color: #111; }
+  .prediction-item { margin-bottom: 1rem; padding-bottom: 1rem; border-bottom: 1px solid #eee; font-size: 0.9rem; }
+  .prediction-item:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
+  .prediction-item .meta { font-size: 0.8rem; color: #666; margin-bottom: 0.25rem; }
+  .prediction-item .text { line-height: 1.5; }
+  table { width: 100%; border-collapse: collapse; font-size: 0.85rem; }
+  th, td { border: 1px solid #ddd; padding: 0.35rem 0.5rem; text-align: left; }
   th { background: #e3f2fd; font-weight: 600; }
-  tr:nth-child(even) { background: #f5f5f5; }
-  ul { padding-left: 1.5rem; margin: 0.5rem 0; }
-  li { margin: 0.25rem 0; }
-  hr { border: none; border-top: 1px solid #e0e0e0; margin: 1.5rem 0; }
-  p { margin: 0.5rem 0; }
-  @media (max-width: 640px) { nav.quick-jump ul { columns: 1; } }
+  ul { padding-left: 1.25rem; margin: 0.35rem 0; }
+  li { margin: 0.2rem 0; }
+  p { margin: 0.35rem 0; font-size: 0.9rem; }
   @media print {
-    nav.page-nav, nav.quick-jump { display: none; }
-    body { background: #fff; color: #111; }
-    a[href] { color: #111; }
-    article { break-inside: avoid; }
+    html, body { overflow: auto; height: auto; }
+    nav.tab-bar button { display: none; }
+    .tab-panel { display: block !important; }
+    .tab-panel .panel-body { max-height: none; overflow: visible; }
   }
 </style>
 </head>
 <body>
+
+<header class="site-header">
+  <span class="header-flag" aria-hidden="true">🇮🇷</span>
+  <div class="header-brand">
+    <h1 class="header-title">Iran War Chronicle</h1>
+  </div>
+  <span class="header-flag" aria-hidden="true">🇺🇸</span>
+</header>
 <nav class="page-nav"><a href="prelude.html">Prelude</a> · <a href="day-10.html">← Day 10</a></nav>
-
-<h1>Iran War Chronicle</h1>
-
-<h2>Predictions</h2>
-<p>Expert predictions on war trajectory, duration, and outcomes. Append new rows; do not overwrite.</p>
-
-<table>
-<tr><th>Date / source</th><th>Expert</th><th>Prediction</th><th>As of</th></tr>
-<tr><td>*(none yet)*</td><td>Jiang, Mercouris, Ritter, others</td><td>—</td><td>—</td></tr>
-</table>
-
-<p><em>New days are appended to the chronicle before this section; this page remains last.</em></p>
-
-<hr/>
+<main class="page-main">
+<div class="predictions-layout">
+        <aside class="predictions-sidebar" aria-label="Expert list"><button type="button" class="expert-tile active" data-expert="alexander-mercouris" aria-pressed="true">
+      <span class="avatar">AM</span>
+      <span class="name">Alexander Mercouris</span>
+    </button>
+<button type="button" class="expert-tile" data-expert="scott-ritter" aria-pressed="false">
+      <span class="avatar">SR</span>
+      <span class="name">Scott Ritter</span>
+    </button>
+<button type="button" class="expert-tile" data-expert="jiang-xueqin" aria-pressed="false">
+      <span class="avatar">JX</span>
+      <span class="name">Jiang Xueqin</span>
+    </button>
+<button type="button" class="expert-tile" data-expert="daniel-davis" aria-pressed="false">
+      <span class="avatar">DD</span>
+      <span class="name">Daniel Davis</span>
+    </button>
+<button type="button" class="expert-tile" data-expert="john-mearsheimer" aria-pressed="false">
+      <span class="avatar">JM</span>
+      <span class="name">John Mearsheimer</span>
+    </button>
+<button type="button" class="expert-tile" data-expert="douglas-macgregor" aria-pressed="false">
+      <span class="avatar">DM</span>
+      <span class="name">Douglas Macgregor</span>
+    </button>
+<button type="button" class="expert-tile" data-expert="trita-parsi" aria-pressed="false">
+      <span class="avatar">TP</span>
+      <span class="name">Trita Parsi</span>
+    </button>
+<button type="button" class="expert-tile" data-expert="jeffrey-sachs" aria-pressed="false">
+      <span class="avatar">JS</span>
+      <span class="name">Jeffrey Sachs</span>
+    </button>
+<button type="button" class="expert-tile" data-expert="max-blumenthal" aria-pressed="false">
+      <span class="avatar">MB</span>
+      <span class="name">Max Blumenthal</span>
+    </button></aside>
+        <div class="predictions-main"><div class="predictions-panel active" id="panel-alexander-mercouris" data-expert="alexander-mercouris">
+      <h3>Alexander Mercouris</h3>
+      <div class="prediction-item">
+        <div class="meta">YouTube, Crooke collab · Pre–Mar 2026</div>
+        <div class="text">War with Iran &quot;can't be quick&quot; and &quot;won't be short&quot;; airpower alone unlikely to achieve regime change; Iran more resilient than Libya</div>
+      </div><div class="prediction-item">
+        <div class="meta">Program 5 Mar 2026 · Day 5</div>
+        <div class="text">US off-ramp &quot;probably well before September&quot; if Iran endures; Hormuz closure is &quot;lock grip&quot;; endurance test, no decisive advantage</div>
+      </div>
+    </div>
+<div class="predictions-panel" id="panel-scott-ritter" data-expert="scott-ritter">
+      <h3>Scott Ritter</h3>
+      <div class="prediction-item">
+        <div class="meta">YouTube, Larry Johnson · Early Mar 2026</div>
+        <div class="text">Iran headed for victory; Trump–Netanyahu will seek face-saving way to end war within ~2 weeks; Russia/China to urge Iran to accept face-saving deal</div>
+      </div><div class="prediction-item">
+        <div class="meta">Greanville Post 1 Mar · Day 1</div>
+        <div class="text">Assassinating Khamenei was &quot;catastrophic error&quot;; unified and strengthened Iranian government</div>
+      </div>
+    </div>
+<div class="predictions-panel" id="panel-jiang-xueqin" data-expert="jiang-xueqin">
+      <h3>Jiang Xueqin</h3>
+      <div class="prediction-item">
+        <div class="meta">AS USA, Predictive History · Pre–Mar 2026</div>
+        <div class="text">Iran prepared 20 years; strategy: unite population, build alliances, win global opinion, weaken enemy; asymmetric warfare, control terms of engagement</div>
+      </div><div class="prediction-item">
+        <div class="meta">Spark Solidarity 2 Mar · Day 2</div>
+        <div class="text">Predicted Trump win, US–Iran war, American defeat → multipolarity; actual conflict (air/missile, no ground invasion) differed from predicted joint ground invasion</div>
+      </div>
+    </div>
+<div class="predictions-panel" id="panel-daniel-davis" data-expert="daniel-davis">
+      <h3>Daniel Davis</h3>
+      <div class="prediction-item">
+        <div class="meta">ANI Jan 2026 · Jan 2026</div>
+        <div class="text">&quot;Danger window&quot; for US–Israel strikes around 26 Jan; war would NOT be short</div>
+      </div><div class="prediction-item">
+        <div class="meta">Davis Deep Dive, Day 10 · Day 10</div>
+        <div class="text">4–5 week campaign; interceptor stockpile exhaustion risk; Iran &quot;not wobbling&quot;; US &quot;higher probability of sustaining&quot; in doubt</div>
+      </div>
+    </div>
+<div class="predictions-panel" id="panel-john-mearsheimer" data-expert="john-mearsheimer">
+      <h3>John Mearsheimer</h3>
+      <div class="prediction-item">
+        <div class="meta">Substack &quot;Big Trouble&quot; · Pre–Mar 2026</div>
+        <div class="text">US/Israel will likely lose; regime change + subservient regime &quot;close to zero&quot;; Iran wins by surviving; Israel dragged US into war</div>
+      </div><div class="prediction-item">
+        <div class="meta">Substack &quot;Bombing to Lose&quot; · Pre–Mar 2026</div>
+        <div class="text">Limited strikes escalate dangerously; &quot;least bad option is not to attack&quot;; Iran can win by not becoming puppet (Vietnam parallel)</div>
+      </div>
+    </div>
+<div class="predictions-panel" id="panel-douglas-macgregor" data-expert="douglas-macgregor">
+      <h3>Douglas Macgregor</h3>
+      <div class="prediction-item">
+        <div class="meta">Greatreporter Feb 2026 · Feb 2026</div>
+        <div class="text">US strike on Iran &quot;99% certain&quot;; air/missile war to induce state disintegration; standoff attacks rarely decisive (Kosovo parallel)</div>
+      </div><div class="prediction-item">
+        <div class="meta">Tucker Carlson Mar 2026 · Early Mar 2026</div>
+        <div class="text">War driven by Israel; regionalization; Russia/China investments; nuclear brinkmanship risk</div>
+      </div>
+    </div>
+<div class="predictions-panel" id="panel-trita-parsi" data-expert="trita-parsi">
+      <h3>Trita Parsi</h3>
+      <div class="prediction-item">
+        <div class="meta">GV Wire 20 Feb 2026 · Feb 2026</div>
+        <div class="text">Even &quot;small attack&quot; leads to full war; Iran would not accept symbolic retaliation; attrition strategy: Hormuz, oil, US assets</div>
+      </div><div class="prediction-item">
+        <div class="meta">NPR, Mundo America Mar · Early Mar 2026</div>
+        <div class="text">Military plan likely to fail; could deteriorate to land invasion; bombing strengthens nationalist sentiment, not regime change</div>
+      </div>
+    </div>
+<div class="predictions-panel" id="panel-jeffrey-sachs" data-expert="jeffrey-sachs">
+      <h3>Jeffrey Sachs</h3>
+      <div class="prediction-item">
+        <div class="meta">jeffsachs.org · Pre–Mar 2026</div>
+        <div class="text">US war on Iran &quot;imminent&quot;; &quot;US will fail&quot;; open letter to UN opposing war</div>
+      </div>
+    </div>
+<div class="predictions-panel" id="panel-max-blumenthal" data-expert="max-blumenthal">
+      <h3>Max Blumenthal</h3>
+      <div class="prediction-item">
+        <div class="meta">YouTube, Worldnews Mar · Early Mar 2026</div>
+        <div class="text">Conflict will expand to US ground troops (&quot;under Kurdish cover&quot;); long-term war, not quick strike; Israeli interests dictating Trump; Trump coalition collapses when soldiers die</div>
+      </div>
+    </div></div>
+      </div>
+</main>
+<script>(function(){
+    var tiles=document.querySelectorAll('.expert-tile');
+    var panels=document.querySelectorAll('.predictions-panel');
+    tiles.forEach(function(t){
+      t.addEventListener('click',function(){
+        var slug=t.getAttribute('data-expert');
+        tiles.forEach(function(x){x.classList.remove('active');x.setAttribute('aria-pressed','false');});
+        panels.forEach(function(p){p.classList.remove('active');});
+        t.classList.add('active');t.setAttribute('aria-pressed','true');
+        var p=document.getElementById('panel-'+slug);
+        if(p)p.classList.add('active');
+      });
+    });
+  })();</script>
 </body>
 </html>

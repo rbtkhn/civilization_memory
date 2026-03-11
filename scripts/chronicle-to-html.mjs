@@ -165,11 +165,13 @@ function dayBodyToStructured(blocks, mapping) {
   return { summary, vectors, sources };
 }
 
-// ----- Site header: Iran flag left, title center, USA flag right -----
+// ----- Site header: Iran flag left, title + subtitle center, USA flag right -----
 const SITE_HEADER_HTML = `
 <header class="site-header">
   <span class="header-flag" aria-hidden="true">🇮🇷</span>
-  <h1 class="header-title">Iran War Chronicle</h1>
+  <div class="header-brand">
+    <h1 class="header-title">Iran War Chronicle</h1>
+  </div>
   <span class="header-flag" aria-hidden="true">🇺🇸</span>
 </header>`;
 
@@ -303,35 +305,82 @@ function dayNav(dayNum, maxDay) {
 // ----- HTML template -----
 const STYLES = `
   * { box-sizing: border-box; }
-  body { font-family: system-ui, -apple-system, sans-serif; line-height: 1.6; max-width: 52rem; margin: 0 auto; padding: 1rem 1.5rem; color: #1a1a1a; background: #fafafa; }
-  header.site-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 1rem; padding-bottom: 0.75rem; border-bottom: 1px solid #ddd; }
-  header.site-header .header-flag { font-size: 1.75rem; line-height: 1; }
-  header.site-header .header-title { flex: 1; text-align: center; font-size: 1.75rem; margin: 0; }
-  header.day-header { margin-top: 0.5rem; margin-bottom: 1rem; }
-  header.day-header h2 { margin: 0; font-size: 1.25rem; }
-  h1 { font-size: 1.75rem; margin-top: 0; border-bottom: 1px solid #ddd; padding-bottom: 0.5rem; }
-  h2 { font-size: 1.25rem; margin-top: 2rem; scroll-margin-top: 4rem; }
-  h2[id] { color: #0d47a1; }
-  nav.quick-jump { position: sticky; top: 0; background: #fff; border: 1px solid #e0e0e0; border-radius: 6px; padding: 0.75rem 1rem; margin: 1.5rem 0; z-index: 10; box-shadow: 0 1px 3px rgba(0,0,0,.06); }
-  nav.quick-jump ul { list-style: none; padding: 0; margin: 0; columns: 2; column-gap: 1.5rem; font-size: 0.9rem; }
-  nav.quick-jump li { break-inside: avoid; margin-bottom: 0.35rem; }
-  nav.quick-jump a, nav.page-nav a { color: #1565c0; text-decoration: none; }
-  nav.quick-jump a:hover, nav.page-nav a:hover { text-decoration: underline; }
-  nav.page-nav { margin-bottom: 1.5rem; font-size: 0.95rem; }
-  table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.9rem; }
-  th, td { border: 1px solid #ddd; padding: 0.5rem 0.75rem; text-align: left; }
+  html, body { height: 100%; margin: 0; overflow: hidden; font-family: system-ui, -apple-system, sans-serif; line-height: 1.5; color: #1a1a1a; background: #fafafa; }
+  body { display: flex; flex-direction: column; max-width: 52rem; margin: 0 auto; padding: 0.5rem 1rem; }
+  .page-main { flex: 1; min-height: 0; display: flex; flex-direction: column; overflow: hidden; }
+  header.site-header { flex-shrink: 0; display: flex; align-items: center; justify-content: center; gap: 0.75rem; padding: 0.5rem 0; border-bottom: 1px solid #ddd; }
+  header.site-header .header-flag { font-size: 1.5rem; line-height: 1; flex-shrink: 0; }
+  header.site-header .header-brand { flex: 0 0 auto; text-align: center; }
+  header.site-header .header-title { font-size: 1.6rem; font-weight: 700; margin: 0; line-height: 1.2; color: #111; }
+  header.site-header .header-subtitle { font-size: 0.8rem; color: #666; margin: 0.2rem 0 0; font-weight: 400; }
+  header.day-header { margin: 0.25rem 0; }
+  header.day-header h2 { margin: 0; font-size: 1.1rem; }
+  nav.page-nav { flex-shrink: 0; font-size: 0.85rem; padding: 0.25rem 0; }
+  nav.page-nav a { color: #1565c0; text-decoration: none; }
+  nav.page-nav a:hover { text-decoration: underline; }
+  nav.tab-bar { display: flex; flex-wrap: wrap; gap: 0.25rem; padding: 0.5rem 0; border-bottom: 1px solid #ddd; background: #fff; }
+  nav.tab-bar button { padding: 0.4rem 0.75rem; font-size: 0.9rem; font-weight: 500; border: 1px solid #e0e0e0; border-radius: 4px; background: #f5f5f5; color: #333; cursor: pointer; }
+  nav.tab-bar button:hover { background: #eee; border-color: #ccc; }
+  nav.tab-bar button.active { background: #1565c0; color: #fff; border-color: #1565c0; }
+  .tab-panels { flex: 1; min-height: 0; overflow-y: auto; padding: 0.5rem 0; display: flex; flex-direction: column; }
+  .tab-panel { display: none; font-size: 0.9rem; }
+  .tab-panel.active { display: block; }
+  .tab-panel .panel-body { max-height: 50vh; overflow-y: auto; }
+  h2 { font-size: 1.1rem; margin: 0.5rem 0; }
+  h4 { font-size: 1rem; margin: 1rem 0 0.5rem; }
+  .landing-hero { text-align: center; padding: 1.5rem 0; }
+  .landing-tagline { font-size: 1rem; color: #555; margin: 0.5rem 0 1rem; max-width: 36rem; margin-left: auto; margin-right: auto; }
+  .landing-cta { display: inline-block; padding: 0.75rem 1.5rem; font-size: 1.1rem; font-weight: 600; background: #1565c0; color: #fff; text-decoration: none; border-radius: 6px; margin: 0.5rem 0; }
+  .landing-cta:hover { background: #0d47a1; }
+  .landing-days { display: grid; grid-template-columns: repeat(auto-fill, minmax(8rem, 1fr)); gap: 0.5rem; margin: 1.5rem 0; }
+  .landing-day { padding: 0.5rem 0.75rem; background: #fff; border: 1px solid #e0e0e0; border-radius: 4px; text-decoration: none; color: #1565c0; font-size: 0.9rem; text-align: center; }
+  .landing-day:hover { border-color: #1565c0; background: #e3f2fd; }
+  .landing-day-num { font-weight: 600; display: block; }
+  .landing-day-date { font-size: 0.8rem; color: #666; }
+  .landing-section { margin: 1.5rem 0; padding-top: 1rem; border-top: 1px solid #eee; }
+  .landing-section h3 { font-size: 1rem; margin: 0 0 0.5rem; color: #333; }
+  nav.quick-nav { padding: 0.5rem 0; }
+  nav.quick-nav h4 { font-size: 0.95rem; margin: 0 0 0.4rem; color: #333; }
+  nav.quick-nav ul { margin: 0; padding-left: 1.25rem; list-style: disc; }
+  nav.quick-nav li { margin: 0.2rem 0; }
+  nav.quick-nav a { color: #1565c0; text-decoration: none; }
+  nav.quick-nav a:hover { text-decoration: underline; }
+  details.landing-details { margin: 0.5rem 0; }
+  details.landing-details summary { cursor: pointer; font-weight: 500; color: #1565c0; }
+  details.landing-details summary:hover { text-decoration: underline; }
+  .carousel-wrap { margin: 0.5rem 0; }
+  .carousel-nav { display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.5rem; }
+  .carousel-nav select { padding: 0.3rem 0.5rem; font-size: 0.9rem; }
+  .carousel-card { padding: 0.5rem; background: #fff; border: 1px solid #e0e0e0; border-radius: 4px; font-size: 0.85rem; }
+  .carousel-card .row { display: grid; grid-template-columns: auto 1fr; gap: 0.25rem 0.75rem; margin: 0.2rem 0; }
+  .carousel-card .label { font-weight: 600; color: #555; }
+  .predictions-layout { display: flex; flex: 1; min-height: 0; gap: 1rem; }
+  .predictions-sidebar { flex: 0 0 auto; display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.5rem; padding-right: 1rem; border-right: 1px solid #eee; }
+  .expert-tile { display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 0.6rem; background: #fff; border: 1px solid #e0e0e0; border-radius: 6px; cursor: pointer; text-align: center; font-size: 0.8rem; transition: border-color 0.15s, background 0.15s; }
+  .expert-tile:hover { border-color: #1565c0; background: #f8fbff; }
+  .expert-tile.active { border-color: #1565c0; background: #e3f2fd; color: #0d47a1; }
+  .expert-tile .avatar { width: 2.5rem; height: 2.5rem; border-radius: 50%; background: #e0e0e0; display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: 0.75rem; color: #555; margin-bottom: 0.3rem; }
+  .expert-tile.active .avatar { background: #1565c0; color: #fff; }
+  .expert-tile .name { line-height: 1.2; word-break: break-word; }
+  .predictions-main { flex: 1; min-width: 0; overflow-y: auto; padding: 0.5rem 0; }
+  .predictions-panel { display: none; }
+  .predictions-panel.active { display: block; }
+  .predictions-panel h3 { font-size: 1.1rem; margin: 0 0 0.75rem; color: #111; }
+  .prediction-item { margin-bottom: 1rem; padding-bottom: 1rem; border-bottom: 1px solid #eee; font-size: 0.9rem; }
+  .prediction-item:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
+  .prediction-item .meta { font-size: 0.8rem; color: #666; margin-bottom: 0.25rem; }
+  .prediction-item .text { line-height: 1.5; }
+  table { width: 100%; border-collapse: collapse; font-size: 0.85rem; }
+  th, td { border: 1px solid #ddd; padding: 0.35rem 0.5rem; text-align: left; }
   th { background: #e3f2fd; font-weight: 600; }
-  tr:nth-child(even) { background: #f5f5f5; }
-  ul { padding-left: 1.5rem; margin: 0.5rem 0; }
-  li { margin: 0.25rem 0; }
-  hr { border: none; border-top: 1px solid #e0e0e0; margin: 1.5rem 0; }
-  p { margin: 0.5rem 0; }
-  @media (max-width: 640px) { nav.quick-jump ul { columns: 1; } }
+  ul { padding-left: 1.25rem; margin: 0.35rem 0; }
+  li { margin: 0.2rem 0; }
+  p { margin: 0.35rem 0; font-size: 0.9rem; }
   @media print {
-    nav.page-nav, nav.quick-jump { display: none; }
-    body { background: #fff; color: #111; }
-    a[href] { color: #111; }
-    article { break-inside: avoid; }
+    html, body { overflow: auto; height: auto; }
+    nav.tab-bar button { display: none; }
+    .tab-panel { display: block !important; }
+    .tab-panel .panel-body { max-height: none; overflow: visible; }
   }
 `;
 
@@ -354,20 +403,134 @@ ${body}
 </html>`;
 }
 
-// ----- Build Quick Jump HTML for prelude (links to prelude.html#, day-N.html, predictions.html) -----
-function quickJumpHtml(dayCount) {
-  const items = [
-    ['Prelude', 'prelude.html#prelude'],
-    ['Timeline at a glance', 'prelude.html#timeline-at-a-glance'],
-    ...Array.from({ length: dayCount }, (_, i) => [`Day ${i + 1}`, `day-${i + 1}.html`]),
-    ['Numbers at a glance', 'prelude.html#numbers-at-a-glance'],
-    ['Contradictions & Open Disputes', 'prelude.html#contradictions--open-disputes'],
-    ['Preferred source hierarchy', 'prelude.html#preferred-source-hierarchy-for-daily-updates'],
-    ['Predictions', 'predictions.html'],
-  ];
-  return '<nav class="quick-jump" aria-label="Quick navigation"><ul>' +
-    items.map(([label, href]) => `<li><a href="${escapeHtml(href)}">${escapeHtml(label)}</a></li>`).join('') +
-    '</ul></nav>';
+// ----- Parse timeline table from markdown, build carousel -----
+function parseTimelineTable(md) {
+  const rows = [];
+  const lines = md.split(/\r?\n/);
+  let headers = [];
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i];
+    if (!line.startsWith('|') || !line.endsWith('|')) continue;
+    const cells = line.slice(1, -1).split('|').map(c => c.trim());
+    if (cells.every(c => /^-+$/.test(c))) continue;
+    if (headers.length === 0 && cells[0]?.toLowerCase() === 'day') {
+      headers = cells;
+      continue;
+    }
+    if (headers.length && cells.length >= headers.length) {
+      const row = {};
+      headers.forEach((h, j) => { row[h] = cells[j] || ''; });
+      rows.push(row);
+    }
+  }
+  return rows;
+}
+
+// ----- Parse Predictions table, group by Expert -----
+function parsePredictionsTable(md) {
+  const experts = new Map();
+  const lines = md.split(/\r?\n/);
+  let colIdx = { date: -1, expert: -1, prediction: -1, asOf: -1 };
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i];
+    if (!line.startsWith('|') || !line.endsWith('|')) continue;
+    const cells = line.slice(1, -1).split('|').map(c => c.trim());
+    if (cells.every(c => /^-+$/.test(c))) continue;
+    if (colIdx.expert < 0) {
+      const lc = cells.map(c => c.toLowerCase());
+      colIdx.date = lc.findIndex(c => c.includes('date') || c.includes('source'));
+      colIdx.expert = lc.findIndex(c => c.includes('expert'));
+      colIdx.prediction = lc.findIndex(c => c.includes('prediction'));
+      colIdx.asOf = lc.findIndex(c => c.includes('as of'));
+      if (colIdx.expert < 0) continue;
+    }
+    const expert = cells[colIdx.expert] || '';
+    if (!expert || /^\*|^-|^—/.test(expert) || expert.toLowerCase() === 'expert') continue;
+    const row = {
+      date: cells[colIdx.date] || '',
+      prediction: cells[colIdx.prediction] || '',
+      asOf: cells[colIdx.asOf] || '',
+    };
+    if (!experts.has(expert)) {
+      experts.set(expert, []);
+    }
+    experts.get(expert).push(row);
+  }
+  return Array.from(experts.entries()).map(([name, rows]) => ({
+    name,
+    slug: name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, ''),
+    initials: name.split(/\s+/).slice(0, 2).map(w => (w[0] || '').toUpperCase()).join('') || '?',
+    rows,
+  }));
+}
+
+function landingDayGridHtml(timelineRows) {
+  if (!timelineRows.length) return '';
+  return '<div class="landing-days">' + timelineRows.map((row, i) => {
+    const d = i + 1;
+    const date = row.Date || '';
+    const summary = (row.Summary || '').slice(0, 50);
+    return `<a href="day-${d}.html" class="landing-day">${escapeHtml(date)}</a>`;
+  }).join('') + '</div>';
+}
+
+function timelineCarouselHtml(timelineRows) {
+  if (!timelineRows.length) return '<p>No timeline data.</p>';
+  const labels = ['Day', 'Date', 'Summary', 'US posture', 'Iran posture', 'Hormuz', 'Oil/Brent'];
+  const cards = timelineRows.map((row, i) => {
+    const dayNum = i + 1;
+    const pairs = labels.filter(l => row[l]).map(l => `<span class="label">${escapeHtml(l)}:</span> <span>${escapeHtml(row[l])}</span>`);
+    return `<div class="carousel-card" data-day="${dayNum}" style="${i > 0 ? 'display:none' : ''}">
+      <div class="row"><span class="label">Day:</span> <a href="day-${dayNum}.html">${escapeHtml(row.Day || dayNum)} · ${escapeHtml(row.Date || '')}</a></div>
+      ${pairs.slice(1).map(p => `<div class="row">${p}</div>`).join('')}
+    </div>`;
+  });
+  const options = timelineRows.map((r, i) => `<option value="${i + 1}" ${i === 0 ? 'selected' : ''}>Day ${i + 1} · ${escapeHtml(r.Date || '')}</option>`).join('');
+  return `<div class="carousel-wrap">
+    <div class="carousel-nav">
+      <label>Day:</label>
+      <select id="timeline-day">${options}</select>
+    </div>
+    ${cards.join('')}
+    <script>
+    (function(){
+      var sel=document.getElementById('timeline-day');
+      var cards=document.querySelectorAll('.carousel-wrap .carousel-card');
+      if(sel&&cards.length){sel.onchange=function(){var v=sel.value;cards.forEach(function(c){c.style.display=c.dataset.day===v?'block':'none'});};}
+    })();
+    <\/script>`;
+}
+
+// ----- Tab navigation bar + panels -----
+function tabNavHtml(tabs, activeId) {
+  const buttons = tabs.map(t => {
+    const id = slug(t.id || t.label);
+    const isActive = id === activeId;
+    return `<button type="button" class="${isActive ? 'active' : ''}" data-tab="${escapeHtml(id)}">${escapeHtml(t.label)}</button>`;
+  });
+  return `<nav class="tab-bar" role="tablist">${buttons.join('')}</nav>`;
+}
+
+function tabPanelHtml(id, body, active = false) {
+  const sid = slug(id);
+  return `<div class="tab-panel ${active ? 'active' : ''}" data-tab-panel="${escapeHtml(sid)}" role="tabpanel"><div class="panel-body">${body}</div></div>`;
+}
+
+function tabSwitchScript() {
+  return `<script>
+(function(){
+  var bar=document.querySelector('.tab-bar');
+  var panels=document.querySelectorAll('.tab-panel');
+  if(!bar||!panels.length)return;
+  bar.addEventListener('click',function(e){
+    var btn=e.target.closest('button[data-tab]');
+    if(!btn)return;
+    var id=btn.dataset.tab;
+    bar.querySelectorAll('button').forEach(function(b){b.classList.toggle('active',b===btn);});
+    panels.forEach(function(p){p.classList.toggle('active',p.dataset.tabPanel===id);});
+  });
+})();
+<\/script>`;
 }
 
 // ----- Main -----
@@ -391,12 +554,6 @@ try {
   ];
 
   const SITE_TITLE = 'Iran War Chronicle';
-  const preludeParts = [];
-  preludeParts.push(SITE_HEADER_HTML);
-  preludeParts.push('<h2>Prelude</h2>');
-  preludeParts.push('<p>' + inline(escapeHtml(intro)) + '</p>');
-  preludeParts.push('<hr/>');
-
   const daySections = sections.filter(s => /^Day \d+ /.test(s.title));
   const dayCount = daySections.length;
 
@@ -414,29 +571,56 @@ try {
   writeFileSync(join(outputDir, 'chronicle.json'), JSON.stringify(chronicleData, null, 2), 'utf8');
   console.log('Wrote: chronicle.json');
 
-  for (const title of preludeSections) {
-    if (title === null) {
-      preludeParts.push('<h2 id="quick-jump">Quick Jump</h2>');
-      preludeParts.push(quickJumpHtml(dayCount));
-      continue;
-    }
-    const body = byTitle[title];
-    if (!body) continue;
-    const id = slug(title);
-    preludeParts.push(`<h2 id="${escapeHtml(id)}">${inline(escapeHtml(title))}</h2>`);
-    preludeParts.push(mdBlockToHtml(body, 'prelude'));
-    preludeParts.push('');
+  const timelineBody = byTitle['Timeline at a glance'] || '';
+  const timelineRows = parseTimelineTable(timelineBody);
+  const preludeParts = [];
+  const preludeNav = '<nav class="page-nav"><a href="prelude.html">Prelude</a> · <a href="day-1.html">Day 1</a> · <a href="day-' + dayCount + '.html">Day ' + dayCount + '</a> · <a href="predictions.html">Predictions</a></nav>';
+  preludeParts.push(SITE_HEADER_HTML);
+  preludeParts.push(preludeNav);
+  preludeParts.push('<main class="page-main">');
+  preludeParts.push('<section id="prelude" class="landing-section">');
+  preludeParts.push('<h3>Prelude</h3>');
+  preludeParts.push('<div>' + mdBlockToHtml(byTitle['Prelude'] || '', 'prelude') + '</div>');
+  preludeParts.push('</section>');
+  const sourcesBody = byTitle['Sources'];
+  if (sourcesBody) {
+    preludeParts.push('<section id="sources" class="landing-section">');
+    preludeParts.push('<h3>Sources</h3>');
+    preludeParts.push('<div>' + mdBlockToHtml(sourcesBody, 'prelude') + '</div>');
+    preludeParts.push('</section>');
   }
+  const methodologyBody = byTitle['Methodology'];
+  if (methodologyBody) {
+    preludeParts.push('<section id="methodology" class="landing-section">');
+    preludeParts.push('<h3>Methodology</h3>');
+    preludeParts.push('<div>' + mdBlockToHtml(methodologyBody, 'prelude') + '</div>');
+    preludeParts.push('</section>');
+  }
+  preludeParts.push('<section id="day-by-day" class="landing-section">');
+  preludeParts.push(landingDayGridHtml(timelineRows));
+  preludeParts.push('</section>');
+  preludeParts.push('<section id="reference" class="landing-section">');
+  preludeParts.push('<details class="landing-details" id="reference-details">');
+  preludeParts.push('<summary>Reference — Numbers, Contradictions, Sources</summary>');
+  let refContent = '';
+  const numbersBody = byTitle['Numbers at a glance'];
+  if (numbersBody) refContent += '<h4 id="numbers-at-a-glance">Numbers at a glance</h4>' + mdBlockToHtml(numbersBody, 'prelude');
+  const contradictionsBody = byTitle['Contradictions & Open Disputes'];
+  if (contradictionsBody) refContent += '<h4 id="contradictions-open-disputes">Contradictions &amp; Open Disputes</h4>' + mdBlockToHtml(contradictionsBody, 'prelude');
+  const preferredSourcesBody = byTitle['Preferred source hierarchy for daily updates'];
+  if (preferredSourcesBody) refContent += '<h4 id="preferred-source-hierarchy">Preferred source hierarchy</h4>' + mdBlockToHtml(preferredSourcesBody, 'prelude');
+  preludeParts.push('<div style="margin-top:0.75rem;max-height:50vh;overflow-y:auto;">' + (refContent || '<p>No reference data.</p>') + '</div>');
+  preludeParts.push('</details>');
+  preludeParts.push('</section>');
+  preludeParts.push('<nav class="page-nav" style="margin-top:1.5rem;padding-top:1rem;border-top:1px solid #eee;"><a href="day-1.html">Day 1</a> · <a href="day-' + dayCount + '.html">Day ' + dayCount + '</a> · <a href="predictions.html">Predictions</a></nav>');
+  preludeParts.push('<script>(function(){var d=document.getElementById("reference-details");if(d&&["numbers-at-a-glance","contradictions-open-disputes","preferred-source-hierarchy"].indexOf(location.hash.slice(1))>=0)d.open=true;window.onhashchange=function(){if(d&&["numbers-at-a-glance","contradictions-open-disputes","preferred-source-hierarchy"].indexOf(location.hash.slice(1))>=0)d.open=true;};\nif(location.hash)setTimeout(function(){var e=document.getElementById(location.hash.slice(1));if(e)e.scrollIntoView({behavior:"smooth"});},50);})();</script>');
+  preludeParts.push('</main>');
 
   const preludeHtml = docWrap(SITE_TITLE + ' — Prelude', preludeParts.join('\n'), meta);
   writeFileSync(join(outputDir, 'prelude.html'), preludeHtml, 'utf8');
   console.log('Wrote: prelude.html');
 
-  const dateFromTitle = (title) => {
-    const m = title.match(/·\s*(\d{4}-\d{2}-\d{2})/);
-    return m ? m[1] : '';
-  };
-
+  const vectorOrder = mapping.vector_order || ['Narrative', 'Military', 'Economy', 'Politics', 'History'];
   for (let d = 1; d <= dayCount; d++) {
     const sec = daySections.find(s => s.title.startsWith(`Day ${d} `));
     if (!sec) {
@@ -444,31 +628,66 @@ try {
       continue;
     }
     const structured = structuredDays[d - 1];
-    const dateAttr = dateFromTitle(sec.title);
-    const timeTag = dateAttr ? `<time datetime="${escapeHtml(dateAttr)}">${escapeHtml(dateAttr)}</time>` : '';
-    let articleBody = SITE_HEADER_HTML + '\n<header class="day-header"><h2>' + escapeHtml(sec.title) + '</h2>' + timeTag + '</header>\n\n';
-    articleBody += '<section aria-label="Summary"><p><strong>Summary:</strong></p>\n<p>' + escapeHtml(structured.summary) + '</p></section>\n\n';
-    const vectorOrder = mapping.vector_order || ['Narrative', 'Military', 'Economy', 'Politics'];
+    const dayTabs = [{ id: 'summary', label: 'Summary' }, ...vectorOrder.map(v => ({ id: v, label: v })), { id: 'sources', label: 'Sources' }];
+    const panelParts = [];
+    panelParts.push(tabPanelHtml('summary', '<p>' + escapeHtml(structured.summary) + '</p>', true));
     for (const v of vectorOrder) {
       const content = structured.vectors[v] || '*(none reported)*';
-      articleBody += '<section role="region" aria-label="' + escapeHtml(v) + '"><p><strong>' + escapeHtml(v) + '</strong></p>\n' + mdBlockToHtml(content, './') + '</section>\n\n';
+      panelParts.push(tabPanelHtml(v, mdBlockToHtml(content, './')));
     }
-    articleBody += '<section aria-label="Sources"><p><strong>Sources:</strong></p>\n<p>' + escapeHtml(structured.sources) + '</p></section>';
-    const bodyHtml = dayNav(d, dayCount) + '\n\n<article aria-label="Day ' + d + '">\n' + articleBody + '\n</article>';
-    const dayHtml = docWrap(SITE_TITLE + ' — Day ' + d, bodyHtml, meta);
+    panelParts.push(tabPanelHtml('sources', '<p>' + escapeHtml(structured.sources) + '</p>'));
+    const articleBody = SITE_HEADER_HTML + '\n' + dayNav(d, dayCount) + '\n<header class="day-header"><h2>' + escapeHtml(sec.title) + '</h2></header>\n<main class="page-main">\n' + tabNavHtml(dayTabs, 'summary') + '\n<div class="tab-panels">\n' + panelParts.join('\n') + '\n</div>' + tabSwitchScript() + '\n</main>';
+    const dayHtml = docWrap(SITE_TITLE + ' — Day ' + d, '<article aria-label="Day ' + d + '">\n' + articleBody + '\n</article>', meta);
     writeFileSync(join(outputDir, `day-${d}.html`), dayHtml, 'utf8');
     console.log('Wrote: day-' + d + '.html');
   }
 
-  const predictionsBody = byTitle['Predictions'];
-  const predictionsContent = predictionsBody
-    ? '<h2>Predictions</h2>\n' + mdBlockToHtml(predictionsBody, './')
-    : '<h2>Predictions</h2>\n<p>Expert predictions (Jiang, Mercouris, Ritter, others) will be tracked here. Append new rows in the source chronicle.</p>';
+  const predictionsBody = byTitle['Predictions'] || '';
+  const expertsData = parsePredictionsTable(predictionsBody);
+  const expertTiles = expertsData.map((e, i) =>
+    `<button type="button" class="expert-tile${i === 0 ? ' active' : ''}" data-expert="${escapeHtml(e.slug)}" aria-pressed="${i === 0 ? 'true' : 'false'}">
+      <span class="avatar">${escapeHtml(e.initials)}</span>
+      <span class="name">${escapeHtml(e.name)}</span>
+    </button>`
+  ).join('\n');
+  const expertPanels = expertsData.map((e, i) => {
+    const items = e.rows.map(r =>
+      `<div class="prediction-item">
+        <div class="meta">${escapeHtml(r.date)}${r.asOf ? ' · ' + escapeHtml(r.asOf) : ''}</div>
+        <div class="text">${escapeHtml(r.prediction)}</div>
+      </div>`
+    ).join('');
+    return `<div class="predictions-panel${i === 0 ? ' active' : ''}" id="panel-${escapeHtml(e.slug)}" data-expert="${escapeHtml(e.slug)}">
+      <h3>${escapeHtml(e.name)}</h3>
+      ${items || '<p>No predictions yet.</p>'}
+    </div>`;
+  }).join('\n');
+  const predictionsScript = `(function(){
+    var tiles=document.querySelectorAll('.expert-tile');
+    var panels=document.querySelectorAll('.predictions-panel');
+    tiles.forEach(function(t){
+      t.addEventListener('click',function(){
+        var slug=t.getAttribute('data-expert');
+        tiles.forEach(function(x){x.classList.remove('active');x.setAttribute('aria-pressed','false');});
+        panels.forEach(function(p){p.classList.remove('active');});
+        t.classList.add('active');t.setAttribute('aria-pressed','true');
+        var p=document.getElementById('panel-'+slug);
+        if(p)p.classList.add('active');
+      });
+    });
+  })();`;
+  const predictionsLayout = expertsData.length > 0
+    ? `<div class="predictions-layout">
+        <aside class="predictions-sidebar" aria-label="Expert list">${expertTiles}</aside>
+        <div class="predictions-main">${expertPanels}</div>
+      </div>`
+    : '<p>Expert predictions will be tracked here. Append rows to the Predictions table in the source chronicle.</p>';
   const predictionsNav = '<nav class="page-nav"><a href="prelude.html">Prelude</a>' + (dayCount > 0 ? ` · <a href="day-${dayCount}.html">← Day ${dayCount}</a>` : '') + '</nav>';
-  writeFileSync(join(outputDir, 'predictions.html'), docWrap(SITE_TITLE + ' — Predictions', predictionsNav + '\n\n<h1>Iran War Chronicle</h1>\n\n' + predictionsContent, meta), 'utf8');
+  const predictionsPage = SITE_HEADER_HTML + '\n' + predictionsNav + '\n<main class="page-main">\n' + predictionsLayout + '\n</main>\n<script>' + predictionsScript + '</script>';
+  writeFileSync(join(outputDir, 'predictions.html'), docWrap(SITE_TITLE + ' — Predictions', predictionsPage, meta), 'utf8');
   console.log('Wrote: predictions.html');
 
-  const indexHtml = docWrap(SITE_TITLE, SITE_HEADER_HTML + '\n<p>Redirecting to <a href="prelude.html">Prelude</a>…</p><script>location.href="prelude.html";</script>', meta);
+  const indexHtml = docWrap(SITE_TITLE, SITE_HEADER_HTML + '\n<main class="page-main"><p>Redirecting to <a href="prelude.html">Prelude</a>…</p></main><script>location.href="prelude.html";</script>', meta);
   writeFileSync(join(outputDir, 'index.html'), indexHtml, 'utf8');
   console.log('Wrote: index.html');
 

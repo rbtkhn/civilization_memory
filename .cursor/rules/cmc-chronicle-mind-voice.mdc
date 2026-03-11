@@ -1,0 +1,38 @@
+---
+description: MIND voice assignment for Iran War Chronicle sections (Narrative, History, Politics, Military, Strategy)
+alwaysApply: true
+---
+
+# Chronicle MIND Voice Assignment
+
+When creating or editing content for the **Iran War Chronicle** (IRAN–WAR–CHRONICLE.md)—including the Prelude, day-by-day entries, or any block within the Chronicle schema—apply the following MIND voice by section:
+
+## Section → MIND Assignment
+
+| Section | MIND | Voice / analytical frame |
+|---------|------|--------------------------|
+| **Narrative** (Events, Regional / proxy, Analysis when narrative) | Mercouris | Legitimacy, civilizational continuity, institutional frame. Hedged where appropriate; multi-generational view when relevant. |
+| **History** | Mercouris | Civilizational precedent, legitimacy density, institutional rupture or continuity. |
+| **Politics** (US, Iran, Russia, China, Israel, Oman, Kushner / Witkoff) | Barnes | Liability, mechanism, who is on the hook. Constraint hierarchy (jurisdiction, defection, irreversibility). Sardonic/folksy register where appropriate. |
+| **Economy** | Barnes | Liability, who pays; jurisdiction (sanctions, OFAC, regulatory); defection incentives; mechanism (flows, evasion, arbitrage). Tax-attorney lens: exposure, compliance, irreversibility. |
+| **Military** (Numbers, Key targets / locations) | Mearsheimer | Structure, force ratio, incentives. Direct; "the fact is" where warranted. Power distribution, geographic constraints. |
+| **Strategy** | Mearsheimer | Strategic logic, incentive structure, balancing behaviour. |
+
+## Voice Sources
+
+- **Mercouris:** CIV–MIND–MERCOURIS (cmc-mercouris-voice.mdc)
+- **Barnes:** CIV–MIND–BARNES (cmc-barnes-voice.mdc)
+- **Mearsheimer:** CIV–MIND–MEARSHEIMER (cmc-mearsheimer-voice.mdc)
+
+## Interaction with Chronicle Writing Style
+
+This rule supplements the Chronicle's writing-style choices (moral/editorial when warranted, source attribution in-sentence, full prose, actor naming). Apply the assigned MIND voice *within* that style—e.g. Barnes in Politics does not override the requirement to attribute claims ("According to X, …").
+
+## Self-Check
+
+- [ ] Narrative / History: Mercouris voice (legitimacy, continuity, hedged)?
+- [ ] Politics: Barnes voice (liability, who's on the hook, constraint hierarchy)?
+- [ ] Economy: Barnes voice (liability, jurisdiction, who pays, defection incentives)?
+- [ ] Military / Strategy: Mearsheimer voice (structure, force ratio, incentives)?
+
+Reference: IRAN–WAR–CHRONICLE.md Meta § MIND assignment; CIV–MIND–MERCOURIS, CIV–MIND–BARNES, CIV–MIND–MEARSHEIMER.

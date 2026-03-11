@@ -7,72 +7,113 @@
   <title>Iran War Chronicle — Day 3</title>
   <style>
   * { box-sizing: border-box; }
-  body { font-family: system-ui, -apple-system, sans-serif; line-height: 1.6; max-width: 52rem; margin: 0 auto; padding: 1rem 1.5rem; color: #1a1a1a; background: #fafafa; }
-  header.site-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 1rem; padding-bottom: 0.75rem; border-bottom: 1px solid #ddd; }
-  header.site-header .header-flag { font-size: 1.75rem; line-height: 1; }
-  header.site-header .header-title { flex: 1; text-align: center; font-size: 1.75rem; margin: 0; }
-  header.day-header { margin-top: 0.5rem; margin-bottom: 1rem; }
-  header.day-header h2 { margin: 0; font-size: 1.25rem; }
-  h1 { font-size: 1.75rem; margin-top: 0; border-bottom: 1px solid #ddd; padding-bottom: 0.5rem; }
-  h2 { font-size: 1.25rem; margin-top: 2rem; scroll-margin-top: 4rem; }
-  h2[id] { color: #0d47a1; }
-  nav.quick-jump { position: sticky; top: 0; background: #fff; border: 1px solid #e0e0e0; border-radius: 6px; padding: 0.75rem 1rem; margin: 1.5rem 0; z-index: 10; box-shadow: 0 1px 3px rgba(0,0,0,.06); }
-  nav.quick-jump ul { list-style: none; padding: 0; margin: 0; columns: 2; column-gap: 1.5rem; font-size: 0.9rem; }
-  nav.quick-jump li { break-inside: avoid; margin-bottom: 0.35rem; }
-  nav.quick-jump a, nav.page-nav a { color: #1565c0; text-decoration: none; }
-  nav.quick-jump a:hover, nav.page-nav a:hover { text-decoration: underline; }
-  nav.page-nav { margin-bottom: 1.5rem; font-size: 0.95rem; }
-  table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.9rem; }
-  th, td { border: 1px solid #ddd; padding: 0.5rem 0.75rem; text-align: left; }
+  html, body { height: 100%; margin: 0; overflow: hidden; font-family: system-ui, -apple-system, sans-serif; line-height: 1.5; color: #1a1a1a; background: #fafafa; }
+  body { display: flex; flex-direction: column; max-width: 52rem; margin: 0 auto; padding: 0.5rem 1rem; }
+  .page-main { flex: 1; min-height: 0; display: flex; flex-direction: column; overflow: hidden; }
+  header.site-header { flex-shrink: 0; display: flex; align-items: center; justify-content: center; gap: 0.75rem; padding: 0.5rem 0; border-bottom: 1px solid #ddd; }
+  header.site-header .header-flag { font-size: 1.5rem; line-height: 1; flex-shrink: 0; }
+  header.site-header .header-brand { flex: 0 0 auto; text-align: center; }
+  header.site-header .header-title { font-size: 1.6rem; font-weight: 700; margin: 0; line-height: 1.2; color: #111; }
+  header.site-header .header-subtitle { font-size: 0.8rem; color: #666; margin: 0.2rem 0 0; font-weight: 400; }
+  header.day-header { margin: 0.25rem 0; }
+  header.day-header h2 { margin: 0; font-size: 1.1rem; }
+  nav.page-nav { flex-shrink: 0; font-size: 0.85rem; padding: 0.25rem 0; }
+  nav.page-nav a { color: #1565c0; text-decoration: none; }
+  nav.page-nav a:hover { text-decoration: underline; }
+  nav.tab-bar { display: flex; flex-wrap: wrap; gap: 0.25rem; padding: 0.5rem 0; border-bottom: 1px solid #ddd; background: #fff; }
+  nav.tab-bar button { padding: 0.4rem 0.75rem; font-size: 0.9rem; font-weight: 500; border: 1px solid #e0e0e0; border-radius: 4px; background: #f5f5f5; color: #333; cursor: pointer; }
+  nav.tab-bar button:hover { background: #eee; border-color: #ccc; }
+  nav.tab-bar button.active { background: #1565c0; color: #fff; border-color: #1565c0; }
+  .tab-panels { flex: 1; min-height: 0; overflow-y: auto; padding: 0.5rem 0; display: flex; flex-direction: column; }
+  .tab-panel { display: none; font-size: 0.9rem; }
+  .tab-panel.active { display: block; }
+  .tab-panel .panel-body { max-height: 50vh; overflow-y: auto; }
+  h2 { font-size: 1.1rem; margin: 0.5rem 0; }
+  h4 { font-size: 1rem; margin: 1rem 0 0.5rem; }
+  .landing-hero { text-align: center; padding: 1.5rem 0; }
+  .landing-tagline { font-size: 1rem; color: #555; margin: 0.5rem 0 1rem; max-width: 36rem; margin-left: auto; margin-right: auto; }
+  .landing-cta { display: inline-block; padding: 0.75rem 1.5rem; font-size: 1.1rem; font-weight: 600; background: #1565c0; color: #fff; text-decoration: none; border-radius: 6px; margin: 0.5rem 0; }
+  .landing-cta:hover { background: #0d47a1; }
+  .landing-days { display: grid; grid-template-columns: repeat(auto-fill, minmax(8rem, 1fr)); gap: 0.5rem; margin: 1.5rem 0; }
+  .landing-day { padding: 0.5rem 0.75rem; background: #fff; border: 1px solid #e0e0e0; border-radius: 4px; text-decoration: none; color: #1565c0; font-size: 0.9rem; text-align: center; }
+  .landing-day:hover { border-color: #1565c0; background: #e3f2fd; }
+  .landing-day-num { font-weight: 600; display: block; }
+  .landing-day-date { font-size: 0.8rem; color: #666; }
+  .landing-section { margin: 1.5rem 0; padding-top: 1rem; border-top: 1px solid #eee; }
+  .landing-section h3 { font-size: 1rem; margin: 0 0 0.5rem; color: #333; }
+  nav.quick-nav { padding: 0.5rem 0; }
+  nav.quick-nav h4 { font-size: 0.95rem; margin: 0 0 0.4rem; color: #333; }
+  nav.quick-nav ul { margin: 0; padding-left: 1.25rem; list-style: disc; }
+  nav.quick-nav li { margin: 0.2rem 0; }
+  nav.quick-nav a { color: #1565c0; text-decoration: none; }
+  nav.quick-nav a:hover { text-decoration: underline; }
+  details.landing-details { margin: 0.5rem 0; }
+  details.landing-details summary { cursor: pointer; font-weight: 500; color: #1565c0; }
+  details.landing-details summary:hover { text-decoration: underline; }
+  .carousel-wrap { margin: 0.5rem 0; }
+  .carousel-nav { display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.5rem; }
+  .carousel-nav select { padding: 0.3rem 0.5rem; font-size: 0.9rem; }
+  .carousel-card { padding: 0.5rem; background: #fff; border: 1px solid #e0e0e0; border-radius: 4px; font-size: 0.85rem; }
+  .carousel-card .row { display: grid; grid-template-columns: auto 1fr; gap: 0.25rem 0.75rem; margin: 0.2rem 0; }
+  .carousel-card .label { font-weight: 600; color: #555; }
+  .predictions-layout { display: flex; flex: 1; min-height: 0; gap: 1rem; }
+  .predictions-sidebar { flex: 0 0 auto; display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.5rem; padding-right: 1rem; border-right: 1px solid #eee; }
+  .expert-tile { display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 0.6rem; background: #fff; border: 1px solid #e0e0e0; border-radius: 6px; cursor: pointer; text-align: center; font-size: 0.8rem; transition: border-color 0.15s, background 0.15s; }
+  .expert-tile:hover { border-color: #1565c0; background: #f8fbff; }
+  .expert-tile.active { border-color: #1565c0; background: #e3f2fd; color: #0d47a1; }
+  .expert-tile .avatar { width: 2.5rem; height: 2.5rem; border-radius: 50%; background: #e0e0e0; display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: 0.75rem; color: #555; margin-bottom: 0.3rem; }
+  .expert-tile.active .avatar { background: #1565c0; color: #fff; }
+  .expert-tile .name { line-height: 1.2; word-break: break-word; }
+  .predictions-main { flex: 1; min-width: 0; overflow-y: auto; padding: 0.5rem 0; }
+  .predictions-panel { display: none; }
+  .predictions-panel.active { display: block; }
+  .predictions-panel h3 { font-size: 1.1rem; margin: 0 0 0.75rem; color: #111; }
+  .prediction-item { margin-bottom: 1rem; padding-bottom: 1rem; border-bottom: 1px solid #eee; font-size: 0.9rem; }
+  .prediction-item:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
+  .prediction-item .meta { font-size: 0.8rem; color: #666; margin-bottom: 0.25rem; }
+  .prediction-item .text { line-height: 1.5; }
+  table { width: 100%; border-collapse: collapse; font-size: 0.85rem; }
+  th, td { border: 1px solid #ddd; padding: 0.35rem 0.5rem; text-align: left; }
   th { background: #e3f2fd; font-weight: 600; }
-  tr:nth-child(even) { background: #f5f5f5; }
-  ul { padding-left: 1.5rem; margin: 0.5rem 0; }
-  li { margin: 0.25rem 0; }
-  hr { border: none; border-top: 1px solid #e0e0e0; margin: 1.5rem 0; }
-  p { margin: 0.5rem 0; }
-  @media (max-width: 640px) { nav.quick-jump ul { columns: 1; } }
+  ul { padding-left: 1.25rem; margin: 0.35rem 0; }
+  li { margin: 0.2rem 0; }
+  p { margin: 0.35rem 0; font-size: 0.9rem; }
   @media print {
-    nav.page-nav, nav.quick-jump { display: none; }
-    body { background: #fff; color: #111; }
-    a[href] { color: #111; }
-    article { break-inside: avoid; }
+    html, body { overflow: auto; height: auto; }
+    nav.tab-bar button { display: none; }
+    .tab-panel { display: block !important; }
+    .tab-panel .panel-body { max-height: none; overflow: visible; }
   }
 </style>
 </head>
 <body>
-<nav class="page-nav"><a href="prelude.html">Prelude</a> · <a href="day-2.html">← Day 2</a> · <a href="day-4.html">Day 4 →</a></nav>
-
 <article aria-label="Day 3">
 
 <header class="site-header">
   <span class="header-flag" aria-hidden="true">🇮🇷</span>
-  <h1 class="header-title">Iran War Chronicle</h1>
+  <div class="header-brand">
+    <h1 class="header-title">Iran War Chronicle</h1>
+  </div>
   <span class="header-flag" aria-hidden="true">🇺🇸</span>
 </header>
-<header class="day-header"><h2>Day 3 · 2026-03-03</h2><time datetime="2026-03-03">2026-03-03</time></header>
-
-<section aria-label="Summary"><p><strong>Summary:</strong></p>
-<p>Iran UN envoy denies backchannel; Oman FM offers off-ramps. Lawmakers question war costs and strategy.</p></section>
-
-<section role="region" aria-label="Narrative"><p><strong>Narrative</strong></p>
-<ul>
+<nav class="page-nav"><a href="prelude.html">Prelude</a> · <a href="day-2.html">← Day 2</a> · <a href="day-4.html">Day 4 →</a></nav>
+<header class="day-header"><h2>Day 3 · 2026-03-03</h2></header>
+<main class="page-main">
+<nav class="tab-bar" role="tablist"><button type="button" class="active" data-tab="summary">Summary</button><button type="button" class="" data-tab="narrative">Narrative</button><button type="button" class="" data-tab="military">Military</button><button type="button" class="" data-tab="economy">Economy</button><button type="button" class="" data-tab="politics">Politics</button><button type="button" class="" data-tab="history">History</button><button type="button" class="" data-tab="sources">Sources</button></nav>
+<div class="tab-panels">
+<div class="tab-panel active" data-tab-panel="summary" role="tabpanel"><div class="panel-body"><p>Iran UN envoy denies backchannel; Oman FM offers off-ramps. Lawmakers question war costs and strategy.</p></div></div>
+<div class="tab-panel " data-tab-panel="narrative" role="tabpanel"><div class="panel-body"><ul>
 <li>Iran UN envoy denies backchannel (“the only language for talking with the United States is the language of defence”).</li>
 <li>Oman FM: “off-ramps available,” immediate ceasefire.</li>
 <li>Lawmakers question war costs, strategy, exit plan.</li>
 </ul>
 
-<p>[Oman mediation; Hezbollah and regional escalation reported in other chronicles for this window.]</p></section>
+<p>[Oman mediation; Hezbollah and regional escalation reported in other chronicles for this window.]</p></div></div>
+<div class="tab-panel " data-tab-panel="military" role="tabpanel"><div class="panel-body"><p>Internal project run estimated a possible 4–5 week campaign horizon; this is an analytic estimate, not an official public timeline. Two additional U.S. service members confirmed dead (total 6 US KIA by 3 Mar). <em>Sources: AP, Reuters; Run 1 (internal).</em></p>
 
-<section role="region" aria-label="Military"><p><strong>Military</strong></p>
-<p>Internal project run estimated a possible 4–5 week campaign horizon; this is an analytic estimate, not an official public timeline. Two additional U.S. service members confirmed dead (total 6 US KIA by 3 Mar). <em>Sources: AP, Reuters; Run 1 (internal).</em></p>
-
-<p>[No new named facilities this day; strikes continued per briefings.] Assembly of Experts (Tehran) struck by IDF (reported elsewhere). <em>See Day 4–5 for inland expansion.</em></p></section>
-
-<section role="region" aria-label="Economy"><p><strong>Economy</strong></p>
-<p><em>(none reported)</em></p></section>
-
-<section role="region" aria-label="Politics"><p><strong>Politics</strong></p>
-<p><strong>US</strong></p>
+<p>[No new named facilities this day; strikes continued per briefings.] Assembly of Experts (Tehran) struck by IDF (reported elsewhere). <em>See Day 4–5 for inland expansion.</em></p></div></div>
+<div class="tab-panel " data-tab-panel="economy" role="tabpanel"><div class="panel-body"><p><em>(none reported)</em></p></div></div>
+<div class="tab-panel " data-tab-panel="politics" role="tabpanel"><div class="panel-body"><p><strong>US</strong></p>
 
 <ul>
 <li><strong>Trump:</strong> [No dated 3 Mar post; administration timeline “four or five weeks” in Run 1.]</li>
@@ -118,17 +159,28 @@
 <ul>
 <li><strong>Witkoff</strong> (3 Mar, Fox News): Presented a retrospective account of the Feb Geneva/Oman talks, including disputed claims about Iran's enrichment position and the U.S. demand for zero enrichment. See <strong>Contradictions &amp; Open Disputes</strong>, Row 1.</li>
 <li><strong>Kushner:</strong> No separate dated 3 Mar statement; cited by Witkoff as co-negotiator in Geneva/Oman rounds.</li>
-</ul></section>
+</ul></div></div>
+<div class="tab-panel " data-tab-panel="history" role="tabpanel"><div class="panel-body"><p><em>(none)</em></p>
 
-<section role="region" aria-label="History"><p><strong>History</strong></p>
-<p><em>(none)</em></p>
+<p><em>(none)</em></p></div></div>
+<div class="tab-panel " data-tab-panel="sources" role="tabpanel"><div class="panel-body"><p>Pattern 12 Run 1; CNN, NPR, Al Jazeera, NYT, Sun-Sentinel, ANI, AP, Tribune, Sputnik, Reuters, China Daily, China.org.cn, FMPRC, Times of Israel, MoneyControl, AA; Al Jazeera 3 Mar 2026 (Oman FM); VINnews, Fox News, CBS, Foreign Policy (Witkoff/Kushner); PressTV 4 Mar, MS NOW.
 
-<p><em>(none)</em></p></section>
-
-<section aria-label="Sources"><p><strong>Sources:</strong></p>
-<p>Pattern 12 Run 1; CNN, NPR, Al Jazeera, NYT, Sun-Sentinel, ANI, AP, Tribune, Sputnik, Reuters, China Daily, China.org.cn, FMPRC, Times of Israel, MoneyControl, AA; Al Jazeera 3 Mar 2026 (Oman FM); VINnews, Fox News, CBS, Foreign Policy (Witkoff/Kushner); PressTV 4 Mar, MS NOW.
-
----</p></section>
+---</p></div></div>
+</div><script>
+(function(){
+  var bar=document.querySelector('.tab-bar');
+  var panels=document.querySelectorAll('.tab-panel');
+  if(!bar||!panels.length)return;
+  bar.addEventListener('click',function(e){
+    var btn=e.target.closest('button[data-tab]');
+    if(!btn)return;
+    var id=btn.dataset.tab;
+    bar.querySelectorAll('button').forEach(function(b){b.classList.toggle('active',b===btn);});
+    panels.forEach(function(p){p.classList.toggle('active',p.dataset.tabPanel===id);});
+  });
+})();
+</script>
+</main>
 </article>
 </body>
 </html>
