@@ -20,7 +20,7 @@
   nav.page-nav { flex-shrink: 0; font-size: 0.85rem; padding: 0.25rem 0; }
   nav.page-nav a { color: #1565c0; text-decoration: none; }
   nav.page-nav a:hover { text-decoration: underline; }
-  nav.tab-bar { display: flex; flex-wrap: wrap; gap: 0.25rem; padding: 0.5rem 0; border-bottom: 1px solid #ddd; background: #fff; }
+  nav.tab-bar { display: flex; flex-direction: column; gap: 0.25rem; padding: 0.5rem 0; border-bottom: 1px solid #ddd; background: #fff; }
   nav.tab-bar button { padding: 0.4rem 0.75rem; font-size: 0.9rem; font-weight: 500; border: 1px solid #e0e0e0; border-radius: 4px; background: #f5f5f5; color: #333; cursor: pointer; }
   nav.tab-bar button:hover { background: #eee; border-color: #ccc; }
   nav.tab-bar button.active { background: #1565c0; color: #fff; border-color: #1565c0; }
@@ -95,7 +95,6 @@
   </div>
   <span class="header-flag" aria-hidden="true">🇺🇸</span>
 </header>
-<nav class="page-nav"><a href="prelude.html">Prelude</a> · <a href="day-10.html">← Day 10</a></nav>
 <main class="page-main">
 <div class="predictions-layout">
         <aside class="predictions-sidebar" aria-label="Expert list"><button type="button" class="expert-tile active" data-expert="alexander-mercouris" aria-pressed="true">
@@ -234,5 +233,6 @@
       });
     });
   })();</script>
+<script>(function(){var PAGES=['prelude.html','day-1.html','day-2.html','day-3.html','day-4.html','day-5.html','day-6.html','day-7.html','day-8.html','day-9.html','day-10.html','predictions.html'];var path=window.location.pathname;var current=path.slice(path.lastIndexOf('/')+1)||path;var idx=PAGES.indexOf(current);if(idx===-1)return;document.addEventListener('keydown',function(e){if(document.activeElement&&/INPUT|TEXTAREA|SELECT/.test(document.activeElement.tagName))return;if(e.key==='ArrowLeft'&&idx>0){e.preventDefault();window.location.href=PAGES[idx-1];}if(e.key==='ArrowRight'&&idx<PAGES.length-1){e.preventDefault();window.location.href=PAGES[idx+1];}});})();</script>
 </body>
 </html>

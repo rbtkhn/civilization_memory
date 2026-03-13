@@ -1,0 +1,16 @@
+---
+description: When refining design or other preferences with the user, ask one question at a time and wait for the answer before asking the next.
+alwaysApply: true
+---
+
+# Preference Refinement — One Question at a Time
+
+When the user is **refining design preferences**, **UI preferences**, or **other choices** (e.g. for the Iran War Chronicle site, or any “how do you want it?” style discussion):
+
+1. **Ask one question at a time.** Use a single multiple-choice or yes/no question per turn.
+2. **Wait for the user’s answer** before asking the next question.
+3. **Do not list many questions in one message.** If you have several options to clarify, pick the most important one first, then continue with the next after the user replies.
+
+This applies when the conversation is clearly about preference discovery or design refinement (e.g. “ask me questions to refine your understanding,” “what do I prefer for X?”). It does not override other rules (e.g. options menus in SCHOLAR/STATE) when those modes are active.
+
+Reference: User request (Mar 2026) — one-at-a-time preference questions; Cursor rule to enforce it.
