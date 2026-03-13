@@ -8,30 +8,28 @@ Last Update: 10 March 2026
 ────────────────────────────────────────────────────────────
 SESSION PRIORITY OBJECTIVE (MUTABLE — UPDATE WHEN DONE OR SUPERSEDED)
 ────────────────────────────────────────────────────────────
-**STATE–PERSIA IRAN WAR (March 2026):** Continue STATE–PERSIA Iran war analysis. Entity: Iran/Persia. Mode: STATE. Primary file: content/civilizations/PERSIA/CIV–STATE–PERSIA.md.
+**STATE–PERSIA — TODAY’S NEWS (10 Mar 2026):** Begin from **content/civilizations/PERSIA/STATE–SESSION–BOOTSTRAP.md** (session starter: load order, copy-paste prompt, today’s-news checklist). Entity: Iran/Persia. Mode: STATE. Primary file: **CIV–STATE–PERSIA.md**; bootstrap: **STATE–SESSION–BOOTSTRAP.md**.
 
-**Context (last STATE session, ~7–9 Mar 2026):** War ~10 days in (started 1 Mar). Key sources integrated: Mercouris 5 Mar, 7 Mar, 9 Mar; Jiang 7 Mar + GT11; Davis–Ritter; Baud; Crooke; Davis; Larry Johnson; Martyanov; Mercouris energy panel. Pattern 12 Runs 1–6; Iran Decision Tracker Runs 1–5. M–J 1 triggered (Qatar force majeure 4 Mar, Brent >$100, Run 5; Brent $119.50 peak 9 Mar, Run 6). Gulf buffer logic, Soviet-style diplomatic tactic, relocation asymmetry, Iran calibration (proportional/reciprocal—no Israeli desalination; Khosrow risk chiefly Gulf). GT11-5 (Al-Aqsa), GT11-6 (no tactical nukes). RELAY and TRANSFER to SCHOLAR applied 7 Mar.
+**Context (war phase, ~10 days from 1 Mar):** Pattern 12 Runs 1–6; Iran Decision Tracker Runs 1–5; M–J 1 triggered (Qatar force majeure, Brent stress; ~4-week window from ~4 Mar). Last STATE close: Carrhae/Khosrow vs US target-set; Run 7 pending when triggers fire. ARC multi-category required for any factual claim on today’s flow.
 
-**Intervening session (9 Mar):** Iran War Chronicle refinements—Prelude rewrite (moral framing), MIND voice assignment (Mercouris Narrative/History, Barnes Politics/Economy, Mearsheimer Military/Strategy), predictions page (expert tiles), cursor rule cmc-chronicle-mind-voice.mdc. Chronicle and STATE are separate artifacts; new STATE session does not need Chronicle context unless user invokes it.
-
-**Key STATE content (Section VII):** Pattern 12 Runs 1–6; Pattern 13 (Jiang GT9–GT11, Baud, Gulf buffer logic, Soviet-style tactic); Davis–Ritter DR-1 to DR-9; Iran Decision Tracker Runs 1–5; Relocation asymmetry; Iran calibration interpretation. Section VI: Mar 2026 stability indicators. Section IV: discriminating evidence for Options A, B, C.
-
-**To continue:** Run Pattern 12 Run 7 when triggers occur; re-run Iran Decision Tracker Run 6; run M–J discrimination when material stress/Gulf/Congress triggers; apply options A–H; relay to scholar if user approves.
+**To continue this session:** Ingest today’s headlines/statements/markets; ARC-attribute + contradict; MEM-grounded parallel; Pattern 12 Run 7 + Decision Tracker if discriminators move; options A–H + activity menu. Transfer to STATE file only on explicit user approval.
 
 **EXPLORATION (later):** Fork project—preserve file structure + MEM CONNECTIONS; clear narrative; regenerate from new corpus. See prior session.
 
 ────────────────────────────────────────────────────────────
 TRANSITION FOR NEW AGENT SESSION (STATE–PERSIA)
 ────────────────────────────────────────────────────────────
-When starting a **new conversation** for STATE–PERSIA:
+When starting a **new conversation** for STATE–PERSIA (especially **today’s news**):
 
-1. **Load** CIV–CORE–PERSIA, CIV–STATE–PERSIA, CIV–SCHOLAR–PERSIA (if present).
-2. **MEM SCAN:** Read MEM–RELEVANCE–PERSIA if it exists; else use CIV–INDEX–PERSIA and Section VII as fallback. Load 2+ primary MEMs from relevant dimensions.
-3. **Read** CIV–STATE–PERSIA Section VII (Pattern 12 Runs, Pattern 13, Iran Decision Tracker) for latest runs. Read Section IV (Material Options) and Section VI (Stability Indicators).
-4. **Present** 8 options (A–H) and activity menu. Anchor to current issues (ceasefire path, M–J 1, Iran calibration, Gulf pivot, etc.).
-5. **Inference:** "Iran update," "STATE Persia," "Continue Iran war analysis" → STATE mode, entity PERSIA.
+1. **Open** `content/civilizations/PERSIA/STATE–SESSION–BOOTSTRAP.md` — session anchor date, copy-paste entry prompt, checklist.
+2. **Load** CIV–CORE–PERSIA, CIV–STATE–PERSIA, CIV–SCHOLAR–PERSIA, **CIV–ARC–PERSIA** (today’s evidence).
+3. **MEM SCAN:** MEM–RELEVANCE–PERSIA if it exists; else CIV–INDEX–PERSIA + Section VII; **2+ primary MEMs** + CONNECTIONS.
+4. **Read** STATE Section VII (Pattern 12, Decision Tracker), Section IV, Section VI.
+5. **Present** 8 options (A–H) + activity menu; anchor to **what changed today** vs 9–10 Mar baseline.
 
-**NEXT SESSION (user intent):** Continue **STATE–PERSIA Iran War analysis**. Entity: Iran/Persia. Mode: STATE. Resume in a new conversation with STATE–PERSIA as the session priority.
+**Inference:** "Iran update," "STATE Persia," "Persia today," "Continue Iran war analysis" → STATE, entity PERSIA; prefer bootstrap file as first load.
+
+**NEXT SESSION (user intent):** **STATE–PERSIA today’s news** using **STATE–SESSION–BOOTSTRAP.md** + CIV–STATE–PERSIA.
 
 **Other (later):** Refine **France–Germany double-helix** (CONCEPT–FRANCE–GERMANY–DOUBLE–HELIX; connector MEMs; citation rules when both influence). Continue refining **linkage between Islam and Rome** (double-helix concept, connector MEMs, STATE/SCHOLAR/LEARN integration).
 
