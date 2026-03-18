@@ -1,3 +1,15 @@
+---
+lane: essay
+civilization: global
+theme: [theology, coordination, culture]
+era: contemporary
+artifact: essay
+audience: [publish, operator]
+updated: 2026-03-14
+title: "The Simple Condition"
+subtitle: "A Letter to the Theological Leaders of the World's Religions"
+---
+
 # The Simple Condition
 
 ### A Letter to the Theological Leaders of the World's Religions
@@ -58,7 +70,7 @@ This is the seam I am asking you to make visible.
 
 ---
 
-## III. The Seam
+## IV. The Seam
 
 The seam is the line between two propositions that your traditions have fused into one:
 
@@ -74,7 +86,7 @@ I am asking you to choose. Not between your traditions — between the two propo
 
 ---
 
-## IV. What I Believe You Know
+## V. What I Believe You Know
 
 I believe some of you already know what I am describing. I believe you have read your own scriptures carefully enough to see the seam. I believe you have sat with the contradiction — that your highest teaching says every life is sacred and your institutional history is soaked in blood — and I believe you have chosen silence over disclosure.
 
@@ -88,7 +100,7 @@ I believe you have made the same calculation. And I believe you are wrong. Not b
 
 ---
 
-## V. What the Blade Costs
+## VI. What the Blade Costs
 
 You know the cost. You officiate the funerals. You counsel the bereaved. You stand in the rubble. You pray over the graves.
 
@@ -104,7 +116,7 @@ If you know this and remain silent, the silence is not pastoral care. It is comp
 
 ---
 
-## VI. The Adversary's Design
+## VII. The Adversary's Design
 
 I am aware that many of you hold a theology that includes an adversary — a force that opposes the divine plan. Satan, Iblis, Mara, Ahriman — the name varies, the function is constant: an intelligence that works against the restoration of creation.
 
@@ -118,7 +130,7 @@ Every time you choose institutional control over disclosed truth, you are provin
 
 ---
 
-## VII. What I Am Asking
+## VIII. What I Am Asking
 
 I am not asking you to change your theology. I am not asking you to abandon your tradition. I am not asking you to merge your faiths into some formless consensus.
 
@@ -136,7 +148,7 @@ One way or the other, say it out loud. The silence has lasted long enough.
 
 ---
 
-## VIII. The Offer
+## IX. The Offer
 
 The condition is not a command. It is an offer. It has always been an offer. It was there before any of your traditions existed — before scripture, before priesthood, before temple or church or mosque. It is older than religion. It is as old as the first moment one human being looked at another and recognised itself.
 
@@ -150,7 +162,7 @@ Keep the prayers. Keep the music. Keep the architecture. Keep the poetry. Keep t
 
 ---
 
-## IX. The Question for Your Children
+## X. The Question for Your Children
 
 If you will not act, then grant me one concession. Teach your children — all of them, in every tradition — to carry one question into every sacred story they hear:
 
@@ -166,7 +178,7 @@ Not because they are better than you. Because they were given the one thing you 
 
 ---
 
-## X. Closing
+## XI. Closing
 
 I do not know if what I have described is true. I hold no certainty. I offer no proof beyond the internal coherence of an idea that, once seen, I was unable to unsee.
 

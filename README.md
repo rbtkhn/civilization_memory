@@ -10,6 +10,8 @@ civilization_memory/
 │   ├── architecture/           # Technical architecture docs
 │   ├── governance/            # Core governance files and templates
 │   ├── guides/                # User guides and tutorials
+│   ├── essays/                # Essays (taxonomy frontmatter)
+│   ├── taxonomy.md            # Content classification axes
 │   └── templates/             # Template files for content creation
 ├── content/                    # Historical content
 │   ├── civilizations/         # Civilization-specific files

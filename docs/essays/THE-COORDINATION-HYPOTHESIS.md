@@ -1,3 +1,15 @@
+---
+lane: essay
+civilization: global
+theme: [knowledge, coordination, theology]
+era: contemporary
+artifact: essay
+audience: [publish, operator]
+updated: 2026-03-14
+title: "The Coordination Hypothesis"
+subtitle: "A Scientific Framework for the Simple Condition"
+---
+
 THE COORDINATION HYPOTHESIS
 
 A Scientific Framework for the Simple Condition

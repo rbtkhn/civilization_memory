@@ -14,6 +14,8 @@
 ```
 civilization_memory/
 ├── docs/                       # All documentation
+│   ├── taxonomy.md             # Content axes (lane, theme, civilization, …)
+│   └── essays/                 # Essays with YAML frontmatter (pilots)
 ├── content/                    # Historical content
 │   ├── civilizations/          # Civilization-specific files
 │   ├── scholar/               # Learning accumulations

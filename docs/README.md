@@ -8,6 +8,8 @@ This directory contains all documentation for the Civilization Memory Codex (CMC
 - **governance/**: Core governance rules, file taxonomy, and system constraints
 - **guides/**: User guides, tutorials, and demonstrations
 - **templates/**: File templates for creating new content
+- **essays/**: Long-form essays (YAML frontmatter; see [taxonomy.md](taxonomy.md))
+- **[taxonomy.md](taxonomy.md)**: Axes: `lane`, `civilization`, `theme`, `era`, `artifact`, `audience`
 
 ## Key Documents
 
@@ -18,6 +20,9 @@ This directory contains all documentation for the Civilization Memory Codex (CMC
 ### Architecture
 - [ARCHITECTURE.md](architecture/ARCHITECTURE.md): System architecture and design
 - [SCHOLAR_MODE_ARCHITECTURE.md](architecture/SCHOLAR_MODE_ARCHITECTURE.md): Scholar mode implementation
+
+### Taxonomy
+- [taxonomy.md](taxonomy.md): How to tag essays and MEMs for search and retrieval
 
 ### Guides
 - [REPOSITORY_STRUCTURE.md](guides/REPOSITORY_STRUCTURE.md): Repository organization guide

@@ -10,6 +10,14 @@ Class: MEM (Civilizational Memory)
 Last Updated: February 2026
 Word Count: ~2,200
 
+Taxonomy (optional — [docs/taxonomy.md](../../../docs/taxonomy.md)):
+  lane: state
+  civilization: russia
+  theme: [theology, power, culture]
+  era: early_modern, modern
+  artifact: ledger
+  audience: [operator, publish]
+
 Governed by:
 • CIV–MEM–CORE v3.0
 • CIV–MEM–TEMPLATE v3.0
